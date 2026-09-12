@@ -6,12 +6,6 @@ A living survey grown from the published work of Niyati Bafna
 
 **22** in Core · **25** Recs · updated 2026-09-12
 
-> **How to read this page.**
-> **Core** is what this survey contains; **Recs** is what to read next, found automatically by following citations. Only the top 10 of each is shown here, linked to the full lists.
-> **Score** is 0 to 100 and says how tied into this survey a paper is, relative to the most connected one in its own list. It drives the default order.
-> In Recs, **Why** says how a paper turned up: *cites N here*, newer work building on N of these; *cited by N here*, older work N of these rest on; *from ...*, the bibliography of a survey used as a seed.
-> Column headings are links: click one to open the same list sorted that way.
-
 ## Core
 
 The papers in this survey.
@@ -64,6 +58,7 @@ The papers in this survey.
 
 ### Want your own living survey?
 
-Click **Use this template**, name your repo, and overwrite [`import/papers.txt`](import/papers.txt) with your papers, and you get the table above plus ✨ daily reading suggestions mined from the citation graph, with no site to host and no API keys. Details in [SETUP.md](SETUP.md).
+Click **Use this template**, add your papers, and a daily GitHub Action keeps
+the tables above up to date. No hosting, no API keys. See **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
 <!-- TEMPLATE-FOOTER:END -->

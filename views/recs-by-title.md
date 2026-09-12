@@ -2,7 +2,7 @@
 
 Papers suggested automatically from the citation graph.
 
-**0** papers, sorted by **Paper**. Click any other column heading to sort by it.
+**25** papers, sorted by **Paper**. Click any other column heading to sort by it.
 
 | # | Paper &#9650; | Venue | [Year](recs-by-year.md) | [Cited by](recs-by-citations.md) | [Score](recs-by-score.md) | Why |
 | ---: | --- | --- | ---: | ---: | ---: | --- |
