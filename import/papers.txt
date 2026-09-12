@@ -6,25 +6,3 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
-https://www.semanticscholar.org/paper/41c3acd6b81b746279f0dbb0f4052d8bef9f1c95
-https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0
-https://www.semanticscholar.org/paper/90773e1251c7f1841320f4e6ebf2bf3df8dedc71
-https://www.semanticscholar.org/paper/ddb65d1ec1705f5005a96d23295a4b5776b1d121
-https://www.semanticscholar.org/paper/e8016f43554d8dd4a72e2e494f608dc97eed48cb
-https://www.semanticscholar.org/paper/17602dceab79d04840b39c32f6f9ab77a3ae6228
-https://www.semanticscholar.org/paper/4417c8641f69062c46649f39e44c16c619481036
-https://www.semanticscholar.org/paper/591332975662dea00ecf8e0fb6820bb0974164e8
-https://www.semanticscholar.org/paper/93d922de12f6bf786420281e359a190fbcbf0784
-https://www.semanticscholar.org/paper/c985adb25b3586182c21dc61e87211279ae969c6
-https://www.semanticscholar.org/paper/f91f2a1d5fde217161c9ba2c59fefe796f1fc160
-https://www.semanticscholar.org/paper/68380754d46c99d1b86d26a70040ddf499b7b486
-https://www.semanticscholar.org/paper/7d25ef700d8a779a9034340f9b0b179b374f7ef8
-https://www.semanticscholar.org/paper/cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9
-https://www.semanticscholar.org/paper/e0a4053a8ba5883d6a3f06dae43e32bfde610c61
-https://www.semanticscholar.org/paper/ffa62b841c97ed258079cc68a5eff1b830d527b6
-https://www.semanticscholar.org/paper/4328a6ad84517306e4c8d423c94690ade44c196b
-https://www.semanticscholar.org/paper/4c634317136f6ce4fd18e5aa176ddf91ea5be0f1
-https://www.semanticscholar.org/paper/c3103c6d21b6d11feb1011e9674be50789c8ae3e
-https://www.semanticscholar.org/paper/2c3108bcbf4817e62e3457c5ae8caf9c1d6954a7
-https://www.semanticscholar.org/paper/9e69660130d126b14118510dfb4a8a5c876ebc08
-https://www.semanticscholar.org/paper/b7b7d273f6bfe60b8c98d0b367d2d5c2fb5cbf88
