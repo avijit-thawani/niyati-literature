@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:09:21.585Z",
+  "updatedAt": "2026-09-12T23:45:50.140Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -27,7 +27,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 4 here",
+      "why": "cited by 4 in Core",
       "fromReferences": false
     },
     {
@@ -56,7 +56,7 @@
       "overlap": 2,
       "direction": "forward",
       "score": 100,
-      "why": "cites 2 here",
+      "why": "cites 2 in Core",
       "fromReferences": false
     },
     {
@@ -97,7 +97,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 75,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -125,7 +125,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 71.23058506323005,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -153,7 +153,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 61.46098007032521,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -179,7 +179,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 59.52128460484947,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -204,7 +204,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 58.3653427126025,
-      "why": "cited by 4 here",
+      "why": "cited by 4 in Core",
       "fromReferences": false
     },
     {
@@ -229,7 +229,7 @@
       "overlap": 6,
       "direction": "backward",
       "score": 57.83522950681645,
-      "why": "cited by 6 here",
+      "why": "cited by 6 in Core",
       "fromReferences": false
     },
     {
@@ -291,7 +291,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 55.84456556659831,
-      "why": "cited by 4 here",
+      "why": "cited by 4 in Core",
       "fromReferences": false
     },
     {
@@ -318,7 +318,7 @@
       "overlap": 5,
       "direction": "backward",
       "score": 54.11422419254283,
-      "why": "cited by 5 here",
+      "why": "cited by 5 in Core",
       "fromReferences": false
     },
     {
@@ -345,7 +345,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 51.16953608761185,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -374,7 +374,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 50.906664971731175,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -401,7 +401,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 49.77786452815094,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -431,7 +431,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 47.93093816814689,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -460,7 +460,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 47.48705670882003,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -485,7 +485,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 44.05850869580793,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -512,7 +512,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 41.92789096212891,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -541,7 +541,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 39.981503334268574,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -572,7 +572,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 39.94794969349002,
-      "why": "cited by 4 here",
+      "why": "cited by 4 in Core",
       "fromReferences": false
     },
     {
@@ -613,7 +613,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 39.79923960696816,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -642,7 +642,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 39.49127810637854,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     },
     {
@@ -705,7 +705,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 38.64242451390046,
-      "why": "cited by 4 here",
+      "why": "cited by 4 in Core",
       "fromReferences": false
     },
     {
@@ -732,7 +732,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 38.47615616173128,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -759,7 +759,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 38.005358021829366,
-      "why": "cited by 2 here",
+      "why": "cited by 2 in Core",
       "fromReferences": false
     },
     {
@@ -786,7 +786,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 37.710293562391875,
-      "why": "cited by 3 here",
+      "why": "cited by 3 in Core",
       "fromReferences": false
     }
   ]
