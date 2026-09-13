@@ -27,7 +27,7 @@ The papers in this survey.
 
 ## ✨ Recs
 
-<sub>Found by following the citation graph — a deterministic algorithm you can tune, not an LLM. Refreshed daily. Use the **Decide** column to accept or reject one.</sub>
+<sub>Found by following the citation graph — a deterministic algorithm you can tune, not an LLM. Recent work comes first (the **Why** column says how recent), then the rest by Score. Refreshed daily. Use the **Decide** column to accept or reject one.</sub>
 
 | # | [Paper](views/recs-by-title.md) | Venue | [Year](views/recs-by-year.md) | [Cited by](views/recs-by-citations.md) | Score &#9660; | Why | Decide |
 | ---: | --- | --- | ---: | ---: | ---: | --- | --- |
