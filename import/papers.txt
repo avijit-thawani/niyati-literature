@@ -5,4 +5,4 @@
 #
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
-
+https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c    # An Approach towards Construction and Application of Multilingual Indo-WordNet
