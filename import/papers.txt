@@ -5,4 +5,4 @@
 #
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
-
+https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb    # A Simple, Fast, and Effective Reparameterization of IBM Model 2
