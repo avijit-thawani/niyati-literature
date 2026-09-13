@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:21:54.645Z",
+  "updatedAt": "2026-09-13T02:32:39.541Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -132,7 +132,9 @@
       "direction": "backward",
       "score": 71.23058506323005,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/4",
+      "prNumber": 4
     },
     {
       "id": "1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
@@ -160,7 +162,9 @@
       "direction": "backward",
       "score": 61.46098007032521,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/5",
+      "prNumber": 5
     },
     {
       "id": "7bc56b12f55e144738d9a04b4b7968f5bb053726",
@@ -186,7 +190,9 @@
       "direction": "backward",
       "score": 59.52128460484947,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/6",
+      "prNumber": 6
     },
     {
       "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
@@ -211,7 +217,9 @@
       "direction": "backward",
       "score": 58.3653427126025,
       "why": "cited by 4 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/7",
+      "prNumber": 7
     },
     {
       "id": "285c165c81fc9275955147a892b9a039ec8b1052",
@@ -236,7 +244,9 @@
       "direction": "backward",
       "score": 57.83522950681645,
       "why": "cited by 6 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/8",
+      "prNumber": 8
     },
     {
       "id": "7f5331294fe5e94f145a7129efac50b801099aa1",
@@ -298,7 +308,9 @@
       "direction": "backward",
       "score": 55.84456556659831,
       "why": "cited by 4 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/9",
+      "prNumber": 9
     },
     {
       "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
@@ -325,7 +337,9 @@
       "direction": "backward",
       "score": 54.11422419254283,
       "why": "cited by 5 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/10",
+      "prNumber": 10
     },
     {
       "id": "4c01dfec69f5d55daae00b668665e94eb9da7f39",
@@ -352,7 +366,9 @@
       "direction": "backward",
       "score": 51.16953608761185,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/11",
+      "prNumber": 11
     },
     {
       "id": "3a1a9ef603fd245fd9732064e5756efc82c797b1",
@@ -381,7 +397,9 @@
       "direction": "backward",
       "score": 50.906664971731175,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/12",
+      "prNumber": 12
     },
     {
       "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
@@ -408,7 +426,9 @@
       "direction": "backward",
       "score": 49.77786452815094,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/13",
+      "prNumber": 13
     },
     {
       "id": "fbf7c1386a188157cdee15e92a5b193ab17d68a7",
@@ -438,7 +458,9 @@
       "direction": "backward",
       "score": 47.93093816814689,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/14",
+      "prNumber": 14
     },
     {
       "id": "0120013722911f28716f520f6c2bc535ce09851f",
@@ -467,7 +489,9 @@
       "direction": "backward",
       "score": 47.48705670882003,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/15",
+      "prNumber": 15
     },
     {
       "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
@@ -492,7 +516,9 @@
       "direction": "backward",
       "score": 44.05850869580793,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/16",
+      "prNumber": 16
     },
     {
       "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
@@ -519,7 +545,9 @@
       "direction": "backward",
       "score": 41.92789096212891,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/17",
+      "prNumber": 17
     },
     {
       "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
@@ -548,7 +576,9 @@
       "direction": "backward",
       "score": 39.981503334268574,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/18",
+      "prNumber": 18
     },
     {
       "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
@@ -579,7 +609,9 @@
       "direction": "backward",
       "score": 39.94794969349002,
       "why": "cited by 4 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/19",
+      "prNumber": 19
     },
     {
       "id": "2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
@@ -620,7 +652,9 @@
       "direction": "backward",
       "score": 39.79923960696816,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/20",
+      "prNumber": 20
     },
     {
       "id": "780c99d13537370f63c03feeb1343bed9d98a4f9",
@@ -649,7 +683,9 @@
       "direction": "backward",
       "score": 39.49127810637854,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/21",
+      "prNumber": 21
     },
     {
       "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
@@ -712,7 +748,9 @@
       "direction": "backward",
       "score": 38.64242451390046,
       "why": "cited by 4 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/22",
+      "prNumber": 22
     },
     {
       "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
@@ -739,7 +777,9 @@
       "direction": "backward",
       "score": 38.47615616173128,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/23",
+      "prNumber": 23
     },
     {
       "id": "4190a06408f029ae46d8a9656df20f9e17ce7e03",
