@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:32:39.541Z",
+  "updatedAt": "2026-09-13T09:36:40.330Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -553,7 +553,7 @@
       "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
       "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models",
       "authors": [
-        "Chaoqun Liu",
+        "Chao-Qun Liu",
         "Wenxuan Zhang",
         "Yiran Zhao",
         "A. Lưu",
@@ -806,7 +806,9 @@
       "direction": "backward",
       "score": 38.005358021829366,
       "why": "cited by 2 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/24",
+      "prNumber": 24
     },
     {
       "id": "1b560f892432fb853d233c92f9294640bc91de3c",
@@ -833,7 +835,9 @@
       "direction": "backward",
       "score": 37.710293562391875,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/25",
+      "prNumber": 25
     }
   ]
 }
