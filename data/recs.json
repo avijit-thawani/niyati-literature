@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T22:25:39.316Z",
+  "updatedAt": "2026-09-13T22:30:08.656Z",
   "recs": [
     {
       "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
@@ -27,9 +27,9 @@
       "overlap": 2,
       "direction": "forward",
       "score": 100,
-      "why": "past 6 months · cites 2 in Core",
+      "why": "past year · cites 2 in Core",
       "fromReferences": false,
-      "freshWindow": "past 6 months",
+      "freshWindow": "past year",
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/2",
       "prNumber": 2
     },
