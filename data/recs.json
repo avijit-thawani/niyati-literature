@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T15:56:36.628Z",
+  "updatedAt": "2026-09-14T16:29:32.702Z",
   "recs": [
     {
       "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
@@ -27,7 +27,7 @@
       "overlap": 2,
       "direction": "forward",
       "score": 100,
-      "why": "past year · cites 2 in Core",
+      "why": "past year · cites 2 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/2",
@@ -59,7 +59,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 100,
-      "why": "cited by 4 in Core",
+      "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/1",
       "prNumber": 1
@@ -102,7 +102,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 75,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/3",
       "prNumber": 3
@@ -132,7 +132,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 71.23058506323005,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/4",
       "prNumber": 4
@@ -162,7 +162,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 61.46098007032521,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/5",
       "prNumber": 5
@@ -190,7 +190,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 59.52128460484947,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/6",
       "prNumber": 6
@@ -217,7 +217,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 58.3653427126025,
-      "why": "cited by 4 in Core",
+      "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/7",
       "prNumber": 7
@@ -244,7 +244,7 @@
       "overlap": 6,
       "direction": "backward",
       "score": 57.83522950681645,
-      "why": "cited by 6 in Core",
+      "why": "cited by 6 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/8",
       "prNumber": 8
@@ -308,7 +308,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 55.84456556659831,
-      "why": "cited by 4 in Core",
+      "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/9",
       "prNumber": 9
@@ -337,7 +337,7 @@
       "overlap": 5,
       "direction": "backward",
       "score": 54.11422419254283,
-      "why": "cited by 5 in Core",
+      "why": "cited by 5 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/10",
       "prNumber": 10
@@ -366,7 +366,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 51.16953608761185,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/11",
       "prNumber": 11
@@ -397,7 +397,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 50.906664971731175,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/12",
       "prNumber": 12
@@ -426,7 +426,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 49.77786452815094,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/13",
       "prNumber": 13
@@ -458,7 +458,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 47.93093816814689,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/14",
       "prNumber": 14
@@ -489,7 +489,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 47.48705670882003,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/15",
       "prNumber": 15
@@ -516,7 +516,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 44.05850869580793,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/16",
       "prNumber": 16
@@ -545,7 +545,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 41.92789096212891,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/17",
       "prNumber": 17
@@ -576,7 +576,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 39.981503334268574,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/18",
       "prNumber": 18
@@ -601,7 +601,7 @@
       "doi": "10.18653/v1/D18-1269",
       "arxivId": "1809.05053",
       "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
-      "citationCount": 1671,
+      "citationCount": 1672,
       "referenceCount": 65,
       "influentialCitationCount": 358,
       "source": null,
@@ -609,7 +609,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 39.94794969349002,
-      "why": "cited by 4 in Core",
+      "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/19",
       "prNumber": 19
@@ -652,7 +652,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 39.79923960696816,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/20",
       "prNumber": 20
@@ -683,7 +683,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 39.49127810637854,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/21",
       "prNumber": 21
@@ -748,7 +748,7 @@
       "overlap": 4,
       "direction": "backward",
       "score": 38.64242451390046,
-      "why": "cited by 4 in Core",
+      "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/22",
       "prNumber": 22
@@ -777,7 +777,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 38.47615616173128,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/23",
       "prNumber": 23
@@ -806,7 +806,7 @@
       "overlap": 2,
       "direction": "backward",
       "score": 38.005358021829366,
-      "why": "cited by 2 in Core",
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/24",
       "prNumber": 24
@@ -835,7 +835,7 @@
       "overlap": 3,
       "direction": "backward",
       "score": 37.710293562391875,
-      "why": "cited by 3 in Core",
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/25",
       "prNumber": 25
