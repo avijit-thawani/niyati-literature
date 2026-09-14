@@ -1,54 +1,6 @@
 {
-  "updatedAt": "2026-09-14T18:19:01.187Z",
+  "updatedAt": "2026-09-14T18:21:50.316Z",
   "recs": [
-    {
-      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
-      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties",
-      "authors": [
-        "Jinju Kim",
-        "Haeji Jung",
-        "Youjeong Roh",
-        "Jong Hwan Ko",
-        "David R. Mortensen"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jinju Kim",
-          "hIndex": 3,
-          "authorId": "2385407161"
-        },
-        {
-          "name": "Haeji Jung",
-          "hIndex": 3,
-          "authorId": "2271398435"
-        }
-      ],
-      "affiliations": [
-        "Sungkyunkwan University",
-        "BT Group (United Kingdom)"
-      ],
-      "year": 2026,
-      "venue": "Conference on Computational Natural Language Learning",
-      "publicationDate": "2026-05-06",
-      "summary": "A two-stage Language Generalization framework that focuses on capturing variety-specific cues while also exploiting rich overlap offered by high-resource source variety and a lightweight VACAI-Bowl architecture that learns variety-specific attributes with one branch while a parallel branch captures variety-invariant attributes using adversarial training is proposed.",
-      "url": "https://www.semanticscholar.org/paper/f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
-      "doi": "10.18653/v1/2026.conll-main.17",
-      "arxivId": "2605.04500",
-      "pdf": "https://aclanthology.org/2026.conll-main.17.pdf",
-      "citationCount": 0,
-      "referenceCount": 54,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "forward",
-      "score": 94.40459651747217,
-      "why": "past year · cites 2 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26
-    },
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
       "title": "Linguistic Resources for Bhojpuri, Magahi, and Maithili: Statistics about Them, Their Similarity Estimates, and Baselines for Three Applications",
@@ -92,6 +44,53 @@
       "direction": "backward",
       "score": 100,
       "why": "cited by 4 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27
+    },
+    {
+      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
+      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties",
+      "authors": [
+        "Jinju Kim",
+        "Haeji Jung",
+        "Youjeong Roh",
+        "Jong Hwan Ko",
+        "David R. Mortensen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jinju Kim",
+          "hIndex": 3,
+          "authorId": "2385407161"
+        },
+        {
+          "name": "Haeji Jung",
+          "hIndex": 3,
+          "authorId": "2271398435"
+        }
+      ],
+      "affiliations": [
+        "Sungkyunkwan University",
+        "BT Group (United Kingdom)"
+      ],
+      "year": 2026,
+      "venue": "Conference on Computational Natural Language Learning",
+      "publicationDate": "2026-05-06",
+      "summary": "A two-stage Language Generalization framework that focuses on capturing variety-specific cues while also exploiting rich overlap offered by high-resource source variety and a lightweight VACAI-Bowl architecture that learns variety-specific attributes with one branch while a parallel branch captures variety-invariant attributes using adversarial training is proposed.",
+      "url": "https://www.semanticscholar.org/paper/f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
+      "doi": "10.18653/v1/2026.conll-main.17",
+      "arxivId": "2605.04500",
+      "pdf": "https://aclanthology.org/2026.conll-main.17.pdf",
+      "citationCount": 0,
+      "referenceCount": 54,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 94.40459651747217,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27
