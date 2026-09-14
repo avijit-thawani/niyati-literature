@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:21:50.316Z",
+  "updatedAt": "2026-09-14T18:30:02.926Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -46,7 +46,8 @@
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
@@ -93,7 +94,8 @@
       "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "e310137501ec7e91e4b3d6fbc85da3c15edb9855",
@@ -152,7 +154,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "dc6f2dc99181026a8d5a07fd403393d307d5fd8d",
@@ -197,7 +200,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
@@ -242,7 +246,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "7bc56b12f55e144738d9a04b4b7968f5bb053726",
@@ -283,7 +288,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "285c165c81fc9275955147a892b9a039ec8b1052",
@@ -320,7 +326,8 @@
       "why": "cited by 6 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
@@ -365,7 +372,8 @@
       "why": "cited by 5 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "7f5331294fe5e94f145a7129efac50b801099aa1",
@@ -445,7 +453,8 @@
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
@@ -482,7 +491,8 @@
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "3a1a9ef603fd245fd9732064e5756efc82c797b1",
@@ -528,7 +538,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "4c01dfec69f5d55daae00b668665e94eb9da7f39",
@@ -570,7 +581,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "fbf7c1386a188157cdee15e92a5b193ab17d68a7",
@@ -618,7 +630,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
@@ -663,7 +676,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "0120013722911f28716f520f6c2bc535ce09851f",
@@ -707,7 +721,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
@@ -749,7 +764,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
@@ -787,7 +803,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
@@ -831,7 +848,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
@@ -880,7 +898,8 @@
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
@@ -939,7 +958,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "780c99d13537370f63c03feeb1343bed9d98a4f9",
@@ -986,7 +1006,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
@@ -1030,7 +1051,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
@@ -1111,7 +1133,8 @@
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "4190a06408f029ae46d8a9656df20f9e17ce7e03",
@@ -1153,7 +1176,8 @@
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     },
     {
       "id": "1b560f892432fb853d233c92f9294640bc91de3c",
@@ -1197,7 +1221,8 @@
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
     }
   ]
 }
