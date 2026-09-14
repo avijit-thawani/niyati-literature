@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T16:41:14.033Z",
+  "updatedAt": "2026-09-14T17:27:22.330Z",
   "recs": [
     {
       "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
@@ -14,14 +14,19 @@
       "topAuthors": [
         {
           "name": "Jinju Kim",
-          "hIndex": 3
+          "hIndex": 3,
+          "authorId": "2385407161"
         },
         {
           "name": "Haeji Jung",
-          "hIndex": 3
+          "hIndex": 3,
+          "authorId": "2271398435"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Sungkyunkwan University",
+        "BT Group (United Kingdom)"
+      ],
       "year": 2026,
       "venue": "Conference on Computational Natural Language Learning",
       "publicationDate": "2026-05-06",
@@ -37,7 +42,7 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "forward",
-      "score": 100,
+      "score": 94.40459651747217,
       "why": "past year · cites 2 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -57,14 +62,19 @@
       "topAuthors": [
         {
           "name": "Anil Kumar Singh",
-          "hIndex": 16
+          "hIndex": 16,
+          "authorId": "2111006735"
         },
         {
           "name": "S. Mishra",
-          "hIndex": 9
+          "hIndex": 9,
+          "authorId": "10912182"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Indian Institute of Technology BHU",
+        "Samsung (India)"
+      ],
       "year": 2020,
       "venue": "ACM Trans. Asian Low Resour. Lang. Inf. Process.",
       "publicationDate": "2020-04-29",
@@ -111,11 +121,13 @@
       "topAuthors": [
         {
           "name": "M. Costa-jussà",
-          "hIndex": 36
+          "hIndex": 36,
+          "authorId": "1398996347"
         },
         {
           "name": "Mikel Artetxe",
-          "hIndex": 34
+          "hIndex": 34,
+          "authorId": "2347956"
         }
       ],
       "affiliations": [
@@ -137,7 +149,7 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 75,
+      "score": 77.25560530830012,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/3",
@@ -155,14 +167,18 @@
       "topAuthors": [
         {
           "name": "Isaac Caswell",
-          "hIndex": 17
+          "hIndex": 17,
+          "authorId": "73769795"
         },
         {
           "name": "Orhan Firat",
-          "hIndex": 10
+          "hIndex": 10,
+          "authorId": "2273534960"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Google (United States)"
+      ],
       "year": 2023,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": null,
@@ -178,7 +194,7 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 71.23058506323005,
+      "score": 71.38803187630751,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/4",
@@ -196,11 +212,13 @@
       "topAuthors": [
         {
           "name": "Chen Zhang",
-          "hIndex": 10
+          "hIndex": 10,
+          "authorId": "2111574159"
         },
         {
           "name": "Yansong Feng",
-          "hIndex": 5
+          "hIndex": 5,
+          "authorId": "2273532365"
         }
       ],
       "affiliations": [
@@ -221,7 +239,7 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 61.46098007032521,
+      "score": 60.42633028492153,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/5",
@@ -237,11 +255,13 @@
       "topAuthors": [
         {
           "name": "Jannis Bulian",
-          "hIndex": 12
+          "hIndex": 12,
+          "authorId": "2362210"
         },
         {
           "name": "Sotiris Anagnostidis",
-          "hIndex": 11
+          "hIndex": 11,
+          "authorId": "2051417741"
         }
       ],
       "affiliations": [],
@@ -260,45 +280,11 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 59.52128460484947,
+      "score": 58.903806070972664,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/6",
       "prNumber": 6
-    },
-    {
-      "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
-      "title": "Decolonising Speech and Language Technology",
-      "authors": [
-        "Steven Bird"
-      ],
-      "topAuthors": [
-        {
-          "name": "Steven Bird",
-          "hIndex": 8
-        }
-      ],
-      "affiliations": [],
-      "year": 2020,
-      "venue": "International Conference on Computational Linguistics",
-      "publicationDate": "2020-12-01",
-      "summary": "This paper reviews colonising discourses in speech and language technology, and suggests new ways of working with Indigenous communities, and seeks to open a discussion of a postcolonial approach to computational methods for supporting language vitality.",
-      "url": "https://www.semanticscholar.org/paper/763a2c057f529bfd3bf417fa60d93b3d5b219068",
-      "doi": "10.18653/V1/2020.COLING-MAIN.313",
-      "arxivId": null,
-      "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 251,
-      "referenceCount": 127,
-      "influentialCitationCount": 29,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 4,
-      "direction": "backward",
-      "score": 58.3653427126025,
-      "why": "cited by 4 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/7",
-      "prNumber": 7
     },
     {
       "id": "285c165c81fc9275955147a892b9a039ec8b1052",
@@ -309,10 +295,13 @@
       "topAuthors": [
         {
           "name": "Maja Popovic",
-          "hIndex": 26
+          "hIndex": 26,
+          "authorId": "2487502"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Humboldt-Universität zu Berlin"
+      ],
       "year": 2015,
       "venue": "WMT@EMNLP",
       "publicationDate": "2015-09-01",
@@ -328,11 +317,56 @@
       "addedAt": "2026-09-14",
       "overlap": 6,
       "direction": "backward",
-      "score": 57.83522950681645,
+      "score": 58.86991263701874,
       "why": "cited by 6 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/8",
       "prNumber": 8
+    },
+    {
+      "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
+      "authors": [
+        "Chris Dyer",
+        "Victor Chahuneau",
+        "Noah A. Smith"
+      ],
+      "topAuthors": [
+        {
+          "name": "Noah A. Smith",
+          "hIndex": 115,
+          "authorId": "144365875"
+        },
+        {
+          "name": "Chris Dyer",
+          "hIndex": 77,
+          "authorId": "1745899"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "Allen Institute for AI"
+      ],
+      "year": 2013,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2013-06-01",
+      "summary": "A simple log-linear reparameterization of IBM Model 2 that overcomes problems arising from Model 1’'s strong assumptions and Model 2’s overparameterization is presented.",
+      "url": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 1118,
+      "referenceCount": 9,
+      "influentialCitationCount": 115,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 5,
+      "direction": "backward",
+      "score": 57.82232703755702,
+      "why": "cited by 5 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/10",
+      "prNumber": 10
     },
     {
       "id": "7f5331294fe5e94f145a7129efac50b801099aa1",
@@ -380,11 +414,13 @@
       "topAuthors": [
         {
           "name": "M. Costa-jussà",
-          "hIndex": 36
+          "hIndex": 36,
+          "authorId": "1398996347"
         },
         {
           "name": "Kenneth Heafield",
-          "hIndex": 34
+          "hIndex": 34,
+          "authorId": "1702066"
         }
       ],
       "affiliations": [
@@ -406,94 +442,48 @@
       "addedAt": "2026-09-14",
       "overlap": 4,
       "direction": "backward",
-      "score": 55.84456556659831,
+      "score": 57.52407621368809,
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/9",
       "prNumber": 9
     },
     {
-      "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
-      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
+      "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
+      "title": "Decolonising Speech and Language Technology",
       "authors": [
-        "Chris Dyer",
-        "Victor Chahuneau",
-        "Noah A. Smith"
+        "Steven Bird"
       ],
       "topAuthors": [
         {
-          "name": "Noah A. Smith",
-          "hIndex": 115
-        },
-        {
-          "name": "Chris Dyer",
-          "hIndex": 77
+          "name": "Steven Bird",
+          "hIndex": 8,
+          "authorId": "2066194290"
         }
       ],
       "affiliations": [
-        "University of Washington",
-        "Allen Institute for AI"
+        "Charles Darwin University"
       ],
-      "year": 2013,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2013-06-01",
-      "summary": "A simple log-linear reparameterization of IBM Model 2 that overcomes problems arising from Model 1’'s strong assumptions and Model 2’s overparameterization is presented.",
-      "url": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
-      "doi": null,
+      "year": 2020,
+      "venue": "International Conference on Computational Linguistics",
+      "publicationDate": "2020-12-01",
+      "summary": "This paper reviews colonising discourses in speech and language technology, and suggests new ways of working with Indigenous communities, and seeks to open a discussion of a postcolonial approach to computational methods for supporting language vitality.",
+      "url": "https://www.semanticscholar.org/paper/763a2c057f529bfd3bf417fa60d93b3d5b219068",
+      "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
-      "pdf": null,
-      "citationCount": 1118,
-      "referenceCount": 9,
-      "influentialCitationCount": 115,
+      "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
+      "citationCount": 251,
+      "referenceCount": 127,
+      "influentialCitationCount": 29,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 5,
+      "overlap": 4,
       "direction": "backward",
-      "score": 54.11422419254283,
-      "why": "cited by 5 in your list",
+      "score": 56.929880781820074,
+      "why": "cited by 4 in your list",
       "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/10",
-      "prNumber": 10
-    },
-    {
-      "id": "4c01dfec69f5d55daae00b668665e94eb9da7f39",
-      "title": "LLMs Are Few-Shot In-Context Low-Resource Language Learners",
-      "authors": [
-        "Samuel Cahyawijaya",
-        "Holy Lovenia",
-        "Pascale Fung"
-      ],
-      "topAuthors": [
-        {
-          "name": "Samuel Cahyawijaya",
-          "hIndex": 26
-        },
-        {
-          "name": "Pascale Fung",
-          "hIndex": 18
-        }
-      ],
-      "affiliations": [],
-      "year": 2024,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2024-03-25",
-      "summary": "The significance of few-shot in-context information on enhancing the low-resource understanding quality of LLMs through semantically relevant information by closing the language gap in the target language and aligning the semantics between the targeted low-resource and the high-resource language that the model is proficient in is concluded.",
-      "url": "https://www.semanticscholar.org/paper/4c01dfec69f5d55daae00b668665e94eb9da7f39",
-      "doi": "10.48550/arXiv.2403.16512",
-      "arxivId": "2403.16512",
-      "pdf": null,
-      "citationCount": 115,
-      "referenceCount": 62,
-      "influentialCitationCount": 2,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 3,
-      "direction": "backward",
-      "score": 51.16953608761185,
-      "why": "cited by 3 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/11",
-      "prNumber": 11
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/7",
+      "prNumber": 7
     },
     {
       "id": "3a1a9ef603fd245fd9732064e5756efc82c797b1",
@@ -508,11 +498,13 @@
       "topAuthors": [
         {
           "name": "Dan Jurafsky",
-          "hIndex": 108
+          "hIndex": 108,
+          "authorId": "1746807"
         },
         {
           "name": "Mirac Suzgun",
-          "hIndex": 24
+          "hIndex": 24,
+          "authorId": "51903517"
         }
       ],
       "affiliations": [
@@ -533,51 +525,53 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 50.906664971731175,
+      "score": 54.39497422920498,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/12",
       "prNumber": 12
     },
     {
-      "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
-      "title": "PanLex: Building a Resource for Panlingual Lexical Translation",
+      "id": "4c01dfec69f5d55daae00b668665e94eb9da7f39",
+      "title": "LLMs Are Few-Shot In-Context Low-Resource Language Learners",
       "authors": [
-        "David Kamholz",
-        "Jonathan Pool",
-        "S. Colowick"
+        "Samuel Cahyawijaya",
+        "Holy Lovenia",
+        "Pascale Fung"
       ],
       "topAuthors": [
         {
-          "name": "Jonathan Pool",
-          "hIndex": 14
+          "name": "Samuel Cahyawijaya",
+          "hIndex": 26,
+          "authorId": "66986482"
         },
         {
-          "name": "David Kamholz",
-          "hIndex": 4
+          "name": "Pascale Fung",
+          "hIndex": 18,
+          "authorId": "2057151752"
         }
       ],
       "affiliations": [],
-      "year": 2014,
-      "venue": "International Conference on Language Resources and Evaluation",
-      "publicationDate": "2014-05-01",
-      "summary": "The PanLex database, a project of The Long Now Foundation, aims to enable the translation of lexemes among all human languages in the world by focusing on lexemic translations, rather than grammatical or corpus data, and achieves broader lexical and language coverage than related projects.",
-      "url": "https://www.semanticscholar.org/paper/877cdaf4b4aca65ebcf82b749160925374eae00b",
-      "doi": "10.63317/3pe8737ay4fh",
-      "arxivId": null,
-      "pdf": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/1029_Paper.pdf",
-      "citationCount": 132,
-      "referenceCount": 29,
-      "influentialCitationCount": 23,
+      "year": 2024,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2024-03-25",
+      "summary": "The significance of few-shot in-context information on enhancing the low-resource understanding quality of LLMs through semantically relevant information by closing the language gap in the target language and aligning the semantics between the targeted low-resource and the high-resource language that the model is proficient in is concluded.",
+      "url": "https://www.semanticscholar.org/paper/4c01dfec69f5d55daae00b668665e94eb9da7f39",
+      "doi": "10.48550/arXiv.2403.16512",
+      "arxivId": "2403.16512",
+      "pdf": null,
+      "citationCount": 115,
+      "referenceCount": 62,
+      "influentialCitationCount": 2,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 49.77786452815094,
+      "score": 52.08496870924413,
       "why": "cited by 3 in your list",
       "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/13",
-      "prNumber": 13
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/11",
+      "prNumber": 11
     },
     {
       "id": "fbf7c1386a188157cdee15e92a5b193ab17d68a7",
@@ -593,11 +587,13 @@
       "topAuthors": [
         {
           "name": "Lei Li",
-          "hIndex": 62
+          "hIndex": 62,
+          "authorId": "143900005"
         },
         {
           "name": "Kexun Zhang",
-          "hIndex": 11
+          "hIndex": 11,
+          "authorId": "2119058805"
         }
       ],
       "affiliations": [
@@ -619,11 +615,56 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "backward",
-      "score": 47.93093816814689,
+      "score": 50.35893633995173,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/14",
       "prNumber": 14
+    },
+    {
+      "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
+      "title": "PanLex: Building a Resource for Panlingual Lexical Translation",
+      "authors": [
+        "David Kamholz",
+        "Jonathan Pool",
+        "S. Colowick"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jonathan Pool",
+          "hIndex": 14,
+          "authorId": "145087222"
+        },
+        {
+          "name": "David Kamholz",
+          "hIndex": 4,
+          "authorId": "1735939"
+        }
+      ],
+      "affiliations": [
+        "Long Now Foundation",
+        "University of Washington"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Language Resources and Evaluation",
+      "publicationDate": "2014-05-01",
+      "summary": "The PanLex database, a project of The Long Now Foundation, aims to enable the translation of lexemes among all human languages in the world by focusing on lexemic translations, rather than grammatical or corpus data, and achieves broader lexical and language coverage than related projects.",
+      "url": "https://www.semanticscholar.org/paper/877cdaf4b4aca65ebcf82b749160925374eae00b",
+      "doi": "10.63317/3pe8737ay4fh",
+      "arxivId": null,
+      "pdf": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/1029_Paper.pdf",
+      "citationCount": 132,
+      "referenceCount": 29,
+      "influentialCitationCount": 23,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 3,
+      "direction": "backward",
+      "score": 49.536929515659125,
+      "why": "cited by 3 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/13",
+      "prNumber": 13
     },
     {
       "id": "0120013722911f28716f520f6c2bc535ce09851f",
@@ -638,11 +679,13 @@
       "topAuthors": [
         {
           "name": "Imran Razzak",
-          "hIndex": 41
+          "hIndex": 41,
+          "authorId": "1630421985"
         },
         {
           "name": "Usman Naseem",
-          "hIndex": 10
+          "hIndex": 10,
+          "authorId": "2301210198"
         }
       ],
       "affiliations": [],
@@ -661,11 +704,53 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "backward",
-      "score": 47.48705670882003,
+      "score": 49.14798171096957,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/15",
       "prNumber": 15
+    },
+    {
+      "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "title": "An Approach towards Construction and Application of Multilingual Indo-WordNet",
+      "authors": [
+        "Manish Sinha",
+        "M. Reddy",
+        "P. Bhattacharyya"
+      ],
+      "topAuthors": [
+        {
+          "name": "P. Bhattacharyya",
+          "hIndex": 58,
+          "authorId": "145532184"
+        },
+        {
+          "name": "Manish Sinha",
+          "hIndex": 5,
+          "authorId": "2054499464"
+        }
+      ],
+      "affiliations": [],
+      "year": 2005,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "An interface to browse linked Hindi and Marathi WordNets (Bilingual WordNet) simultaneously for a given word either in Hindi or in Marathi is presented.",
+      "url": "https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 41,
+      "referenceCount": 12,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 43.945438257237434,
+      "why": "cited by 2 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/17",
+      "prNumber": 17
     },
     {
       "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
@@ -676,7 +761,8 @@
       "topAuthors": [
         {
           "name": "Atul Kr. Ojha",
-          "hIndex": 11
+          "hIndex": 11,
+          "authorId": "40894258"
         }
       ],
       "affiliations": [
@@ -698,51 +784,11 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "backward",
-      "score": 44.05850869580793,
+      "score": 43.4650659727603,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/16",
       "prNumber": 16
-    },
-    {
-      "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
-      "title": "An Approach towards Construction and Application of Multilingual Indo-WordNet",
-      "authors": [
-        "Manish Sinha",
-        "M. Reddy",
-        "P. Bhattacharyya"
-      ],
-      "topAuthors": [
-        {
-          "name": "P. Bhattacharyya",
-          "hIndex": 58
-        },
-        {
-          "name": "Manish Sinha",
-          "hIndex": 5
-        }
-      ],
-      "affiliations": [],
-      "year": 2005,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "An interface to browse linked Hindi and Marathi WordNets (Bilingual WordNet) simultaneously for a given word either in Hindi or in Marathi is presented.",
-      "url": "https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 41,
-      "referenceCount": 12,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 41.92789096212891,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/17",
-      "prNumber": 17
     },
     {
       "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
@@ -757,11 +803,13 @@
       "topAuthors": [
         {
           "name": "Lidong Bing",
-          "hIndex": 53
+          "hIndex": 53,
+          "authorId": "1996394"
         },
         {
           "name": "A. Lưu",
-          "hIndex": 34
+          "hIndex": 34,
+          "authorId": "1755919"
         }
       ],
       "affiliations": [],
@@ -780,7 +828,7 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "backward",
-      "score": 39.981503334268574,
+      "score": 41.768476354883376,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/18",
@@ -801,11 +849,13 @@
       "topAuthors": [
         {
           "name": "Holger Schwenk",
-          "hIndex": 48
+          "hIndex": 48,
+          "authorId": "144518416"
         },
         {
           "name": "Samuel R. Bowman",
-          "hIndex": 46
+          "hIndex": 46,
+          "authorId": "3644767"
         }
       ],
       "affiliations": [
@@ -827,7 +877,7 @@
       "addedAt": "2026-09-14",
       "overlap": 4,
       "direction": "backward",
-      "score": 39.94794969349002,
+      "score": 41.583321217287555,
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/19",
@@ -858,11 +908,13 @@
       "topAuthors": [
         {
           "name": "Niklas Muennighoff",
-          "hIndex": 50
+          "hIndex": 50,
+          "authorId": "2037383772"
         },
         {
           "name": "Julia Kreutzer",
-          "hIndex": 24
+          "hIndex": 24,
+          "authorId": "3422710"
         }
       ],
       "affiliations": [
@@ -884,7 +936,7 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 39.79923960696816,
+      "score": 41.49009482309559,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/20",
@@ -903,11 +955,13 @@
       "topAuthors": [
         {
           "name": "Zhaopeng Tu",
-          "hIndex": 48
+          "hIndex": 48,
+          "authorId": "2909321"
         },
         {
           "name": "Xing Wang",
-          "hIndex": 28
+          "hIndex": 28,
+          "authorId": "48631170"
         }
       ],
       "affiliations": [
@@ -929,11 +983,55 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 39.49127810637854,
+      "score": 41.107954610406104,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/21",
       "prNumber": 21
+    },
+    {
+      "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
+      "title": "Neural machine translation with a polysynthetic low resource language",
+      "authors": [
+        "John E. Ortega",
+        "R. C. Mamani",
+        "Kyunghyun Cho"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kyunghyun Cho",
+          "hIndex": 96,
+          "authorId": "1979489"
+        },
+        {
+          "name": "John E. Ortega",
+          "hIndex": 9,
+          "authorId": "2056819421"
+        }
+      ],
+      "affiliations": [
+        "New York University"
+      ],
+      "year": 2020,
+      "venue": "Machine Translation",
+      "publicationDate": "2020-12-01",
+      "summary": "It is extended to other high-resource languages (HRL) like Finnish and Spanish to show that Quechua, for qualitative purposes, can be considered compatible with and translatable into other major European languages with measurements comparable to the state-of-the-art HRLs at this time.",
+      "url": "https://www.semanticscholar.org/paper/e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
+      "doi": "10.1007/s10590-020-09255-9",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 63,
+      "referenceCount": 64,
+      "influentialCitationCount": 10,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 41.06736109584233,
+      "why": "cited by 2 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/23",
+      "prNumber": 23
     },
     {
       "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
@@ -982,11 +1080,13 @@
       "topAuthors": [
         {
           "name": "Philipp Koehn",
-          "hIndex": 69
+          "hIndex": 69,
+          "authorId": "1755162"
         },
         {
           "name": "Holger Schwenk",
-          "hIndex": 48
+          "hIndex": 48,
+          "authorId": "144518416"
         }
       ],
       "affiliations": [
@@ -1001,58 +1101,18 @@
       "doi": "10.48550/arXiv.2207.04672",
       "arxivId": "2207.04672",
       "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 1975,
+      "citationCount": 1976,
       "referenceCount": 0,
       "influentialCitationCount": 173,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 4,
       "direction": "backward",
-      "score": 38.64242451390046,
+      "score": 40.757347286418764,
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/22",
       "prNumber": 22
-    },
-    {
-      "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
-      "title": "Neural machine translation with a polysynthetic low resource language",
-      "authors": [
-        "John E. Ortega",
-        "R. C. Mamani",
-        "Kyunghyun Cho"
-      ],
-      "topAuthors": [
-        {
-          "name": "Kyunghyun Cho",
-          "hIndex": 96
-        },
-        {
-          "name": "John E. Ortega",
-          "hIndex": 9
-        }
-      ],
-      "affiliations": [],
-      "year": 2020,
-      "venue": "Machine Translation",
-      "publicationDate": "2020-12-01",
-      "summary": "It is extended to other high-resource languages (HRL) like Finnish and Spanish to show that Quechua, for qualitative purposes, can be considered compatible with and translatable into other major European languages with measurements comparable to the state-of-the-art HRLs at this time.",
-      "url": "https://www.semanticscholar.org/paper/e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
-      "doi": "10.1007/s10590-020-09255-9",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 63,
-      "referenceCount": 64,
-      "influentialCitationCount": 10,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 38.47615616173128,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/23",
-      "prNumber": 23
     },
     {
       "id": "4190a06408f029ae46d8a9656df20f9e17ce7e03",
@@ -1065,11 +1125,13 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 41
+          "hIndex": 41,
+          "authorId": "7519068"
         },
         {
           "name": "G. Heigold",
-          "hIndex": 31
+          "hIndex": 31,
+          "authorId": "2280399"
         }
       ],
       "affiliations": [],
@@ -1088,7 +1150,7 @@
       "addedAt": "2026-09-14",
       "overlap": 2,
       "direction": "backward",
-      "score": 38.005358021829366,
+      "score": 39.33464759522119,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/24",
@@ -1105,14 +1167,18 @@
       "topAuthors": [
         {
           "name": "U. Quasthoff",
-          "hIndex": 15
+          "hIndex": 15,
+          "authorId": "2624213"
         },
         {
           "name": "Thomas Eckart",
-          "hIndex": 11
+          "hIndex": 11,
+          "authorId": "2465378"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Leipzig University"
+      ],
       "year": 2012,
       "venue": "International Conference on Language Resources and Evaluation",
       "publicationDate": "2012-05-01",
@@ -1128,7 +1194,7 @@
       "addedAt": "2026-09-14",
       "overlap": 3,
       "direction": "backward",
-      "score": 37.710293562391875,
+      "score": 37.621884629199904,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/niyati-literature/pull/25",
