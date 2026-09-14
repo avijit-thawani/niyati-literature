@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:27:22.330Z",
+  "updatedAt": "2026-09-14T17:34:21.013Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -28,6 +28,22 @@
         "Yasser Hamidullah",
         "Yusser al Ghussin",
         "Zheng Zhao"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jesujoba Oluwadara Alabi",
+          "hIndex": 17,
+          "authorId": "122367036"
+        },
+        {
+          "name": "Nikolay Bogoychev",
+          "hIndex": 17,
+          "authorId": "3444222"
+        }
+      ],
+      "affiliations": [
+        "University of Edinburgh",
+        "Spoken Language Systems (LSV) group, Saarland University"
       ],
       "year": 2026,
       "venue": null,
@@ -79,6 +95,22 @@
         "David Dale",
         "M. Costa-jussà"
       ],
+      "topAuthors": [
+        {
+          "name": "M. Costa-jussà",
+          "hIndex": 36,
+          "authorId": "1398996347"
+        },
+        {
+          "name": "Cynthia Gao",
+          "hIndex": 18,
+          "authorId": "2294721061"
+        }
+      ],
+      "affiliations": [
+        "UPC Barcelona",
+        "Meta AI"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-03-17",
@@ -103,6 +135,21 @@
         "S. Li",
         "Y. Tsvetkov",
         "Niyati Bafna"
+      ],
+      "topAuthors": [
+        {
+          "name": "S. Li",
+          "hIndex": 13,
+          "authorId": "2295954288"
+        },
+        {
+          "name": "Y. Tsvetkov",
+          "hIndex": 7,
+          "authorId": "2348189226"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -129,6 +176,22 @@
         "Philipp Koehn",
         "David Yarowsky"
       ],
+      "topAuthors": [
+        {
+          "name": "Vilém Zouhar",
+          "hIndex": 17,
+          "authorId": "1429837660"
+        },
+        {
+          "name": "Neha Verma",
+          "hIndex": 8,
+          "authorId": "2066061874"
+        }
+      ],
+      "affiliations": [
+        "ETH Zürich",
+        "Johns Hopkins University"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-17",
@@ -153,6 +216,21 @@
         "Barbara Plank",
         "David Yarowsky",
         "Hale Sirin"
+      ],
+      "topAuthors": [
+        {
+          "name": "David Yarowsky",
+          "hIndex": 54,
+          "authorId": "1693517"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -181,6 +259,21 @@
         "Hale Sirin",
         "Daniel Khashabi"
       ],
+      "topAuthors": [
+        {
+          "name": "Daniel Khashabi",
+          "hIndex": 9,
+          "authorId": "2319593572"
+        },
+        {
+          "name": "Tianjian Li",
+          "hIndex": 5,
+          "authorId": "2256304994"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2025,
       "venue": "IJCNLP-AACL",
       "publicationDate": "2025-06-28",
@@ -208,6 +301,22 @@
         "David Yarowsky",
         "Hale Sirin"
       ],
+      "topAuthors": [
+        {
+          "name": "David Yarowsky",
+          "hIndex": 54,
+          "authorId": "1693517"
+        },
+        {
+          "name": "David R. Mortensen",
+          "hIndex": 19,
+          "authorId": "3407646"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "Johns Hopkins University"
+      ],
       "year": 2025,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2025-01-27",
@@ -229,6 +338,21 @@
       "authors": [
         "Emily Chang",
         "Niyati Bafna"
+      ],
+      "topAuthors": [
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        },
+        {
+          "name": "Emily Chang",
+          "hIndex": 1,
+          "authorId": "2342503583"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2025,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
@@ -259,6 +383,21 @@
         "Kenton Murray",
         "David Yarowsky"
       ],
+      "topAuthors": [
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        },
+        {
+          "name": "Cihan Xiao",
+          "hIndex": 4,
+          "authorId": "2075320104"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2025,
       "venue": "International Workshop on Spoken Language Translation",
       "publicationDate": null,
@@ -286,6 +425,22 @@
         "Katharina Hämmerl",
         "Vilém Zouhar"
       ],
+      "topAuthors": [
+        {
+          "name": "Katharina Hämmerl",
+          "hIndex": 7,
+          "authorId": "2159197037"
+        },
+        {
+          "name": "Vilém Zouhar",
+          "hIndex": 7,
+          "authorId": "2348542667"
+        }
+      ],
+      "affiliations": [
+        "CIS, LMU",
+        "University of Amsterdam p=3,1"
+      ],
       "year": 2025,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
       "publicationDate": "2025-07-13",
@@ -307,6 +462,21 @@
       "authors": [
         "Niyati Bafna",
         "Matthew Wiesner"
+      ],
+      "topAuthors": [
+        {
+          "name": "Matthew Wiesner",
+          "hIndex": 17,
+          "authorId": "1500652334"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2025,
       "venue": "Interspeech",
@@ -330,6 +500,21 @@
         "Niyati Bafna",
         "Philipp Koehn",
         "David Yarowsky"
+      ],
+      "topAuthors": [
+        {
+          "name": "David Yarowsky",
+          "hIndex": 54,
+          "authorId": "1693517"
+        },
+        {
+          "name": "Philipp Koehn",
+          "hIndex": 5,
+          "authorId": "2257220508"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2024,
       "venue": "First Workshop on Insights from Negative Results in NLP",
@@ -362,6 +547,21 @@
         "Kenton Murray",
         "Paul McNamee"
       ],
+      "topAuthors": [
+        {
+          "name": "S. Khudanpur",
+          "hIndex": 63,
+          "authorId": "2803071"
+        },
+        {
+          "name": "Haoran Xu",
+          "hIndex": 10,
+          "authorId": "2108835452"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2024,
       "venue": "International Workshop on Spoken Language Translation",
       "publicationDate": null,
@@ -384,6 +584,21 @@
         "Niyati Bafna",
         "Kenton Murray",
         "David Yarowsky"
+      ],
+      "topAuthors": [
+        {
+          "name": "David Yarowsky",
+          "hIndex": 54,
+          "authorId": "1693517"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2024,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -410,6 +625,21 @@
         "Benoît Sagot",
         "Rachel Bawden"
       ],
+      "topAuthors": [
+        {
+          "name": "Josef van Genabith",
+          "hIndex": 41,
+          "authorId": "7519068"
+        },
+        {
+          "name": "Rachel Bawden",
+          "hIndex": 18,
+          "authorId": "48983885"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2023,
       "venue": "JEPTALNRECITAL",
       "publicationDate": null,
@@ -435,6 +665,21 @@
         "Benoît Sagot",
         "Rachel Bawden"
       ],
+      "topAuthors": [
+        {
+          "name": "Josef van Genabith",
+          "hIndex": 41,
+          "authorId": "7519068"
+        },
+        {
+          "name": "Benoît Sagot",
+          "hIndex": 37,
+          "authorId": "68990982"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2023,
       "venue": "International Conference on Language Resources and Evaluation",
       "publicationDate": "2023-05-23",
@@ -456,6 +701,21 @@
       "authors": [
         "Niyati Bafna",
         "Z. Žabokrtský"
+      ],
+      "topAuthors": [
+        {
+          "name": "Z. Žabokrtský",
+          "hIndex": 29,
+          "authorId": "2468732"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2022,
       "venue": "Special Interest Group on Computational Morphology and Phonology Workshop",
@@ -480,6 +740,21 @@
         "Josef van Genabith",
         "C. España-Bonet",
         "Z. Žabokrtský"
+      ],
+      "topAuthors": [
+        {
+          "name": "Josef van Genabith",
+          "hIndex": 41,
+          "authorId": "7519068"
+        },
+        {
+          "name": "Z. Žabokrtský",
+          "hIndex": 29,
+          "authorId": "2468732"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2022,
       "venue": "Conference on Computational Natural Language Learning",
@@ -508,6 +783,21 @@
         "M. Sevcíková",
         "J. Vidra"
       ],
+      "topAuthors": [
+        {
+          "name": "Z. Žabokrtský",
+          "hIndex": 29,
+          "authorId": "2468732"
+        },
+        {
+          "name": "M. Sevcíková",
+          "hIndex": 12,
+          "authorId": "3259983"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2022,
       "venue": "International Conference on Language Resources and Evaluation",
       "publicationDate": "2022-06-01",
@@ -530,6 +820,21 @@
         "Kartik Sharma",
         "Niyati Bafna",
         "Samar Husain"
+      ],
+      "topAuthors": [
+        {
+          "name": "Samar Husain",
+          "hIndex": 22,
+          "authorId": "1716475"
+        },
+        {
+          "name": "Kartik Sharma",
+          "hIndex": 8,
+          "authorId": "1571168324"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2021,
       "venue": "Workshop on Cognitive Modeling and Computational Linguistics",
@@ -554,6 +859,21 @@
         "Martin Vastl",
         "Ondrej Bojar"
       ],
+      "topAuthors": [
+        {
+          "name": "Ondrej Bojar",
+          "hIndex": 48,
+          "authorId": "143832874"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
+      ],
       "year": 2021,
       "venue": "ICON",
       "publicationDate": null,
@@ -575,6 +895,21 @@
       "authors": [
         "Niyati Bafna",
         "D. Sharma"
+      ],
+      "topAuthors": [
+        {
+          "name": "D. Sharma",
+          "hIndex": 24,
+          "authorId": "35246152"
+        },
+        {
+          "name": "Niyati Bafna",
+          "hIndex": 4,
+          "authorId": "2090730520"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University"
       ],
       "year": 2019,
       "venue": "ICON",
