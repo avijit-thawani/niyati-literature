@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:30:02.926Z",
+  "updatedAt": "2026-09-14T19:38:29.560Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -889,7 +889,7 @@
       "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
       "citationCount": 1672,
       "referenceCount": 65,
-      "influentialCitationCount": 358,
+      "influentialCitationCount": 359,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 4,
@@ -1122,7 +1122,7 @@
       "doi": "10.48550/arXiv.2207.04672",
       "arxivId": "2207.04672",
       "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 1976,
+      "citationCount": 1977,
       "referenceCount": 0,
       "influentialCitationCount": 173,
       "source": null,
