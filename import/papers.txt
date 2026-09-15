@@ -10,3 +10,103 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Linguistic Resources for Bhojpuri, Magahi, and Maithili: Statistics about Them, Their Similarity Estimates, and Baselines for Three Applications
+#   Anil Kumar Singh (h=16) · Indian Institute of Technology BHU · 2020 · 17 citations · cited by 4 in your list
+https://arxiv.org/abs/2004.13945
+
+# Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties
+#   Jinju Kim (h=3) · Sungkyunkwan University · 2026 · 0 citations · cites 2 in your list
+https://arxiv.org/abs/2605.04500
+
+# BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation
+#   M. Costa-jussà (h=36) · UPC Barcelona · 2025 · 18 citations · cited by 3 in your list
+https://arxiv.org/abs/2502.04314
+
+# GATITOS: Using a New Multilingual Lexicon for Low-resource Machine Translation
+#   Isaac Caswell (h=17) · Google (United States) · 2023 · 22 citations · cited by 3 in your list
+https://doi.org/10.18653/v1/2023.emnlp-main.26
+
+# Teaching Large Language Models an Unseen Language on the Fly
+#   Chen Zhang (h=10) · Peking University · 2024 · 47 citations · cited by 3 in your list
+https://arxiv.org/abs/2402.19167
+
+# How Susceptible are LLMs to Influence in Prompts?
+#   Jannis Bulian (h=12) · 2024 · 54 citations · cited by 3 in your list
+https://arxiv.org/abs/2408.11865
+
+# chrF: character n-gram F-score for automatic MT evaluation
+#   Maja Popovic (h=26) · Humboldt-Universität zu Berlin · 2015 · 2000 citations · cited by 6 in your list
+https://doi.org/10.18653/v1/W15-3049
+
+# A Simple, Fast, and Effective Reparameterization of IBM Model 2
+#   Noah A. Smith (h=115) · University of Washington · 2013 · 1119 citations · cited by 5 in your list
+https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb
+
+# Scaling neural machine translation to 200 languages
+#   M. Costa-jussà (h=36) · Facebook AI Research · 2024 · 315 citations · cited by 4 in your list
+https://doi.org/10.1038/s41586-024-07335-x
+
+# Decolonising Speech and Language Technology
+#   Steven Bird (h=8) · Charles Darwin University · 2020 · 251 citations · cited by 4 in your list
+https://doi.org/10.18653/V1/2020.COLING-MAIN.313
+
+# A Benchmark for Learning to Translate a New Language from One Grammar Book
+#   Dan Jurafsky (h=108) · Stanford University · 2023 · 118 citations · cited by 3 in your list
+https://arxiv.org/abs/2309.16575
+
+# LLMs Are Few-Shot In-Context Low-Resource Language Learners
+#   Samuel Cahyawijaya (h=26) · 2024 · 115 citations · cited by 3 in your list
+https://arxiv.org/abs/2403.16512
+
+# Hire a Linguist!: Learning Endangered Languages with In-Context Linguistic Descriptions
+#   Lei Li (h=62) · Carnegie Mellon University · 2024 · 21 citations · cited by 2 in your list
+https://arxiv.org/abs/2402.18025
+
+# PanLex: Building a Resource for Panlingual Lexical Translation
+#   Jonathan Pool (h=14) · Long Now Foundation · 2014 · 132 citations · cited by 3 in your list
+https://doi.org/10.63317/3pe8737ay4fh
+
+# Better to Ask in English: Evaluation of Large Language Models on English, Low-resource and Cross-Lingual Settings
+#   Imran Razzak (h=41) · 2024 · 22 citations · cited by 2 in your list
+https://arxiv.org/abs/2410.13153
+
+# An Approach towards Construction and Application of Multilingual Indo-WordNet
+#   P. Bhattacharyya (h=58) · 2005 · 41 citations · cited by 2 in your list
+https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c
+
+# English-Bhojpuri SMT System: Insights from the Karaka Model
+#   Atul Kr. Ojha (h=11) · DSI, National University of Ireland Galway, IE · 2019 · 32 citations · cited by 2 in your list
+https://www.semanticscholar.org/paper/71a88ba9a07a7a290755430c2c6282008b85db12
+
+# Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models
+#   Lidong Bing (h=53) · 2024 · 52 citations · cited by 2 in your list
+https://arxiv.org/abs/2403.10258
+
+# XNLI: Evaluating Cross-lingual Sentence Representations
+#   Holger Schwenk (h=48) · New York University · 2018 · 1672 citations · cited by 4 in your list
+https://arxiv.org/abs/1809.05053
+
+# Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model
+#   Niklas Muennighoff (h=50) · Cohere Labs, University of Amsterdam, Zeta Alpha Vector · 2024 · 404 citations · cited by 3 in your list
+https://arxiv.org/abs/2402.07827
+
+# Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine
+#   Zhaopeng Tu (h=48) · The Chinese University of Hong Kong · 2023 · 420 citations · cited by 3 in your list
+https://arxiv.org/abs/2301.08745
+
+# Neural machine translation with a polysynthetic low resource language
+#   Kyunghyun Cho (h=96) · New York University · 2020 · 63 citations · cited by 2 in your list
+https://doi.org/10.1007/s10590-020-09255-9
+
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=69) · Johns Hopkins University · 2022 · 1979 citations · cited by 4 in your list
+https://arxiv.org/abs/2207.04672
+
+# How Robust Are Character-Based Word Embeddings in Tagging and MT Against Wrod Scramlbing or Randdm Nouse?
+#   Josef van Genabith (h=41) · 2017 · 67 citations · cited by 2 in your list
+https://arxiv.org/abs/1704.04441
+
+# Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages
+#   U. Quasthoff (h=15) · Leipzig University · 2012 · 529 citations · cited by 3 in your list
+https://doi.org/10.63317/4e5i253k8v5a
