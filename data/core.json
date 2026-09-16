@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T13:49:08.819Z",
+  "updatedAt": "2026-09-16T09:20:22.098Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -608,7 +608,7 @@
       "doi": "10.48550/arXiv.2406.13718",
       "arxivId": "2406.13718",
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9",
