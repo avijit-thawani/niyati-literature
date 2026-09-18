@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T09:29:39.879Z",
+  "updatedAt": "2026-09-18T09:02:08.850Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -282,7 +282,7 @@
       "doi": "10.48550/arXiv.2506.22724",
       "arxivId": "2506.22724",
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/17602dceab79d04840b39c32f6f9ab77a3ae6228",
@@ -406,7 +406,7 @@
       "doi": "10.18653/v1/2025.iwslt-1.32",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2025.iwslt-1.32.pdf",
-      "citationCount": 5,
+      "citationCount": 4,
       "referenceCount": 0,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/93d922de12f6bf786420281e359a190fbcbf0784",
