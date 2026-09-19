@@ -1,0 +1,131 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-09-19T08:50:14.887Z",
+  "papers": [
+    {
+      "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
+      "link": "https://arxiv.org/abs/2004.13945",
+      "title": "Linguistic Resources for Bhojpuri, Magahi, and Maithili: Statistics about Them, Their Similarity Estimates, and Baselines for Three Applications"
+    },
+    {
+      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
+      "link": "https://arxiv.org/abs/2605.04500",
+      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties"
+    },
+    {
+      "id": "e310137501ec7e91e4b3d6fbc85da3c15edb9855",
+      "link": "https://arxiv.org/abs/2502.04314",
+      "title": "BOUQuET: dataset, Benchmark and Open initiative for Universal Quality Evaluation in Translation"
+    },
+    {
+      "id": "dc6f2dc99181026a8d5a07fd403393d307d5fd8d",
+      "link": "https://doi.org/10.18653/v1/2023.emnlp-main.26",
+      "title": "GATITOS: Using a New Multilingual Lexicon for Low-resource Machine Translation"
+    },
+    {
+      "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
+      "link": "https://doi.org/10.63317/3pe8737ay4fh",
+      "title": "PanLex: Building a Resource for Panlingual Lexical Translation"
+    },
+    {
+      "id": "7f5331294fe5e94f145a7129efac50b801099aa1",
+      "link": "https://doi.org/10.1038/s41586-024-07335-x",
+      "title": "Scaling neural machine translation to 200 languages"
+    },
+    {
+      "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
+      "link": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
+      "title": "Decolonising Speech and Language Technology"
+    },
+    {
+      "id": "285c165c81fc9275955147a892b9a039ec8b1052",
+      "link": "https://doi.org/10.18653/v1/W15-3049",
+      "title": "chrF: character n-gram F-score for automatic MT evaluation"
+    },
+    {
+      "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "link": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2"
+    },
+    {
+      "id": "1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
+      "link": "https://arxiv.org/abs/2402.19167",
+      "title": "Teaching Large Language Models an Unseen Language on the Fly"
+    },
+    {
+      "id": "7bc56b12f55e144738d9a04b4b7968f5bb053726",
+      "link": "https://arxiv.org/abs/2408.11865",
+      "title": "How Susceptible are LLMs to Influence in Prompts?"
+    },
+    {
+      "id": "3a1a9ef603fd245fd9732064e5756efc82c797b1",
+      "link": "https://arxiv.org/abs/2309.16575",
+      "title": "A Benchmark for Learning to Translate a New Language from One Grammar Book"
+    },
+    {
+      "id": "4c01dfec69f5d55daae00b668665e94eb9da7f39",
+      "link": "https://arxiv.org/abs/2403.16512",
+      "title": "LLMs Are Few-Shot In-Context Low-Resource Language Learners"
+    },
+    {
+      "id": "fbf7c1386a188157cdee15e92a5b193ab17d68a7",
+      "link": "https://arxiv.org/abs/2402.18025",
+      "title": "Hire a Linguist!: Learning Endangered Languages with In-Context Linguistic Descriptions"
+    },
+    {
+      "id": "0120013722911f28716f520f6c2bc535ce09851f",
+      "link": "https://arxiv.org/abs/2410.13153",
+      "title": "Better to Ask in English: Evaluation of Large Language Models on English, Low-resource and Cross-Lingual Settings"
+    },
+    {
+      "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "link": "https://arxiv.org/abs/2207.04672",
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation"
+    },
+    {
+      "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "link": "https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "title": "An Approach towards Construction and Application of Multilingual Indo-WordNet"
+    },
+    {
+      "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
+      "link": "https://www.semanticscholar.org/paper/71a88ba9a07a7a290755430c2c6282008b85db12",
+      "title": "English-Bhojpuri SMT System: Insights from the Karaka Model"
+    },
+    {
+      "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
+      "link": "https://arxiv.org/abs/2403.10258",
+      "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models"
+    },
+    {
+      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+      "link": "https://arxiv.org/abs/1809.05053",
+      "title": "XNLI: Evaluating Cross-lingual Sentence Representations"
+    },
+    {
+      "id": "2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
+      "link": "https://arxiv.org/abs/2402.07827",
+      "title": "Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model"
+    },
+    {
+      "id": "780c99d13537370f63c03feeb1343bed9d98a4f9",
+      "link": "https://arxiv.org/abs/2301.08745",
+      "title": "Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine"
+    },
+    {
+      "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
+      "link": "https://doi.org/10.1007/s10590-020-09255-9",
+      "title": "Neural machine translation with a polysynthetic low resource language"
+    },
+    {
+      "id": "4190a06408f029ae46d8a9656df20f9e17ce7e03",
+      "link": "https://arxiv.org/abs/1704.04441",
+      "title": "How Robust Are Character-Based Word Embeddings in Tagging and MT Against Wrod Scramlbing or Randdm Nouse?"
+    },
+    {
+      "id": "338da2650fbee5b35d1e37b16c2603b466eea962",
+      "link": "https://arxiv.org/abs/2310.13988",
+      "title": "GEMBA-MQM: Detecting Translation Quality Error Spans with GPT-4"
+    }
+  ]
+}
