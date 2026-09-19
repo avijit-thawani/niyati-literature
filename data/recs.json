@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T09:02:08.850Z",
+  "updatedAt": "2026-09-19T08:50:12.705Z",
   "recs": [
     {
       "id": "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
@@ -39,7 +39,7 @@
       "referenceCount": 114,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 4,
       "direction": "backward",
       "score": 100,
@@ -87,7 +87,7 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 2,
       "direction": "forward",
       "score": 94.40459651747217,
@@ -147,10 +147,10 @@
       "referenceCount": 51,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 3,
       "direction": "backward",
-      "score": 77.25560530830012,
+      "score": 74.78487718517192,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -193,7 +193,7 @@
       "referenceCount": 74,
       "influentialCitationCount": 3,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 3,
       "direction": "backward",
       "score": 71.38803187630751,
@@ -204,172 +204,46 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
-      "title": "Teaching Large Language Models an Unseen Language on the Fly",
+      "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
+      "title": "PanLex: Building a Resource for Panlingual Lexical Translation",
       "authors": [
-        "Chen Zhang",
-        "Xiao Liu",
-        "Jiuheng Lin",
-        "Yansong Feng"
+        "David Kamholz",
+        "Jonathan Pool",
+        "S. Colowick"
       ],
       "topAuthors": [
         {
-          "name": "Chen Zhang",
-          "hIndex": 10,
-          "authorId": "2111574159"
+          "name": "Jonathan Pool",
+          "hIndex": 14,
+          "authorId": "145087222"
         },
         {
-          "name": "Yansong Feng",
-          "hIndex": 5,
-          "authorId": "2273532365"
+          "name": "David Kamholz",
+          "hIndex": 4,
+          "authorId": "1735939"
         }
       ],
       "affiliations": [
-        "Peking University"
+        "Long Now Foundation",
+        "University of Washington"
       ],
-      "year": 2024,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2024-02-29",
-      "summary": "DiPMT++ is introduced, a framework for adapting LLMs to unseen languages by in-context learning that significantly enhances the performance of GPT-4 from 0 to 16 BLEU for Chinese-to-Zhuang translation and achieves 32 BLEU for Zhuang-to-Chinese translation.",
-      "url": "https://www.semanticscholar.org/paper/1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
-      "doi": "10.48550/arXiv.2402.19167",
-      "arxivId": "2402.19167",
-      "pdf": null,
-      "citationCount": 48,
-      "referenceCount": 42,
-      "influentialCitationCount": 5,
+      "year": 2014,
+      "venue": "International Conference on Language Resources and Evaluation",
+      "publicationDate": "2014-05-01",
+      "summary": "The PanLex database, a project of The Long Now Foundation, aims to enable the translation of lexemes among all human languages in the world by focusing on lexemic translations, rather than grammatical or corpus data, and achieves broader lexical and language coverage than related projects.",
+      "url": "https://www.semanticscholar.org/paper/877cdaf4b4aca65ebcf82b749160925374eae00b",
+      "doi": "10.63317/3pe8737ay4fh",
+      "arxivId": null,
+      "pdf": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/1029_Paper.pdf",
+      "citationCount": 132,
+      "referenceCount": 29,
+      "influentialCitationCount": 23,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 3,
       "direction": "backward",
-      "score": 60.42633028492153,
+      "score": 66.04923935421216,
       "why": "cited by 3 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "7bc56b12f55e144738d9a04b4b7968f5bb053726",
-      "title": "How Susceptible are LLMs to Influence in Prompts?",
-      "authors": [
-        "Sotiris Anagnostidis",
-        "Jannis Bulian"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jannis Bulian",
-          "hIndex": 12,
-          "authorId": "2362210"
-        },
-        {
-          "name": "Sotiris Anagnostidis",
-          "hIndex": 11,
-          "authorId": "2051417741"
-        }
-      ],
-      "affiliations": [],
-      "year": 2024,
-      "venue": "arXiv.org",
-      "publicationDate": "2024-08-17",
-      "summary": "This work investigates how current models respond when presented with additional input from another model, mimicking a scenario where a more capable model -- or a system with access to more external information -- provides supplementary information to the target model.",
-      "url": "https://www.semanticscholar.org/paper/7bc56b12f55e144738d9a04b4b7968f5bb053726",
-      "doi": "10.48550/arXiv.2408.11865",
-      "arxivId": "2408.11865",
-      "pdf": null,
-      "citationCount": 54,
-      "referenceCount": 66,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 3,
-      "direction": "backward",
-      "score": 58.903806070972664,
-      "why": "cited by 3 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "285c165c81fc9275955147a892b9a039ec8b1052",
-      "title": "chrF: character n-gram F-score for automatic MT evaluation",
-      "authors": [
-        "Maja Popovic"
-      ],
-      "topAuthors": [
-        {
-          "name": "Maja Popovic",
-          "hIndex": 26,
-          "authorId": "2487502"
-        }
-      ],
-      "affiliations": [
-        "Humboldt-Universität zu Berlin"
-      ],
-      "year": 2015,
-      "venue": "WMT@EMNLP",
-      "publicationDate": "2015-09-01",
-      "summary": "The proposed use of character n-gram F-score for automatic evaluation of machine translation output shows very promising results, especially for the CHRF3 score – for translation from English, this variant showed the highest segment-level correlations outperforming even the best metrics on the WMT14 shared evaluation task.",
-      "url": "https://www.semanticscholar.org/paper/285c165c81fc9275955147a892b9a039ec8b1052",
-      "doi": "10.18653/v1/W15-3049",
-      "arxivId": null,
-      "pdf": "https://www.aclweb.org/anthology/W15-3049.pdf",
-      "citationCount": 2010,
-      "referenceCount": 10,
-      "influentialCitationCount": 199,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 6,
-      "direction": "backward",
-      "score": 58.86991263701874,
-      "why": "cited by 6 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
-      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
-      "authors": [
-        "Chris Dyer",
-        "Victor Chahuneau",
-        "Noah A. Smith"
-      ],
-      "topAuthors": [
-        {
-          "name": "Noah A. Smith",
-          "hIndex": 115,
-          "authorId": "144365875"
-        },
-        {
-          "name": "Chris Dyer",
-          "hIndex": 77,
-          "authorId": "1745899"
-        }
-      ],
-      "affiliations": [
-        "University of Washington",
-        "Allen Institute for AI"
-      ],
-      "year": 2013,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2013-06-01",
-      "summary": "A simple log-linear reparameterization of IBM Model 2 that overcomes problems arising from Model 1’'s strong assumptions and Model 2’s overparameterization is presented.",
-      "url": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 1119,
-      "referenceCount": 9,
-      "influentialCitationCount": 115,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 5,
-      "direction": "backward",
-      "score": 57.82232703755702,
-      "why": "cited by 5 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
@@ -446,10 +320,10 @@
       "referenceCount": 106,
       "influentialCitationCount": 29,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 4,
       "direction": "backward",
-      "score": 57.52407621368809,
+      "score": 64.5504375615334,
       "why": "cited by 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -484,11 +358,183 @@
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 4,
       "direction": "backward",
-      "score": 56.929880781820074,
+      "score": 63.99520475327446,
       "why": "cited by 4 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "285c165c81fc9275955147a892b9a039ec8b1052",
+      "title": "chrF: character n-gram F-score for automatic MT evaluation",
+      "authors": [
+        "Maja Popovic"
+      ],
+      "topAuthors": [
+        {
+          "name": "Maja Popovic",
+          "hIndex": 26,
+          "authorId": "2487502"
+        }
+      ],
+      "affiliations": [
+        "Humboldt-Universität zu Berlin"
+      ],
+      "year": 2015,
+      "venue": "WMT@EMNLP",
+      "publicationDate": "2015-09-01",
+      "summary": "The proposed use of character n-gram F-score for automatic evaluation of machine translation output shows very promising results, especially for the CHRF3 score – for translation from English, this variant showed the highest segment-level correlations outperforming even the best metrics on the WMT14 shared evaluation task.",
+      "url": "https://www.semanticscholar.org/paper/285c165c81fc9275955147a892b9a039ec8b1052",
+      "doi": "10.18653/v1/W15-3049",
+      "arxivId": null,
+      "pdf": "https://www.aclweb.org/anthology/W15-3049.pdf",
+      "citationCount": 2011,
+      "referenceCount": 10,
+      "influentialCitationCount": 199,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 6,
+      "direction": "backward",
+      "score": 63.6739311450769,
+      "why": "cited by 6 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "title": "A Simple, Fast, and Effective Reparameterization of IBM Model 2",
+      "authors": [
+        "Chris Dyer",
+        "Victor Chahuneau",
+        "Noah A. Smith"
+      ],
+      "topAuthors": [
+        {
+          "name": "Noah A. Smith",
+          "hIndex": 115,
+          "authorId": "144365875"
+        },
+        {
+          "name": "Chris Dyer",
+          "hIndex": 77,
+          "authorId": "1745899"
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "Allen Institute for AI"
+      ],
+      "year": 2013,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2013-06-01",
+      "summary": "A simple log-linear reparameterization of IBM Model 2 that overcomes problems arising from Model 1’'s strong assumptions and Model 2’s overparameterization is presented.",
+      "url": "https://www.semanticscholar.org/paper/7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 1119,
+      "referenceCount": 9,
+      "influentialCitationCount": 115,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 5,
+      "direction": "backward",
+      "score": 63.593187568273514,
+      "why": "cited by 5 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
+      "title": "Teaching Large Language Models an Unseen Language on the Fly",
+      "authors": [
+        "Chen Zhang",
+        "Xiao Liu",
+        "Jiuheng Lin",
+        "Yansong Feng"
+      ],
+      "topAuthors": [
+        {
+          "name": "Chen Zhang",
+          "hIndex": 10,
+          "authorId": "2111574159"
+        },
+        {
+          "name": "Yansong Feng",
+          "hIndex": 5,
+          "authorId": "2273532365"
+        }
+      ],
+      "affiliations": [
+        "Peking University"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-02-29",
+      "summary": "DiPMT++ is introduced, a framework for adapting LLMs to unseen languages by in-context learning that significantly enhances the performance of GPT-4 from 0 to 16 BLEU for Chinese-to-Zhuang translation and achieves 32 BLEU for Zhuang-to-Chinese translation.",
+      "url": "https://www.semanticscholar.org/paper/1ab1d9ca27f31fab7c00e80ba1bf9b28ce75ca6e",
+      "doi": "10.48550/arXiv.2402.19167",
+      "arxivId": "2402.19167",
+      "pdf": null,
+      "citationCount": 48,
+      "referenceCount": 42,
+      "influentialCitationCount": 5,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 3,
+      "direction": "backward",
+      "score": 59.91416885298582,
+      "why": "cited by 3 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "7bc56b12f55e144738d9a04b4b7968f5bb053726",
+      "title": "How Susceptible are LLMs to Influence in Prompts?",
+      "authors": [
+        "Sotiris Anagnostidis",
+        "Jannis Bulian"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jannis Bulian",
+          "hIndex": 12,
+          "authorId": "2362210"
+        },
+        {
+          "name": "Sotiris Anagnostidis",
+          "hIndex": 11,
+          "authorId": "2051417741"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "publicationDate": "2024-08-17",
+      "summary": "This work investigates how current models respond when presented with additional input from another model, mimicking a scenario where a more capable model -- or a system with access to more external information -- provides supplementary information to the target model.",
+      "url": "https://www.semanticscholar.org/paper/7bc56b12f55e144738d9a04b4b7968f5bb053726",
+      "doi": "10.48550/arXiv.2408.11865",
+      "arxivId": "2408.11865",
+      "pdf": null,
+      "citationCount": 55,
+      "referenceCount": 66,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 3,
+      "direction": "backward",
+      "score": 58.68803541256965,
+      "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
@@ -531,10 +577,10 @@
       "referenceCount": 73,
       "influentialCitationCount": 18,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 3,
       "direction": "backward",
-      "score": 54.39497422920498,
+      "score": 54.30324525135618,
       "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -574,7 +620,7 @@
       "referenceCount": 62,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 3,
       "direction": "backward",
       "score": 52.08496870924413,
@@ -623,57 +669,11 @@
       "referenceCount": 38,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 2,
       "direction": "backward",
       "score": 50.35893633995173,
       "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "877cdaf4b4aca65ebcf82b749160925374eae00b",
-      "title": "PanLex: Building a Resource for Panlingual Lexical Translation",
-      "authors": [
-        "David Kamholz",
-        "Jonathan Pool",
-        "S. Colowick"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jonathan Pool",
-          "hIndex": 14,
-          "authorId": "145087222"
-        },
-        {
-          "name": "David Kamholz",
-          "hIndex": 4,
-          "authorId": "1735939"
-        }
-      ],
-      "affiliations": [
-        "Long Now Foundation",
-        "University of Washington"
-      ],
-      "year": 2014,
-      "venue": "International Conference on Language Resources and Evaluation",
-      "publicationDate": "2014-05-01",
-      "summary": "The PanLex database, a project of The Long Now Foundation, aims to enable the translation of lexemes among all human languages in the world by focusing on lexemic translations, rather than grammatical or corpus data, and achieves broader lexical and language coverage than related projects.",
-      "url": "https://www.semanticscholar.org/paper/877cdaf4b4aca65ebcf82b749160925374eae00b",
-      "doi": "10.63317/3pe8737ay4fh",
-      "arxivId": null,
-      "pdf": "http://www.lrec-conf.org/proceedings/lrec2014/pdf/1029_Paper.pdf",
-      "citationCount": 132,
-      "referenceCount": 29,
-      "influentialCitationCount": 23,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 3,
-      "direction": "backward",
-      "score": 49.536929515659125,
-      "why": "cited by 3 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
@@ -714,340 +714,10 @@
       "referenceCount": 67,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 2,
       "direction": "backward",
       "score": 49.14798171096957,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
-      "title": "An Approach towards Construction and Application of Multilingual Indo-WordNet",
-      "authors": [
-        "Manish Sinha",
-        "M. Reddy",
-        "P. Bhattacharyya"
-      ],
-      "topAuthors": [
-        {
-          "name": "P. Bhattacharyya",
-          "hIndex": 58,
-          "authorId": "145532184"
-        },
-        {
-          "name": "Manish Sinha",
-          "hIndex": 5,
-          "authorId": "2054499464"
-        }
-      ],
-      "affiliations": [],
-      "year": 2005,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "An interface to browse linked Hindi and Marathi WordNets (Bilingual WordNet) simultaneously for a given word either in Hindi or in Marathi is presented.",
-      "url": "https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 41,
-      "referenceCount": 12,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 43.945438257237434,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
-      "title": "English-Bhojpuri SMT System: Insights from the Karaka Model",
-      "authors": [
-        "Atul Kr. Ojha"
-      ],
-      "topAuthors": [
-        {
-          "name": "Atul Kr. Ojha",
-          "hIndex": 11,
-          "authorId": "40894258"
-        }
-      ],
-      "affiliations": [
-        "DSI, National University of Ireland Galway, IE",
-        "Panlingua Language Processing LLP India"
-      ],
-      "year": 2019,
-      "venue": "arXiv.org",
-      "publicationDate": "2019-05-06",
-      "summary": "This thesis has been divided into six chapters namely: Introduction, Karaka Model and it impacts on Dependency Parsing, LT Resources for Bhojpuri, English-Bhojituri SMT System: Experiment, Evaluation of EB-SMT System, and Conclusion.",
-      "url": "https://www.semanticscholar.org/paper/71a88ba9a07a7a290755430c2c6282008b85db12",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 32,
-      "referenceCount": 106,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 43.4650659727603,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
-      "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models",
-      "authors": [
-        "Chao-Qun Liu",
-        "Wenxuan Zhang",
-        "Yiran Zhao",
-        "A. Lưu",
-        "Lidong Bing"
-      ],
-      "topAuthors": [
-        {
-          "name": "Lidong Bing",
-          "hIndex": 53,
-          "authorId": "1996394"
-        },
-        {
-          "name": "A. Lưu",
-          "hIndex": 34,
-          "authorId": "1755919"
-        }
-      ],
-      "affiliations": [],
-      "year": 2024,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2024-03-15",
-      "summary": "It is demonstrated that while translation into English can boost the performance of English-centric LLMs on NLP tasks, it is not universally optimal and is called for greater efforts in developing and evaluating LLMs that go beyond English-centric paradigms.",
-      "url": "https://www.semanticscholar.org/paper/c9629421113a3dda8b544e9eac3b174dc40eda4b",
-      "doi": "10.48550/arXiv.2403.10258",
-      "arxivId": "2403.10258",
-      "pdf": null,
-      "citationCount": 52,
-      "referenceCount": 44,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 41.768476354883376,
-      "why": "cited by 2 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
-      "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
-      "authors": [
-        "Alexis Conneau",
-        "Guillaume Lample",
-        "Ruty Rinott",
-        "Adina Williams",
-        "Samuel R. Bowman",
-        "Holger Schwenk",
-        "Veselin Stoyanov"
-      ],
-      "topAuthors": [
-        {
-          "name": "Holger Schwenk",
-          "hIndex": 48,
-          "authorId": "144518416"
-        },
-        {
-          "name": "Samuel R. Bowman",
-          "hIndex": 46,
-          "authorId": "3644767"
-        }
-      ],
-      "affiliations": [
-        "New York University",
-        "Meta AI"
-      ],
-      "year": 2018,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2018-09-13",
-      "summary": "This work constructs an evaluation set for XLU by extending the development and test sets of the Multi-Genre Natural Language Inference Corpus to 14 languages, including low-resource languages such as Swahili and Urdu and finds that XNLI represents a practical and challenging evaluation suite and that directly translating the test data yields the best performance among available baselines.",
-      "url": "https://www.semanticscholar.org/paper/1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
-      "doi": "10.18653/v1/D18-1269",
-      "arxivId": "1809.05053",
-      "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
-      "citationCount": 1674,
-      "referenceCount": 65,
-      "influentialCitationCount": 360,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 4,
-      "direction": "backward",
-      "score": 41.583321217287555,
-      "why": "cited by 4 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
-      "title": "Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model",
-      "authors": [
-        "A. Ustun",
-        "Viraat Aryabumi",
-        "Zheng-Xin Yong",
-        "Wei-Yin Ko",
-        "Daniel D'Souza",
-        "Gbemileke Onilude",
-        "Neel Bhandari",
-        "Shivalika Singh",
-        "Hui-Lee Ooi",
-        "Amr Kayid",
-        "Freddie Vargus",
-        "Phil Blunsom",
-        "Shayne Longpre",
-        "Niklas Muennighoff",
-        "Marzieh Fadaee",
-        "Julia Kreutzer",
-        "Sara Hooker"
-      ],
-      "topAuthors": [
-        {
-          "name": "Niklas Muennighoff",
-          "hIndex": 50,
-          "authorId": "2037383772"
-        },
-        {
-          "name": "Julia Kreutzer",
-          "hIndex": 24,
-          "authorId": "3422710"
-        }
-      ],
-      "affiliations": [
-        "Cohere Labs, University of Amsterdam, Zeta Alpha Vector",
-        "Brown University"
-      ],
-      "year": 2024,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2024-02-12",
-      "summary": "This work introduces Aya, a massively multilingual generative language model that follows instructions in 101 languages of which over 50% are considered as lower-resourced, and introduces extensive new evaluation suites that broaden the state of the art for multilingual eval across 99 languages.",
-      "url": "https://www.semanticscholar.org/paper/2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
-      "doi": "10.48550/arXiv.2402.07827",
-      "arxivId": "2402.07827",
-      "pdf": null,
-      "citationCount": 406,
-      "referenceCount": 158,
-      "influentialCitationCount": 38,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 3,
-      "direction": "backward",
-      "score": 41.49009482309559,
-      "why": "cited by 3 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "780c99d13537370f63c03feeb1343bed9d98a4f9",
-      "title": "Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine",
-      "authors": [
-        "Wenxiang Jiao",
-        "Wenxuan Wang",
-        "Jen-Tse Huang",
-        "Xing Wang",
-        "Zhaopeng Tu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Zhaopeng Tu",
-          "hIndex": 48,
-          "authorId": "2909321"
-        },
-        {
-          "name": "Xing Wang",
-          "hIndex": 28,
-          "authorId": "48631170"
-        }
-      ],
-      "affiliations": [
-        "The Chinese University of Hong Kong",
-        "Tencent AI Lab"
-      ],
-      "year": 2023,
-      "venue": null,
-      "publicationDate": "2023-01-20",
-      "summary": "An interesting strategy named $\\mathbf{pivot~prompting}$ for distant languages, which asks ChatGPT to translate the source sentence into a high-resource pivot language before into the target language, improving the translation performance noticeably.",
-      "url": "https://www.semanticscholar.org/paper/780c99d13537370f63c03feeb1343bed9d98a4f9",
-      "doi": null,
-      "arxivId": "2301.08745",
-      "pdf": null,
-      "citationCount": 421,
-      "referenceCount": 28,
-      "influentialCitationCount": 26,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 3,
-      "direction": "backward",
-      "score": 41.107954610406104,
-      "why": "cited by 3 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
-      "title": "Neural machine translation with a polysynthetic low resource language",
-      "authors": [
-        "John E. Ortega",
-        "R. C. Mamani",
-        "Kyunghyun Cho"
-      ],
-      "topAuthors": [
-        {
-          "name": "Kyunghyun Cho",
-          "hIndex": 96,
-          "authorId": "1979489"
-        },
-        {
-          "name": "John E. Ortega",
-          "hIndex": 9,
-          "authorId": "2056819421"
-        }
-      ],
-      "affiliations": [
-        "New York University"
-      ],
-      "year": 2020,
-      "venue": "Machine Translation",
-      "publicationDate": "2020-12-01",
-      "summary": "It is extended to other high-resource languages (HRL) like Finnish and Spanish to show that Quechua, for qualitative purposes, can be considered compatible with and translatable into other major European languages with measurements comparable to the state-of-the-art HRLs at this time.",
-      "url": "https://www.semanticscholar.org/paper/e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
-      "doi": "10.1007/s10590-020-09255-9",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 63,
-      "referenceCount": 64,
-      "influentialCitationCount": 10,
-      "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 2,
-      "direction": "backward",
-      "score": 41.06736109584233,
       "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1126,11 +796,341 @@
       "referenceCount": 0,
       "influentialCitationCount": 174,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 4,
       "direction": "backward",
-      "score": 40.757347286418764,
+      "score": 45.787220018870784,
       "why": "cited by 4 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "title": "An Approach towards Construction and Application of Multilingual Indo-WordNet",
+      "authors": [
+        "Manish Sinha",
+        "M. Reddy",
+        "P. Bhattacharyya"
+      ],
+      "topAuthors": [
+        {
+          "name": "P. Bhattacharyya",
+          "hIndex": 58,
+          "authorId": "145532184"
+        },
+        {
+          "name": "Manish Sinha",
+          "hIndex": 5,
+          "authorId": "2054499464"
+        }
+      ],
+      "affiliations": [],
+      "year": 2005,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "An interface to browse linked Hindi and Marathi WordNets (Bilingual WordNet) simultaneously for a given word either in Hindi or in Marathi is presented.",
+      "url": "https://www.semanticscholar.org/paper/6bb086a85107ea9341ae5f05bd13c8c761543d9c",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 41,
+      "referenceCount": 12,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 43.945438257237434,
+      "why": "cited by 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "71a88ba9a07a7a290755430c2c6282008b85db12",
+      "title": "English-Bhojpuri SMT System: Insights from the Karaka Model",
+      "authors": [
+        "Atul Kr. Ojha"
+      ],
+      "topAuthors": [
+        {
+          "name": "Atul Kr. Ojha",
+          "hIndex": 12,
+          "authorId": "40894258"
+        }
+      ],
+      "affiliations": [
+        "DSI, National University of Ireland Galway, IE",
+        "Panlingua Language Processing LLP India"
+      ],
+      "year": 2019,
+      "venue": "arXiv.org",
+      "publicationDate": "2019-05-06",
+      "summary": "This thesis has been divided into six chapters namely: Introduction, Karaka Model and it impacts on Dependency Parsing, LT Resources for Bhojpuri, English-Bhojituri SMT System: Experiment, Evaluation of EB-SMT System, and Conclusion.",
+      "url": "https://www.semanticscholar.org/paper/71a88ba9a07a7a290755430c2c6282008b85db12",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 32,
+      "referenceCount": 106,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 43.60144222731862,
+      "why": "cited by 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "c9629421113a3dda8b544e9eac3b174dc40eda4b",
+      "title": "Is Translation All You Need? A Study on Solving Multilingual Tasks with Large Language Models",
+      "authors": [
+        "Chao-Qun Liu",
+        "Wenxuan Zhang",
+        "Yiran Zhao",
+        "A. Lưu",
+        "Lidong Bing"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lidong Bing",
+          "hIndex": 53,
+          "authorId": "1996394"
+        },
+        {
+          "name": "A. Lưu",
+          "hIndex": 34,
+          "authorId": "1755919"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2024-03-15",
+      "summary": "It is demonstrated that while translation into English can boost the performance of English-centric LLMs on NLP tasks, it is not universally optimal and is called for greater efforts in developing and evaluating LLMs that go beyond English-centric paradigms.",
+      "url": "https://www.semanticscholar.org/paper/c9629421113a3dda8b544e9eac3b174dc40eda4b",
+      "doi": "10.48550/arXiv.2403.10258",
+      "arxivId": "2403.10258",
+      "pdf": null,
+      "citationCount": 53,
+      "referenceCount": 44,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 41.60965625434433,
+      "why": "cited by 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+      "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
+      "authors": [
+        "Alexis Conneau",
+        "Guillaume Lample",
+        "Ruty Rinott",
+        "Adina Williams",
+        "Samuel R. Bowman",
+        "Holger Schwenk",
+        "Veselin Stoyanov"
+      ],
+      "topAuthors": [
+        {
+          "name": "Holger Schwenk",
+          "hIndex": 48,
+          "authorId": "144518416"
+        },
+        {
+          "name": "Samuel R. Bowman",
+          "hIndex": 46,
+          "authorId": "3644767"
+        }
+      ],
+      "affiliations": [
+        "New York University",
+        "Meta AI"
+      ],
+      "year": 2018,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2018-09-13",
+      "summary": "This work constructs an evaluation set for XLU by extending the development and test sets of the Multi-Genre Natural Language Inference Corpus to 14 languages, including low-resource languages such as Swahili and Urdu and finds that XNLI represents a practical and challenging evaluation suite and that directly translating the test data yields the best performance among available baselines.",
+      "url": "https://www.semanticscholar.org/paper/1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+      "doi": "10.18653/v1/D18-1269",
+      "arxivId": "1809.05053",
+      "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
+      "citationCount": 1674,
+      "referenceCount": 65,
+      "influentialCitationCount": 360,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 4,
+      "direction": "backward",
+      "score": 41.56840610540852,
+      "why": "cited by 4 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
+      "title": "Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model",
+      "authors": [
+        "A. Ustun",
+        "Viraat Aryabumi",
+        "Zheng-Xin Yong",
+        "Wei-Yin Ko",
+        "Daniel D'Souza",
+        "Gbemileke Onilude",
+        "Neel Bhandari",
+        "Shivalika Singh",
+        "Hui-Lee Ooi",
+        "Amr Kayid",
+        "Freddie Vargus",
+        "Phil Blunsom",
+        "Shayne Longpre",
+        "Niklas Muennighoff",
+        "Marzieh Fadaee",
+        "Julia Kreutzer",
+        "Sara Hooker"
+      ],
+      "topAuthors": [
+        {
+          "name": "Niklas Muennighoff",
+          "hIndex": 50,
+          "authorId": "2037383772"
+        },
+        {
+          "name": "Julia Kreutzer",
+          "hIndex": 24,
+          "authorId": "3422710"
+        }
+      ],
+      "affiliations": [
+        "Cohere Labs, University of Amsterdam, Zeta Alpha Vector",
+        "Brown University"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-02-12",
+      "summary": "This work introduces Aya, a massively multilingual generative language model that follows instructions in 101 languages of which over 50% are considered as lower-resourced, and introduces extensive new evaluation suites that broaden the state of the art for multilingual eval across 99 languages.",
+      "url": "https://www.semanticscholar.org/paper/2296629527ebbd6f8c897df7cf5cdbac3f0cc15b",
+      "doi": "10.48550/arXiv.2402.07827",
+      "arxivId": "2402.07827",
+      "pdf": null,
+      "citationCount": 406,
+      "referenceCount": 158,
+      "influentialCitationCount": 38,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 3,
+      "direction": "backward",
+      "score": 41.4491370977971,
+      "why": "cited by 3 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "780c99d13537370f63c03feeb1343bed9d98a4f9",
+      "title": "Is ChatGPT A Good Translator? Yes With GPT-4 As The Engine",
+      "authors": [
+        "Wenxiang Jiao",
+        "Wenxuan Wang",
+        "Jen-Tse Huang",
+        "Xing Wang",
+        "Zhaopeng Tu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zhaopeng Tu",
+          "hIndex": 48,
+          "authorId": "2909321"
+        },
+        {
+          "name": "Xing Wang",
+          "hIndex": 28,
+          "authorId": "48631170"
+        }
+      ],
+      "affiliations": [
+        "The Chinese University of Hong Kong",
+        "Tencent AI Lab"
+      ],
+      "year": 2023,
+      "venue": null,
+      "publicationDate": "2023-01-20",
+      "summary": "An interesting strategy named $\\mathbf{pivot~prompting}$ for distant languages, which asks ChatGPT to translate the source sentence into a high-resource pivot language before into the target language, improving the translation performance noticeably.",
+      "url": "https://www.semanticscholar.org/paper/780c99d13537370f63c03feeb1343bed9d98a4f9",
+      "doi": null,
+      "arxivId": "2301.08745",
+      "pdf": null,
+      "citationCount": 421,
+      "referenceCount": 28,
+      "influentialCitationCount": 26,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 3,
+      "direction": "backward",
+      "score": 41.08840730978568,
+      "why": "cited by 3 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
+      "title": "Neural machine translation with a polysynthetic low resource language",
+      "authors": [
+        "John E. Ortega",
+        "R. C. Mamani",
+        "Kyunghyun Cho"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kyunghyun Cho",
+          "hIndex": 96,
+          "authorId": "1979489"
+        },
+        {
+          "name": "John E. Ortega",
+          "hIndex": 9,
+          "authorId": "2056819421"
+        }
+      ],
+      "affiliations": [
+        "New York University"
+      ],
+      "year": 2020,
+      "venue": "Machine Translation",
+      "publicationDate": "2020-12-01",
+      "summary": "It is extended to other high-resource languages (HRL) like Finnish and Spanish to show that Quechua, for qualitative purposes, can be considered compatible with and translatable into other major European languages with measurements comparable to the state-of-the-art HRLs at this time.",
+      "url": "https://www.semanticscholar.org/paper/e9bb0de54db1725064a5bc107b78a4cf9b0a2002",
+      "doi": "10.1007/s10590-020-09255-9",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 63,
+      "referenceCount": 64,
+      "influentialCitationCount": 10,
+      "source": null,
+      "addedAt": "2026-09-19",
+      "overlap": 2,
+      "direction": "backward",
+      "score": 41.06736109584233,
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
@@ -1169,7 +1169,7 @@
       "referenceCount": 32,
       "influentialCitationCount": 12,
       "source": null,
-      "addedAt": "2026-09-18",
+      "addedAt": "2026-09-19",
       "overlap": 2,
       "direction": "backward",
       "score": 39.33464759522119,
@@ -1180,45 +1180,44 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "1b560f892432fb853d233c92f9294640bc91de3c",
-      "title": "Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages",
+      "id": "338da2650fbee5b35d1e37b16c2603b466eea962",
+      "title": "GEMBA-MQM: Detecting Translation Quality Error Spans with GPT-4",
       "authors": [
-        "Dirk Goldhahn",
-        "Thomas Eckart",
-        "U. Quasthoff"
+        "Tom Kocmi",
+        "C. Federmann"
       ],
       "topAuthors": [
         {
-          "name": "U. Quasthoff",
-          "hIndex": 15,
-          "authorId": "2624213"
+          "name": "C. Federmann",
+          "hIndex": 31,
+          "authorId": "3359291"
         },
         {
-          "name": "Thomas Eckart",
-          "hIndex": 11,
-          "authorId": "2465378"
+          "name": "Tom Kocmi",
+          "hIndex": 24,
+          "authorId": "3452584"
         }
       ],
       "affiliations": [
-        "Leipzig University"
+        "Microsoft, Germany"
       ],
-      "year": 2012,
-      "venue": "International Conference on Language Resources and Evaluation",
-      "publicationDate": "2012-05-01",
-      "summary": "Focus of this paper will be set on the infrastructure for the automatic acquisition of large amounts of monolingual text in many languages from various sources, and the mainly language-independent framework for preprocessing, cleaning and creating the corpora and computing the necessary statistics.",
-      "url": "https://www.semanticscholar.org/paper/1b560f892432fb853d233c92f9294640bc91de3c",
-      "doi": "10.63317/4e5i253k8v5a",
-      "arxivId": null,
-      "pdf": "http://www.lrec-conf.org/proceedings/lrec2012/pdf/327_Paper.pdf",
-      "citationCount": 529,
-      "referenceCount": 13,
-      "influentialCitationCount": 47,
+      "year": 2023,
+      "venue": "Conference on Machine Translation",
+      "publicationDate": "2023-10-21",
+      "summary": "Preliminary results indicate that GEMBA-MQM achieves state-of-the-art accuracy for system ranking, but caution is advised when using it in academic works to demonstrate improvements over other methods due to its dependence on the proprietary, black-box GPT model.",
+      "url": "https://www.semanticscholar.org/paper/338da2650fbee5b35d1e37b16c2603b466eea962",
+      "doi": "10.48550/arXiv.2310.13988",
+      "arxivId": "2310.13988",
+      "pdf": null,
+      "citationCount": 197,
+      "referenceCount": 27,
+      "influentialCitationCount": 37,
       "source": null,
-      "addedAt": "2026-09-18",
-      "overlap": 3,
+      "addedAt": "2026-09-19",
+      "overlap": 2,
       "direction": "backward",
-      "score": 37.621884629199904,
-      "why": "cited by 3 in your list",
+      "score": 39.225792249981176,
+      "why": "cited by 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
