@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T09:22:10.514Z",
+  "updatedAt": "2026-09-23T14:45:51.430Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -529,7 +529,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/68380754d46c99d1b86d26a70040ddf499b7b486",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 66.66666666666666
     },
     {
       "id": "7d25ef700d8a779a9034340f9b0b179b374f7ef8",
@@ -924,6 +924,283 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/b7b7d273f6bfe60b8c98d0b367d2d5c2fb5cbf88",
       "addedAt": "2026-09-12",
+      "score": 0
+    },
+    {
+      "id": "8d7e9dcc7c962e5ef6ec77911f1bf916dbe0e6b4",
+      "title": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
+      "authors": [
+        "Rochelle Choenni",
+        "Sara Rajaee",
+        "C. Monz",
+        "Ekaterina Shutova"
+      ],
+      "topAuthors": [
+        {
+          "name": "C. Monz",
+          "hIndex": 19,
+          "authorId": "2062908179"
+        },
+        {
+          "name": "Rochelle Choenni",
+          "hIndex": 14,
+          "authorId": "2067163164"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "publicationDate": "2024-06-20",
+      "summary": "An analysis of existing evaluation frameworks in multilingual NLP, discuss their limitations, and propose several directions for more robust and reliable evaluation practices is presented.",
+      "url": "https://www.semanticscholar.org/paper/8d7e9dcc7c962e5ef6ec77911f1bf916dbe0e6b4",
+      "doi": "10.48550/arXiv.2406.14267",
+      "arxivId": "2406.14267",
+      "pdf": null,
+      "citationCount": 8,
+      "referenceCount": 64,
+      "influentialCitationCount": 0,
+      "source": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "dbd9fab59832369040661bb050daef6de405230c",
+      "title": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
+      "authors": [
+        "Bo Zheng",
+        "Li Dong",
+        "Shaohan Huang",
+        "Saksham Singhal",
+        "Wanxiang Che",
+        "Ting Liu",
+        "Xia Song",
+        "Furu Wei"
+      ],
+      "topAuthors": [
+        {
+          "name": "Furu Wei",
+          "hIndex": 105,
+          "authorId": "49807919"
+        },
+        {
+          "name": "Ting Liu",
+          "hIndex": 75,
+          "authorId": "40282288"
+        }
+      ],
+      "affiliations": [
+        "Microsoft Research",
+        "Harbin institute of technology"
+      ],
+      "year": 2021,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2021-09-15",
+      "summary": "This work proposes k-NN-based target sampling to accelerate the expensive softmax and shows that the multilingual vocabulary learned with VoCap benefits cross-lingual language model pre-training.",
+      "url": "https://www.semanticscholar.org/paper/dbd9fab59832369040661bb050daef6de405230c",
+      "doi": "10.18653/v1/2021.emnlp-main.257",
+      "arxivId": "2109.07306",
+      "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
+      "citationCount": 31,
+      "referenceCount": 43,
+      "influentialCitationCount": 2,
+      "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
+      "addedAt": "2026-09-23",
+      "score": 33.33333333333333
+    },
+    {
+      "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
+      "title": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
+      "authors": [
+        "Nathan Godey",
+        "Roman Castagné",
+        "Eric Villemonte de la Clergerie",
+        "Benoît Sagot"
+      ],
+      "topAuthors": [
+        {
+          "name": "Benoît Sagot",
+          "hIndex": 37,
+          "authorId": "68990982"
+        },
+        {
+          "name": "Eric Villemonte de la Clergerie",
+          "hIndex": 24,
+          "authorId": "1400417301"
+        }
+      ],
+      "affiliations": [
+        "INRIA"
+      ],
+      "year": 2022,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/6bfa1b07cb1f46294adac73afe33616cd919b603",
+      "doi": "10.18653/v1/2022.findings-emnlp.207",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2022.findings-emnlp.207.pdf",
+      "citationCount": 15,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
+      "title": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
+      "authors": [
+        "Antoine Nzeyimana",
+        "Andre Niyongabo Rubungo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Andre Niyongabo Rubungo",
+          "hIndex": 10,
+          "authorId": "1988673056"
+        },
+        {
+          "name": "Antoine Nzeyimana",
+          "hIndex": 3,
+          "authorId": "51994077"
+        }
+      ],
+      "affiliations": [
+        "Princeton University"
+      ],
+      "year": 2022,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2022-03-16",
+      "summary": "A simple yet effective two-tier BERT architecture that leverages a morphological analyzer and explicitly represents morphological compositionality is proposed, naming the proposed model architecture KinyaBERT.",
+      "url": "https://www.semanticscholar.org/paper/e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
+      "doi": "10.18653/v1/2022.acl-long.367",
+      "arxivId": "2203.08459",
+      "pdf": "https://doi.org/10.18653/v1/2022.acl-long.367",
+      "citationCount": 50,
+      "referenceCount": 71,
+      "influentialCitationCount": 2,
+      "source": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "6adc9c231d874ea358554b8680a6aaba4bd6c963",
+      "title": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
+      "authors": [
+        "Alan Ansell",
+        "E. Ponti",
+        "Jonas Pfeiffer",
+        "Sebastian Ruder",
+        "Goran Glavas",
+        "Ivan Vulic",
+        "A. Korhonen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sebastian Ruder",
+          "hIndex": 57,
+          "authorId": "2884561"
+        },
+        {
+          "name": "Ivan Vulic",
+          "hIndex": 57,
+          "authorId": "1747849"
+        }
+      ],
+      "affiliations": [
+        "Cohere",
+        "Technical University Darmstadt"
+      ],
+      "year": 2021,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": null,
+      "summary": "MAD-G is proposed, which contextually generates language adapters from language representations based on typological features and remains competitive with more expensive methods for language-speciﬁc adapter training across the board.",
+      "url": "https://www.semanticscholar.org/paper/6adc9c231d874ea358554b8680a6aaba4bd6c963",
+      "doi": "10.18653/v1/2021.findings-emnlp.410",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2021.findings-emnlp.410.pdf",
+      "citationCount": 99,
+      "referenceCount": 46,
+      "influentialCitationCount": 4,
+      "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
+      "title": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
+      "authors": [
+        "Yuxin Chen",
+        "Zhengzhou Cai",
+        "Xiangtian Ji",
+        "Weixiang Zhao",
+        "An Zhang",
+        "Xiang Wang",
+        "Tat-Seng Chua"
+      ],
+      "topAuthors": [
+        {
+          "name": "Tat-Seng Chua",
+          "hIndex": 32,
+          "authorId": "2257036129"
+        },
+        {
+          "name": "Xiang Wang",
+          "hIndex": 14,
+          "authorId": "2257436645"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-01-20",
+      "summary": "A routing-guided steering method is proposed that adaptively guides routing behavior in middle layers toward shared experts associated with dominant languages at inference time, leading to consistent multilingual performance improvements, particularly for linguistically related language pairs.",
+      "url": "https://www.semanticscholar.org/paper/e8d436c8d9eb45462c3d14270c76eecde5e21cec",
+      "doi": "10.48550/arXiv.2601.14050",
+      "arxivId": "2601.14050",
+      "pdf": null,
+      "citationCount": 9,
+      "referenceCount": 45,
+      "influentialCitationCount": 0,
+      "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "5ec405b200c5970418aae2df5228354fcc8eef10",
+      "title": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
+      "authors": [
+        "Lucas Bandarkar",
+        "Nanyun Peng"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lucas Bandarkar",
+          "hIndex": 6,
+          "authorId": "2091417351"
+        },
+        {
+          "name": "Nanyun Peng",
+          "hIndex": 2,
+          "authorId": "2364814671"
+        }
+      ],
+      "affiliations": [
+        "UCLA"
+      ],
+      "year": 2025,
+      "venue": "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)",
+      "publicationDate": "2025-05-23",
+      "summary": "This work investigates cross-lingual transfer to lower-resource languages where task-specific post-training data is scarce and identifies the most consistently successful modular method to be fine-tuning separate language and math experts and model merging via Layer-Swapping.",
+      "url": "https://www.semanticscholar.org/paper/5ec405b200c5970418aae2df5228354fcc8eef10",
+      "doi": "10.48550/arXiv.2505.18356",
+      "arxivId": "2505.18356",
+      "pdf": null,
+      "citationCount": 8,
+      "referenceCount": 79,
+      "influentialCitationCount": 0,
+      "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
+      "addedAt": "2026-09-23",
       "score": 0
     }
   ]
