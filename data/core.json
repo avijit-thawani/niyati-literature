@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:45:51.430Z",
+  "updatedAt": "2026-09-23T14:59:21.319Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -58,7 +58,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "7d73071007bc7a36f80f0a6949b39ac7d14778c0",
@@ -124,7 +124,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 12.5
     },
     {
       "id": "90773e1251c7f1841320f4e6ebf2bf3df8dedc71",
@@ -164,7 +164,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/90773e1251c7f1841320f4e6ebf2bf3df8dedc71",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 12.5
     },
     {
       "id": "ddb65d1ec1705f5005a96d23295a4b5776b1d121",
@@ -205,7 +205,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/ddb65d1ec1705f5005a96d23295a4b5776b1d121",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 100
     },
     {
       "id": "e8016f43554d8dd4a72e2e494f608dc97eed48cb",
@@ -245,7 +245,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e8016f43554d8dd4a72e2e494f608dc97eed48cb",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "17602dceab79d04840b39c32f6f9ab77a3ae6228",
@@ -287,7 +287,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/17602dceab79d04840b39c32f6f9ab77a3ae6228",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 75
     },
     {
       "id": "4417c8641f69062c46649f39e44c16c619481036",
@@ -330,7 +330,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/4417c8641f69062c46649f39e44c16c619481036",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 50
     },
     {
       "id": "591332975662dea00ecf8e0fb6820bb0974164e8",
@@ -454,7 +454,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/c985adb25b3586182c21dc61e87211279ae969c6",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 12.5
     },
     {
       "id": "f91f2a1d5fde217161c9ba2c59fefe796f1fc160",
@@ -529,7 +529,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/68380754d46c99d1b86d26a70040ddf499b7b486",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 25
     },
     {
       "id": "7d25ef700d8a779a9034340f9b0b179b374f7ef8",
@@ -575,7 +575,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/7d25ef700d8a779a9034340f9b0b179b374f7ef8",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 12.5
     },
     {
       "id": "cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9",
@@ -613,7 +613,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 50
     },
     {
       "id": "e0a4053a8ba5883d6a3f06dae43e32bfde610c61",
@@ -653,7 +653,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e0a4053a8ba5883d6a3f06dae43e32bfde610c61",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 12.5
     },
     {
       "id": "ffa62b841c97ed258079cc68a5eff1b830d527b6",
@@ -693,7 +693,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/ffa62b841c97ed258079cc68a5eff1b830d527b6",
       "addedAt": "2026-09-12",
-      "score": 66.66666666666666
+      "score": 25
     },
     {
       "id": "4328a6ad84517306e4c8d423c94690ade44c196b",
@@ -769,7 +769,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/4c634317136f6ce4fd18e5aa176ddf91ea5be0f1",
       "addedAt": "2026-09-12",
-      "score": 100
+      "score": 37.5
     },
     {
       "id": "c3103c6d21b6d11feb1011e9674be50789c8ae3e",
@@ -961,7 +961,10 @@
       "influentialCitationCount": 0,
       "source": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 0,
+      "aliases": [
+        "https://arxiv.org/abs/2406.14267"
+      ]
     },
     {
       "id": "dbd9fab59832369040661bb050daef6de405230c",
@@ -1005,7 +1008,10 @@
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
       "addedAt": "2026-09-23",
-      "score": 33.33333333333333
+      "score": 12.5,
+      "aliases": [
+        "https://arxiv.org/abs/2109.07306"
+      ]
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -1044,7 +1050,10 @@
       "influentialCitationCount": 0,
       "source": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 0,
+      "aliases": [
+        "https://doi.org/10.18653/v1/2022.findings-emnlp.207"
+      ]
     },
     {
       "id": "e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
@@ -1081,7 +1090,10 @@
       "influentialCitationCount": 2,
       "source": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 0,
+      "aliases": [
+        "https://arxiv.org/abs/2203.08459"
+      ]
     },
     {
       "id": "6adc9c231d874ea358554b8680a6aaba4bd6c963",
@@ -1124,7 +1136,10 @@
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5,
+      "aliases": [
+        "https://doi.org/10.18653/v1/2021.findings-emnlp.410"
+      ]
     },
     {
       "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
@@ -1164,7 +1179,10 @@
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 0,
+      "aliases": [
+        "https://arxiv.org/abs/2601.14050"
+      ]
     },
     {
       "id": "5ec405b200c5970418aae2df5228354fcc8eef10",
@@ -1201,7 +1219,2154 @@
       "influentialCitationCount": 0,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
       "addedAt": "2026-09-23",
+      "score": 12.5,
+      "aliases": [
+        "https://arxiv.org/abs/2505.18356"
+      ]
+    },
+    {
+      "id": "16428ded7b294a677a3aae781a42a42057d273d1",
+      "title": "Enhancing Multilingual LLM Pretraining with Model-Based Data Selection",
+      "authors": [
+        "Bettina Messmer",
+        "Vinko Sabolcec",
+        "Martin Jaggi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Martin Jaggi",
+          "hIndex": 60,
+          "authorId": "2456863"
+        },
+        {
+          "name": "Bettina Messmer",
+          "hIndex": 7,
+          "authorId": "2219037377"
+        }
+      ],
+      "affiliations": [
+        "EPFL"
+      ],
+      "year": 2025,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2025-02-14",
+      "summary": "A model-based filtering framework for multilingual datasets that aims to identify a diverse set of structured and knowledge-rich samples that can match the baseline MMLU score with as little as 15% of the training tokens while also improving across other benchmarks and mitigating the curse of multilinguality.",
+      "url": "https://www.semanticscholar.org/paper/16428ded7b294a677a3aae781a42a42057d273d1",
+      "doi": "10.48550/arXiv.2502.10361",
+      "arxivId": "2502.10361",
+      "pdf": null,
+      "citationCount": 33,
+      "referenceCount": 98,
+      "influentialCitationCount": 5,
+      "source": "https://arxiv.org/abs/2502.10361",
+      "addedAt": "2026-09-23",
       "score": 0
+    },
+    {
+      "id": "94a29991a92c2ca654cd6fcc6e09593d91986279",
+      "title": "LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages",
+      "authors": [
+        "M. Agarwal",
+        "Md Mahfuz Ibn Alam",
+        "Antonios Anastasopoulos"
+      ],
+      "topAuthors": [
+        {
+          "name": "Antonios Anastasopoulos",
+          "hIndex": 34,
+          "authorId": "49513989"
+        },
+        {
+          "name": "Md Mahfuz Ibn Alam",
+          "hIndex": 7,
+          "authorId": "2007788331"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-05-23",
+      "summary": "This work takes a step towards tackling the data bottleneck by compiling a corpus of over 50K parallel children's stories in 350+ languages and dialects, and the computation bottleneck by building lightweight hierarchical models for language identification.",
+      "url": "https://www.semanticscholar.org/paper/94a29991a92c2ca654cd6fcc6e09593d91986279",
+      "doi": "10.48550/arXiv.2305.14263",
+      "arxivId": "2305.14263",
+      "pdf": "http://arxiv.org/pdf/2305.14263",
+      "citationCount": 13,
+      "referenceCount": 96,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2305.14263",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
+      "title": "Balancing Training for Multilingual Neural Machine Translation",
+      "authors": [
+        "Xinyi Wang",
+        "Yulia Tsvetkov",
+        "Graham Neubig"
+      ],
+      "topAuthors": [
+        {
+          "name": "Graham Neubig",
+          "hIndex": 92,
+          "authorId": "1700325"
+        },
+        {
+          "name": "Yulia Tsvetkov",
+          "hIndex": 37,
+          "authorId": "145317727"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "year": 2020,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2020-04-14",
+      "summary": "Experiments show the proposed method not only consistently outperforms heuristic baselines in terms of average performance, but also offers flexible control over the performance of which languages are optimized.",
+      "url": "https://www.semanticscholar.org/paper/66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
+      "doi": "10.18653/v1/2020.acl-main.754",
+      "arxivId": "2004.06748",
+      "pdf": "https://www.aclweb.org/anthology/2020.acl-main.754.pdf",
+      "citationCount": 119,
+      "referenceCount": 45,
+      "influentialCitationCount": 20,
+      "source": "https://arxiv.org/abs/2004.06748",
+      "addedAt": "2026-09-23",
+      "score": 50
+    },
+    {
+      "id": "c4483403a6b56dc477576fb53e00193bc324db39",
+      "title": "Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks",
+      "authors": [
+        "Vani Kanjirangat",
+        "Tanja Samardzic",
+        "Ljiljana Dolamic",
+        "Fabio Rinaldi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Vani Kanjirangat",
+          "hIndex": 6,
+          "authorId": "2125681709"
+        },
+        {
+          "name": "Ljiljana Dolamic",
+          "hIndex": 4,
+          "authorId": "1680665"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2025-09-24",
+      "summary": "This work correlates Tokenization Parity and Information Parity, as measures of representational biases in pre-trained multilingual models, with the downstream performance, and reveals that TP is a better predictor of the performance on tasks reliant on syntactic and morphological cues, while IP better predicts performance in semantic tasks.",
+      "url": "https://www.semanticscholar.org/paper/c4483403a6b56dc477576fb53e00193bc324db39",
+      "doi": "10.48550/arXiv.2509.20045",
+      "arxivId": "2509.20045",
+      "pdf": null,
+      "citationCount": 13,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2509.20045",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "be1cd3f0309afdb43223961d115b1316a09d5718",
+      "title": "Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings",
+      "authors": [
+        "Andrea Wen-Yi Wang",
+        "David Mimno"
+      ],
+      "topAuthors": [
+        {
+          "name": "Andrea Wen-Yi Wang",
+          "hIndex": 4,
+          "authorId": "2268760348"
+        },
+        {
+          "name": "David Mimno",
+          "hIndex": 4,
+          "authorId": "2268205803"
+        }
+      ],
+      "affiliations": [
+        "Cornell University"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-11-29",
+      "summary": "This research opens the door for investigations in 1) The effect of pre-training and model architectures on representations of languages and 2) The applications of cross-lingual representations embedded in language models.",
+      "url": "https://www.semanticscholar.org/paper/be1cd3f0309afdb43223961d115b1316a09d5718",
+      "doi": "10.18653/v1/2023.emnlp-main.71",
+      "arxivId": "2311.18034",
+      "pdf": "https://aclanthology.org/2023.emnlp-main.71.pdf",
+      "citationCount": 27,
+      "referenceCount": 31,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2311.18034",
+      "addedAt": "2026-09-23",
+      "score": 50
+    },
+    {
+      "id": "c60736e61f8961ec535ecfdc6f0398925d34d0b8",
+      "title": "Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer",
+      "authors": [
+        "Elizabeth Salesky",
+        "Neha Verma",
+        "Philipp Koehn",
+        "Matt Post"
+      ],
+      "topAuthors": [
+        {
+          "name": "Philipp Koehn",
+          "hIndex": 69,
+          "authorId": "1755162"
+        },
+        {
+          "name": "Matt Post",
+          "hIndex": 41,
+          "authorId": "38842528"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University",
+        "Microsoft Translator"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-05-23",
+      "summary": "This work introduces and demonstrates how to effectively train multilingual machine translation models with pixel representations and explores various properties of pixel representations such as parameter sharing within and across scripts to better understand where they lead to positive transfer.",
+      "url": "https://www.semanticscholar.org/paper/c60736e61f8961ec535ecfdc6f0398925d34d0b8",
+      "doi": "10.18653/v1/2023.emnlp-main.854",
+      "arxivId": "2305.14280",
+      "pdf": "https://aclanthology.org/2023.emnlp-main.854.pdf",
+      "citationCount": 24,
+      "referenceCount": 45,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2305.14280",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "5c667b8297631551de12e1b888bb57251f427716",
+      "title": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
+      "authors": [
+        "Wenhao Zhuang",
+        "Yuan Sun",
+        "Xiaobing Zhao"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xiaobing Zhao",
+          "hIndex": 8,
+          "authorId": "1991626"
+        },
+        {
+          "name": "Yuan Sun",
+          "hIndex": 3,
+          "authorId": "2336529909"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2025-09-22",
+      "summary": "Experimental results demonstrate that the innovatively combines character transliteration with Huffman coding to design a complete transliteration framework significantly enhances the model's capability to process low-resource languages while maintaining performance on high-resource languages.",
+      "url": "https://www.semanticscholar.org/paper/5c667b8297631551de12e1b888bb57251f427716",
+      "doi": "10.18653/v1/2025.acl-long.795",
+      "arxivId": "2509.17493",
+      "pdf": "https://arxiv.org/pdf/2509.17493",
+      "citationCount": 3,
+      "referenceCount": 40,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2509.17493",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "cf99558d35891d35ba5429cfce5ca2e2ae383b71",
+      "title": "Condensing Multilingual Knowledge with Lightweight Language-Specific Modules",
+      "authors": [
+        "Haoran Xu",
+        "Weiting Tan",
+        "Shuyue Stella Li",
+        "Yunmo Chen",
+        "Benjamin Van Durme",
+        "Philipp Koehn",
+        "Kenton Murray"
+      ],
+      "topAuthors": [
+        {
+          "name": "Philipp Koehn",
+          "hIndex": 69,
+          "authorId": "1755162"
+        },
+        {
+          "name": "Benjamin Van Durme",
+          "hIndex": 60,
+          "authorId": "7536576"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University",
+        "University of Notre Dame"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-05-23",
+      "summary": "This work shows that the LMS method significantly outperforms previous LS methods and MoE methods with the same amount of extra parameters, e.g., 1.73 BLEU points over the Switch Transformer on many-to-many multilingual machine translation.",
+      "url": "https://www.semanticscholar.org/paper/cf99558d35891d35ba5429cfce5ca2e2ae383b71",
+      "doi": "10.48550/arXiv.2305.13993",
+      "arxivId": "2305.13993",
+      "pdf": "https://arxiv.org/pdf/2305.13993",
+      "citationCount": 8,
+      "referenceCount": 43,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2305.13993",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "d5c6946dbbaeebc5b45e7ecf0b117f2e02e1af4f",
+      "title": "Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning",
+      "authors": [
+        "Pratik Jayarao",
+        "Chaitanya Dwivedi",
+        "Himanshu Gupta",
+        "Neeraj Varshney",
+        "Adithya M. Devraj",
+        "Meet P. Vadera",
+        "Priyanka Nigam",
+        "Bing Yin"
+      ],
+      "topAuthors": [
+        {
+          "name": "Neeraj Varshney",
+          "hIndex": 16,
+          "authorId": "2067056655"
+        },
+        {
+          "name": "Adithya M. Devraj",
+          "hIndex": 12,
+          "authorId": "2012568"
+        }
+      ],
+      "affiliations": [
+        "Amazon",
+        "Arizona State University"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-05",
+      "summary": "This work learns a single policy that decides when to translate from reward alone, developing language- and domain-adaptive introspection that invokes translation only when it cannot solve a task natively.",
+      "url": "https://www.semanticscholar.org/paper/d5c6946dbbaeebc5b45e7ecf0b117f2e02e1af4f",
+      "doi": "10.48550/arXiv.2606.06835",
+      "arxivId": "2606.06835",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 53,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2606.06835",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "a17e994acef19dc45987723b328892291b3ff5ea",
+      "title": "Tracing Multilingual Factual Knowledge Acquisition in Pretraining",
+      "authors": [
+        "Yihong Liu",
+        "Mingyang Wang",
+        "Amir Hossein Kargaran",
+        "Felicia Körner",
+        "Ercong Nie",
+        "Barbara Plank",
+        "Franccois Yvon",
+        "Hinrich Schutze"
+      ],
+      "topAuthors": [
+        {
+          "name": "Hinrich Schutze",
+          "hIndex": 17,
+          "authorId": "2130001188"
+        },
+        {
+          "name": "Ercong Nie",
+          "hIndex": 11,
+          "authorId": "2197254657"
+        }
+      ],
+      "affiliations": [
+        "LMU Munich",
+        "Centre for Information and Language Processing, LMU Munich"
+      ],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2025-05-20",
+      "summary": "This work traces how factual recall and crosslingual consistency evolve during pretraining, focusing on OLMo-7B as a case study and finds that both accuracy and consistency improve over time for most languages.",
+      "url": "https://www.semanticscholar.org/paper/a17e994acef19dc45987723b328892291b3ff5ea",
+      "doi": "10.48550/arXiv.2505.14824",
+      "arxivId": "2505.14824",
+      "pdf": null,
+      "citationCount": 12,
+      "referenceCount": 38,
+      "influentialCitationCount": 3,
+      "source": "https://arxiv.org/abs/2505.14824",
+      "addedAt": "2026-09-23",
+      "score": 50
+    },
+    {
+      "id": "3b869bd70517c9b3b74bed854c30ae42060c2b20",
+      "title": "Probing the Emergence of Cross-lingual Alignment during LLM Training",
+      "authors": [
+        "Hetong Wang",
+        "Pasquale Minervini",
+        "E. Ponti"
+      ],
+      "topAuthors": [
+        {
+          "name": "E. Ponti",
+          "hIndex": 33,
+          "authorId": "3381663"
+        },
+        {
+          "name": "Pasquale Minervini",
+          "hIndex": 12,
+          "authorId": "2294362638"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-06-19",
+      "summary": "A high correlation between neuron overlap and downstream performance, which supports the hypothesis on the conditions leading to effective cross-lingual transfer and detects a degradation of both implicit alignment and multilingual abilities in certain phases of the pre-training process.",
+      "url": "https://www.semanticscholar.org/paper/3b869bd70517c9b3b74bed854c30ae42060c2b20",
+      "doi": "10.48550/arXiv.2406.13229",
+      "arxivId": "2406.13229",
+      "pdf": null,
+      "citationCount": 48,
+      "referenceCount": 40,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2406.13229",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "95d04c501e1f71f8be3430a861e91789d474cbfd",
+      "title": "ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining, Finetuning, and Decoding the Curse of Multilinguality",
+      "authors": [
+        "Shayne Longpre",
+        "Sneha Kudugunta",
+        "Niklas Muennighoff",
+        "I-Hung Hsu",
+        "Isaac Caswell",
+        "Alex Pentland",
+        "Sercan Ö. Arik",
+        "Chen-Yu Lee",
+        "Sayna Ebrahimi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Niklas Muennighoff",
+          "hIndex": 50,
+          "authorId": "2037383772"
+        },
+        {
+          "name": "Sercan Ö. Arik",
+          "hIndex": 47,
+          "authorId": "2676352"
+        }
+      ],
+      "affiliations": [
+        "Google"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-10-24",
+      "summary": "The Adaptive Transfer Scaling Law (ATLAS) is introduced for both monolingual and multilingual pretraining, which outperforms existing scaling laws' out-of-sample generalization often by more than 0.3 R^2.",
+      "url": "https://www.semanticscholar.org/paper/95d04c501e1f71f8be3430a861e91789d474cbfd",
+      "doi": "10.48550/arXiv.2510.22037",
+      "arxivId": "2510.22037",
+      "pdf": null,
+      "citationCount": 17,
+      "referenceCount": 65,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2510.22037",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "710763f2a9fddbbb2cf47adc542ea7b7ef161eac",
+      "title": "Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment",
+      "authors": [
+        "Chong Li",
+        "Shaonan Wang",
+        "Jiajun Zhang",
+        "Chengqing Zong"
+      ],
+      "topAuthors": [
+        {
+          "name": "Chengqing Zong",
+          "hIndex": 18,
+          "authorId": "2064100826"
+        },
+        {
+          "name": "Shaonan Wang",
+          "hIndex": 16,
+          "authorId": "2761251"
+        }
+      ],
+      "affiliations": [
+        "the Institute of Automation Chinese Academy of Sciences",
+        "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences"
+      ],
+      "year": 2023,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2023-11-14",
+      "summary": "A simple yet effective cross-lingual alignment framework exploiting pairs of translation sentences aligns the internal sentence representations across different languages via multilingual contrastive learning and aligns outputs by following cross-lingual instructions in the target language.",
+      "url": "https://www.semanticscholar.org/paper/710763f2a9fddbbb2cf47adc542ea7b7ef161eac",
+      "doi": "10.18653/v1/2024.naacl-long.445",
+      "arxivId": "2311.08089",
+      "pdf": "https://aclanthology.org/2024.naacl-long.445.pdf",
+      "citationCount": 55,
+      "referenceCount": 57,
+      "influentialCitationCount": 6,
+      "source": "https://arxiv.org/abs/2311.08089",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "78d9f4a6bc0f53d0594a752f0934a3689b4460d8",
+      "title": "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models",
+      "authors": [
+        "Zirui Wang",
+        "Yulia Tsvetkov",
+        "Orhan Firat",
+        "Yuan Cao"
+      ],
+      "topAuthors": [
+        {
+          "name": "Orhan Firat",
+          "hIndex": 47,
+          "authorId": "2345617"
+        },
+        {
+          "name": "Yulia Tsvetkov",
+          "hIndex": 37,
+          "authorId": "145317727"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "Google DeepMind"
+      ],
+      "year": 2020,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2020-10-12",
+      "summary": "This work derives a simple and scalable optimization procedure, named Gradient Vaccine, which encourages more geometrically aligned parameter updates for close tasks and reveals the importance of properly measuring and utilizing language proximity in multilingual optimization, and has broader implications for multi-task learning beyond multilingual modeling.",
+      "url": "https://www.semanticscholar.org/paper/78d9f4a6bc0f53d0594a752f0934a3689b4460d8",
+      "doi": null,
+      "arxivId": "2010.05874",
+      "pdf": null,
+      "citationCount": 257,
+      "referenceCount": 55,
+      "influentialCitationCount": 34,
+      "source": "https://arxiv.org/abs/2010.05874",
+      "addedAt": "2026-09-23",
+      "score": 37.5
+    },
+    {
+      "id": "71bd93626ac1b3533f2cdbd82da40ceb2be969b1",
+      "title": "MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning",
+      "authors": [
+        "Zhao-Peng Feng",
+        "Shaosheng Cao",
+        "Jiahan Ren",
+        "Jiayuan Su",
+        "Ruizhe Chen",
+        "Yan Zhang",
+        "Zhe Xu",
+        "Yao Hu",
+        "Jian Wu",
+        "Zuozhu Liu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ruizhe Chen",
+          "hIndex": 15,
+          "authorId": "2255346632"
+        },
+        {
+          "name": "Zuozhu Liu",
+          "hIndex": 13,
+          "authorId": "2258784763"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2025-04-14",
+      "summary": "This work introduces MT-R1-Zero, the first open-source adaptation of the R1-Zero RL framework for MT without supervised fine-tuning or cold-start, and proposes a rule-metric mixed reward mechanism to guide LLMs towards improved translation quality via emergent reasoning.",
+      "url": "https://www.semanticscholar.org/paper/71bd93626ac1b3533f2cdbd82da40ceb2be969b1",
+      "doi": "10.48550/arXiv.2504.10160",
+      "arxivId": "2504.10160",
+      "pdf": null,
+      "citationCount": 65,
+      "referenceCount": 64,
+      "influentialCitationCount": 12,
+      "source": "https://arxiv.org/abs/2504.10160",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "23c6706bc8ec8eae162ed8565e5b9ebd57ae00f0",
+      "title": "Multilingual Instruction Tuning With Just a Pinch of Multilinguality",
+      "authors": [
+        "Uri Shaham",
+        "Jonathan Herzig",
+        "Roee Aharoni",
+        "Idan Szpektor",
+        "Reut Tsarfaty",
+        "Matan Eyal"
+      ],
+      "topAuthors": [
+        {
+          "name": "Idan Szpektor",
+          "hIndex": 37,
+          "authorId": "1711977"
+        },
+        {
+          "name": "Reut Tsarfaty",
+          "hIndex": 30,
+          "authorId": "2799181"
+        }
+      ],
+      "affiliations": [
+        "Google"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-01-03",
+      "summary": "This work investigates how multilinguality during instruction tuning of a multilingual LLM affects instruction-following across languages from the pre-training corpus, and suggests that building massively multilingual instruction-tuned models can be done with only a very small set of multilingual instruction-responses.",
+      "url": "https://www.semanticscholar.org/paper/23c6706bc8ec8eae162ed8565e5b9ebd57ae00f0",
+      "doi": "10.48550/arXiv.2401.01854",
+      "arxivId": "2401.01854",
+      "pdf": null,
+      "citationCount": 90,
+      "referenceCount": 50,
+      "influentialCitationCount": 4,
+      "source": "https://arxiv.org/abs/2401.01854",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "66aa16f49ad4dcfd30655fe51fd736a93fef40a4",
+      "title": "Causes and Cures for Interference in Multilingual Translation",
+      "authors": [
+        "Uri Shaham",
+        "Maha Elbayad",
+        "Vedanuj Goswami",
+        "Omer Levy",
+        "Shruti Bhosale"
+      ],
+      "topAuthors": [
+        {
+          "name": "Omer Levy",
+          "hIndex": 53,
+          "authorId": "39455775"
+        },
+        {
+          "name": "Vedanuj Goswami",
+          "hIndex": 22,
+          "authorId": "28554843"
+        }
+      ],
+      "affiliations": [
+        "Meta",
+        "Inria, University Grenoble alpes, LIG"
+      ],
+      "year": 2022,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2022-12-14",
+      "summary": "This work identifies the main factors that contribute to interference in multilingual machine translation and shows that tuning the sampling temperature to control the proportion of each language pair in the data is key to balancing the amount of interference between low and high resource language pairs effectively.",
+      "url": "https://www.semanticscholar.org/paper/66aa16f49ad4dcfd30655fe51fd736a93fef40a4",
+      "doi": "10.48550/arXiv.2212.07530",
+      "arxivId": "2212.07530",
+      "pdf": "http://arxiv.org/pdf/2212.07530",
+      "citationCount": 36,
+      "referenceCount": 37,
+      "influentialCitationCount": 5,
+      "source": "https://arxiv.org/abs/2212.07530",
+      "addedAt": "2026-09-23",
+      "score": 75
+    },
+    {
+      "id": "0c0e6803c47a948b63429fe7321cdc55380f0b91",
+      "title": "The Geometry of Low-Resource Language Representations",
+      "authors": [
+        "Francois Meyer",
+        "Jan Buys"
+      ],
+      "topAuthors": [
+        {
+          "name": "Francois Meyer",
+          "hIndex": 5,
+          "authorId": "2056223041"
+        },
+        {
+          "name": "Jan Buys",
+          "hIndex": 3,
+          "authorId": "2290910174"
+        }
+      ],
+      "affiliations": [
+        "University of Cape Town"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-08-24",
+      "summary": "It is established that the representational geometry of low- and high-resource languages in LLMs is measurably distinct, and that targeted geometric intervention is a viable strategy for improving CPT for low-resource languages.",
+      "url": "https://www.semanticscholar.org/paper/0c0e6803c47a948b63429fe7321cdc55380f0b91",
+      "doi": null,
+      "arxivId": "2608.23358",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 22,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2608.23358",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "0d2390cb571477ced2743003c515a47cc9661f57",
+      "title": "IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces",
+      "authors": [
+        "Kelly Marchisio",
+        "Neha Verma",
+        "Kevin Duh",
+        "Philipp Koehn"
+      ],
+      "topAuthors": [
+        {
+          "name": "Philipp Koehn",
+          "hIndex": 69,
+          "authorId": "1755162"
+        },
+        {
+          "name": "Kevin Duh",
+          "hIndex": 46,
+          "authorId": "1800354"
+        }
+      ],
+      "affiliations": [
+        "Johns Hopkins University",
+        "Cohere"
+      ],
+      "year": 2022,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2022-10-11",
+      "summary": "This work addresses the root-cause of faulty cross-lingual mapping: that word embedding training resulted in the underlying spaces being non-isomorphic, and incorporates global measures of isomorphism directly into the skipgram loss function, successfully increasing the relative isomorphicism of trained word embeding spaces and improving their ability to be mapped to a shared cross-lingsual space.",
+      "url": "https://www.semanticscholar.org/paper/0d2390cb571477ced2743003c515a47cc9661f57",
+      "doi": "10.48550/arXiv.2210.05098",
+      "arxivId": "2210.05098",
+      "pdf": "https://arxiv.org/pdf/2210.05098",
+      "citationCount": 8,
+      "referenceCount": 68,
+      "influentialCitationCount": 3,
+      "source": "https://arxiv.org/abs/2210.05098",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "fc76a9de53afcf734aed432d2ee3fd29e73bb970",
+      "title": "Exploring Alignment in Shared Cross-lingual Spaces",
+      "authors": [
+        "Basel Mousi",
+        "Nadir Durrani",
+        "Fahim Dalvi",
+        "Majd Hawasly",
+        "Ahmed Abdelali"
+      ],
+      "topAuthors": [
+        {
+          "name": "Nadir Durrani",
+          "hIndex": 37,
+          "authorId": "145938140"
+        },
+        {
+          "name": "Fahim Dalvi",
+          "hIndex": 29,
+          "authorId": "6415321"
+        }
+      ],
+      "affiliations": [
+        "Qatar Computing Research Institute"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-05-23",
+      "summary": "This study encompasses three multilingual models and three downstream tasks and employs clustering to uncover latent concepts within multilingual models, focusing on quantifying the alignment and overlap of these concepts across various languages within the latent space.",
+      "url": "https://www.semanticscholar.org/paper/fc76a9de53afcf734aed432d2ee3fd29e73bb970",
+      "doi": "10.48550/arXiv.2405.14535",
+      "arxivId": "2405.14535",
+      "pdf": null,
+      "citationCount": 14,
+      "referenceCount": 29,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2405.14535",
+      "addedAt": "2026-09-23",
+      "score": 37.5
+    },
+    {
+      "id": "b140103c6597ca9a5bcee7a4a99f1b8aa106b017",
+      "title": "Shared Global and Local Geometry of Language Model Embeddings",
+      "authors": [
+        "Andrew Lee",
+        "M. Weber",
+        "Fernanda Viégas",
+        "M. Wattenberg"
+      ],
+      "topAuthors": [
+        {
+          "name": "Andrew Lee",
+          "hIndex": 11,
+          "authorId": "2237957247"
+        },
+        {
+          "name": "Fernanda Viégas",
+          "hIndex": 11,
+          "authorId": "2203369547"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-03-27",
+      "summary": "This work finds numerous geometric similarities across the token embeddings of large language models and introduces EMB2EMB, a simple application to linearly transform steering vectors from one language model to another, despite the two models having different dimensions.",
+      "url": "https://www.semanticscholar.org/paper/b140103c6597ca9a5bcee7a4a99f1b8aa106b017",
+      "doi": "10.48550/arXiv.2503.21073",
+      "arxivId": "2503.21073",
+      "pdf": null,
+      "citationCount": 36,
+      "referenceCount": 52,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2503.21073",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "d0e2e6c98a7b2c8360aa091c0dc0a270edec8468",
+      "title": "Discovering Low-rank Subspaces for Language-agnostic Multilingual Representations",
+      "authors": [
+        "Zhihui Xie",
+        "Handong Zhao",
+        "Tong Yu",
+        "Shuai Li"
+      ],
+      "topAuthors": [
+        {
+          "name": "Handong Zhao",
+          "hIndex": 28,
+          "authorId": "7574699"
+        },
+        {
+          "name": "Tong Yu",
+          "hIndex": 28,
+          "authorId": "1500399016"
+        }
+      ],
+      "affiliations": [
+        "Adobe Research",
+        "Shanghai Jiao Tong University"
+      ],
+      "year": 2024,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2024-01-11",
+      "summary": "A novel view of projecting away language-specific factors from a multilingual embedding space is provided and it is found that there exists a low-rank subspace that primarily encodes information irrelevant to semantics (e.g., syntactic information).",
+      "url": "https://www.semanticscholar.org/paper/d0e2e6c98a7b2c8360aa091c0dc0a270edec8468",
+      "doi": "10.18653/v1/2022.emnlp-main.379",
+      "arxivId": "2401.05792",
+      "pdf": "https://aclanthology.org/2022.emnlp-main.379.pdf",
+      "citationCount": 26,
+      "referenceCount": 47,
+      "influentialCitationCount": 4,
+      "source": "https://arxiv.org/abs/2401.05792",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "54a2e0dad730c1a955c66f3568a3fa0dca400225",
+      "title": "Beneath the Surface of Consistency: Exploring Cross-lingual Knowledge Representation Sharing in LLMs",
+      "authors": [
+        "Maxim Ifergan",
+        "Leshem Choshen",
+        "Roee Aharoni",
+        "Idan Szpektor",
+        "Omri Abend"
+      ],
+      "topAuthors": [
+        {
+          "name": "Idan Szpektor",
+          "hIndex": 37,
+          "authorId": "1711977"
+        },
+        {
+          "name": "Leshem Choshen",
+          "hIndex": 34,
+          "authorId": "41019330"
+        }
+      ],
+      "affiliations": [
+        "Weizmann Institute, EvalEval prev. MIT, IBM, Huji",
+        "Google"
+      ],
+      "year": 2024,
+      "venue": "arXiv.org",
+      "publicationDate": "2024-08-20",
+      "summary": "This work examines LLMs with various multilingual configurations using a new multilingual dataset and reveals that high consistency does not necessarily imply shared representation, particularly for languages with different scripts, and finds that script similarity is a dominant factor in representation sharing.",
+      "url": "https://www.semanticscholar.org/paper/54a2e0dad730c1a955c66f3568a3fa0dca400225",
+      "doi": "10.48550/arXiv.2408.10646",
+      "arxivId": "2408.10646",
+      "pdf": null,
+      "citationCount": 25,
+      "referenceCount": 28,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2408.10646",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "cc8053a1112f09727ff0c01c4f2c3a93ca07eb11",
+      "title": "Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG",
+      "authors": [
+        "Dayeon Ki",
+        "Marine Carpuat",
+        "Paul McNamee",
+        "Daniel Khashabi",
+        "Eugene Yang",
+        "Dawn J. Lawrie",
+        "Kevin Duh"
+      ],
+      "topAuthors": [
+        {
+          "name": "Marine Carpuat",
+          "hIndex": 36,
+          "authorId": "2954727"
+        },
+        {
+          "name": "Eugene Yang",
+          "hIndex": 18,
+          "authorId": "153564640"
+        }
+      ],
+      "affiliations": [
+        "University of Maryland",
+        "Johns Hopkins University"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-09-17",
+      "summary": "A controlled methodology using model internals to measure language preference while holding other factors such as document relevance constant is introduced, finding that models sometimes trade-off document relevance for language preference, indicating that citation choices are not always driven by informativeness alone.",
+      "url": "https://www.semanticscholar.org/paper/cc8053a1112f09727ff0c01c4f2c3a93ca07eb11",
+      "doi": "10.48550/arXiv.2509.13930",
+      "arxivId": "2509.13930",
+      "pdf": null,
+      "citationCount": 9,
+      "referenceCount": 78,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2509.13930",
+      "addedAt": "2026-09-23",
+      "score": 50
+    },
+    {
+      "id": "37acde6b15451a15e818baed703d49a1aaf6bf59",
+      "title": "Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task",
+      "authors": [
+        "Leonardo Ranaldi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Leonardo Ranaldi",
+          "hIndex": 16,
+          "authorId": "2008183566"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 35,
+      "influentialCitationCount": 0,
+      "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "c9db485a3f293db6518ce82eac840bed4cebfb8b",
+      "title": "Learning Cross-Lingual IR from an English Retriever",
+      "authors": [
+        "Yulong Li",
+        "Martin Franz",
+        "Md Arafat Sultan",
+        "Bhavani Iyer",
+        "Young-Suk Lee",
+        "Avirup Sil"
+      ],
+      "topAuthors": [
+        {
+          "name": "Avirup Sil",
+          "hIndex": 27,
+          "authorId": "2707234"
+        },
+        {
+          "name": "Martin Franz",
+          "hIndex": 21,
+          "authorId": "39038065"
+        }
+      ],
+      "affiliations": [],
+      "year": 2021,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2021-12-15",
+      "summary": "Dense Retrieval with Distillation-Enhanced Cross-Lingual Representation, a new cross-lingual information retrieval (CLIR) system trained using multi-stage knowledge distillation (KD), which demonstrates far superior accuracy over direct fine-tuning with labeled CLIR data.",
+      "url": "https://www.semanticscholar.org/paper/c9db485a3f293db6518ce82eac840bed4cebfb8b",
+      "doi": "10.18653/v1/2022.naacl-main.329",
+      "arxivId": "2112.08185",
+      "pdf": "https://aclanthology.org/2022.naacl-main.329.pdf",
+      "citationCount": 36,
+      "referenceCount": 18,
+      "influentialCitationCount": 3,
+      "source": "https://arxiv.org/abs/2112.08185",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "20f62276e676f8f68e1b6ecbdf20f8dbdd0a3b4a",
+      "title": "Multilingual Retrieval Augmented Generation for Culturally-Sensitive Tasks: A Benchmark for Cross-lingual Robustness",
+      "authors": [
+        "Bryan Li",
+        "Fiona Luo",
+        "Samar Haider",
+        "Adwait Agashe",
+        "Tammy Li",
+        "Runqi Liu",
+        "Muqing Miao",
+        "S. Ramakrishnan",
+        "Yuan Yuan",
+        "Christopher Callison-Burch"
+      ],
+      "topAuthors": [
+        {
+          "name": "Christopher Callison-Burch",
+          "hIndex": 15,
+          "authorId": "2266396865"
+        },
+        {
+          "name": "Bryan Li",
+          "hIndex": 10,
+          "authorId": "82630293"
+        }
+      ],
+      "affiliations": [
+        "Google"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-10-01",
+      "summary": "This work introduces BordIRLines, a dataset of territorial disputes paired with retrieved Wikipedia documents, across 49 languages and considers how RAG responses utilize presented documents, finding a much wider variance in the linguistic distribution of response citations, when querying in low-resource languages.",
+      "url": "https://www.semanticscholar.org/paper/20f62276e676f8f68e1b6ecbdf20f8dbdd0a3b4a",
+      "doi": "10.18653/v1/2025.findings-acl.219",
+      "arxivId": "2410.01171",
+      "pdf": "https://aclanthology.org/2025.findings-acl.219.pdf",
+      "citationCount": 18,
+      "referenceCount": 27,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2410.01171",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "fbf7c1386a188157cdee15e92a5b193ab17d68a7",
+      "title": "Hire a Linguist!: Learning Endangered Languages with In-Context Linguistic Descriptions",
+      "authors": [
+        "Kexun Zhang",
+        "Yee Man Choi",
+        "Zhenqiao Song",
+        "Taiqi He",
+        "W. Wang",
+        "Lei Li"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lei Li",
+          "hIndex": 62,
+          "authorId": "143900005"
+        },
+        {
+          "name": "Kexun Zhang",
+          "hIndex": 11,
+          "authorId": "2119058805"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "University of Waterloo"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-02-28",
+      "summary": "This work proposes LINGOLLM, a training-free approach to enable an LLM to process unseen languages that hardly occur in its pre-training, and elevates translation capability from GPT-4's 0 to 10.5 BLEU for 10 language directions.",
+      "url": "https://www.semanticscholar.org/paper/fbf7c1386a188157cdee15e92a5b193ab17d68a7",
+      "doi": "10.48550/arXiv.2402.18025",
+      "arxivId": "2402.18025",
+      "pdf": null,
+      "citationCount": 21,
+      "referenceCount": 38,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2402.18025",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "02a85c3c1fa5115b7f9638128c2866e7a0653fa2",
+      "title": "Multilingual Test-Time Scaling via Initial Thought Transfer",
+      "authors": [
+        "Prasoon Bajpai",
+        "Tanmoy Chakraborty"
+      ],
+      "topAuthors": [
+        {
+          "name": "Prasoon Bajpai",
+          "hIndex": 4,
+          "authorId": "2316430178"
+        },
+        {
+          "name": "Tanmoy Chakraborty",
+          "hIndex": 4,
+          "authorId": "2342685356"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-05-21",
+      "summary": "The first systematic study of test-time scaling in multilingual settings is presented, evaluating DeepSeek-R1-Distill-LLama-8B and DeepSeek-R1-Distill-Qwen-7B across both high- and low-resource Latin-script languages.",
+      "url": "https://www.semanticscholar.org/paper/02a85c3c1fa5115b7f9638128c2866e7a0653fa2",
+      "doi": "10.48550/arXiv.2505.15508",
+      "arxivId": "2505.15508",
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 37,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2505.15508",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "7acbbdd68e7bd35b6073eb5a16b14fb60907f686",
+      "title": "Beyond Input Understanding: Diagnosing Multilingual Mathematical Reasoning with Directed Acyclic Trace Graphs",
+      "authors": [
+        "Jia-Qiao Zhang",
+        "Zhoujun Li",
+        "Raoyuan Zhao",
+        "Jian Lan",
+        "Thomas Seidl",
+        "Michael A. Hedderich",
+        "Hinrich Schutze",
+        "Yihong Liu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zhoujun Li",
+          "hIndex": 19,
+          "authorId": "2258837278"
+        },
+        {
+          "name": "Hinrich Schutze",
+          "hIndex": 17,
+          "authorId": "2130001188"
+        }
+      ],
+      "affiliations": [
+        "CIS, LMU Munich"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-26",
+      "summary": "DATG, a Directed Acyclic Trace Graph framework that maps reasoning traces to language-independent mathematical anchors and dependencies, is introduced and Loop-Retry and Formula-Retry are proposed, two simple test-time controls targeting DATG-exposed failure modes that consistently improve target-language reasoning performance in low-resource languages.",
+      "url": "https://www.semanticscholar.org/paper/7acbbdd68e7bd35b6073eb5a16b14fb60907f686",
+      "doi": "10.48550/arXiv.2605.27715",
+      "arxivId": "2605.27715",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 84,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2605.27715",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "471aa1ae5b8d8309ba32e59ecf8a38cb527faf79",
+      "title": "Rethinking Cross-lingual Alignment: Balancing Transfer and Cultural Erasure in Multilingual LLMs",
+      "authors": [
+        "HyoJung Han",
+        "Sweta Agrawal",
+        "Eleftheria Briakou"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sweta Agrawal",
+          "hIndex": 21,
+          "authorId": "5112699"
+        },
+        {
+          "name": "Eleftheria Briakou",
+          "hIndex": 5,
+          "authorId": "2343507548"
+        }
+      ],
+      "affiliations": [
+        "University of Maryland, College Park"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-10-29",
+      "summary": "This work systematically analyze the cross-lingual alignment trade-off by introducing a holistic evaluation framework, the transfer-localization plane, which quantifies both desirable knowledge transfer and undesirable cultural erasure, and proposes Surgical Steering, a novel inference-time method that disentangles these two objectives.",
+      "url": "https://www.semanticscholar.org/paper/471aa1ae5b8d8309ba32e59ecf8a38cb527faf79",
+      "doi": "10.48550/arXiv.2510.26024",
+      "arxivId": "2510.26024",
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 50,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2510.26024",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "f1d195191e280980734e221bce83dae508fbf319",
+      "title": "Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention",
+      "authors": [
+        "Weixuan Wang",
+        "Minghao Wu",
+        "Barry Haddow",
+        "Alexandra Birch"
+      ],
+      "topAuthors": [
+        {
+          "name": "Alexandra Birch",
+          "hIndex": 9,
+          "authorId": "2261083421"
+        },
+        {
+          "name": "Weixuan Wang",
+          "hIndex": 8,
+          "authorId": "46314360"
+        }
+      ],
+      "affiliations": [],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-10-16",
+      "summary": "Inference-Time Cross-Lingual Intervention (INCLINE), a novel framework that enhances LLM performance on low-performing languages by aligning their internal representations with those of high-performing languages during inference, is proposed.",
+      "url": "https://www.semanticscholar.org/paper/f1d195191e280980734e221bce83dae508fbf319",
+      "doi": "10.48550/arXiv.2410.12462",
+      "arxivId": "2410.12462",
+      "pdf": null,
+      "citationCount": 32,
+      "referenceCount": 57,
+      "influentialCitationCount": 5,
+      "source": "https://arxiv.org/abs/2410.12462",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "a5b394a8faf0dae19d87a15bba48f81fe0176c09",
+      "title": "PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows",
+      "authors": [
+        "Hongliang Li",
+        "Yijin Liu",
+        "Zhiwei Zhang",
+        "Zihe Liu",
+        "Xinyue Lou",
+        "Jinan Xu",
+        "Fandong Meng",
+        "Kaiyu Huang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Fandong Meng",
+          "hIndex": 42,
+          "authorId": "33427918"
+        },
+        {
+          "name": "Yijin Liu",
+          "hIndex": 8,
+          "authorId": "2108060455"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-07-07",
+      "summary": "Benchmark evaluations reveal that agent performance varies substantially across languages and drops sharply on the harder cross-lingual tasks, and analysis shows that multilingual execution exposes systematic failure modes across planning, tool interaction, and decision-making in long-horizon agents.",
+      "url": "https://www.semanticscholar.org/paper/a5b394a8faf0dae19d87a15bba48f81fe0176c09",
+      "doi": null,
+      "arxivId": "2607.06008",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 28,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2607.06008",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "c69e105a3ad44f434184207b93f5c53b1a7eaaa1",
+      "title": "Lingua Franca or Probing Artifact? Rethinking Latent Language in Multilingual LLMs",
+      "authors": [
+        "Deniz Bayazit",
+        "Badr AlKhamissi",
+        "Antoine Bosselut"
+      ],
+      "topAuthors": [
+        {
+          "name": "Badr AlKhamissi",
+          "hIndex": 13,
+          "authorId": "2006905770"
+        },
+        {
+          "name": "Antoine Bosselut",
+          "hIndex": 12,
+          "authorId": "2284866282"
+        }
+      ],
+      "affiliations": [
+        "EPFL",
+        "EPFL NLP"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-08-31",
+      "summary": "This work finds that identification probes systematically disagree: the GMM-based representation probe, which draws evidence from hidden state geometry, shows earlier cross-lingual mixing, whereas decoding-based probes, which rely on output-space decodability, retain sharper language-specific and more English-biased signals.",
+      "url": "https://www.semanticscholar.org/paper/c69e105a3ad44f434184207b93f5c53b1a7eaaa1",
+      "doi": null,
+      "arxivId": "2609.00155",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 26,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2609.00155",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "96edfa3441bb3624ea2b8bdfc5eec2c87efa9637",
+      "title": "Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models",
+      "authors": [
+        "Tianyi Tang",
+        "Wenyang Luo",
+        "Haoyang Huang",
+        "Dongdong Zhang",
+        "Xiaolei Wang",
+        "Xin Zhao",
+        "F. Wei",
+        "Ji-Rong Wen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Tianyi Tang",
+          "hIndex": 17,
+          "authorId": "1997234792"
+        },
+        {
+          "name": "Haoyang Huang",
+          "hIndex": 17,
+          "authorId": "15086992"
+        }
+      ],
+      "affiliations": [
+        "Renmin University of China"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-02-26",
+      "summary": "This paper delves into the composition of Transformer architectures in LLMs to pinpoint language-specific regions, and proposes a novel detection method, language activation probability entropy (LAPE), to identify language-specific neurons within LLMs.",
+      "url": "https://www.semanticscholar.org/paper/96edfa3441bb3624ea2b8bdfc5eec2c87efa9637",
+      "doi": "10.48550/arXiv.2402.16438",
+      "arxivId": "2402.16438",
+      "pdf": null,
+      "citationCount": 140,
+      "referenceCount": 49,
+      "influentialCitationCount": 18,
+      "source": "https://arxiv.org/abs/2402.16438",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "53804a199653d0482f1423732218b6586436e281",
+      "title": "Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models",
+      "authors": [
+        "Mingyang Wang",
+        "Heike Adel",
+        "Lukas Lange",
+        "Yihong Liu",
+        "Ercong Nie",
+        "Jannik Strötgen",
+        "Hinrich Schutze"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jannik Strötgen",
+          "hIndex": 26,
+          "authorId": "2013656"
+        },
+        {
+          "name": "Hinrich Schutze",
+          "hIndex": 17,
+          "authorId": "2130001188"
+        }
+      ],
+      "affiliations": [
+        "Centre for Information and Language Processing, LMU Munich",
+        "CIS, LMU Munich"
+      ],
+      "year": 2025,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2025-04-05",
+      "summary": "This work uses mechanistic interpretability methods to investigate cross-lingual inconsistencies in MLMs and proposes a linear shortcut method that bypasses computations in the final layers, enhancing both prediction accuracy and cross-lingual consistency.",
+      "url": "https://www.semanticscholar.org/paper/53804a199653d0482f1423732218b6586436e281",
+      "doi": "10.48550/arXiv.2504.04264",
+      "arxivId": "2504.04264",
+      "pdf": null,
+      "citationCount": 58,
+      "referenceCount": 32,
+      "influentialCitationCount": 6,
+      "source": "https://arxiv.org/abs/2504.04264",
+      "addedAt": "2026-09-23",
+      "score": 62.5
+    },
+    {
+      "id": "503131e020696ab54bf0ff6652f1c150592b83b0",
+      "title": "Challenges and Recommendations for LLM-as-a-Judge in Multilingual Settings and for Low-Resource Languages",
+      "authors": [
+        "A. Dougruoz",
+        "Xixian Liao",
+        "Verena Blaschke",
+        "Jakob Prange",
+        "Senyu Li",
+        "D. Adelani"
+      ],
+      "topAuthors": [
+        {
+          "name": "Verena Blaschke",
+          "hIndex": 9,
+          "authorId": "66323160"
+        },
+        {
+          "name": "D. Adelani",
+          "hIndex": 4,
+          "authorId": "2379662831"
+        }
+      ],
+      "affiliations": [
+        "LMU Munich",
+        "MCML"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-07-02",
+      "summary": "A checklist of recommendations about how to use LLM-as-a-Judge in multilingual and low-resource settings is concluded with a checklist of recommendations about how to use LLM-as-a-Judge in multilingual and low-resource settings.",
+      "url": "https://www.semanticscholar.org/paper/503131e020696ab54bf0ff6652f1c150592b83b0",
+      "doi": null,
+      "arxivId": "2607.02235",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 90,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2607.02235",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "0815de60c8f83d16b9cdf0a3b0d912b17895f183",
+      "title": "Last Translation Benchmark",
+      "authors": [
+        "Vilém Zouhar",
+        "Niyati Bafna",
+        "Mukund Choudhary",
+        "Maike Züfle",
+        "Sara Rajaee",
+        "Pinzhen Chen",
+        "Jannis Vamvas",
+        "Sara Papi",
+        "Ona de Gibert",
+        "Bhavitvya Malik",
+        "Eliya Habba",
+        "O. M. Mastromichalakis",
+        "Patrícia Schmidtová",
+        "Michelle Wastl",
+        "Sheriff M. Issaka",
+        "Leshem Choshen",
+        "Stella Biderman",
+        "Antonis Anastasopoulos",
+        "Jan Niehues",
+        "Rico Sennrich",
+        "Mrinmaya Sachan",
+        "Ondrej Bojar",
+        "Kenton Murray",
+        "Jörg Tiedemann",
+        "Alham Fikri Aji",
+        "Philipp Koehn",
+        "C. Monz",
+        "Alexandra Birch",
+        "Sowmya Vajjala",
+        "C. Kranti",
+        "Cristina España-Bonet",
+        "Nobin Sarwar",
+        "David Kaczér",
+        "Shunta Asano",
+        "Malik Marmonier",
+        "Daban Q. Jaff",
+        "Vaisakhi Mishra",
+        "H. Al-Khalifa",
+        "Gabriele Sarti",
+        "Sourajit Saha",
+        "N. Rehlinger",
+        "J. C. Villa",
+        "Jonathan Tonglet",
+        "Saugata Purkayastha",
+        "Dominik Machácek",
+        "Jagannathan Ramanujam",
+        "Heejin Do",
+        "Zuzana Nadova",
+        "Fred Philippy",
+        "Fabian Retkowski",
+        "Maria Lymperaiou",
+        "Silvia Casola",
+        "Hanna Yukhymenko",
+        "Shubhashis Roy Dipta",
+        "Sangwon Ryu",
+        "Andrés Jerez",
+        "Ron Keinan",
+        "S. S. Yusuf",
+        "Avantica Vempati",
+        "M. Staiano",
+        "Sukannya Purkayastha",
+        "Adrian Cosma",
+        "V. Babenko",
+        "Erivan Inan",
+        "A. Nigam",
+        "W. Aissa",
+        "Fatima Haouari",
+        "Venkata Gummadi",
+        "Mehdi Jafarzadeh",
+        "Valentin Scourneau",
+        "Lukas Edman",
+        "Kaiser Sun",
+        "Shaomu Tan",
+        "Mohammad Sadegh Gholizadeh",
+        "Johannes-Rudolf David",
+        "Dipankar Srirag",
+        "Javier García Gilabert",
+        "R. Binkytė",
+        "Manar Ali",
+        "Ana-Maria Bucur",
+        "Sabry E. Farrag",
+        "Youssef Saber",
+        "Yihong Liu",
+        "Jean Maillard",
+        "Cojocaru Nicoleta",
+        "Xiao-Chuang Yuan",
+        "Sina Ahmadi",
+        "Philipp Mondorf",
+        "Kaustubh D. Dhole",
+        "Roman Wixinger",
+        "Shenbin Qian",
+        "Manuel Tuor",
+        "S. Troshin",
+        "J. Yahav",
+        "Fida Mohammad Thoker",
+        "Amir Arsalan Rezapour",
+        "Lance Calvin Lim Gamboa",
+        "Manon Reusens",
+        "Kätriin Kukk",
+        "Koel Dutta Chowdhury",
+        "Giuseppe Gallipoli",
+        "Christian Hoang",
+        "Shaswati Saha",
+        "Seth Aycock",
+        "Jan Koco'n",
+        "Bo Chen",
+        "Linh Vu",
+        "Vatsal Venkatkrishna",
+        "Arafat Ahsan",
+        "L. Nguyen",
+        "Hassan Soliman",
+        "Daryna Dementieva",
+        "Theresia Veronika Rampisela",
+        "Ngoc Quynh Tram Do",
+        "M. Huber",
+        "Kazuki Egashira",
+        "Azmine Toushik Wasi",
+        "Vladislav Poritski",
+        "Mike Zhang",
+        "D. Shah",
+        "Paul Gavrikov",
+        "Luis Frentzen Salim",
+        "D. Africa",
+        "R. Damanhuri",
+        "Bello Bello",
+        "A. Garg",
+        "G. Rao",
+        "Pawan Sasanka Ammanamanchi",
+        "Kamile Dementaviciute",
+        "Andrianos Michail",
+        "L. D. M. S. Sai Teja",
+        "Da-Wei Zhu",
+        "Yi Fan",
+        "Wei Liu",
+        "Farhan Farsi",
+        "Elias Herranen",
+        "Sankalan Pal Chowdhury",
+        "Karen Sanchez",
+        "Farzad Shami",
+        "Ashok Urlana",
+        "Zi-Mu Wang",
+        "Tomasz Limisiewicz",
+        "Priyaranjan Pattnayak",
+        "Marii Ojastu",
+        "Hongbin Na",
+        "Emilian Radoi",
+        "Chen-Yi Zhao",
+        "Carlos Hinojosa",
+        "Andrea Gregor de Varda",
+        "Zaid Alyafeai",
+        "Reem Alzahrani",
+        "Nehal Kathrotia",
+        "Alex Flückiger",
+        "Ulysses Sekai Tully Carr",
+        "J. Layacan",
+        "Guy Kaplan",
+        "R. Tiwari",
+        "Rishit Dagli",
+        "O. Volchek",
+        "Isaac Caswell",
+        "Bo-Wen Yi",
+        "Blanka Kövér",
+        "Amir Hossein Yari",
+        "Aicha Chorana",
+        "Zhengxiang Wang",
+        "Selja Keränen",
+        "Samuel Simko",
+        "Joy Olusanya",
+        "Jenny Chim",
+        "Enzo Doyen",
+        "Vivek Harsha Lakkamaneni",
+        "Sophia Conrad",
+        "Pouya Sadeghi",
+        "Panayiotis N. Panayiotou",
+        "Luis Lara",
+        "Jannatul Nayem",
+        "Eran Yahav",
+        "Debanshu Das",
+        "Antonia Karamolegkou",
+        "Anmol Goel",
+        "Aishik Mandal",
+        "Tommaso Cerruti",
+        "Raoyuan Zhao",
+        "Mykola Haltiuk",
+        "Thura Aung",
+        "Naser Almousa",
+        "Amir Hossein Kargaran",
+        "Rachel Bawden",
+        "Qiao-Yuan Zheng",
+        "Mateusz Lango",
+        "Béni Egressy",
+        "Fidel Rodríguez Velásquez",
+        "Natchapon Jongwiriyanurak",
+        "Minh N. Do",
+        "M. Gaido",
+        "Lena Libon",
+        "D. Kuzmin",
+        "Badal Nyalang",
+        "Antoine Taroni",
+        "Andrei Niculae",
+        "Abdulaziz Nura Kani",
+        "Rushikesh Zawar",
+        "Marek Suppa",
+        "Beatrice Savoldi",
+        "Andreas Simons",
+        "Rayyan Merchant",
+        "Ilai Yaron Levy",
+        "Francesco Pinto",
+        "Zi-Yi Yang",
+        "Y. Xavier",
+        "Samuel Frontull",
+        "Muhammad Ravi Shulthan Habibi",
+        "Kenneth C. Enevoldsen",
+        "Harris Abdul Majid",
+        "Francesca Padovani",
+        "T. Graf",
+        "Tatiana Bielakova",
+        "Sharifa Djurabaeva",
+        "Shao Ji",
+        "Raia Abu Ahmad",
+        "Pavel Stepachev",
+        "Jirui Qi",
+        "A. Munot",
+        "Alireza Pakniat",
+        "Ayla Rigouts Terryn",
+        "Yu-Xing Lu",
+        "Yurii Paniv",
+        "Xi-Yang Fu",
+        "Tosin P. Adewumi",
+        "Sunisth Kumar",
+        "Stéphane J. P. S. Thunus",
+        "S. Satish",
+        "Shayan Bali",
+        "Prakhar Gupta",
+        "Papa Abdou Karim Karou Diallo",
+        "Matej Akrap",
+        "Marko Čuljak",
+        "Kristýna Onderková",
+        "Joseph Attieh",
+        "Esrael Teferi Tensay",
+        "Elisabeth Fittschen",
+        "Benoît Sagot",
+        "Jingwei Ni",
+        "Yu Fan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Mrinmaya Sachan",
+          "hIndex": 43,
+          "authorId": "2790926"
+        },
+        {
+          "name": "Alham Fikri Aji",
+          "hIndex": 37,
+          "authorId": "8129718"
+        }
+      ],
+      "affiliations": [
+        "Fondazione Bruno Kessler",
+        "ETH Zurich"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-09-03",
+      "summary": "The Last Translation Benchmark is introduced, a collection of human-authored and peer-reviewed examples that break leading machine translation models and a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation.",
+      "url": "https://www.semanticscholar.org/paper/0815de60c8f83d16b9cdf0a3b0d912b17895f183",
+      "doi": null,
+      "arxivId": "2609.04173",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 86,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2609.04173",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "508fc087c131c59d4903fd1e7404b72e8302ed5d",
+      "title": "Extending Item Response Theory for Efficient and Meaningful Multilingual Evaluation",
+      "authors": [
+        "G. Lior",
+        "Tzviel Frostig",
+        "Gabriel Stanovsky",
+        "Matan Eyal"
+      ],
+      "topAuthors": [
+        {
+          "name": "Matan Eyal",
+          "hIndex": 13,
+          "authorId": "35298844"
+        },
+        {
+          "name": "G. Lior",
+          "hIndex": 4,
+          "authorId": "2218897793"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-14",
+      "summary": "Fitting Multilingual-IRT on 25 LLMs across 29 languages of MMLU-Pro-X shows that its fitted parameters support three practical applications: predicting unobserved instances with 11-16% lower binary cross-entropy than the strongest accuracy-based baseline, surfacing candidate translation errors distributed across all 28 non-English languages, and recovering culture-specific items that accuracy-based baselines miss.",
+      "url": "https://www.semanticscholar.org/paper/508fc087c131c59d4903fd1e7404b72e8302ed5d",
+      "doi": "10.48550/arXiv.2606.15643",
+      "arxivId": "2606.15643",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 32,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2606.15643",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "e6d1139f185acf6a08260190d4dba138f918e1df",
+      "title": "How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning",
+      "authors": [
+        "Rochelle Choenni",
+        "Dan Garrette",
+        "Ekaterina Shutova"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ekaterina Shutova",
+          "hIndex": 37,
+          "authorId": "2362276"
+        },
+        {
+          "name": "Dan Garrette",
+          "hIndex": 23,
+          "authorId": "2758616"
+        }
+      ],
+      "affiliations": [
+        "Google DeepMind"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-05-22",
+      "summary": "This study uses TracIn (Pruthi et al., 2020), a training data attribution (TDA) method, to retrieve the most influential training samples seen during multilingual fine-tuning for a particular test language and presents the first approach to study cross-lingual sharing at the data level.",
+      "url": "https://www.semanticscholar.org/paper/e6d1139f185acf6a08260190d4dba138f918e1df",
+      "doi": "10.48550/arXiv.2305.13286",
+      "arxivId": "2305.13286",
+      "pdf": "http://arxiv.org/pdf/2305.13286",
+      "citationCount": 20,
+      "referenceCount": 50,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2305.13286",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "1849955aa9e439d99082bcf038550363e9622e35",
+      "title": "Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages",
+      "authors": [
+        "E. Ponti",
+        "Ivan Vulic",
+        "Ryan Cotterell",
+        "Marinela Parovic",
+        "Roi Reichart",
+        "A. Korhonen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ivan Vulic",
+          "hIndex": 57,
+          "authorId": "1747849"
+        },
+        {
+          "name": "A. Korhonen",
+          "hIndex": 57,
+          "authorId": "145762466"
+        }
+      ],
+      "affiliations": [
+        "ETH Zurich",
+        "University of Cambridge"
+      ],
+      "year": 2020,
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "publicationDate": "2020-01-30",
+      "summary": "A Bayesian generative model for the space of neural parameters is proposed that can be factorized into latent variables for each language and each task, and infer the posteriors over such latent variables based on data from seen task–language combinations through variational inference.",
+      "url": "https://www.semanticscholar.org/paper/1849955aa9e439d99082bcf038550363e9622e35",
+      "doi": "10.1162/tacl_a_00374",
+      "arxivId": "2001.11453",
+      "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00374/1923941/tacl_a_00374.pdf",
+      "citationCount": 31,
+      "referenceCount": 101,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2001.11453",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "e1e184b3b32fd3565331bf89b3ead1c0c6e26faf",
+      "title": "Code Mixologist : A Practitioner's Guide to Building Code-Mixed LLMs",
+      "authors": [
+        "Himanshu Gupta",
+        "Pratik Jayarao",
+        "Chaitanya Dwivedi",
+        "Neeraj Varshney"
+      ],
+      "topAuthors": [
+        {
+          "name": "Pratik Jayarao",
+          "hIndex": 4,
+          "authorId": "52165322"
+        },
+        {
+          "name": "Himanshu Gupta",
+          "hIndex": 1,
+          "authorId": "2380690445"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-01-21",
+      "summary": "A unifying taxonomy is introduced that organizes prior work along dimensions of data, modeling, and evaluation, and distill these findings into a practical playbook of actionable recommendations for building, adapting, and evaluating CSW-capable LLMs.",
+      "url": "https://www.semanticscholar.org/paper/e1e184b3b32fd3565331bf89b3ead1c0c6e26faf",
+      "doi": "10.48550/arXiv.2602.11181",
+      "arxivId": "2602.11181",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 57,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2602.11181",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "04232990a6400c2627614ea4fbff28d978008df7",
+      "title": "Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data",
+      "authors": [
+        "Adithya Pratapa",
+        "Gayatri Bhat",
+        "M. Choudhury",
+        "Sunayana Sitaram",
+        "Sandipan Dandapat",
+        "Kalika Bali"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Choudhury",
+          "hIndex": 39,
+          "authorId": "143990839"
+        },
+        {
+          "name": "Kalika Bali",
+          "hIndex": 31,
+          "authorId": "3086996"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University"
+      ],
+      "year": 2018,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2018-05-22",
+      "summary": "A computational technique for creation of grammatically valid artificial CM data based on the Equivalence Constraint Theory is presented and it is shown that when training examples are sampled appropriately from this synthetic data and presented in certain order, it can significantly reduce the perplexity of an RNN-based language model.",
+      "url": "https://www.semanticscholar.org/paper/04232990a6400c2627614ea4fbff28d978008df7",
+      "doi": "10.18653/v1/P18-1143",
+      "arxivId": null,
+      "pdf": "https://www.aclweb.org/anthology/P18-1143.pdf",
+      "citationCount": 181,
+      "referenceCount": 42,
+      "influentialCitationCount": 19,
+      "source": "https://doi.org/10.18653/v1/P18-1143",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "1f874c94d531f6776f65e0aa807adbf432ea35cf",
+      "title": "Understanding and Mitigating Language Confusion in LLMs",
+      "authors": [
+        "Kelly Marchisio",
+        "Wei-Yin Ko",
+        "Alexandre Berard",
+        "Th'eo Dehaze",
+        "Sebastian Ruder"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sebastian Ruder",
+          "hIndex": 57,
+          "authorId": "2884561"
+        },
+        {
+          "name": "Alexandre Berard",
+          "hIndex": 16,
+          "authorId": "3449364"
+        }
+      ],
+      "affiliations": [
+        "Cohere"
+      ],
+      "year": 2024,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2024-06-28",
+      "summary": "The Language Confusion Benchmark (LCB) is created, which serves as a first layer of efficient, scalable multilingual evaluation and finds that language confusion can be partially mitigated via few-shot prompting, multilingual SFT and preference tuning.",
+      "url": "https://www.semanticscholar.org/paper/1f874c94d531f6776f65e0aa807adbf432ea35cf",
+      "doi": "10.48550/arXiv.2406.20052",
+      "arxivId": "2406.20052",
+      "pdf": null,
+      "citationCount": 97,
+      "referenceCount": 52,
+      "influentialCitationCount": 13,
+      "source": "https://arxiv.org/abs/2406.20052",
+      "addedAt": "2026-09-23",
+      "score": 12.5
+    },
+    {
+      "id": "b6b53ec2c85efd02e76bb2be0fff37b190c245f7",
+      "title": "Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning",
+      "authors": [
+        "Xue Zhang",
+        "Yunlong Liang",
+        "Fandong Meng",
+        "Songming Zhang",
+        "Kaiyu Huang",
+        "Yufeng Chen",
+        "Jinan Xu",
+        "Jie Zhou"
+      ],
+      "topAuthors": [
+        {
+          "name": "Fandong Meng",
+          "hIndex": 42,
+          "authorId": "33427918"
+        },
+        {
+          "name": "Yufeng Chen",
+          "hIndex": 23,
+          "authorId": "47559028"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2025-10-08",
+      "summary": "M-Thinker, which is trained by the GRPO algorithm that involves a Language Consistency (LC) reward and a novel Cross-lingual Thinking Alignment (CTA) reward, achieves nearly 100% language consistency and superior performance on two multilingual benchmarks, but also exhibit excellent generalization on out-of-domain languages.",
+      "url": "https://www.semanticscholar.org/paper/b6b53ec2c85efd02e76bb2be0fff37b190c245f7",
+      "doi": "10.48550/arXiv.2510.07300",
+      "arxivId": "2510.07300",
+      "pdf": null,
+      "citationCount": 18,
+      "referenceCount": 33,
+      "influentialCitationCount": 2,
+      "source": "https://arxiv.org/abs/2510.07300",
+      "addedAt": "2026-09-23",
+      "score": 25
+    },
+    {
+      "id": "1649e2baad47016580e8eccfb59fe3c657cf1036",
+      "title": "Beyond the Rosetta Stone: Unification Forces in Generalization Dynamics",
+      "authors": [
+        "C. Blum",
+        "Katja Filipova",
+        "Ann Yuan",
+        "Asma Ghandeharioun",
+        "Julian Zimmert",
+        "Fred Zhang",
+        "Jessica Hoffmann",
+        "Tal Linzen",
+        "Martin Wattenberg",
+        "Lucas Dixon",
+        "Mor Geva"
+      ],
+      "topAuthors": [
+        {
+          "name": "Mor Geva",
+          "hIndex": 33,
+          "authorId": "22245981"
+        },
+        {
+          "name": "Tal Linzen",
+          "hIndex": 20,
+          "authorId": "51223875"
+        }
+      ],
+      "affiliations": [
+        "Google Research"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-08-14",
+      "summary": "This work introduces a controlled setting to study the causes and training dynamics of cross-lingual knowledge transfer by training small Transformer models from scratch on synthetic multilingual datasets and suggests methods to encourage representational unification as part of training that would improve LLMs'cross-lingual transfer.",
+      "url": "https://www.semanticscholar.org/paper/1649e2baad47016580e8eccfb59fe3c657cf1036",
+      "doi": "10.48550/arXiv.2508.11017",
+      "arxivId": "2508.11017",
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 48,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2508.11017",
+      "addedAt": "2026-09-23",
+      "score": 62.5
+    },
+    {
+      "id": "bc875adfaecae20b112b1e12beceaf297371ba7d",
+      "title": "How Do Multilingual Language Models Remember Facts?",
+      "authors": [
+        "Constanza Fierro",
+        "Negar Foroutan",
+        "Desmond Elliott",
+        "Anders Søgaard"
+      ],
+      "topAuthors": [
+        {
+          "name": "Negar Foroutan",
+          "hIndex": 11,
+          "authorId": "9737058"
+        },
+        {
+          "name": "Constanza Fierro",
+          "hIndex": 8,
+          "authorId": "50110151"
+        }
+      ],
+      "affiliations": [
+        "EPFL"
+      ],
+      "year": 2024,
+      "venue": null,
+      "publicationDate": "2024-10-18",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/bc875adfaecae20b112b1e12beceaf297371ba7d",
+      "doi": null,
+      "arxivId": "2410.14387",
+      "pdf": null,
+      "citationCount": 23,
+      "referenceCount": 0,
+      "influentialCitationCount": 1,
+      "source": "https://arxiv.org/abs/2410.14387",
+      "addedAt": "2026-09-23",
+      "score": 0
+    },
+    {
+      "id": "763a2c057f529bfd3bf417fa60d93b3d5b219068",
+      "title": "Decolonising Speech and Language Technology",
+      "authors": [
+        "Steven Bird"
+      ],
+      "topAuthors": [
+        {
+          "name": "Steven Bird",
+          "hIndex": 8,
+          "authorId": "2066194290"
+        }
+      ],
+      "affiliations": [],
+      "year": 2020,
+      "venue": "International Conference on Computational Linguistics",
+      "publicationDate": "2020-12-01",
+      "summary": "This paper reviews colonising discourses in speech and language technology, and suggests new ways of working with Indigenous communities, and seeks to open a discussion of a postcolonial approach to computational methods for supporting language vitality.",
+      "url": "https://www.semanticscholar.org/paper/763a2c057f529bfd3bf417fa60d93b3d5b219068",
+      "doi": "10.18653/V1/2020.COLING-MAIN.313",
+      "arxivId": null,
+      "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
+      "citationCount": 252,
+      "referenceCount": 127,
+      "influentialCitationCount": 29,
+      "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
+      "addedAt": "2026-09-23",
+      "score": 50
     }
   ]
 }
