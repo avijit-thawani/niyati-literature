@@ -10,3 +10,60 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- Niyati Bafna, "Making NLP multilingual" (blog, Sept 2026) ---
+Enhancing Multilingual LLM Pretraining with Model-Based Data Selection
+LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages
+Balancing Training for Multilingual Neural Machine Translation
+On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?
+Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks
+Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings
+Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
+MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling
+Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer
+KinyaBERT: a Morphology-aware Kinyarwanda Language Model
+Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages
+Condensing Multilingual Knowledge with Lightweight Language-Specific Modules
+MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer
+Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering
+The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs
+Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning
+Tracing Multilingual Factual Knowledge Acquisition in Pretraining
+Probing the Emergence of Cross-lingual Alignment during LLM Training
+ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining, Finetuning, and Decoding the Curse of Multilinguality
+Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment
+Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models
+MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning
+Multilingual Instruction Tuning With Just a Pinch of Multilinguality
+Causes and Cures for Interference in Multilingual Translation
+The Geometry of Low-Resource Language Representations
+IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces
+Exploring Alignment in Shared Cross-lingual Spaces
+Shared Global and Local Geometry of Language Model Embeddings
+Discovering Low-rank Subspaces for Language-agnostic Multilingual Representations
+Beneath the Surface of Consistency: Exploring Cross-lingual Knowledge Representation Sharing in LLMs
+Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
+Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task
+Learning Cross-Lingual IR from an English Retriever
+BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval Augmented Generation
+Hire a Linguist!: Learning Endangered Languages in LLMs with In-Context Linguistic Descriptions
+Multilingual Test-Time Scaling via Initial Thought Transfer
+Beyond Input Understanding: Diagnosing Multilingual Mathematical Reasoning with Directed Acyclic Trace Graphs
+Rethinking Cross-Lingual Alignment: Balancing Transfer and Cultural Erasure in Multilingual LLMs
+Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention
+PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows
+Lingua Franca or Probing Artifact? Rethinking Latent Language in Multilingual LLMs
+Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models
+Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models
+Challenges and Recommendations for LLM-as-a-Judge in Multilingual Settings and for Low-Resource Languages
+Last Translation Benchmark
+Extending Item Response Theory for Efficient and Meaningful Multilingual Evaluation
+How do languages influence each other? Studying cross-lingual data sharing during LM fine-tuning
+Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages
+Code Mixologist: A Practitioner's Guide to Building Code-Mixed LLMs
+Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data
+Understanding and Mitigating Language Confusion in LLMs
+Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning
+Beyond the Rosetta Stone: Unification Forces in Generalization Dynamics
+How Do Multilingual Language Models Remember Facts?
+Decolonising Speech and Language Technology
+
