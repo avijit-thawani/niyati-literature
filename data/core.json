@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T14:59:21.319Z",
+  "updatedAt": "2026-09-24T09:21:28.552Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -961,10 +961,7 @@
       "influentialCitationCount": 0,
       "source": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2406.14267"
-      ]
+      "score": 0
     },
     {
       "id": "dbd9fab59832369040661bb050daef6de405230c",
@@ -1008,10 +1005,7 @@
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://arxiv.org/abs/2109.07306"
-      ]
+      "score": 12.5
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -1050,10 +1044,7 @@
       "influentialCitationCount": 0,
       "source": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://doi.org/10.18653/v1/2022.findings-emnlp.207"
-      ]
+      "score": 0
     },
     {
       "id": "e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
@@ -1090,10 +1081,7 @@
       "influentialCitationCount": 2,
       "source": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2203.08459"
-      ]
+      "score": 0
     },
     {
       "id": "6adc9c231d874ea358554b8680a6aaba4bd6c963",
@@ -1136,10 +1124,7 @@
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://doi.org/10.18653/v1/2021.findings-emnlp.410"
-      ]
+      "score": 12.5
     },
     {
       "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
@@ -1179,10 +1164,7 @@
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2601.14050"
-      ]
+      "score": 0
     },
     {
       "id": "5ec405b200c5970418aae2df5228354fcc8eef10",
@@ -1219,10 +1201,7 @@
       "influentialCitationCount": 0,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://arxiv.org/abs/2505.18356"
-      ]
+      "score": 12.5
     },
     {
       "id": "16428ded7b294a677a3aae781a42a42057d273d1",
@@ -3088,7 +3067,7 @@
       "doi": "10.1162/tacl_a_00374",
       "arxivId": "2001.11453",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00374/1923941/tacl_a_00374.pdf",
-      "citationCount": 31,
+      "citationCount": 32,
       "referenceCount": 101,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2001.11453",
@@ -3361,7 +3340,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 252,
+      "citationCount": 253,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
