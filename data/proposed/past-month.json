@@ -1,0 +1,26 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-09-26T09:24:10.898Z",
+  "papers": [
+    {
+      "id": "24005c82ef5b7300f052aedf096057a294518bf2",
+      "link": "https://arxiv.org/abs/2609.19291",
+      "title": "Why Pretraining Fails to Share Cross-Lingual Knowledge"
+    },
+    {
+      "id": "7e86ecf3173c384388f2887a39d635daa68fb876",
+      "link": "https://arxiv.org/abs/2608.28860",
+      "title": "Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops"
+    },
+    {
+      "id": "4dff5c93a4cb73f619ec2472b42066ac29e28bff",
+      "link": "https://arxiv.org/abs/2609.06381",
+      "title": "Cross-Lingual Representation Alignment by Token-Level Optimal Transport in a Language-Agnostic Space"
+    },
+    {
+      "id": "8820a2141c06ded9c2de85df323d4ad8679ccfb1",
+      "link": "https://arxiv.org/abs/2609.16967",
+      "title": "Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control"
+    }
+  ]
+}

@@ -10,116 +10,19 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
-# --- Niyati Bafna, "Making NLP multilingual" (blog, Sept 2026) ---
-# Enhancing Multilingual LLM Pretraining with Model-Based Data Selection
-https://arxiv.org/abs/2502.10361
-# LIMIT: Language Identification, Misidentification, and Translation using Hierarchical Models in 350+ Languages
-https://arxiv.org/abs/2305.14263
-# Balancing Training for Multilingual Neural Machine Translation
-https://arxiv.org/abs/2004.06748
-# On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?
-https://arxiv.org/abs/2406.14267
-# Tokenization and Representation Biases in Multilingual Models on Dialectal NLP Tasks
-https://arxiv.org/abs/2509.20045
-# Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings
-https://arxiv.org/abs/2311.18034
-# Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training
-https://arxiv.org/abs/2109.07306
-# MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling
-https://doi.org/10.18653/v1/2022.findings-emnlp.207
-# Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer
-https://arxiv.org/abs/2305.14280
-# KinyaBERT: a Morphology-aware Kinyarwanda Language Model
-https://arxiv.org/abs/2203.08459
-# Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages
-https://arxiv.org/abs/2509.17493
-# Condensing Multilingual Knowledge with Lightweight Language-Specific Modules
-https://arxiv.org/abs/2305.13993
-# MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer
-https://doi.org/10.18653/v1/2021.findings-emnlp.410
-# Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering
-https://arxiv.org/abs/2601.14050
-# The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs
-https://arxiv.org/abs/2505.18356
-# Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning
-https://arxiv.org/abs/2606.06835
-# Tracing Multilingual Factual Knowledge Acquisition in Pretraining
-https://arxiv.org/abs/2505.14824
-# Probing the Emergence of Cross-lingual Alignment during LLM Training
-https://arxiv.org/abs/2406.13229
-# ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining, Finetuning, and Decoding the Curse of Multilinguality
-https://arxiv.org/abs/2510.22037
-# Improving In-context Learning of Multilingual Generative Language Models with Cross-lingual Alignment
-https://arxiv.org/abs/2311.08089
-# Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models
-https://arxiv.org/abs/2010.05874
-# MT-R1-Zero: Advancing LLM-based Machine Translation via R1-Zero-like Reinforcement Learning
-https://arxiv.org/abs/2504.10160
-# Multilingual Instruction Tuning With Just a Pinch of Multilinguality
-https://arxiv.org/abs/2401.01854
-# Causes and Cures for Interference in Multilingual Translation
-https://arxiv.org/abs/2212.07530
-# The Geometry of Low-Resource Language Representations
-https://arxiv.org/abs/2608.23358
-# IsoVec: Controlling the Relative Isomorphism of Word Embedding Spaces
-https://arxiv.org/abs/2210.05098
-# Exploring Alignment in Shared Cross-lingual Spaces
-https://arxiv.org/abs/2405.14535
-# Shared Global and Local Geometry of Language Model Embeddings
-https://arxiv.org/abs/2503.21073
-# Discovering Low-rank Subspaces for Language-agnostic Multilingual Representations
-https://arxiv.org/abs/2401.05792
-# Beneath the Surface of Consistency: Exploring Cross-lingual Knowledge Representation Sharing in LLMs
-https://arxiv.org/abs/2408.10646
-# Linguistic Nepotism: Trading-off Quality for Language Preference in Multilingual RAG
-https://arxiv.org/abs/2509.13930
-# Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Question Answering Task
-https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59
-# Learning Cross-Lingual IR from an English Retriever
-https://arxiv.org/abs/2112.08185
-# BordIRlines: A Dataset for Evaluating Cross-lingual Retrieval-Augmented Generation
-https://arxiv.org/abs/2410.01171
-# Hire a Linguist!: Learning Endangered Languages with In-Context Linguistic Descriptions
-https://arxiv.org/abs/2402.18025
-# Multilingual Test-Time Scaling via Initial Thought Transfer
-https://arxiv.org/abs/2505.15508
-# Beyond Input Understanding: Diagnosing Multilingual Mathematical Reasoning with Directed Acyclic Trace Graphs
-https://arxiv.org/abs/2605.27715
-# Rethinking Cross-lingual Alignment: Balancing Transfer and Cultural Erasure in Multilingual LLMs
-https://arxiv.org/abs/2510.26024
-# Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention
-https://arxiv.org/abs/2410.12462
-# PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows
-https://arxiv.org/abs/2607.06008
-# Lingua Franca or Probing Artifact? Rethinking Latent Language in Multilingual LLMs
-https://arxiv.org/abs/2609.00155
-# Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models
-https://arxiv.org/abs/2402.16438
-# Lost in Multilinguality: Dissecting Cross-lingual Factual Inconsistency in Transformer Language Models
-https://arxiv.org/abs/2504.04264
-# Challenges and Recommendations for LLM-as-a-Judge in Multilingual Settings and for Low-Resource Languages
-https://arxiv.org/abs/2607.02235
-# Last Translation Benchmark
-https://arxiv.org/abs/2609.04173
-# Extending Item Response Theory for Efficient and Meaningful Multilingual Evaluation
-https://arxiv.org/abs/2606.15643
-# How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning
-https://arxiv.org/abs/2305.13286
-# Parameter Space Factorization for Zero-Shot Learning across Tasks and Languages
-https://arxiv.org/abs/2001.11453
-# Code Mixologist : A Practitioner's Guide to Building Code-Mixed LLMs
-https://arxiv.org/abs/2602.11181
-# Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data
-https://doi.org/10.18653/v1/P18-1143
-# Understanding and Mitigating Language Confusion in LLMs
-https://arxiv.org/abs/2406.20052
-# Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning
-https://arxiv.org/abs/2510.07300
-# Beyond the Rosetta Stone: Unification Forces in Generalization Dynamics
-https://arxiv.org/abs/2508.11017
-# How Do Multilingual Language Models Remember Facts?
-https://arxiv.org/abs/2410.14387
-# Decolonising Speech and Language Technology
-https://doi.org/10.18653/V1/2020.COLING-MAIN.313
+# --- past month ---
+# Why Pretraining Fails to Share Cross-Lingual Knowledge
+#   Leshem Choshen (h=34) · Weizmann Institute, EvalEval prev. MIT, IBM, Huji · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2609.19291
 
+# Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops
+#   Constanza Fierro (h=8) · 2026 · 0 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2608.28860
 
+# Cross-Lingual Representation Alignment by Token-Level Optimal Transport in a Language-Agnostic Space
+#   D. Bollegala (h=15) · 2026 · 0 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2609.06381
+
+# Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control
+#   Tyler A. Chang (h=12) · UC San Diego · 2026 · 1 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2609.16967
