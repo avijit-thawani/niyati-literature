@@ -1,0 +1,61 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-09-26T09:24:17.045Z",
+  "papers": [
+    {
+      "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+      "link": "https://arxiv.org/abs/1911.02116",
+      "title": "Unsupervised Cross-lingual Representation Learning at Scale"
+    },
+    {
+      "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "link": "https://arxiv.org/abs/2207.04672",
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation"
+    },
+    {
+      "id": "74b4ea9766928fcc4de6d624f55eac4a2535011d",
+      "link": "https://arxiv.org/abs/2411.08745",
+      "title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers"
+    },
+    {
+      "id": "809cc93921e4698bde891475254ad6dfba33d03b",
+      "link": "https://arxiv.org/abs/1906.01502",
+      "title": "How Multilingual is Multilingual BERT?"
+    },
+    {
+      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+      "link": "https://arxiv.org/abs/1809.05053",
+      "title": "XNLI: Evaluating Cross-lingual Sentence Representations"
+    },
+    {
+      "id": "2a210427db10cef16217510f26c1e4e2d5c7f098",
+      "link": "https://arxiv.org/abs/2504.09378",
+      "title": "Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs"
+    },
+    {
+      "id": "f1287b098ae99b57d86cccd2e3b9109d82256933",
+      "link": "https://arxiv.org/abs/2505.13141",
+      "title": "Language-Specific Latent Process Hinders Cross-Lingual Performance"
+    },
+    {
+      "id": "3eadeada86853ee6b04847064318032f555e17c9",
+      "link": "https://doi.org/10.1016/j.patter.2024.101118",
+      "title": "A survey of multilingual large language models"
+    },
+    {
+      "id": "ba4a34680e09e77984624c95f5245d91b54373f6",
+      "link": "https://arxiv.org/abs/2003.11080",
+      "title": "XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization"
+    },
+    {
+      "id": "8bc5c14d7943d547fd102386fa5822552a1cbe39",
+      "link": "https://arxiv.org/abs/2502.12476",
+      "title": "CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs"
+    },
+    {
+      "id": "cf992ff835eac58ce542e4400ca3498e8bad876a",
+      "link": "https://arxiv.org/abs/2408.14398",
+      "title": "On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning"
+    }
+  ]
+}
