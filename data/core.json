@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T09:39:17.247Z",
+  "updatedAt": "2026-09-26T09:24:09.084Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -373,7 +373,7 @@
       "id": "93d922de12f6bf786420281e359a190fbcbf0784",
       "title": "JHU IWSLT 2025 Low-resource System Description",
       "authors": [
-        "Nathaniel Romney Robinson",
+        "N. R. Robinson",
         "Niyati Bafna",
         "Xiluo He",
         "Tom Lupicki",
@@ -1119,7 +1119,7 @@
       "doi": "10.18653/v1/2021.findings-emnlp.410",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2021.findings-emnlp.410.pdf",
-      "citationCount": 99,
+      "citationCount": 100,
       "referenceCount": 46,
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
@@ -1283,7 +1283,7 @@
       "id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
       "title": "Balancing Training for Multilingual Neural Machine Translation",
       "authors": [
-        "Xinyi Wang",
+        "Xin-Yi Wang",
         "Yulia Tsvetkov",
         "Graham Neubig"
       ],
@@ -1333,9 +1333,9 @@
           "authorId": "2125681709"
         },
         {
-          "name": "Ljiljana Dolamic",
-          "hIndex": 4,
-          "authorId": "1680665"
+          "name": "Tanja Samardzic",
+          "hIndex": 2,
+          "authorId": "2315307180"
         }
       ],
       "affiliations": [],
@@ -1564,24 +1564,24 @@
         "Felicia Körner",
         "Ercong Nie",
         "Barbara Plank",
-        "Franccois Yvon",
-        "Hinrich Schutze"
+        "François Yvon",
+        "Hinrich Schütze"
       ],
       "topAuthors": [
-        {
-          "name": "Hinrich Schutze",
-          "hIndex": 17,
-          "authorId": "2130001188"
-        },
         {
           "name": "Ercong Nie",
           "hIndex": 11,
           "authorId": "2197254657"
+        },
+        {
+          "name": "Yihong Liu",
+          "hIndex": 9,
+          "authorId": "2107995084"
         }
       ],
       "affiliations": [
-        "LMU Munich",
-        "Centre for Information and Language Processing, LMU Munich"
+        "Centre for Information and Language Processing, LMU Munich",
+        "CIS, LMU Munich"
       ],
       "year": 2025,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -1627,7 +1627,7 @@
       "doi": "10.48550/arXiv.2406.13229",
       "arxivId": "2406.13229",
       "pdf": null,
-      "citationCount": 48,
+      "citationCount": 49,
       "referenceCount": 40,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
@@ -1685,11 +1685,11 @@
         "Chong Li",
         "Shaonan Wang",
         "Jiajun Zhang",
-        "Chengqing Zong"
+        "Cheng-Qing Zong"
       ],
       "topAuthors": [
         {
-          "name": "Chengqing Zong",
+          "name": "Cheng-Qing Zong",
           "hIndex": 18,
           "authorId": "2064100826"
         },
@@ -1835,7 +1835,7 @@
       "doi": "10.48550/arXiv.2401.01854",
       "arxivId": "2401.01854",
       "pdf": null,
-      "citationCount": 90,
+      "citationCount": 91,
       "referenceCount": 50,
       "influentialCitationCount": 4,
       "source": "https://arxiv.org/abs/2401.01854",
@@ -2237,9 +2237,9 @@
         "Fiona Luo",
         "Samar Haider",
         "Adwait Agashe",
-        "Tammy Li",
+        "Si-Yu Li",
         "Runqi Liu",
-        "Muqing Miao",
+        "Miranda Muqing Miao",
         "S. Ramakrishnan",
         "Yuan Yuan",
         "Christopher Callison-Burch"
@@ -2479,12 +2479,12 @@
         "Zihe Liu",
         "Xinyue Lou",
         "Jinan Xu",
-        "Fandong Meng",
+        "Fan-Dong Meng",
         "Kaiyu Huang"
       ],
       "topAuthors": [
         {
-          "name": "Fandong Meng",
+          "name": "Fan-Dong Meng",
           "hIndex": 42,
           "authorId": "33427918"
         },
@@ -2692,7 +2692,7 @@
         "Ona de Gibert",
         "Bhavitvya Malik",
         "Eliya Habba",
-        "O. M. Mastromichalakis",
+        "Orfeas Menis-Mastromichalakis",
         "Patrícia Schmidtová",
         "Michelle Wastl",
         "Sheriff M. Issaka",
@@ -2771,7 +2771,7 @@
         "Philipp Mondorf",
         "Kaustubh D. Dhole",
         "Roman Wixinger",
-        "Shenbin Qian",
+        "Shen-Bin Qian",
         "Manuel Tuor",
         "S. Troshin",
         "J. Yahav",
@@ -2866,7 +2866,7 @@
         "Raoyuan Zhao",
         "Mykola Haltiuk",
         "Thura Aung",
-        "Naser Almousa",
+        "N. Al Mousa",
         "Amir Hossein Kargaran",
         "Rachel Bawden",
         "Qiao-Yuan Zheng",
@@ -3117,14 +3117,14 @@
       "authors": [
         "Adithya Pratapa",
         "Gayatri Bhat",
-        "M. Choudhury",
+        "Monojit Choudhury",
         "Sunayana Sitaram",
         "Sandipan Dandapat",
         "Kalika Bali"
       ],
       "topAuthors": [
         {
-          "name": "M. Choudhury",
+          "name": "Monojit Choudhury",
           "hIndex": 39,
           "authorId": "143990839"
         },
@@ -3198,7 +3198,7 @@
       "authors": [
         "Xue Zhang",
         "Yunlong Liang",
-        "Fandong Meng",
+        "Fan-Dong Meng",
         "Songming Zhang",
         "Kaiyu Huang",
         "Yufeng Chen",
@@ -3207,7 +3207,7 @@
       ],
       "topAuthors": [
         {
-          "name": "Fandong Meng",
+          "name": "Fan-Dong Meng",
           "hIndex": 42,
           "authorId": "33427918"
         },
@@ -3238,7 +3238,7 @@
       "title": "Beyond the Rosetta Stone: Unification Forces in Generalization Dynamics",
       "authors": [
         "C. Blum",
-        "Katja Filipova",
+        "Katja Filippova",
         "Ann Yuan",
         "Asma Ghandeharioun",
         "Julian Zimmert",
