@@ -122,4 +122,47 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- most connected ---
+# Unsupervised Cross-lingual Representation Learning at Scale
+#   Luke Zettlemoyer (h=118) · University of Washington · 2019 · 9246 citations · cited by 27 in your list
+https://arxiv.org/abs/1911.02116
 
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=69) · Johns Hopkins University · 2022 · 2002 citations · cited by 15 in your list
+https://arxiv.org/abs/2207.04672
+
+# Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers
+#   Veniamin Veselovsky (h=11) · Cornell University · 2024 · 52 citations · cites 5 in your list
+https://arxiv.org/abs/2411.08745
+
+# How Multilingual is Multilingual BERT?
+#   Dan Garrette (h=23) · Google DeepMind · 2019 · 1783 citations · cited by 13 in your list
+https://arxiv.org/abs/1906.01502
+
+# XNLI: Evaluating Cross-lingual Sentence Representations
+#   Holger Schwenk (h=48) · New York University · 2018 · 1676 citations · cited by 13 in your list
+https://arxiv.org/abs/1809.05053
+
+# Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs
+#   Marine Carpuat (h=36) · University of Maryland · 2025 · 11 citations · cites 4 in your list
+https://arxiv.org/abs/2504.09378
+
+# Language-Specific Latent Process Hinders Cross-Lingual Performance
+#   Alham Fikri Aji (h=37) · MBZUAI · 2025 · 20 citations · cites 4 in your list
+https://arxiv.org/abs/2505.13141
+
+# A survey of multilingual large language models
+#   Qiguang Chen (h=22) · SCIR · 2025 · 144 citations · cites 5 in your list
+https://doi.org/10.1016/j.patter.2024.101118
+
+# XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization
+#   Graham Neubig (h=92) · Cohere · 2020 · 1202 citations · cited by 10 in your list
+https://arxiv.org/abs/2003.11080
+
+# CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs
+#   Alireza S. Ziabari (h=5) · University of Southern California · 2025 · 3 citations · cites 4 in your list
+https://arxiv.org/abs/2502.12476
+
+# On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning
+#   Lucie Flek (h=13) · TU Dortmund University · 2024 · 5 citations · cites 4 in your list
+https://arxiv.org/abs/2408.14398
