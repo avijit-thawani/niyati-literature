@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-09-26T09:24:13.931Z",
+  "papers": [
+    {
+      "id": "3ca010aaf9526d1f30ed47234079549dd63ab3c0",
+      "link": "https://arxiv.org/abs/2604.17633",
+      "title": "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining"
+    },
+    {
+      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
+      "link": "https://arxiv.org/abs/2510.15551",
+      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint"
+    },
+    {
+      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
+      "link": "https://arxiv.org/abs/2605.04500",
+      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties"
+    },
+    {
+      "id": "54ddd515eba3e085025ec613027ab8b9444bd755",
+      "link": "https://arxiv.org/abs/2601.14004",
+      "title": "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models"
+    },
+    {
+      "id": "5b1980a27b400bdf74eb93c3cffbd9d29e739703",
+      "link": "https://doi.org/10.32604/cmes.2026.075507",
+      "title": "Advancing Large Language Models for Low-Resource Languages: A Systematic Review of Pretraining, Adaptation, and Ethical Challenges"
+    },
+    {
+      "id": "522c17e210a7c74552306ed7db070003e6a29586",
+      "link": "https://doi.org/10.1109/TASLPRO.2026.3687034",
+      "title": "Enhancing Multilingual Capabilities of Large Language Models With Bidirectional Cross-Lingual Consistency Regularization"
+    },
+    {
+      "id": "0936e9c8fd95cd382335148c4b69d809a2571db0",
+      "link": "https://arxiv.org/abs/2602.16660",
+      "title": "Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment"
+    },
+    {
+      "id": "bebeae13e2dd965fc381ea2bc2d4633bc1b0da20",
+      "link": "https://arxiv.org/abs/2510.10280",
+      "title": "On the Entity-Level Alignment in Crosslingual Consistency"
+    },
+    {
+      "id": "a38be35cb7f6d24deb1cdafd8d41fc6098f70685",
+      "link": "https://arxiv.org/abs/2606.26466",
+      "title": "Soft Token Alignment for Cross-Lingual Reasoning"
+    },
+    {
+      "id": "9dea69d77718a9635988aa7dfb777f0486c91851",
+      "link": "https://arxiv.org/abs/2601.10310",
+      "title": "Multilinguality as Sense Adaptation"
+    }
+  ]
+}

@@ -122,4 +122,43 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- past year ---
+# Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining
+#   Michael A. Hedderich (h=16) · LMU Munich · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2604.17633
 
+# Rethinking Cross-lingual Gaps from a Statistical Viewpoint
+#   P. Jyothi (h=22) · 2025 · 3 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2510.15551
+
+# Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties
+#   Jinju Kim (h=3) · Carnegie Mellon University · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2605.04500
+
+# Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
+#   Tao Gui (h=42) · University of Hong Kong · 2026 · 20 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2601.14004
+
+# Advancing Large Language Models for Low-Resource Languages: A Systematic Review of Pretraining, Adaptation, and Ethical Challenges
+#   J. Uddin (h=25) · George Mason University · 2026 · 1 citations · past year · cites 3 in your list
+https://doi.org/10.32604/cmes.2026.075507
+
+# Enhancing Multilingual Capabilities of Large Language Models With Bidirectional Cross-Lingual Consistency Regularization
+#   Hui Xiong (h=13) · Dalian University of Technology · 2026 · 0 citations · past year · cites 4 in your list
+https://doi.org/10.1109/TASLPRO.2026.3687034
+
+# Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment
+#   Yaodong Yang (h=18) · 2026 · 9 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2602.16660
+
+# On the Entity-Level Alignment in Crosslingual Consistency
+#   Yihong Liu (h=9) · CIS, LMU Munich · 2025 · 3 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2510.10280
+
+# Soft Token Alignment for Cross-Lingual Reasoning
+#   Alan Ritter (h=9) · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2606.26466
+
+# Multilinguality as Sense Adaptation
+#   Alham Fikri Aji (h=37) · MBZUAI · 2026 · 0 citations · past year · cites 3 in your list
+https://arxiv.org/abs/2601.10310
