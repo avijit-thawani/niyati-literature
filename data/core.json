@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:24:09.084Z",
+  "updatedAt": "2026-09-27T10:03:38.391Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -80,7 +80,7 @@
         "Nate Ekberg",
         "Cynthia Gao",
         "P. L. Cabot",
-        "João Janeiro",
+        "J. Janeiro",
         "Jean Maillard",
         "G. Gonzalez",
         "Holger Schwenk",
@@ -969,7 +969,7 @@
       "authors": [
         "Bo Zheng",
         "Li Dong",
-        "Shaohan Huang",
+        "Shao-Han Huang",
         "Saksham Singhal",
         "Wanxiang Che",
         "Ting Liu",
@@ -1565,18 +1565,18 @@
         "Ercong Nie",
         "Barbara Plank",
         "François Yvon",
-        "Hinrich Schütze"
+        "Hinrich Schutze"
       ],
       "topAuthors": [
+        {
+          "name": "Hinrich Schutze",
+          "hIndex": 17,
+          "authorId": "2130001188"
+        },
         {
           "name": "Ercong Nie",
           "hIndex": 11,
           "authorId": "2197254657"
-        },
-        {
-          "name": "Yihong Liu",
-          "hIndex": 9,
-          "authorId": "2107995084"
         }
       ],
       "affiliations": [
@@ -1684,7 +1684,7 @@
       "authors": [
         "Chong Li",
         "Shaonan Wang",
-        "Jiajun Zhang",
+        "Jia-Jun Zhang",
         "Cheng-Qing Zong"
       ],
       "topAuthors": [
@@ -1771,7 +1771,7 @@
         "Zhe Xu",
         "Yao Hu",
         "Jian Wu",
-        "Zuozhu Liu"
+        "Zuo-Zhu Liu"
       ],
       "topAuthors": [
         {
@@ -1780,7 +1780,7 @@
           "authorId": "2255346632"
         },
         {
-          "name": "Zuozhu Liu",
+          "name": "Zuo-Zhu Liu",
           "hIndex": 13,
           "authorId": "2258784763"
         }
@@ -2042,13 +2042,13 @@
       "title": "Discovering Low-rank Subspaces for Language-agnostic Multilingual Representations",
       "authors": [
         "Zhihui Xie",
-        "Handong Zhao",
+        "Han-Dong Zhao",
         "Tong Yu",
         "Shuai Li"
       ],
       "topAuthors": [
         {
-          "name": "Handong Zhao",
+          "name": "Han-Dong Zhao",
           "hIndex": 28,
           "authorId": "7574699"
         },
@@ -2237,7 +2237,7 @@
         "Fiona Luo",
         "Samar Haider",
         "Adwait Agashe",
-        "Si-Yu Li",
+        "Si-Yuan Li",
         "Runqi Liu",
         "Miranda Muqing Miao",
         "S. Ramakrishnan",
@@ -2437,7 +2437,7 @@
       "title": "Bridging the Language Gaps in Large Language Models with Inference-Time Cross-Lingual Intervention",
       "authors": [
         "Weixuan Wang",
-        "Minghao Wu",
+        "Ming-Hao Wu",
         "Barry Haddow",
         "Alexandra Birch"
       ],
@@ -2473,14 +2473,14 @@
       "id": "a5b394a8faf0dae19d87a15bba48f81fe0176c09",
       "title": "PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows",
       "authors": [
-        "Hongliang Li",
+        "Hong-Liang Li",
         "Yijin Liu",
         "Zhiwei Zhang",
         "Zihe Liu",
         "Xinyue Lou",
         "Jinan Xu",
         "Fan-Dong Meng",
-        "Kaiyu Huang"
+        "Kai-Yu Huang"
       ],
       "topAuthors": [
         {
@@ -2556,7 +2556,7 @@
         "Tianyi Tang",
         "Wenyang Luo",
         "Haoyang Huang",
-        "Dongdong Zhang",
+        "Dong-Dong Zhang",
         "Xiaolei Wang",
         "Xin Zhao",
         "F. Wei",
@@ -3200,9 +3200,9 @@
         "Yunlong Liang",
         "Fan-Dong Meng",
         "Songming Zhang",
-        "Kaiyu Huang",
+        "Kai-Yu Huang",
         "Yufeng Chen",
-        "Jinan Xu",
+        "Jin-An Xu",
         "Jie Zhou"
       ],
       "topAuthors": [
