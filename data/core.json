@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T10:03:38.391Z",
+  "updatedAt": "2026-09-28T11:00:33.385Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1627,7 +1627,7 @@
       "doi": "10.48550/arXiv.2406.13229",
       "arxivId": "2406.13229",
       "pdf": null,
-      "citationCount": 49,
+      "citationCount": 50,
       "referenceCount": 40,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
@@ -1671,7 +1671,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 17,
+      "citationCount": 18,
       "referenceCount": 65,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2510.22037",
