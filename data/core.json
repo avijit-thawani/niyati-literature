@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T11:00:33.385Z",
+  "updatedAt": "2026-09-29T10:45:08.234Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1627,7 +1627,7 @@
       "doi": "10.48550/arXiv.2406.13229",
       "arxivId": "2406.13229",
       "pdf": null,
-      "citationCount": 50,
+      "citationCount": 51,
       "referenceCount": 40,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
@@ -2183,7 +2183,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 6,
+      "citationCount": 7,
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
@@ -2267,7 +2267,7 @@
       "doi": "10.18653/v1/2025.findings-acl.219",
       "arxivId": "2410.01171",
       "pdf": "https://aclanthology.org/2025.findings-acl.219.pdf",
-      "citationCount": 18,
+      "citationCount": 19,
       "referenceCount": 27,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2410.01171",
@@ -2639,7 +2639,7 @@
       "id": "503131e020696ab54bf0ff6652f1c150592b83b0",
       "title": "Challenges and Recommendations for LLM-as-a-Judge in Multilingual Settings and for Low-Resource Languages",
       "authors": [
-        "A. Dougruoz",
+        "A. Seza Doğruöz",
         "Xixian Liao",
         "Verena Blaschke",
         "Jakob Prange",
@@ -2648,19 +2648,19 @@
       ],
       "topAuthors": [
         {
+          "name": "A. Seza Doğruöz",
+          "hIndex": 15,
+          "authorId": "1904399"
+        },
+        {
           "name": "Verena Blaschke",
           "hIndex": 9,
           "authorId": "66323160"
-        },
-        {
-          "name": "D. Adelani",
-          "hIndex": 4,
-          "authorId": "2379662831"
         }
       ],
       "affiliations": [
-        "LMU Munich",
-        "MCML"
+        "Ghent University https://lt3.ugent.be",
+        "LMU Munich"
       ],
       "year": 2026,
       "venue": null,
@@ -3311,7 +3311,7 @@
       "doi": null,
       "arxivId": "2410.14387",
       "pdf": null,
-      "citationCount": 23,
+      "citationCount": 24,
       "referenceCount": 0,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2410.14387",
@@ -3340,7 +3340,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 253,
+      "citationCount": 254,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
