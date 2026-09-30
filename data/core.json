@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:45:08.234Z",
+  "updatedAt": "2026-09-30T10:33:25.875Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -32,13 +32,13 @@
       "topAuthors": [
         {
           "name": "Jesujoba Oluwadara Alabi",
-          "hIndex": 17,
+          "hIndex": 19,
           "authorId": "122367036"
         },
         {
-          "name": "Nikolay Bogoychev",
-          "hIndex": 17,
-          "authorId": "3444222"
+          "name": "Vilém Zouhar",
+          "hIndex": 18,
+          "authorId": "1429837660"
         }
       ],
       "affiliations": [
@@ -103,13 +103,13 @@
         },
         {
           "name": "Cynthia Gao",
-          "hIndex": 18,
+          "hIndex": 20,
           "authorId": "2294721061"
         }
       ],
       "affiliations": [
         "UPC Barcelona",
-        "Meta AI"
+        "Meta"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -139,12 +139,12 @@
       "topAuthors": [
         {
           "name": "S. Li",
-          "hIndex": 13,
+          "hIndex": 15,
           "authorId": "2295954288"
         },
         {
           "name": "Y. Tsvetkov",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2348189226"
         }
       ],
@@ -179,7 +179,7 @@
       "topAuthors": [
         {
           "name": "Vilém Zouhar",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "1429837660"
         },
         {
@@ -220,12 +220,12 @@
       "topAuthors": [
         {
           "name": "David Yarowsky",
-          "hIndex": 54,
+          "hIndex": 53,
           "authorId": "1693517"
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -262,12 +262,12 @@
       "topAuthors": [
         {
           "name": "Daniel Khashabi",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2319593572"
         },
         {
           "name": "Tianjian Li",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2256304994"
         }
       ],
@@ -304,12 +304,12 @@
       "topAuthors": [
         {
           "name": "David Yarowsky",
-          "hIndex": 54,
+          "hIndex": 53,
           "authorId": "1693517"
         },
         {
           "name": "David R. Mortensen",
-          "hIndex": 19,
+          "hIndex": 20,
           "authorId": "3407646"
         }
       ],
@@ -342,12 +342,12 @@
       "topAuthors": [
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         },
         {
           "name": "Emily Chang",
-          "hIndex": 1,
+          "hIndex": 2,
           "authorId": "2342503583"
         }
       ],
@@ -386,7 +386,7 @@
       "topAuthors": [
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         },
         {
@@ -427,19 +427,19 @@
       ],
       "topAuthors": [
         {
-          "name": "Katharina Hämmerl",
-          "hIndex": 7,
-          "authorId": "2159197037"
+          "name": "Vilém Zouhar",
+          "hIndex": 8,
+          "authorId": "2348542667"
         },
         {
-          "name": "Vilém Zouhar",
-          "hIndex": 7,
-          "authorId": "2348542667"
+          "name": "Seth Aycock",
+          "hIndex": 6,
+          "authorId": "2291365225"
         }
       ],
       "affiliations": [
-        "CIS, LMU",
-        "University of Amsterdam p=3,1"
+        "University of Amsterdam p=3,1",
+        "Johns Hopkins University"
       ],
       "year": 2025,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
@@ -471,7 +471,7 @@
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -504,13 +504,13 @@
       "topAuthors": [
         {
           "name": "David Yarowsky",
-          "hIndex": 54,
+          "hIndex": 53,
           "authorId": "1693517"
         },
         {
-          "name": "Philipp Koehn",
+          "name": "Niyati Bafna",
           "hIndex": 5,
-          "authorId": "2257220508"
+          "authorId": "2090730520"
         }
       ],
       "affiliations": [
@@ -550,7 +550,7 @@
       "topAuthors": [
         {
           "name": "S. Khudanpur",
-          "hIndex": 63,
+          "hIndex": 64,
           "authorId": "2803071"
         },
         {
@@ -588,12 +588,12 @@
       "topAuthors": [
         {
           "name": "David Yarowsky",
-          "hIndex": 54,
+          "hIndex": 53,
           "authorId": "1693517"
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -628,13 +628,13 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "7519068"
         },
         {
-          "name": "Rachel Bawden",
+          "name": "C. España-Bonet",
           "hIndex": 18,
-          "authorId": "48983885"
+          "authorId": "1402921001"
         }
       ],
       "affiliations": [
@@ -668,7 +668,7 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "7519068"
         },
         {
@@ -705,12 +705,12 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 29,
+          "hIndex": 30,
           "authorId": "2468732"
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -744,12 +744,12 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "7519068"
         },
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 29,
+          "hIndex": 30,
           "authorId": "2468732"
         }
       ],
@@ -786,7 +786,7 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 29,
+          "hIndex": 30,
           "authorId": "2468732"
         },
         {
@@ -862,12 +862,12 @@
       "topAuthors": [
         {
           "name": "Ondrej Bojar",
-          "hIndex": 48,
+          "hIndex": 49,
           "authorId": "143832874"
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -899,12 +899,12 @@
       "topAuthors": [
         {
           "name": "D. Sharma",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "35246152"
         },
         {
           "name": "Niyati Bafna",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2090730520"
         }
       ],
@@ -938,7 +938,7 @@
       "topAuthors": [
         {
           "name": "C. Monz",
-          "hIndex": 19,
+          "hIndex": 20,
           "authorId": "2062908179"
         },
         {
@@ -979,12 +979,12 @@
       "topAuthors": [
         {
           "name": "Furu Wei",
-          "hIndex": 105,
+          "hIndex": 107,
           "authorId": "49807919"
         },
         {
           "name": "Ting Liu",
-          "hIndex": 75,
+          "hIndex": 76,
           "authorId": "40282288"
         }
       ],
@@ -1000,7 +1000,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.257",
       "arxivId": "2109.07306",
       "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
-      "citationCount": 31,
+      "citationCount": 32,
       "referenceCount": 43,
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
@@ -1024,7 +1024,7 @@
         },
         {
           "name": "Eric Villemonte de la Clergerie",
-          "hIndex": 24,
+          "hIndex": 20,
           "authorId": "1400417301"
         }
       ],
@@ -1056,7 +1056,7 @@
       "topAuthors": [
         {
           "name": "Andre Niyongabo Rubungo",
-          "hIndex": 10,
+          "hIndex": 9,
           "authorId": "1988673056"
         },
         {
@@ -1098,7 +1098,7 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "2884561"
         },
         {
@@ -1141,12 +1141,12 @@
       "topAuthors": [
         {
           "name": "Tat-Seng Chua",
-          "hIndex": 32,
+          "hIndex": 34,
           "authorId": "2257036129"
         },
         {
           "name": "Xiang Wang",
-          "hIndex": 14,
+          "hIndex": 17,
           "authorId": "2257436645"
         }
       ],
@@ -1176,12 +1176,12 @@
       "topAuthors": [
         {
           "name": "Lucas Bandarkar",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2091417351"
         },
         {
           "name": "Nanyun Peng",
-          "hIndex": 2,
+          "hIndex": 3,
           "authorId": "2364814671"
         }
       ],
@@ -1196,7 +1196,7 @@
       "doi": "10.48550/arXiv.2505.18356",
       "arxivId": "2505.18356",
       "pdf": null,
-      "citationCount": 8,
+      "citationCount": 9,
       "referenceCount": 79,
       "influentialCitationCount": 0,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
@@ -1290,12 +1290,12 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 92,
+          "hIndex": 93,
           "authorId": "1700325"
         },
         {
           "name": "Yulia Tsvetkov",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "145317727"
         }
       ],
@@ -1329,13 +1329,13 @@
       "topAuthors": [
         {
           "name": "Vani Kanjirangat",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2125681709"
         },
         {
-          "name": "Tanja Samardzic",
-          "hIndex": 2,
-          "authorId": "2315307180"
+          "name": "Ljiljana Dolamic",
+          "hIndex": 4,
+          "authorId": "2502999306"
         }
       ],
       "affiliations": [],
@@ -1363,14 +1363,14 @@
       ],
       "topAuthors": [
         {
+          "name": "David Mimno",
+          "hIndex": 6,
+          "authorId": "2268205803"
+        },
+        {
           "name": "Andrea Wen-Yi Wang",
           "hIndex": 4,
           "authorId": "2268760348"
-        },
-        {
-          "name": "David Mimno",
-          "hIndex": 4,
-          "authorId": "2268205803"
         }
       ],
       "affiliations": [
@@ -1403,12 +1403,12 @@
       "topAuthors": [
         {
           "name": "Philipp Koehn",
-          "hIndex": 69,
+          "hIndex": 66,
           "authorId": "1755162"
         },
         {
           "name": "Matt Post",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "38842528"
         }
       ],
@@ -1447,7 +1447,7 @@
         },
         {
           "name": "Yuan Sun",
-          "hIndex": 3,
+          "hIndex": 5,
           "authorId": "2336529909"
         }
       ],
@@ -1482,12 +1482,12 @@
       "topAuthors": [
         {
           "name": "Philipp Koehn",
-          "hIndex": 69,
+          "hIndex": 66,
           "authorId": "1755162"
         },
         {
           "name": "Benjamin Van Durme",
-          "hIndex": 60,
+          "hIndex": 59,
           "authorId": "7536576"
         }
       ],
@@ -1570,18 +1570,18 @@
       "topAuthors": [
         {
           "name": "Hinrich Schutze",
-          "hIndex": 17,
+          "hIndex": 21,
           "authorId": "2130001188"
         },
         {
-          "name": "Ercong Nie",
+          "name": "Yihong Liu",
           "hIndex": 11,
-          "authorId": "2197254657"
+          "authorId": "2107995084"
         }
       ],
       "affiliations": [
-        "Centre for Information and Language Processing, LMU Munich",
-        "CIS, LMU Munich"
+        "CIS, LMU Munich",
+        "Centre for Information and Language Processing, LMU Munich"
       ],
       "year": 2025,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -1609,12 +1609,12 @@
       "topAuthors": [
         {
           "name": "E. Ponti",
-          "hIndex": 33,
+          "hIndex": 35,
           "authorId": "3381663"
         },
         {
           "name": "Pasquale Minervini",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2294362638"
         }
       ],
@@ -1656,7 +1656,7 @@
         },
         {
           "name": "Sercan Ö. Arik",
-          "hIndex": 47,
+          "hIndex": 48,
           "authorId": "2676352"
         }
       ],
@@ -1690,7 +1690,7 @@
       "topAuthors": [
         {
           "name": "Cheng-Qing Zong",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2064100826"
         },
         {
@@ -1730,12 +1730,12 @@
       "topAuthors": [
         {
           "name": "Orhan Firat",
-          "hIndex": 47,
+          "hIndex": 50,
           "authorId": "2345617"
         },
         {
           "name": "Yulia Tsvetkov",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "145317727"
         }
       ],
@@ -1751,9 +1751,9 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 258,
+      "citationCount": 261,
       "referenceCount": 55,
-      "influentialCitationCount": 34,
+      "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
       "addedAt": "2026-09-23",
       "score": 37.5
@@ -1776,7 +1776,7 @@
       "topAuthors": [
         {
           "name": "Ruizhe Chen",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2255346632"
         },
         {
@@ -1815,12 +1815,12 @@
       "topAuthors": [
         {
           "name": "Idan Szpektor",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "1711977"
         },
         {
           "name": "Reut Tsarfaty",
-          "hIndex": 30,
+          "hIndex": 32,
           "authorId": "2799181"
         }
       ],
@@ -1860,7 +1860,7 @@
         },
         {
           "name": "Vedanuj Goswami",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "28554843"
         }
       ],
@@ -1898,7 +1898,7 @@
         },
         {
           "name": "Jan Buys",
-          "hIndex": 3,
+          "hIndex": 4,
           "authorId": "2290910174"
         }
       ],
@@ -1932,7 +1932,7 @@
       "topAuthors": [
         {
           "name": "Philipp Koehn",
-          "hIndex": 69,
+          "hIndex": 66,
           "authorId": "1755162"
         },
         {
@@ -1973,7 +1973,7 @@
       "topAuthors": [
         {
           "name": "Nadir Durrani",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "145938140"
         },
         {
@@ -2012,7 +2012,7 @@
       "topAuthors": [
         {
           "name": "Andrew Lee",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2237957247"
         },
         {
@@ -2030,7 +2030,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 36,
+      "citationCount": 37,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2048,14 +2048,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Tong Yu",
+          "hIndex": 29,
+          "authorId": "1500399016"
+        },
+        {
           "name": "Han-Dong Zhao",
           "hIndex": 28,
           "authorId": "7574699"
-        },
-        {
-          "name": "Tong Yu",
-          "hIndex": 28,
-          "authorId": "1500399016"
         }
       ],
       "affiliations": [
@@ -2090,7 +2090,7 @@
       "topAuthors": [
         {
           "name": "Idan Szpektor",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "1711977"
         },
         {
@@ -2138,7 +2138,7 @@
         },
         {
           "name": "Eugene Yang",
-          "hIndex": 18,
+          "hIndex": 20,
           "authorId": "153564640"
         }
       ],
@@ -2170,7 +2170,7 @@
       "topAuthors": [
         {
           "name": "Leonardo Ranaldi",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2008183566"
         }
       ],
@@ -2247,7 +2247,7 @@
       "topAuthors": [
         {
           "name": "Christopher Callison-Burch",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2266396865"
         },
         {
@@ -2288,12 +2288,12 @@
       "topAuthors": [
         {
           "name": "Lei Li",
-          "hIndex": 62,
+          "hIndex": 63,
           "authorId": "143900005"
         },
         {
           "name": "Kexun Zhang",
-          "hIndex": 11,
+          "hIndex": 13,
           "authorId": "2119058805"
         }
       ],
@@ -2325,14 +2325,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Tanmoy Chakraborty",
+          "hIndex": 5,
+          "authorId": "2342685356"
+        },
+        {
           "name": "Prasoon Bajpai",
           "hIndex": 4,
           "authorId": "2316430178"
-        },
-        {
-          "name": "Tanmoy Chakraborty",
-          "hIndex": 4,
-          "authorId": "2342685356"
         }
       ],
       "affiliations": [],
@@ -2367,12 +2367,12 @@
       "topAuthors": [
         {
           "name": "Zhoujun Li",
-          "hIndex": 19,
+          "hIndex": 21,
           "authorId": "2258837278"
         },
         {
           "name": "Hinrich Schutze",
-          "hIndex": 17,
+          "hIndex": 21,
           "authorId": "2130001188"
         }
       ],
@@ -2405,12 +2405,12 @@
       "topAuthors": [
         {
           "name": "Sweta Agrawal",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "5112699"
         },
         {
           "name": "Eleftheria Briakou",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2343507548"
         }
       ],
@@ -2462,7 +2462,7 @@
       "doi": "10.48550/arXiv.2410.12462",
       "arxivId": "2410.12462",
       "pdf": null,
-      "citationCount": 32,
+      "citationCount": 33,
       "referenceCount": 57,
       "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2410.12462",
@@ -2475,7 +2475,7 @@
       "authors": [
         "Hong-Liang Li",
         "Yijin Liu",
-        "Zhiwei Zhang",
+        "Zhi-Wei Zhang",
         "Zihe Liu",
         "Xinyue Lou",
         "Jinan Xu",
@@ -2485,12 +2485,12 @@
       "topAuthors": [
         {
           "name": "Fan-Dong Meng",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "33427918"
         },
         {
           "name": "Yijin Liu",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "2108060455"
         }
       ],
@@ -2521,12 +2521,12 @@
       "topAuthors": [
         {
           "name": "Badr AlKhamissi",
-          "hIndex": 13,
+          "hIndex": 15,
           "authorId": "2006905770"
         },
         {
           "name": "Antoine Bosselut",
-          "hIndex": 12,
+          "hIndex": 14,
           "authorId": "2284866282"
         }
       ],
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 140,
+      "citationCount": 142,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2612,13 +2612,13 @@
         },
         {
           "name": "Hinrich Schutze",
-          "hIndex": 17,
+          "hIndex": 21,
           "authorId": "2130001188"
         }
       ],
       "affiliations": [
-        "Centre for Information and Language Processing, LMU Munich",
-        "CIS, LMU Munich"
+        "CIS, LMU Munich",
+        "Centre for Information and Language Processing, LMU Munich"
       ],
       "year": 2025,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
@@ -2628,7 +2628,7 @@
       "doi": "10.48550/arXiv.2504.04264",
       "arxivId": "2504.04264",
       "pdf": null,
-      "citationCount": 58,
+      "citationCount": 59,
       "referenceCount": 32,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2504.04264",
@@ -2649,12 +2649,12 @@
       "topAuthors": [
         {
           "name": "A. Seza Doğruöz",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "1904399"
         },
         {
           "name": "Verena Blaschke",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "66323160"
         }
       ],
@@ -2670,7 +2670,7 @@
       "doi": null,
       "arxivId": "2607.02235",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 90,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.02235",
@@ -2714,227 +2714,243 @@
         "Cristina España-Bonet",
         "Nobin Sarwar",
         "David Kaczér",
+        "Sourajit Saha",
+        "Jonathan Tonglet",
         "Shunta Asano",
         "Malik Marmonier",
         "Daban Q. Jaff",
         "Vaisakhi Mishra",
         "H. Al-Khalifa",
         "Gabriele Sarti",
-        "Sourajit Saha",
         "N. Rehlinger",
         "J. C. Villa",
-        "Jonathan Tonglet",
-        "Saugata Purkayastha",
         "Dominik Machácek",
+        "Saugata Purkayastha",
         "Jagannathan Ramanujam",
+        "Shubhashis Roy Dipta",
+        "A. Nigam",
+        "S. S. Yusuf",
         "Heejin Do",
+        "J. Yahav",
+        "Johannes-Rudolf David",
+        "M. Staiano",
         "Zuzana Nadova",
         "Fred Philippy",
-        "Fabian Retkowski",
+        "Ron Keinan",
         "Maria Lymperaiou",
         "Silvia Casola",
-        "Hanna Yukhymenko",
-        "Shubhashis Roy Dipta",
-        "Sangwon Ryu",
+        "Fabian Retkowski",
         "Andrés Jerez",
-        "Ron Keinan",
-        "S. S. Yusuf",
+        "Hanna Yukhymenko",
+        "Sangwon Ryu",
         "Avantica Vempati",
-        "M. Staiano",
         "Sukannya Purkayastha",
         "Adrian Cosma",
-        "V. Babenko",
         "Erivan Inan",
-        "A. Nigam",
+        "V. Babenko",
         "W. Aissa",
+        "Valentin Scourneau",
         "Fatima Haouari",
         "Venkata Gummadi",
         "Mehdi Jafarzadeh",
-        "Valentin Scourneau",
-        "Lukas Edman",
+        "Manon Reusens",
         "Kaiser Sun",
+        "Lukas Edman",
         "Shaomu Tan",
+        "Giuseppe Gallipoli",
+        "Pawan Sasanka Ammanamanchi",
+        "Manar Ali",
         "Mohammad Sadegh Gholizadeh",
-        "Johannes-Rudolf David",
         "Dipankar Srirag",
+        "Marek Suppa",
         "Javier García Gilabert",
         "R. Binkytė",
-        "Manar Ali",
         "Ana-Maria Bucur",
         "Sabry E. Farrag",
         "Youssef Saber",
         "Yihong Liu",
+        "Theresia Veronika Rampisela",
+        "Christian Hoang",
+        "N. Cojocaru",
+        "Jan Koco'n",
         "Jean Maillard",
-        "Cojocaru Nicoleta",
         "Xiao-Chuang Yuan",
         "Sina Ahmadi",
+        "Daryna Dementieva",
         "Philipp Mondorf",
         "Kaustubh D. Dhole",
+        "Valmik Nahata",
         "Roman Wixinger",
+        "Amir Hossein Yari",
         "Shen-Bin Qian",
         "Manuel Tuor",
+        "F. M. Thoker",
         "S. Troshin",
-        "J. Yahav",
-        "Fida Mohammad Thoker",
-        "Amir Arsalan Rezapour",
         "Lance Calvin Lim Gamboa",
-        "Manon Reusens",
+        "Amir Arsalan Rezapour",
         "Kätriin Kukk",
         "Koel Dutta Chowdhury",
-        "Giuseppe Gallipoli",
-        "Christian Hoang",
         "Shaswati Saha",
         "Seth Aycock",
-        "Jan Koco'n",
         "Bo Chen",
         "Linh Vu",
         "Vatsal Venkatkrishna",
+        "Shayan Bali",
         "Arafat Ahsan",
         "L. Nguyen",
         "Hassan Soliman",
-        "Daryna Dementieva",
-        "Theresia Veronika Rampisela",
         "Ngoc Quynh Tram Do",
+        "Azmine Toushik Wasi",
+        "R. Damanhuri",
         "M. Huber",
         "Kazuki Egashira",
-        "Azmine Toushik Wasi",
+        "J. Layacan",
+        "D. Africa",
         "Vladislav Poritski",
         "Mike Zhang",
         "D. Shah",
-        "Paul Gavrikov",
+        "Abdulaziz Nura Kani",
         "Luis Frentzen Salim",
-        "D. Africa",
-        "R. Damanhuri",
+        "Paul Gavrikov",
         "Bello Bello",
+        "A. Munot",
         "A. Garg",
+        "Y. Xavier",
+        "Qiao-Yuan Zheng",
+        "Kawsar Ahmed",
+        "Debanshu Das",
+        "Zi-Mu Wang",
         "G. Rao",
-        "Pawan Sasanka Ammanamanchi",
         "Kamile Dementaviciute",
-        "Andrianos Michail",
+        "Farhan Farsi",
         "L. D. M. S. Sai Teja",
         "Da-Wei Zhu",
         "Yi Fan",
         "Wei Liu",
-        "Farhan Farsi",
+        "M. Gaido",
         "Elias Herranen",
         "Sankalan Pal Chowdhury",
         "Karen Sanchez",
+        "Guy Kaplan",
         "Farzad Shami",
         "Ashok Urlana",
-        "Zi-Mu Wang",
-        "Tomasz Limisiewicz",
+        "Amir Hossein Kargaran",
+        "Sofie Goethals",
         "Priyaranjan Pattnayak",
+        "O. Volchek",
         "Marii Ojastu",
         "Hongbin Na",
         "Emilian Radoi",
         "Chen-Yi Zhao",
         "Carlos Hinojosa",
+        "Andrei Niculae",
         "Andrea Gregor de Varda",
         "Zaid Alyafeai",
+        "Tomasz Limisiewicz",
         "Reem Alzahrani",
+        "Pouya Sadeghi",
         "Nehal Kathrotia",
+        "Mateusz Lango",
+        "Enzo Doyen",
         "Alex Flückiger",
         "Ulysses Sekai Tully Carr",
-        "J. Layacan",
-        "Guy Kaplan",
+        "Samuel Simko",
         "R. Tiwari",
         "Rishit Dagli",
-        "O. Volchek",
         "Isaac Caswell",
         "Bo-Wen Yi",
-        "Blanka Kövér",
-        "Amir Hossein Yari",
         "Aicha Chorana",
-        "Zhengxiang Wang",
         "Selja Keränen",
-        "Samuel Simko",
+        "Sadiksha Chitrakar",
+        "Muhammad Ravi Shulthan Habibi",
         "Joy Olusanya",
-        "Jenny Chim",
-        "Enzo Doyen",
+        "Bishal Shrestha",
+        "Zhengxiang Wang",
         "Vivek Harsha Lakkamaneni",
         "Sophia Conrad",
-        "Pouya Sadeghi",
         "Panayiotis N. Panayiotou",
+        "Nazia Tasnim",
+        "Marta Punsola Munárriz",
+        "Marko Čuljak",
         "Luis Lara",
+        "Jenny Chim",
         "Jannatul Nayem",
+        "Fidel Rodríguez Velásquez",
         "Eran Yahav",
-        "Debanshu Das",
-        "Antonia Karamolegkou",
+        "Blanka Kövér",
+        "Beatrice Savoldi",
         "Anmol Goel",
         "Aishik Mandal",
-        "Tommaso Cerruti",
+        "Tosin P. Adewumi",
         "Raoyuan Zhao",
         "Mykola Haltiuk",
+        "Antonia Karamolegkou",
+        "Yu-Xing Lu",
         "Thura Aung",
         "N. Al Mousa",
-        "Amir Hossein Kargaran",
-        "Rachel Bawden",
-        "Qiao-Yuan Zheng",
-        "Mateusz Lango",
+        "Tommaso Cerruti",
+        "Raia Abu Ahmad",
         "Béni Egressy",
-        "Fidel Rodríguez Velásquez",
+        "Alireza Pakniat",
+        "Stéphane J. P. S. Thunus",
+        "Rachel Bawden",
+        "Lena Libon",
+        "Samridhya Biswas",
+        "Prakhar Gupta",
+        "Nusrat Jahan Lia",
+        "T. Nguyen",
         "Natchapon Jongwiriyanurak",
         "Minh N. Do",
-        "M. Gaido",
-        "Lena Libon",
+        "I. Barač",
         "D. Kuzmin",
         "Badal Nyalang",
         "Antoine Taroni",
-        "Andrei Niculae",
-        "Abdulaziz Nura Kani",
+        "Andy Catruna",
         "Rushikesh Zawar",
-        "Marek Suppa",
-        "Beatrice Savoldi",
+        "Roland C. Aydin",
+        "Pavel Stepachev",
+        "Ilai Yaron Levy",
         "Andreas Simons",
         "Rayyan Merchant",
-        "Ilai Yaron Levy",
-        "Francesco Pinto",
         "Zi-Yi Yang",
-        "Y. Xavier",
         "Samuel Frontull",
-        "Muhammad Ravi Shulthan Habibi",
         "Kenneth C. Enevoldsen",
         "Harris Abdul Majid",
-        "Francesca Padovani",
         "T. Graf",
         "Tatiana Bielakova",
         "Sharifa Djurabaeva",
         "Shao Ji",
-        "Raia Abu Ahmad",
-        "Pavel Stepachev",
         "Jirui Qi",
-        "A. Munot",
-        "Alireza Pakniat",
         "Ayla Rigouts Terryn",
-        "Yu-Xing Lu",
         "Yurii Paniv",
         "Xi-Yang Fu",
-        "Tosin P. Adewumi",
         "Sunisth Kumar",
-        "Stéphane J. P. S. Thunus",
         "S. Satish",
-        "Shayan Bali",
-        "Prakhar Gupta",
         "Papa Abdou Karim Karou Diallo",
+        "Meng-Yu Ye",
+        "Maximilian Vieweg",
         "Matej Akrap",
-        "Marko Čuljak",
         "Kristýna Onderková",
         "Joseph Attieh",
+        "Ivan Yuri De Leon",
+        "Ibrahim Baroud",
         "Esrael Teferi Tensay",
         "Elisabeth Fittschen",
+        "David Dukić",
         "Benoît Sagot",
         "Jingwei Ni",
-        "Yu Fan"
+        "Yu Fan",
+        "Juri Opitz"
       ],
       "topAuthors": [
         {
           "name": "Mrinmaya Sachan",
-          "hIndex": 43,
+          "hIndex": 46,
           "authorId": "2790926"
         },
         {
           "name": "Alham Fikri Aji",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "8129718"
         }
       ],
@@ -2951,7 +2967,7 @@
       "arxivId": "2609.04173",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 86,
+      "referenceCount": 87,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.04173",
       "addedAt": "2026-09-23",
@@ -2974,7 +2990,7 @@
         },
         {
           "name": "G. Lior",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2218897793"
         }
       ],
@@ -3005,7 +3021,7 @@
       "topAuthors": [
         {
           "name": "Ekaterina Shutova",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "2362276"
         },
         {
@@ -3130,7 +3146,7 @@
         },
         {
           "name": "Kalika Bali",
-          "hIndex": 31,
+          "hIndex": 32,
           "authorId": "3086996"
         }
       ],
@@ -3165,7 +3181,7 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "2884561"
         },
         {
@@ -3208,12 +3224,12 @@
       "topAuthors": [
         {
           "name": "Fan-Dong Meng",
-          "hIndex": 42,
+          "hIndex": 43,
           "authorId": "33427918"
         },
         {
           "name": "Yufeng Chen",
-          "hIndex": 23,
+          "hIndex": 24,
           "authorId": "47559028"
         }
       ],
@@ -3252,12 +3268,12 @@
       "topAuthors": [
         {
           "name": "Mor Geva",
-          "hIndex": 33,
+          "hIndex": 35,
           "authorId": "22245981"
         },
         {
           "name": "Tal Linzen",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "51223875"
         }
       ],
@@ -3291,12 +3307,12 @@
       "topAuthors": [
         {
           "name": "Negar Foroutan",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "9737058"
         },
         {
           "name": "Constanza Fierro",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "50110151"
         }
       ],
@@ -3327,7 +3343,7 @@
       "topAuthors": [
         {
           "name": "Steven Bird",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "2066194290"
         }
       ],

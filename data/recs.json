@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T10:45:08.234Z",
+  "updatedAt": "2026-09-30T10:33:25.875Z",
   "recs": [
     {
       "id": "24005c82ef5b7300f052aedf096057a294518bf2",
@@ -39,10 +39,10 @@
       "referenceCount": 68,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 81.84186549972252,
+      "score": 82.2915092147275,
       "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -62,7 +62,7 @@
       "topAuthors": [
         {
           "name": "D. Bollegala",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2075356592"
         },
         {
@@ -84,10 +84,10 @@
       "referenceCount": 40,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 60.91427781222944,
+      "score": 61.477415364156954,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -106,19 +106,19 @@
       ],
       "topAuthors": [
         {
+          "name": "James A. Michaelov",
+          "hIndex": 12,
+          "authorId": "118683123"
+        },
+        {
           "name": "Tyler A. Chang",
           "hIndex": 12,
           "authorId": "2087001989"
-        },
-        {
-          "name": "James A. Michaelov",
-          "hIndex": 11,
-          "authorId": "118683123"
         }
       ],
       "affiliations": [
-        "UC San Diego",
-        "MIT"
+        "MIT",
+        "UC San Diego"
       ],
       "year": 2026,
       "venue": null,
@@ -132,10 +132,10 @@
       "referenceCount": 60,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 56.68065151686007,
+      "score": 56.87623933346059,
       "why": "past month · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -157,7 +157,7 @@
       "topAuthors": [
         {
           "name": "Michael A. Hedderich",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "51133383"
         },
         {
@@ -178,62 +178,15 @@
       "doi": "10.48550/arXiv.2604.17633",
       "arxivId": "2604.17633",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 51,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 93.58707434481894,
+      "score": 93.79393754252754,
       "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
-      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint",
-      "authors": [
-        "Vihari Piratla",
-        "Purvam Jain",
-        "Darshan Singh",
-        "Trevor Cohn",
-        "P. Jyothi",
-        "Partha Talukdar"
-      ],
-      "topAuthors": [
-        {
-          "name": "P. Jyothi",
-          "hIndex": 22,
-          "authorId": "144859542"
-        },
-        {
-          "name": "Vihari Piratla",
-          "hIndex": 9,
-          "authorId": "2748067"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": null,
-      "publicationDate": "2025-10-17",
-      "summary": "This work formalizes the cross-lingual gap in terms of biased and unbiased errors, and empirically validate the hypothesis that the variance of responses in the target language is a key cause of this gap through multiple inference-time interventions that control variance and reduce the cross-lingual gap.",
-      "url": "https://www.semanticscholar.org/paper/b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
-      "doi": null,
-      "arxivId": "2510.15551",
-      "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 43,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-29",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 65.54099678305388,
-      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
@@ -278,11 +231,58 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 65.40618326110864,
+      "score": 65.92015552070168,
       "why": "past year · cites 3 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
+      "batchPrNumber": 26,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
+      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint",
+      "authors": [
+        "Vihari Piratla",
+        "Purvam Jain",
+        "Darshan Singh",
+        "Trevor Cohn",
+        "P. Jyothi",
+        "Partha Talukdar"
+      ],
+      "topAuthors": [
+        {
+          "name": "P. Jyothi",
+          "hIndex": 22,
+          "authorId": "144859542"
+        },
+        {
+          "name": "Vihari Piratla",
+          "hIndex": 9,
+          "authorId": "2748067"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": null,
+      "publicationDate": "2025-10-17",
+      "summary": "This work formalizes the cross-lingual gap in terms of biased and unbiased errors, and empirically validate the hypothesis that the variance of responses in the target language is a key cause of this gap through multiple inference-time interventions that control variance and reduce the cross-lingual gap.",
+      "url": "https://www.semanticscholar.org/paper/b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
+      "doi": null,
+      "arxivId": "2510.15551",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 43,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-30",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 65.86560174993369,
+      "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
@@ -301,12 +301,12 @@
       "topAuthors": [
         {
           "name": "Constanza Fierro",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "50110151"
         },
         {
           "name": "Anders Søgaard",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2261279990"
         }
       ],
@@ -319,14 +319,14 @@
       "doi": null,
       "arxivId": "2608.28860",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 40,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 63.21624906566979,
+      "score": 63.765497785078516,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -371,12 +371,12 @@
       "topAuthors": [
         {
           "name": "Tao Gui",
-          "hIndex": 42,
+          "hIndex": 47,
           "authorId": "2067331064"
         },
         {
           "name": "Xuan-Jing Huang",
-          "hIndex": 33,
+          "hIndex": 37,
           "authorId": "2257129989"
         }
       ],
@@ -392,14 +392,14 @@
       "doi": "10.48550/arXiv.2601.14004",
       "arxivId": "2601.14004",
       "pdf": null,
-      "citationCount": 20,
+      "citationCount": 21,
       "referenceCount": 394,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 58.927669243524974,
+      "score": 59.53276931698951,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -420,7 +420,7 @@
       "topAuthors": [
         {
           "name": "Hui Xiong",
-          "hIndex": 13,
+          "hIndex": 16,
           "authorId": "2238311361"
         },
         {
@@ -444,10 +444,10 @@
       "referenceCount": 59,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 55.850345516659175,
+      "score": 56.586636191894215,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -468,12 +468,12 @@
       "topAuthors": [
         {
           "name": "J. Uddin",
-          "hIndex": 25,
+          "hIndex": 27,
           "authorId": "50550507"
         },
         {
           "name": "Fahmid Al Farid",
-          "hIndex": 9,
+          "hIndex": 12,
           "authorId": "2492883071"
         }
       ],
@@ -493,10 +493,10 @@
       "referenceCount": 144,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 55.75802115327928,
+      "score": 56.35462254761605,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -516,12 +516,12 @@
       "topAuthors": [
         {
           "name": "Hinrich Schutze",
-          "hIndex": 17,
+          "hIndex": 21,
           "authorId": "2130001188"
         },
         {
           "name": "Yihong Liu",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2107995084"
         }
       ],
@@ -536,14 +536,14 @@
       "doi": "10.48550/arXiv.2510.10280",
       "arxivId": "2510.10280",
       "pdf": null,
-      "citationCount": 3,
+      "citationCount": 4,
       "referenceCount": 29,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 51.240765481757975,
+      "score": 51.952698018364565,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -564,12 +564,12 @@
       "topAuthors": [
         {
           "name": "Yaodong Yang",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2260432856"
         },
         {
           "name": "Xiao-Hao Liu",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2174542939"
         }
       ],
@@ -586,10 +586,10 @@
       "referenceCount": 52,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 50.59951539874537,
+      "score": 51.059503919495974,
       "why": "past year · cites 4 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -609,13 +609,13 @@
       "topAuthors": [
         {
           "name": "Alan Ritter",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2253466149"
         },
         {
-          "name": "Jiayi He",
-          "hIndex": 6,
-          "authorId": "2324928346"
+          "name": "Jungsoo Park",
+          "hIndex": 7,
+          "authorId": "2118946797"
         }
       ],
       "affiliations": [],
@@ -631,10 +631,10 @@
       "referenceCount": 75,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 3,
       "direction": "forward",
-      "score": 46.76659960383863,
+      "score": 47.25819288498361,
       "why": "past year · cites 3 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -660,7 +660,7 @@
       "topAuthors": [
         {
           "name": "Luke Zettlemoyer",
-          "hIndex": 118,
+          "hIndex": 119,
           "authorId": "1982950"
         },
         {
@@ -681,11 +681,11 @@
       "doi": "10.18653/v1/2020.acl-main.747",
       "arxivId": "1911.02116",
       "pdf": "https://www.aclweb.org/anthology/2020.acl-main.747.pdf",
-      "citationCount": 9273,
+      "citationCount": 9321,
       "referenceCount": 42,
-      "influentialCitationCount": 1850,
+      "influentialCitationCount": 1858,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 27,
       "direction": "backward",
       "score": 100,
@@ -741,7 +741,7 @@
       "topAuthors": [
         {
           "name": "Philipp Koehn",
-          "hIndex": 69,
+          "hIndex": 66,
           "authorId": "1755162"
         },
         {
@@ -762,14 +762,14 @@
       "doi": "10.48550/arXiv.2207.04672",
       "arxivId": "2207.04672",
       "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 2008,
+      "citationCount": 2012,
       "referenceCount": 0,
       "influentialCitationCount": 174,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 15,
       "direction": "backward",
-      "score": 73.11625554070618,
+      "score": 73.04405035303135,
       "why": "cited by 15 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -789,12 +789,12 @@
       "topAuthors": [
         {
           "name": "Veniamin Veselovsky",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "93258626"
         },
         {
           "name": "C. Wendler",
-          "hIndex": 7,
+          "hIndex": 8,
           "authorId": "2328311036"
         }
       ],
@@ -809,14 +809,14 @@
       "doi": "10.48550/arXiv.2411.08745",
       "arxivId": "2411.08745",
       "pdf": null,
-      "citationCount": 52,
+      "citationCount": 54,
       "referenceCount": 46,
-      "influentialCitationCount": 5,
+      "influentialCitationCount": 4,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 65.78543332098279,
+      "score": 66.47269771153162,
       "why": "cites 5 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -854,14 +854,14 @@
       "doi": "10.18653/v1/P19-1493",
       "arxivId": "1906.01502",
       "pdf": "https://www.aclweb.org/anthology/P19-1493.pdf",
-      "citationCount": 1785,
+      "citationCount": 1788,
       "referenceCount": 19,
       "influentialCitationCount": 141,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "backward",
-      "score": 63.905116293989416,
+      "score": 63.97261726092286,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -904,14 +904,14 @@
       "doi": "10.18653/v1/D18-1269",
       "arxivId": "1809.05053",
       "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
-      "citationCount": 1677,
+      "citationCount": 1680,
       "referenceCount": 65,
-      "influentialCitationCount": 362,
+      "influentialCitationCount": 363,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "backward",
-      "score": 62.309439376845155,
+      "score": 62.38045153584591,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -933,9 +933,9 @@
           "authorId": "2954727"
         },
         {
-          "name": "Kartik Ravisankar",
-          "hIndex": 2,
-          "authorId": "2348098400"
+          "name": "HyoJung Han",
+          "hIndex": 3,
+          "authorId": "2392814904"
         }
       ],
       "affiliations": [
@@ -953,10 +953,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 58.62234372495091,
+      "score": 58.88912023118095,
       "why": "cites 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -974,12 +974,12 @@
       "topAuthors": [
         {
           "name": "Alham Fikri Aji",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "8129718"
         },
         {
           "name": "Zheng Lim",
-          "hIndex": 5,
+          "hIndex": 6,
           "authorId": "2066416516"
         }
       ],
@@ -998,10 +998,10 @@
       "referenceCount": 53,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 58.537374481671065,
+      "score": 58.82123714562052,
       "why": "cites 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1025,12 +1025,12 @@
       "topAuthors": [
         {
           "name": "Qiguang Chen",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "2133447633"
         },
         {
           "name": "Wan-Xiang Che",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2262459819"
         }
       ],
@@ -1049,10 +1049,10 @@
       "referenceCount": 462,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 5,
       "direction": "forward",
-      "score": 58.147573536739486,
+      "score": 58.66122253500251,
       "why": "cites 5 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1073,12 +1073,12 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 92,
+          "hIndex": 93,
           "authorId": "1700325"
         },
         {
           "name": "Sebastian Ruder",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "2884561"
         }
       ],
@@ -1094,14 +1094,14 @@
       "doi": null,
       "arxivId": "2003.11080",
       "pdf": null,
-      "citationCount": 1204,
+      "citationCount": 1207,
       "referenceCount": 63,
       "influentialCitationCount": 199,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "backward",
-      "score": 56.82456355933939,
+      "score": 56.881821446811166,
       "why": "cited by 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1124,7 +1124,7 @@
         },
         {
           "name": "Morteza Dehghani",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2294359048"
         }
       ],
@@ -1143,10 +1143,10 @@
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 55.594829484286926,
+      "score": 56.03170255510436,
       "why": "cites 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1165,12 +1165,12 @@
       "topAuthors": [
         {
           "name": "Lucie Flek",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "2125481734"
         },
         {
           "name": "Zhixue Zhao",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2300129468"
         }
       ],
@@ -1190,10 +1190,10 @@
       "referenceCount": 73,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 4,
       "direction": "forward",
-      "score": 54.28928595106248,
+      "score": 54.76554187442402,
       "why": "cites 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1210,7 +1210,7 @@
       "topAuthors": [
         {
           "name": "Mark Dredze",
-          "hIndex": 69,
+          "hIndex": 70,
           "authorId": "1782853"
         },
         {
@@ -1231,14 +1231,14 @@
       "doi": "10.18653/v1/D19-1077",
       "arxivId": "1904.09077",
       "pdf": "https://www.aclweb.org/anthology/D19-1077.pdf",
-      "citationCount": 769,
+      "citationCount": 770,
       "referenceCount": 46,
       "influentialCitationCount": 70,
       "source": null,
-      "addedAt": "2026-09-29",
+      "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "backward",
-      "score": 54.105531638594194,
+      "score": 54.22120916726644,
       "why": "cited by 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
