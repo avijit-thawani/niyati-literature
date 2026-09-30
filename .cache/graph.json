@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T10:33:25.879Z",
+  "updatedAt": "2026-09-30T19:19:52.260Z",
   "graph": {
     "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95": {
       "fetchedAt": "2026-09-26",
@@ -670,16 +670,18 @@
       ]
     },
     "e0a4053a8ba5883d6a3f06dae43e32bfde610c61": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "63a3f80b24ca8da8342f0bacc39f4f919b1af179",
         "d70fe318d5fa97dab6ceaa3a5f14869f45b384dd",
         "7d25ef700d8a779a9034340f9b0b179b374f7ef8"
       ],
-      "cites": []
+      "cites": [],
+      "citedByStrong": [],
+      "citesStrong": []
     },
     "ffa62b841c97ed258079cc68a5eff1b830d527b6": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "4417c8641f69062c46649f39e44c16c619481036",
         "baf89e8a9645660fb70f4dade51059463fa669c9",
@@ -728,10 +730,33 @@
         "44e00e71efa190d8df42b9338b470a17f08e845c",
         "8de7cbc81c2097072d47c7f3d4de732d897b8c27",
         "77e576c02792d7df5b102bb81d49df4b5382e1cc"
+      ],
+      "citedByStrong": [
+        "baf89e8a9645660fb70f4dade51059463fa669c9"
+      ],
+      "citesStrong": [
+        "9d24d4304078f0be973220c63abcceb3ea1848c2",
+        "d7b93f247f9e46115d6b78a67a458c44de0f9039",
+        "84736a6fa613ffbddbaeb9cf9f4134e081d2d033",
+        "f19e9cf20d96135b2cb67a36a13c80e280669656",
+        "71a88ba9a07a7a290755430c2c6282008b85db12",
+        "dda2cee72ffa3e5c70db302a87595ba9e5e72910",
+        "d90193d2be26a9bf4b187763ee620dd4100d406a",
+        "562c09c112df56c5696c010d90a815d6018a86c8",
+        "11fdffe08eb1b08bfa8e3fdabe1accfd0e336be3",
+        "9a2eed5f8175275af0d55d4aed39afc8e2b2acf2",
+        "e2dba792360873aef125572812f3673b1a85d850",
+        "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+        "f6b51c8753a871dc94ff32152c00c01e94f90f09",
+        "1b560f892432fb853d233c92f9294640bc91de3c",
+        "3709b6cb2ed14c04b60e38d5f75e89c41317e93d",
+        "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+        "44e00e71efa190d8df42b9338b470a17f08e845c",
+        "8de7cbc81c2097072d47c7f3d4de732d897b8c27"
       ]
     },
     "4328a6ad84517306e4c8d423c94690ade44c196b": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "0f77d4e6b89f3695c19c822be81cd8789cb0fbf7",
         "962a6e653cc70068656c3f07db79eba14276e117",
@@ -767,10 +792,29 @@
         "1aa9c0045f1fe8c79cce03c7c14ef4b4643a21f8",
         "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
         "6bb086a85107ea9341ae5f05bd13c8c761543d9c"
+      ],
+      "citedByStrong": [],
+      "citesStrong": [
+        "dbfbfcc2633ef46c53e2343525ee87c700f2cfc3",
+        "b079db3fe7cc3037fc15a5a1071254a0046774ac",
+        "40c531fb0267437b0f76fd8f0080fb4de9ffe146",
+        "fbd97148a8df29b638478df91f4309a4ac9dd8ae",
+        "a2ce385fc8d5068e8c87ebe4699c8f9b295cad5e",
+        "0fe73c19513dfd17372d8ef58da0d0149725832c",
+        "11fdffe08eb1b08bfa8e3fdabe1accfd0e336be3",
+        "f8f2b625b6baaa3931b7b4f053a7018c3fd725a3",
+        "f222fe9948231e08abc8472601f2876fd5e25697",
+        "e2dba792360873aef125572812f3673b1a85d850",
+        "1518039b5001f1836565215eb047526b3ac7f462",
+        "f6b51c8753a871dc94ff32152c00c01e94f90f09",
+        "1b560f892432fb853d233c92f9294640bc91de3c",
+        "1aa9c0045f1fe8c79cce03c7c14ef4b4643a21f8",
+        "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+        "6bb086a85107ea9341ae5f05bd13c8c761543d9c"
       ]
     },
     "4c634317136f6ce4fd18e5aa176ddf91ea5be0f1": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "669648aa00bc177c53bee0623633c00c3d7b44f3",
         "b6fa539ff020eacf8a1b4d03123286ef27696107",
@@ -817,11 +861,27 @@
         "6bb086a85107ea9341ae5f05bd13c8c761543d9c",
         "502caf2fa37cfaafdee5cc58fd831038d6cfd858",
         "a4821429078c0d174a2deb0ec06406d59914abdf"
+      ],
+      "citedByStrong": [],
+      "citesStrong": [
+        "8ef40c19412e3022fb16ac8e9f8b572a7d85a1be",
+        "7997d432925aff0ba05497d2893c09918298ca55",
+        "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+        "5b3c4e9305d392e0f160212cc288611776f9e3a4",
+        "dda2cee72ffa3e5c70db302a87595ba9e5e72910",
+        "e2dba792360873aef125572812f3673b1a85d850",
+        "d115eceab7153d2a1dc6fbf6b99c3bdf1b0cdd46",
+        "c2c1cb86b7ee41d5802be2482f3ab2b0be79e316",
+        "beb5cb899015faed320464c9d4cc44f90553d8dc",
+        "7b5e31257f01aba987f16e175a3e49e00a5bd3bb",
+        "37dd6bb2fde54ce667f189ac259b586f3afe2d7c",
+        "a4821429078c0d174a2deb0ec06406d59914abdf"
       ]
     },
     "c3103c6d21b6d11feb1011e9674be50789c8ae3e": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
+        "b5227491fd7f58b6b210c0d95b39dfc44c96cc03",
         "5688737033aedc0bce85c4397d04a7bb25656998",
         "c06c8aff22a7e446e938ab3c2ba5e9bcfc1cefd3",
         "8efaa8206874c2f7a79bba2a9bcba542e4cabf31",
@@ -855,9 +915,9 @@
         "10cae546a617f981907588967e33c1df84d719fa",
         "fe4b3a7fc9fb54689c2c805feaf8f832fac23707",
         "aaa8f3b7504476727e72806e6f9ded01e13cd494",
+        "a705908a4937acda271f4f278704db1f2ec87b3d",
         "a651bb7cc7fc68ece0cc66ab921486d163373385",
         "629a902def4fae97e47505fced2f800a583ad4ca",
-        "a705908a4937acda271f4f278704db1f2ec87b3d",
         "7fbf9d5e1bbac56efba21021d4577620ba3b3ee5",
         "b9c7d7e3d76bf1e1ce1c60c0e1ed1dbd8627338f",
         "3266ca3ecd501943bac75b22b92ae805798add4b",
@@ -872,10 +932,33 @@
         "c2fbd6cead3815b8e7038fda6f0f0254a2218ca7",
         "709098b84bb043f44fcdb953c6c410e66a6b86d7",
         "6e60fd3ee575f6cf7675f9bb4779383211e9b690"
+      ],
+      "citedByStrong": [],
+      "citesStrong": [
+        "12c433588c04735647bfcc978a5a02361aa9d40b",
+        "73b1d167dbd3fd0022a08dbf6275b17c4d610e82",
+        "8ed77f74dc4ecdee9942bdc32b4121d95383c8c1",
+        "747463a7f9678bde86be400c76038f31f51c33bc",
+        "26045ab32c361d9b45ef4bf5e82e50c1b6e2afa5",
+        "75c67cef7fd5d57638fe7ecf5713b764f3158d7c",
+        "3cea3a3eb5b83612a7f8da49fde0d7244058ee06",
+        "a1c1cb6541d1050c0af6a3f911c3f3dee19b9808",
+        "26129c19b92daeb50b1c9f322b63a41aec84b127",
+        "0a275c52c61ecf2429189387426d6173e40d695a",
+        "af7867fd5d74b17fad2053c718b8dced67f1b63f",
+        "040e831967b872fd8db47fb17b2f29e487b3e4a6",
+        "b8e6125102305fb783616f2d8839d3c5b2563a22",
+        "d9674edc47fd41c27c0c6497c0e7d6bf1910d84e",
+        "10cae546a617f981907588967e33c1df84d719fa",
+        "aaa8f3b7504476727e72806e6f9ded01e13cd494",
+        "a651bb7cc7fc68ece0cc66ab921486d163373385",
+        "7fbf9d5e1bbac56efba21021d4577620ba3b3ee5",
+        "3ec98d0aeb2c2d99ffb45e8f4986e754bec31a0e",
+        "c2fbd6cead3815b8e7038fda6f0f0254a2218ca7"
       ]
     },
     "2c3108bcbf4817e62e3457c5ae8caf9c1d6954a7": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "b30ffb38fe9bdf0d12cc945205dd3da6e0d49496",
         "fbbf6f1035677e6298d9095906be8b9c5ee37a22",
@@ -927,22 +1010,53 @@
         "1a6b2d237b873703b3f0af644f7953e3f2c7116e",
         "766ce989b8b8b984f7a4691fd8c9af4bdb2b74cd",
         "ca8bba76d8fc7d42a632762d42055cd836445910"
+      ],
+      "citedByStrong": [
+        "b30ffb38fe9bdf0d12cc945205dd3da6e0d49496"
+      ],
+      "citesStrong": [
+        "4570d24eae264c3cd9962536426d71fad3536122",
+        "56b5117f5ea5b1a16dedeed723b46d165ba23308",
+        "25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3",
+        "68515ff92a0face77d881a72aecf18db5f579652",
+        "4b6cb3a377fcbbcd59920ec47450ba12129224c0",
+        "2af181e678d8c88a320edf0be1849467758ec032",
+        "a791be15c901132afed7eac6840294dfa493ae4a",
+        "997736a825a84c43e1957dd463d673a4e3759954",
+        "bd3d1ef6eaec411c103d0f7d13b054ba3700ccd5",
+        "e48f9c67825ee7a53a87c27689e1783aa4c105ee",
+        "9291a74562862c80fe7099d85b9074ed15b49731",
+        "93cb43c48e2462ab03cad0935bac9fa3e4945068",
+        "806774c58b22e6ca949fe1a8b87e05d7289303fe",
+        "d0fab51fa3abe14198bed723fbe66657287a7519",
+        "053f1cf10ced2321c1853f307075f0a6a83b6840",
+        "2a92864d3f44e1b34da0fa17e13d5752d089eddf",
+        "823b335c53d38a181744ee19c9dee56371cf84ae",
+        "a959ae0f08228d5d04eb46d5dc1ec3f4c9ee91d7"
       ]
     },
     "9e69660130d126b14118510dfb4a8a5c876ebc08": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "a723a902f5037b7690a4934d3d0153ef834decea",
         "f490855b0e8751ef9320e528680c97e0682c1920"
       ],
-      "cites": []
+      "cites": [],
+      "citedByStrong": [
+        "f490855b0e8751ef9320e528680c97e0682c1920"
+      ],
+      "citesStrong": []
     },
     "b7b7d273f6bfe60b8c98d0b367d2d5c2fb5cbf88": {
-      "fetchedAt": "2026-09-12",
+      "fetchedAt": "2026-09-30",
       "citedBy": [
         "c96af52158e03b768dbda2d2741bcf828de7d813"
       ],
-      "cites": []
+      "cites": [],
+      "citedByStrong": [
+        "c96af52158e03b768dbda2d2741bcf828de7d813"
+      ],
+      "citesStrong": []
     },
     "counts:17602dceab79d04840b39c32f6f9ab77a3ae6228": {
       "citationCount": 10,
@@ -1117,7 +1231,7 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6": {
-      "citationCount": 9321,
+      "citationCount": 9335,
       "fetchedAt": "2026-09-30"
     },
     "counts:9d7902e834d5d1d35179962c7a5b9d16623b0d39": {
@@ -1153,7 +1267,7 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:df2b0e26d0599ce3e70df8a9da02e51594e0e992": {
-      "citationCount": 121647,
+      "citationCount": 121693,
       "fetchedAt": "2026-09-30"
     },
     "counts:2ba4301ffe2fc4d725722ea6b39904cafd45ec3c": {
@@ -1293,8 +1407,8 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:d115eceab7153d2a1dc6fbf6b99c3bdf1b0cdd46": {
-      "citationCount": 1504,
-      "fetchedAt": "2026-09-26"
+      "citationCount": 1509,
+      "fetchedAt": "2026-09-30"
     },
     "counts:af33136ef8b0e37c0a75435f49242dcc05a944a0": {
       "citationCount": 3,
@@ -1305,8 +1419,8 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:7b5e31257f01aba987f16e175a3e49e00a5bd3bb": {
-      "citationCount": 1119,
-      "fetchedAt": "2026-09-26"
+      "citationCount": 1120,
+      "fetchedAt": "2026-09-30"
     },
     "counts:288ef622fe53317f92ddb66677a7a0b691719c38": {
       "citationCount": 64,
@@ -1994,7 +2108,7 @@
     },
     "counts:32100a9b4dfb7476e642703a85ae6c2998ecbc8f": {
       "citationCount": 91,
-      "fetchedAt": "2026-09-26"
+      "fetchedAt": "2026-09-30"
     },
     "counts:d617f51833860dc50d202af7f80be71304b2e994": {
       "citationCount": 235,
@@ -2026,7 +2140,7 @@
     },
     "counts:84736a6fa613ffbddbaeb9cf9f4134e081d2d033": {
       "citationCount": 17,
-      "fetchedAt": "2026-09-26"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a5c3fa3aecf8c34db9167a131221628cbcd1b239": {
       "citationCount": 77,
@@ -2089,12 +2203,12 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:25ca4a36df2955b345634b5f8a6b6bb66a774b3c": {
-      "citationCount": 2147,
-      "fetchedAt": "2026-09-26"
+      "citationCount": 2155,
+      "fetchedAt": "2026-09-30"
     },
     "counts:4c634317136f6ce4fd18e5aa176ddf91ea5be0f1": {
       "citationCount": 7,
-      "fetchedAt": "2026-09-26"
+      "fetchedAt": "2026-09-30"
     },
     "counts:1105f26529bd6ab73e866b13513b36b591470985": {
       "citationCount": 23,
@@ -2121,148 +2235,148 @@
       "fetchedAt": "2026-09-26"
     },
     "counts:20e1ddc105f0f145ea7647a9ea4b9c94a8aeab62": {
-      "citationCount": 53,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 54,
+      "fetchedAt": "2026-09-30"
     },
     "counts:9d24d4304078f0be973220c63abcceb3ea1848c2": {
       "citationCount": 26,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:d7b93f247f9e46115d6b78a67a458c44de0f9039": {
-      "citationCount": 398,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 401,
+      "fetchedAt": "2026-09-30"
     },
     "counts:5e161653faa3a7739841d28c2d57ac76718b1e17": {
       "citationCount": 13,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:15bcf3b7aa6511a55d7066419453a6d5906b2db8": {
-      "citationCount": 60,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 61,
+      "fetchedAt": "2026-09-30"
     },
     "counts:ae2b5b75729815c00bedeb931d70098f1a297c45": {
       "citationCount": 46,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:8fd0b0b308c31de2fcf10e14711bf788e6afb13f": {
-      "citationCount": 14,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 15,
+      "fetchedAt": "2026-09-30"
     },
     "counts:14489ec7893e373a0dcc9555c52b99b2b3a429f6": {
-      "citationCount": 418,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 422,
+      "fetchedAt": "2026-09-30"
     },
     "counts:94551d326be51a57434659093904524c39b877cd": {
       "citationCount": 215,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:e1a077709d0ede1d56d274d997304a97cb976d15": {
-      "citationCount": 37,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 38,
+      "fetchedAt": "2026-09-30"
     },
     "counts:dea5278aded363d2ec4418f095bdf3df3fa78c98": {
       "citationCount": 45,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:5d9bb7e6fa899ec8e1de66389cfeb5639044c56b": {
       "citationCount": 16,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:f19e9cf20d96135b2cb67a36a13c80e280669656": {
-      "citationCount": 94,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 95,
+      "fetchedAt": "2026-09-30"
     },
     "counts:cce3ae8c53fc57f45800659586149ced9856a8fe": {
       "citationCount": 60,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:db1dafd0c356491cbbf53338b9984de324e7239c": {
-      "citationCount": 108,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 109,
+      "fetchedAt": "2026-09-30"
     },
     "counts:71a88ba9a07a7a290755430c2c6282008b85db12": {
       "citationCount": 32,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:cf4d68ddf6d288f23cf1b410b9f53da1adfc81b0": {
       "citationCount": 25,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:dda2cee72ffa3e5c70db302a87595ba9e5e72910": {
-      "citationCount": 633,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 634,
+      "fetchedAt": "2026-09-30"
     },
     "counts:d90193d2be26a9bf4b187763ee620dd4100d406a": {
       "citationCount": 239,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:562c09c112df56c5696c010d90a815d6018a86c8": {
-      "citationCount": 1826,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 1833,
+      "fetchedAt": "2026-09-30"
     },
     "counts:11fdffe08eb1b08bfa8e3fdabe1accfd0e336be3": {
       "citationCount": 507,
       "fetchedAt": "2026-09-30"
     },
     "counts:46c112747fb44f82d3096c07c6d8a8faeee8b3d4": {
-      "citationCount": 615,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 617,
+      "fetchedAt": "2026-09-30"
     },
     "counts:941e42ee75fc2bf07078bcfbd14bdf9ca7fe99ff": {
       "citationCount": 132,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:9a2eed5f8175275af0d55d4aed39afc8e2b2acf2": {
-      "citationCount": 408,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 410,
+      "fetchedAt": "2026-09-30"
     },
     "counts:e2dba792360873aef125572812f3673b1a85d850": {
-      "citationCount": 11008,
+      "citationCount": 11010,
       "fetchedAt": "2026-09-30"
     },
     "counts:0f16ab376632ee83f2a3af21e96ebb925a8ac8b8": {
       "citationCount": 78,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:f6b51c8753a871dc94ff32152c00c01e94f90f09": {
-      "citationCount": 35149,
+      "citationCount": 35151,
       "fetchedAt": "2026-09-30"
     },
     "counts:4b9635ed7c9ddec5a17c992d1a01080353b4934a": {
       "citationCount": 67,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:1b560f892432fb853d233c92f9294640bc91de3c": {
-      "citationCount": 529,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 536,
+      "fetchedAt": "2026-09-30"
     },
     "counts:f6eeccb02fffc8d8b0af3bbae880e4015837dadd": {
       "citationCount": 66,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:3709b6cb2ed14c04b60e38d5f75e89c41317e93d": {
       "citationCount": 358,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b63886f615fd39d5775e1ea89c79133bd37300f7": {
       "citationCount": 31,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:f058ceb61d2d7bdd38b9c2dff29fff2752a5e1fa": {
       "citationCount": 10,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:44e00e71efa190d8df42b9338b470a17f08e845c": {
-      "citationCount": 350,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 363,
+      "fetchedAt": "2026-09-30"
     },
     "counts:8de7cbc81c2097072d47c7f3d4de732d897b8c27": {
-      "citationCount": 19,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 20,
+      "fetchedAt": "2026-09-30"
     },
     "counts:77e576c02792d7df5b102bb81d49df4b5382e1cc": {
       "citationCount": 433,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:036b07c91b23a152a1b764aa492a7503dd3474b8": {
       "citationCount": 311,
@@ -2418,66 +2532,66 @@
     },
     "counts:13bcfb944779165983aaef22cec8a3bbd3e98e62": {
       "citationCount": 156,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:9b1933038680b13c06b60dfe810e96a3a0ef9d37": {
       "citationCount": 93,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:75edd2aa6f72f3e4a129832f4754ea5c4d676d39": {
       "citationCount": 79,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:7651eab018364a02c6bcccadba460364c1b071f5": {
       "citationCount": 7,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:dbfbfcc2633ef46c53e2343525ee87c700f2cfc3": {
       "citationCount": 166,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b079db3fe7cc3037fc15a5a1071254a0046774ac": {
-      "citationCount": 24,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 25,
+      "fetchedAt": "2026-09-30"
     },
     "counts:40c531fb0267437b0f76fd8f0080fb4de9ffe146": {
-      "citationCount": 34,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 35,
+      "fetchedAt": "2026-09-30"
     },
     "counts:fbd97148a8df29b638478df91f4309a4ac9dd8ae": {
       "citationCount": 103,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a2ce385fc8d5068e8c87ebe4699c8f9b295cad5e": {
       "citationCount": 69,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b5246fa284f86b544a7c31f050b3bd0defd053fd": {
-      "citationCount": 4320,
+      "citationCount": 4323,
       "fetchedAt": "2026-09-30"
     },
     "counts:84aa9e1685779019fc162a697d0cdb98066f808c": {
       "citationCount": 24,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:e73bd7f9bdc262b9b7fb60ca0d5230d3ab0fad5e": {
-      "citationCount": 1421,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 1427,
+      "fetchedAt": "2026-09-30"
     },
     "counts:0fe73c19513dfd17372d8ef58da0d0149725832c": {
-      "citationCount": 1628,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1637,
+      "fetchedAt": "2026-09-30"
     },
     "counts:f8f2b625b6baaa3931b7b4f053a7018c3fd725a3": {
       "citationCount": 23,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:f222fe9948231e08abc8472601f2876fd5e25697": {
       "citationCount": 23,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:1518039b5001f1836565215eb047526b3ac7f462": {
-      "citationCount": 9049,
+      "citationCount": 9053,
       "fetchedAt": "2026-09-30"
     },
     "counts:120ac09b2734ba9d785f6f3def85fe1936aa4322": {
@@ -2485,12 +2599,12 @@
       "fetchedAt": "2026-09-30"
     },
     "counts:1aa9c0045f1fe8c79cce03c7c14ef4b4643a21f8": {
-      "citationCount": 1202,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1215,
+      "fetchedAt": "2026-09-30"
     },
     "counts:6bb086a85107ea9341ae5f05bd13c8c761543d9c": {
       "citationCount": 41,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b7bd52070c34424099b1b1ea8707bbc32b368a7f": {
       "citationCount": 7,
@@ -2570,439 +2684,439 @@
     },
     "counts:8ef40c19412e3022fb16ac8e9f8b572a7d85a1be": {
       "citationCount": 7,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:e843ea99e04320f223164387e4a20d1b6d0e8239": {
       "citationCount": 5,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:cfdee1a6b64b0edb4b3194d36487cda50987034e": {
       "citationCount": 91,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:1d7a7b894dcd8418d7278cd8ad234542380bafd8": {
       "citationCount": 20,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:db858a82215cf868b1f353a199ddb45265dd5737": {
-      "citationCount": 16,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 17,
+      "fetchedAt": "2026-09-30"
     },
     "counts:7997d432925aff0ba05497d2893c09918298ca55": {
-      "citationCount": 123,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 124,
+      "fetchedAt": "2026-09-30"
     },
     "counts:5b3c4e9305d392e0f160212cc288611776f9e3a4": {
       "citationCount": 35,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:88b57e328d6e7418985e0706d427e83fa1582bde": {
       "citationCount": 48,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a9a5d671271fff45429084e184a788f611b6f194": {
-      "citationCount": 148,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 149,
+      "fetchedAt": "2026-09-30"
     },
     "counts:63bd87449a36a4aa1b9a5c97a73d83309821a6c8": {
-      "citationCount": 118,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 119,
+      "fetchedAt": "2026-09-30"
     },
     "counts:c2c1cb86b7ee41d5802be2482f3ab2b0be79e316": {
       "citationCount": 104,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:bae70140daf067c89373cdaed19e902604275903": {
       "citationCount": 10,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:beb5cb899015faed320464c9d4cc44f90553d8dc": {
       "citationCount": 6,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:79922186f38733cd8d7b53c706bde1bd96aeccdc": {
       "citationCount": 48,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:795506d4f52b323086d2a51541e23e17e8efe968": {
-      "citationCount": 96,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 97,
+      "fetchedAt": "2026-09-30"
     },
     "counts:061a548bbf6ced51b6a6c61c9d4f3e94e282bffd": {
       "citationCount": 40,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:023f881c6fab8c7ae15e29d6fb7528d99c8c3494": {
-      "citationCount": 427,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 425,
+      "fetchedAt": "2026-09-30"
     },
     "counts:63d2dc91de0875b231905dd3a060b0f1c6627162": {
-      "citationCount": 26,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 27,
+      "fetchedAt": "2026-09-30"
     },
     "counts:37dd6bb2fde54ce667f189ac259b586f3afe2d7c": {
       "citationCount": 12,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:94a02d11f9e6842415e11a329701537de0a20b8a": {
       "citationCount": 8,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:11187ff3008163b673aa34ba4eafdb0ceb6db6b1": {
       "citationCount": 21,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:1c46943103bd7b7a2c7be86859995a4144d1938b": {
-      "citationCount": 51285,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 51439,
+      "fetchedAt": "2026-09-30"
     },
     "counts:502caf2fa37cfaafdee5cc58fd831038d6cfd858": {
       "citationCount": 42,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a4821429078c0d174a2deb0ec06406d59914abdf": {
-      "citationCount": 1114,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1120,
+      "fetchedAt": "2026-09-30"
     },
     "counts:12c433588c04735647bfcc978a5a02361aa9d40b": {
       "citationCount": 1,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:73b1d167dbd3fd0022a08dbf6275b17c4d610e82": {
       "citationCount": 8,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:8ed77f74dc4ecdee9942bdc32b4121d95383c8c1": {
-      "citationCount": 25,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 27,
+      "fetchedAt": "2026-09-30"
     },
     "counts:747463a7f9678bde86be400c76038f31f51c33bc": {
       "citationCount": 7,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:26045ab32c361d9b45ef4bf5e82e50c1b6e2afa5": {
       "citationCount": 9,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:75c67cef7fd5d57638fe7ecf5713b764f3158d7c": {
       "citationCount": 23,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:3cea3a3eb5b83612a7f8da49fde0d7244058ee06": {
-      "citationCount": 91,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 94,
+      "fetchedAt": "2026-09-30"
     },
     "counts:a1c1cb6541d1050c0af6a3f911c3f3dee19b9808": {
       "citationCount": 5,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:28fcaaa1855d0ed995f649e22c0da2ad415001b4": {
       "citationCount": 157,
-      "fetchedAt": "2026-09-23"
+      "fetchedAt": "2026-09-30"
     },
     "counts:67728616a406409dd804f598aa68afcd88f52870": {
       "citationCount": 10,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:26129c19b92daeb50b1c9f322b63a41aec84b127": {
       "citationCount": 3,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:0a275c52c61ecf2429189387426d6173e40d695a": {
       "citationCount": 51,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:85741ee2f04be204205bd1ca0d2f76c66d691134": {
       "citationCount": 40,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:af7867fd5d74b17fad2053c718b8dced67f1b63f": {
       "citationCount": 69,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:040e831967b872fd8db47fb17b2f29e487b3e4a6": {
       "citationCount": 5,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b94239ea1debf595b18cc536cdda5315544312b8": {
       "citationCount": 12,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b8e6125102305fb783616f2d8839d3c5b2563a22": {
-      "citationCount": 142,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 143,
+      "fetchedAt": "2026-09-30"
     },
     "counts:ed76bc32b84496748f4bd2ca971c077e4fd122d8": {
       "citationCount": 73,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:ede3801b5a41d29f08488e245d7075f8db7633d9": {
       "citationCount": 16,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:d9674edc47fd41c27c0c6497c0e7d6bf1910d84e": {
       "citationCount": 1076,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:10cae546a617f981907588967e33c1df84d719fa": {
-      "citationCount": 263,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 264,
+      "fetchedAt": "2026-09-30"
     },
     "counts:fe4b3a7fc9fb54689c2c805feaf8f832fac23707": {
-      "citationCount": 300,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 301,
+      "fetchedAt": "2026-09-30"
     },
     "counts:aaa8f3b7504476727e72806e6f9ded01e13cd494": {
-      "citationCount": 2554,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 2567,
+      "fetchedAt": "2026-09-30"
     },
     "counts:a651bb7cc7fc68ece0cc66ab921486d163373385": {
-      "citationCount": 9714,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 9718,
+      "fetchedAt": "2026-09-30"
     },
     "counts:629a902def4fae97e47505fced2f800a583ad4ca": {
-      "citationCount": 1750,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1751,
+      "fetchedAt": "2026-09-30"
     },
     "counts:a705908a4937acda271f4f278704db1f2ec87b3d": {
-      "citationCount": 711,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 726,
+      "fetchedAt": "2026-09-30"
     },
     "counts:7fbf9d5e1bbac56efba21021d4577620ba3b3ee5": {
-      "citationCount": 48,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 49,
+      "fetchedAt": "2026-09-30"
     },
     "counts:b9c7d7e3d76bf1e1ce1c60c0e1ed1dbd8627338f": {
-      "citationCount": 501,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 500,
+      "fetchedAt": "2026-09-30"
     },
     "counts:3266ca3ecd501943bac75b22b92ae805798add4b": {
-      "citationCount": 23,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 24,
+      "fetchedAt": "2026-09-30"
     },
     "counts:5e770b1f18dd87bb7bf52c2803907a93746c5597": {
       "citationCount": 58,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:763a2b42a64358cb9e06f994e17b5fb549e0fc44": {
       "citationCount": 7,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:f3a7b05bb152bb58996ec101a1d387da97067618": {
       "citationCount": 37,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:8c1ae79d4de87085a1f0f474ebc778370635a990": {
       "citationCount": 14,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:c08ba14f573e797cb42e9215f21164312acce9bf": {
-      "citationCount": 134,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 135,
+      "fetchedAt": "2026-09-30"
     },
     "counts:d4686fcc885b7a2e4b29c2aee77f17c3403f866b": {
       "citationCount": 64,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:3ec98d0aeb2c2d99ffb45e8f4986e754bec31a0e": {
       "citationCount": 55,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:60258897d250a41f11cfee27de828a0130110b5e": {
-      "citationCount": 2541,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 2543,
+      "fetchedAt": "2026-09-30"
     },
     "counts:c2fbd6cead3815b8e7038fda6f0f0254a2218ca7": {
-      "citationCount": 430,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 432,
+      "fetchedAt": "2026-09-30"
     },
     "counts:709098b84bb043f44fcdb953c6c410e66a6b86d7": {
       "citationCount": 6,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:6e60fd3ee575f6cf7675f9bb4779383211e9b690": {
       "citationCount": 125,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a21954190638072caf40e59356a6998a61a566c0": {
       "citationCount": 3,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:4570d24eae264c3cd9962536426d71fad3536122": {
       "citationCount": 23,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:56b5117f5ea5b1a16dedeed723b46d165ba23308": {
-      "citationCount": 32,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 33,
+      "fetchedAt": "2026-09-30"
     },
     "counts:25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3": {
-      "citationCount": 285,
-      "fetchedAt": "2026-09-23"
+      "citationCount": 287,
+      "fetchedAt": "2026-09-30"
     },
     "counts:68515ff92a0face77d881a72aecf18db5f579652": {
       "citationCount": 14,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a79080462b365fa172a14ced03c048e6960edd03": {
       "citationCount": 43,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:4b6cb3a377fcbbcd59920ec47450ba12129224c0": {
-      "citationCount": 216,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 218,
+      "fetchedAt": "2026-09-30"
     },
     "counts:70976743aaec1be2b90afe84330efbcb03130b7b": {
-      "citationCount": 980,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 994,
+      "fetchedAt": "2026-09-30"
     },
     "counts:2af181e678d8c88a320edf0be1849467758ec032": {
-      "citationCount": 284,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 289,
+      "fetchedAt": "2026-09-30"
     },
     "counts:8b883c297bd5aaa9310fc08230a12a7f2dbf6c8d": {
       "citationCount": 123,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:548eab9483cd5c81940706ea5d2478860cedb8dd": {
-      "citationCount": 117,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 118,
+      "fetchedAt": "2026-09-30"
     },
     "counts:19a147bac84cb3c672a5061eaabe38d25af4e632": {
       "citationCount": 22,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:a791be15c901132afed7eac6840294dfa493ae4a": {
       "citationCount": 34,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:997736a825a84c43e1957dd463d673a4e3759954": {
       "citationCount": 87,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:bd3d1ef6eaec411c103d0f7d13b054ba3700ccd5": {
       "citationCount": 133,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:e48f9c67825ee7a53a87c27689e1783aa4c105ee": {
       "citationCount": 6,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:89774f17d4ae199ea6950b747bf21e390a6e023a": {
-      "citationCount": 784,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 794,
+      "fetchedAt": "2026-09-30"
     },
     "counts:9291a74562862c80fe7099d85b9074ed15b49731": {
-      "citationCount": 197,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 199,
+      "fetchedAt": "2026-09-30"
     },
     "counts:cc955b730f6199d41dd6e98d3878fbdb52a1a3e3": {
-      "citationCount": 138,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 137,
+      "fetchedAt": "2026-09-30"
     },
     "counts:93cb43c48e2462ab03cad0935bac9fa3e4945068": {
       "citationCount": 97,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:14020dc58052ef9f2bc106f62192cd2bcac9401d": {
-      "citationCount": 164,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 166,
+      "fetchedAt": "2026-09-30"
     },
     "counts:806774c58b22e6ca949fe1a8b87e05d7289303fe": {
-      "citationCount": 124,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 125,
+      "fetchedAt": "2026-09-30"
     },
     "counts:dcf3c59cf3a2397878cd07d0a727a5d71d94a2a0": {
       "citationCount": 41,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:d0fab51fa3abe14198bed723fbe66657287a7519": {
       "citationCount": 177,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:053f1cf10ced2321c1853f307075f0a6a83b6840": {
       "citationCount": 491,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:41215599674d8a81e7420f2a40320868f3dbc2f1": {
-      "citationCount": 662,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 666,
+      "fetchedAt": "2026-09-30"
     },
     "counts:2a92864d3f44e1b34da0fa17e13d5752d089eddf": {
-      "citationCount": 2158,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 2179,
+      "fetchedAt": "2026-09-30"
     },
     "counts:d8d23fadf7be4916bf3b24b3354260c469c5de87": {
-      "citationCount": 648,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 651,
+      "fetchedAt": "2026-09-30"
     },
     "counts:733fe135ca88ce713f19662817bc0bfffe514889": {
       "citationCount": 252,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:4ba929095c6e481e734633fc47d28ae18e589696": {
       "citationCount": 268,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:d9d5ae94080c135fb6f05677cea5d6d009f01326": {
-      "citationCount": 1017,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1025,
+      "fetchedAt": "2026-09-30"
     },
     "counts:823b335c53d38a181744ee19c9dee56371cf84ae": {
-      "citationCount": 239,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 240,
+      "fetchedAt": "2026-09-30"
     },
     "counts:a959ae0f08228d5d04eb46d5dc1ec3f4c9ee91d7": {
-      "citationCount": 1493,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1509,
+      "fetchedAt": "2026-09-30"
     },
     "counts:b4fd3bad83d0e64c5679dfa00b037db98342eec3": {
       "citationCount": 216,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:b07b199d018e85ffa50d008e4f43cbb8d7d42acc": {
-      "citationCount": 246,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 247,
+      "fetchedAt": "2026-09-30"
     },
     "counts:3ee6a5c813000fa4da8de9e8f3e314e9598089c7": {
-      "citationCount": 1585,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1592,
+      "fetchedAt": "2026-09-30"
     },
     "counts:b71df417ab86140082d4ef880a936ee270ec01a6": {
-      "citationCount": 206,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 205,
+      "fetchedAt": "2026-09-30"
     },
     "counts:950ad6dc03ede7fe5dde188a023f6b075ab9028b": {
-      "citationCount": 77,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 78,
+      "fetchedAt": "2026-09-30"
     },
     "counts:745277463d79de5982588b7c6205ed38558d070a": {
       "citationCount": 128,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:87cbed883368d4a9efd42fdd91f47038f8d8fbe6": {
-      "citationCount": 10114,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 10155,
+      "fetchedAt": "2026-09-30"
     },
     "counts:65f2758f67c889416bd37df51dd000854b5ee768": {
-      "citationCount": 1116,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 1120,
+      "fetchedAt": "2026-09-30"
     },
     "counts:ed64018397ece7cd5978d1399cadcb499231c46b": {
-      "citationCount": 2238,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 2244,
+      "fetchedAt": "2026-09-30"
     },
     "counts:1a6b2d237b873703b3f0af644f7953e3f2c7116e": {
       "citationCount": 490,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "counts:766ce989b8b8b984f7a4691fd8c9af4bdb2b74cd": {
-      "citationCount": 2648,
-      "fetchedAt": "2026-09-12"
+      "citationCount": 2655,
+      "fetchedAt": "2026-09-30"
     },
     "counts:ca8bba76d8fc7d42a632762d42055cd836445910": {
       "citationCount": 11,
-      "fetchedAt": "2026-09-12"
+      "fetchedAt": "2026-09-30"
     },
     "8d7e9dcc7c962e5ef6ec77911f1bf916dbe0e6b4": {
       "fetchedAt": "2026-09-23",

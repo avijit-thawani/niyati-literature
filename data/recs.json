@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T10:33:25.875Z",
+  "updatedAt": "2026-09-30T19:19:52.251Z",
   "recs": [
     {
       "id": "24005c82ef5b7300f052aedf096057a294518bf2",
@@ -71,7 +71,10 @@
           "authorId": "3486313"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "RIKEN",
+        "University of Liverpool"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-06",
@@ -265,7 +268,9 @@
           "authorId": "2748067"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Google (United States)"
+      ],
       "year": 2025,
       "venue": null,
       "publicationDate": "2025-10-17",
@@ -310,7 +315,10 @@
           "authorId": "2261279990"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Munich Center for Machine Learning",
+        "University of Copenhagen"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-28",
@@ -573,7 +581,10 @@
           "authorId": "2174542939"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Beijing Academy of Artificial Intelligence",
+        "Peking University"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-02-18",
@@ -618,7 +629,9 @@
           "authorId": "2118946797"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Georgia Institute of Technology"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-06-25",
@@ -681,9 +694,9 @@
       "doi": "10.18653/v1/2020.acl-main.747",
       "arxivId": "1911.02116",
       "pdf": "https://www.aclweb.org/anthology/2020.acl-main.747.pdf",
-      "citationCount": 9321,
+      "citationCount": 9335,
       "referenceCount": 42,
-      "influentialCitationCount": 1858,
+      "influentialCitationCount": 1862,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 27,
@@ -769,7 +782,7 @@
       "addedAt": "2026-09-30",
       "overlap": 15,
       "direction": "backward",
-      "score": 73.04405035303135,
+      "score": 71.97544238646668,
       "why": "cited by 15 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -854,14 +867,14 @@
       "doi": "10.18653/v1/P19-1493",
       "arxivId": "1906.01502",
       "pdf": "https://www.aclweb.org/anthology/P19-1493.pdf",
-      "citationCount": 1788,
+      "citationCount": 1791,
       "referenceCount": 19,
       "influentialCitationCount": 141,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "backward",
-      "score": 63.97261726092286,
+      "score": 63.036721070656675,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -904,14 +917,14 @@
       "doi": "10.18653/v1/D18-1269",
       "arxivId": "1809.05053",
       "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
-      "citationCount": 1680,
+      "citationCount": 1681,
       "referenceCount": 65,
       "influentialCitationCount": 363,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 13,
       "direction": "backward",
-      "score": 62.38045153584591,
+      "score": 61.46784815272396,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1045,7 +1058,7 @@
       "doi": "10.1016/j.patter.2024.101118",
       "arxivId": null,
       "pdf": "https://doi.org/10.1016/j.patter.2024.101118",
-      "citationCount": 144,
+      "citationCount": 145,
       "referenceCount": 462,
       "influentialCitationCount": 9,
       "source": null,
@@ -1094,14 +1107,14 @@
       "doi": null,
       "arxivId": "2003.11080",
       "pdf": null,
-      "citationCount": 1207,
+      "citationCount": 1208,
       "referenceCount": 63,
       "influentialCitationCount": 199,
       "source": null,
       "addedAt": "2026-09-30",
       "overlap": 10,
       "direction": "backward",
-      "score": 56.881821446811166,
+      "score": 56.04966102776277,
       "why": "cited by 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
@@ -1139,7 +1152,7 @@
       "doi": "10.18653/v1/2025.mrl-main.5",
       "arxivId": "2502.12476",
       "pdf": "https://aclanthology.org/2025.mrl-main.5.pdf",
-      "citationCount": 3,
+      "citationCount": 4,
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": null,
@@ -1186,8 +1199,8 @@
       "doi": "10.1162/tacl.a.599",
       "arxivId": "2408.14398",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/TACL.a.599/2577928/tacl.a.599.pdf",
-      "citationCount": 5,
-      "referenceCount": 73,
+      "citationCount": 6,
+      "referenceCount": 75,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-30",
@@ -1201,45 +1214,52 @@
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "2fa3f7ce620a1c7155daef6620dd6bb0e01934f3",
-      "title": "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT",
+      "id": "d6811623ec8a359768359c6cefd6b33cd8c1841b",
+      "title": "Language Surgery in Multilingual Large Language Models",
       "authors": [
-        "Shijie Wu",
-        "Mark Dredze"
+        "J. Lopo",
+        "Muhammad Ravi Shulthan Habibi",
+        "Tack Hwa Wong",
+        "M. Ghozali",
+        "Fajri Koto",
+        "Genta Indra Winata",
+        "Peerat Limkonchotiwat",
+        "Alham Fikri Aji",
+        "Samuel Cahyawijaya"
       ],
       "topAuthors": [
         {
-          "name": "Mark Dredze",
-          "hIndex": 70,
-          "authorId": "1782853"
+          "name": "Genta Indra Winata",
+          "hIndex": 45,
+          "authorId": "9162688"
         },
         {
-          "name": "Shijie Wu",
-          "hIndex": 18,
-          "authorId": "50425845"
+          "name": "Alham Fikri Aji",
+          "hIndex": 38,
+          "authorId": "8129718"
         }
       ],
       "affiliations": [
-        "Johns Hopkins University",
-        "Bloomberg L.P."
+        "Capital One AI Foundations",
+        "MBZUAI"
       ],
-      "year": 2019,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2019-04-19",
-      "summary": "This paper explores the broader cross-lingual potential of mBERT (multilingual) as a zero shot language transfer model on 5 NLP tasks covering a total of 39 languages from various language families: NLI, document classification, NER, POS tagging, and dependency parsing.",
-      "url": "https://www.semanticscholar.org/paper/2fa3f7ce620a1c7155daef6620dd6bb0e01934f3",
-      "doi": "10.18653/v1/D19-1077",
-      "arxivId": "1904.09077",
-      "pdf": "https://www.aclweb.org/anthology/D19-1077.pdf",
-      "citationCount": 770,
-      "referenceCount": 46,
-      "influentialCitationCount": 70,
+      "year": 2025,
+      "venue": "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)",
+      "publicationDate": "2025-06-14",
+      "summary": "This paper investigates the naturally emerging representation alignment in LLMs, particularly in the middle layers, and its implications for disentangling language-specific and language-agnostic information, and proposes Inference-Time Language Control (ITLC), a novel method that leverages latent injection to enable precise cross-lingual language control and mitigate language confusion in LLMs.",
+      "url": "https://www.semanticscholar.org/paper/d6811623ec8a359768359c6cefd6b33cd8c1841b",
+      "doi": "10.48550/arXiv.2506.12450",
+      "arxivId": "2506.12450",
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 81,
+      "influentialCitationCount": 1,
       "source": null,
       "addedAt": "2026-09-30",
-      "overlap": 10,
-      "direction": "backward",
-      "score": 54.22120916726644,
-      "why": "cited by 10 in your list",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 53.69573340896305,
+      "why": "cites 4 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
