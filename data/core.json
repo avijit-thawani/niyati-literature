@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T19:19:52.251Z",
+  "updatedAt": "2026-10-01T11:00:19.833Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -961,10 +961,7 @@
       "influentialCitationCount": 0,
       "source": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2406.14267"
-      ]
+      "score": 0
     },
     {
       "id": "dbd9fab59832369040661bb050daef6de405230c",
@@ -1008,10 +1005,7 @@
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://arxiv.org/abs/2109.07306"
-      ]
+      "score": 12.5
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -1050,10 +1044,7 @@
       "influentialCitationCount": 0,
       "source": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://doi.org/10.18653/v1/2022.findings-emnlp.207"
-      ]
+      "score": 0
     },
     {
       "id": "e6b9c2fcff6dcfef2a9cb5019ae6040949616c62",
@@ -1090,10 +1081,7 @@
       "influentialCitationCount": 2,
       "source": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2203.08459"
-      ]
+      "score": 0
     },
     {
       "id": "6adc9c231d874ea358554b8680a6aaba4bd6c963",
@@ -1136,10 +1124,7 @@
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://doi.org/10.18653/v1/2021.findings-emnlp.410"
-      ]
+      "score": 12.5
     },
     {
       "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
@@ -1174,15 +1159,12 @@
       "doi": "10.48550/arXiv.2601.14050",
       "arxivId": "2601.14050",
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 45,
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
       "addedAt": "2026-09-23",
-      "score": 0,
-      "aliases": [
-        "https://arxiv.org/abs/2601.14050"
-      ]
+      "score": 0
     },
     {
       "id": "5ec405b200c5970418aae2df5228354fcc8eef10",
@@ -1219,10 +1201,7 @@
       "influentialCitationCount": 0,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
       "addedAt": "2026-09-23",
-      "score": 12.5,
-      "aliases": [
-        "https://arxiv.org/abs/2505.18356"
-      ]
+      "score": 12.5
     },
     {
       "id": "16428ded7b294a677a3aae781a42a42057d273d1",
@@ -1743,7 +1722,7 @@
       "id": "78d9f4a6bc0f53d0594a752f0934a3689b4460d8",
       "title": "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models",
       "authors": [
-        "Zirui Wang",
+        "Zi-Rui Wang",
         "Yulia Tsvetkov",
         "Orhan Firat",
         "Yuan Cao"
@@ -1772,7 +1751,7 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 261,
+      "citationCount": 262,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -2259,7 +2238,7 @@
         "Samar Haider",
         "Adwait Agashe",
         "Si-Yuan Li",
-        "Runqi Liu",
+        "Run-Qi Liu",
         "Miranda Muqing Miao",
         "S. Ramakrishnan",
         "Yuan Yuan",
@@ -2606,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 142,
+      "citationCount": 143,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2840,7 +2819,7 @@
         "Qiao-Yuan Zheng",
         "Kawsar Ahmed",
         "Debanshu Das",
-        "Zi-Mu Wang",
+        "Zimu Wang",
         "G. Rao",
         "Kamile Dementaviciute",
         "Farhan Farsi",
@@ -2948,7 +2927,7 @@
         "Sunisth Kumar",
         "S. Satish",
         "Papa Abdou Karim Karou Diallo",
-        "Meng-Yu Ye",
+        "Mengyu Ye",
         "Maximilian Vieweg",
         "Matej Akrap",
         "Kristýna Onderková",
@@ -3263,7 +3242,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 18,
+      "citationCount": 19,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
