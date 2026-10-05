@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T10:37:11.845Z",
+  "updatedAt": "2026-10-05T11:35:48.036Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1119,7 +1119,7 @@
       "doi": "10.18653/v1/2021.findings-emnlp.410",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2021.findings-emnlp.410.pdf",
-      "citationCount": 100,
+      "citationCount": 101,
       "referenceCount": 46,
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
@@ -1198,7 +1198,7 @@
       "pdf": null,
       "citationCount": 9,
       "referenceCount": 79,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
       "addedAt": "2026-09-23",
       "score": 12.5
@@ -1310,7 +1310,7 @@
       "doi": "10.18653/v1/2020.acl-main.754",
       "arxivId": "2004.06748",
       "pdf": "https://www.aclweb.org/anthology/2020.acl-main.754.pdf",
-      "citationCount": 119,
+      "citationCount": 120,
       "referenceCount": 45,
       "influentialCitationCount": 20,
       "source": "https://arxiv.org/abs/2004.06748",
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 143,
+      "citationCount": 144,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2628,7 +2628,7 @@
       "doi": "10.48550/arXiv.2504.04264",
       "arxivId": "2504.04264",
       "pdf": null,
-      "citationCount": 59,
+      "citationCount": 60,
       "referenceCount": 32,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2504.04264",
