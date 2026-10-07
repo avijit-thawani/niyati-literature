@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T11:19:51.227Z",
+  "updatedAt": "2026-10-07T11:10:36.289Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -214,12 +214,12 @@
         "Niyati Bafna",
         "Ryan Soh-Eun Shim",
         "Barbara Plank",
-        "David Yarowsky",
+        "D. Yarowsky",
         "Hale Sirin"
       ],
       "topAuthors": [
         {
-          "name": "David Yarowsky",
+          "name": "D. Yarowsky",
           "hIndex": 53,
           "authorId": "1693517"
         },
@@ -267,7 +267,7 @@
         },
         {
           "name": "Tianjian Li",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2256304994"
         }
       ],
@@ -298,12 +298,12 @@
         "N. R. Robinson",
         "David R. Mortensen",
         "Kenton Murray",
-        "David Yarowsky",
+        "D. Yarowsky",
         "Hale Sirin"
       ],
       "topAuthors": [
         {
-          "name": "David Yarowsky",
+          "name": "D. Yarowsky",
           "hIndex": 53,
           "authorId": "1693517"
         },
@@ -499,11 +499,11 @@
       "authors": [
         "Niyati Bafna",
         "Philipp Koehn",
-        "David Yarowsky"
+        "D. Yarowsky"
       ],
       "topAuthors": [
         {
-          "name": "David Yarowsky",
+          "name": "D. Yarowsky",
           "hIndex": 53,
           "authorId": "1693517"
         },
@@ -554,9 +554,9 @@
           "authorId": "2803071"
         },
         {
-          "name": "Haoran Xu",
+          "name": "Kaiser Sun",
           "hIndex": 10,
-          "authorId": "2108835452"
+          "authorId": "2087314342"
         }
       ],
       "affiliations": [
@@ -583,11 +583,11 @@
       "authors": [
         "Niyati Bafna",
         "Kenton Murray",
-        "David Yarowsky"
+        "D. Yarowsky"
       ],
       "topAuthors": [
         {
-          "name": "David Yarowsky",
+          "name": "D. Yarowsky",
           "hIndex": 53,
           "authorId": "1693517"
         },
@@ -979,7 +979,7 @@
       "topAuthors": [
         {
           "name": "Furu Wei",
-          "hIndex": 107,
+          "hIndex": 108,
           "authorId": "49807919"
         },
         {
@@ -1024,7 +1024,7 @@
         },
         {
           "name": "Eric Villemonte de la Clergerie",
-          "hIndex": 20,
+          "hIndex": 22,
           "authorId": "1400417301"
         }
       ],
@@ -1098,7 +1098,7 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 58,
+          "hIndex": 61,
           "authorId": "2884561"
         },
         {
@@ -1290,7 +1290,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 93,
+          "hIndex": 94,
           "authorId": "1700325"
         },
         {
@@ -1651,12 +1651,12 @@
       "topAuthors": [
         {
           "name": "Niklas Muennighoff",
-          "hIndex": 50,
+          "hIndex": 52,
           "authorId": "2037383772"
         },
         {
           "name": "Sercan Ö. Arik",
-          "hIndex": 48,
+          "hIndex": 50,
           "authorId": "2676352"
         }
       ],
@@ -1690,7 +1690,7 @@
       "topAuthors": [
         {
           "name": "Cheng-Qing Zong",
-          "hIndex": 19,
+          "hIndex": 18,
           "authorId": "2064100826"
         },
         {
@@ -1724,12 +1724,12 @@
       "authors": [
         "Zi-Rui Wang",
         "Yulia Tsvetkov",
-        "Orhan Firat",
+        "O. Firat",
         "Yuan Cao"
       ],
       "topAuthors": [
         {
-          "name": "Orhan Firat",
+          "name": "O. Firat",
           "hIndex": 50,
           "authorId": "2345617"
         },
@@ -1808,13 +1808,13 @@
         "Uri Shaham",
         "Jonathan Herzig",
         "Roee Aharoni",
-        "Idan Szpektor",
+        "I. Szpektor",
         "Reut Tsarfaty",
         "Matan Eyal"
       ],
       "topAuthors": [
         {
-          "name": "Idan Szpektor",
+          "name": "I. Szpektor",
           "hIndex": 38,
           "authorId": "1711977"
         },
@@ -2017,7 +2017,7 @@
         },
         {
           "name": "Fernanda Viégas",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2203369547"
         }
       ],
@@ -2084,12 +2084,12 @@
         "Maxim Ifergan",
         "Leshem Choshen",
         "Roee Aharoni",
-        "Idan Szpektor",
+        "I. Szpektor",
         "Omri Abend"
       ],
       "topAuthors": [
         {
-          "name": "Idan Szpektor",
+          "name": "I. Szpektor",
           "hIndex": 38,
           "authorId": "1711977"
         },
@@ -2133,7 +2133,7 @@
       "topAuthors": [
         {
           "name": "Marine Carpuat",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "2954727"
         },
         {
@@ -2288,7 +2288,7 @@
       "topAuthors": [
         {
           "name": "Lei Li",
-          "hIndex": 63,
+          "hIndex": 64,
           "authorId": "143900005"
         },
         {
@@ -2405,7 +2405,7 @@
       "topAuthors": [
         {
           "name": "Sweta Agrawal",
-          "hIndex": 22,
+          "hIndex": 23,
           "authorId": "5112699"
         },
         {
@@ -2438,19 +2438,19 @@
       "authors": [
         "Weixuan Wang",
         "Ming-Hao Wu",
-        "Barry Haddow",
+        "B. Haddow",
         "Alexandra Birch"
       ],
       "topAuthors": [
         {
+          "name": "B. Haddow",
+          "hIndex": 46,
+          "authorId": "2259100"
+        },
+        {
           "name": "Alexandra Birch",
           "hIndex": 9,
           "authorId": "2261083421"
-        },
-        {
-          "name": "Weixuan Wang",
-          "hIndex": 8,
-          "authorId": "46314360"
         }
       ],
       "affiliations": [],
@@ -2478,7 +2478,7 @@
         "Zhi-Wei Zhang",
         "Zihe Liu",
         "Xinyue Lou",
-        "Jinan Xu",
+        "Ji-Nan Xu",
         "Fan-Dong Meng",
         "Kai-Yu Huang"
       ],
@@ -2521,7 +2521,7 @@
       "topAuthors": [
         {
           "name": "Badr AlKhamissi",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2006905770"
         },
         {
@@ -2750,7 +2750,7 @@
         "V. Babenko",
         "W. Aissa",
         "Valentin Scourneau",
-        "Fatima Haouari",
+        "F. Haouari",
         "Venkata Gummadi",
         "Mehdi Jafarzadeh",
         "Manon Reusens",
@@ -2945,7 +2945,7 @@
       "topAuthors": [
         {
           "name": "Mrinmaya Sachan",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "2790926"
         },
         {
@@ -3056,7 +3056,7 @@
         "Ivan Vulic",
         "Ryan Cotterell",
         "Marinela Parovic",
-        "Roi Reichart",
+        "R. Reichart",
         "A. Korhonen"
       ],
       "topAuthors": [
@@ -3067,7 +3067,7 @@
         },
         {
           "name": "A. Korhonen",
-          "hIndex": 57,
+          "hIndex": 56,
           "authorId": "145762466"
         }
       ],
@@ -3181,7 +3181,7 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 58,
+          "hIndex": 61,
           "authorId": "2884561"
         },
         {
@@ -3213,7 +3213,7 @@
       "title": "Think Natively: Unlocking Multilingual Reasoning with Consistency-Enhanced Reinforcement Learning",
       "authors": [
         "Xue Zhang",
-        "Yunlong Liang",
+        "Yun-Long Liang",
         "Fan-Dong Meng",
         "Songming Zhang",
         "Kai-Yu Huang",
