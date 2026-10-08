@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T11:10:36.289Z",
+  "updatedAt": "2026-10-08T11:27:17.631Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -486,7 +486,7 @@
       "doi": "10.21437/Interspeech.2025-2300",
       "arxivId": "2506.00628",
       "pdf": "https://arxiv.org/pdf/2506.00628",
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 27,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/f91f2a1d5fde217161c9ba2c59fefe796f1fc160",
@@ -1347,7 +1347,7 @@
       "doi": "10.48550/arXiv.2509.20045",
       "arxivId": "2509.20045",
       "pdf": null,
-      "citationCount": 14,
+      "citationCount": 15,
       "referenceCount": 41,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2509.20045",
@@ -1751,7 +1751,7 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 262,
+      "citationCount": 263,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1766,7 +1766,7 @@
         "Shaosheng Cao",
         "Jiahan Ren",
         "Jiayuan Su",
-        "Ruizhe Chen",
+        "Rui-Zhe Chen",
         "Yan Zhang",
         "Zhe Xu",
         "Yao Hu",
@@ -1775,7 +1775,7 @@
       ],
       "topAuthors": [
         {
-          "name": "Ruizhe Chen",
+          "name": "Rui-Zhe Chen",
           "hIndex": 16,
           "authorId": "2255346632"
         },
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 145,
+      "citationCount": 146,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -3201,9 +3201,9 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 99,
+      "citationCount": 100,
       "referenceCount": 52,
-      "influentialCitationCount": 13,
+      "influentialCitationCount": 14,
       "source": "https://arxiv.org/abs/2406.20052",
       "addedAt": "2026-09-23",
       "score": 12.5
@@ -3217,7 +3217,7 @@
         "Fan-Dong Meng",
         "Songming Zhang",
         "Kai-Yu Huang",
-        "Yufeng Chen",
+        "Yu-Feng Chen",
         "Jin-An Xu",
         "Jie Zhou"
       ],
@@ -3228,7 +3228,7 @@
           "authorId": "33427918"
         },
         {
-          "name": "Yufeng Chen",
+          "name": "Yu-Feng Chen",
           "hIndex": 24,
           "authorId": "47559028"
         }
@@ -3356,7 +3356,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 255,
+      "citationCount": 256,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
