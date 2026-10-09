@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T11:27:17.631Z",
+  "updatedAt": "2026-10-09T11:22:32.585Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -83,7 +83,7 @@
         "J. Janeiro",
         "Jean Maillard",
         "G. Gonzalez",
-        "Holger Schwenk",
+        "H. Schwenk",
         "Edan Toledo",
         "Arina Turkatenko",
         "Albert Ventayol-boada",
@@ -1359,11 +1359,11 @@
       "title": "Hyperpolyglot LLMs: Cross-Lingual Interpretability in Token Embeddings",
       "authors": [
         "Andrea Wen-Yi Wang",
-        "David Mimno"
+        "D. Mimno"
       ],
       "topAuthors": [
         {
-          "name": "David Mimno",
+          "name": "D. Mimno",
           "hIndex": 6,
           "authorId": "2268205803"
         },
@@ -1835,7 +1835,7 @@
       "doi": "10.48550/arXiv.2401.01854",
       "arxivId": "2401.01854",
       "pdf": null,
-      "citationCount": 91,
+      "citationCount": 92,
       "referenceCount": 50,
       "influentialCitationCount": 4,
       "source": "https://arxiv.org/abs/2401.01854",
@@ -2030,7 +2030,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 37,
+      "citationCount": 38,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2070,7 +2070,7 @@
       "doi": "10.18653/v1/2022.emnlp-main.379",
       "arxivId": "2401.05792",
       "pdf": "https://aclanthology.org/2022.emnlp-main.379.pdf",
-      "citationCount": 26,
+      "citationCount": 27,
       "referenceCount": 47,
       "influentialCitationCount": 4,
       "source": "https://arxiv.org/abs/2401.05792",
@@ -2439,7 +2439,7 @@
         "Weixuan Wang",
         "Ming-Hao Wu",
         "B. Haddow",
-        "Alexandra Birch"
+        "A. Birch"
       ],
       "topAuthors": [
         {
@@ -2448,7 +2448,7 @@
           "authorId": "2259100"
         },
         {
-          "name": "Alexandra Birch",
+          "name": "A. Birch",
           "hIndex": 9,
           "authorId": "2261083421"
         }
@@ -2474,7 +2474,7 @@
       "title": "PolyWorkBench: Benchmarking LLM Agents for Cross-Lingual Long-Horizon Workflows",
       "authors": [
         "Hong-Liang Li",
-        "Yijin Liu",
+        "Yi-Jin Liu",
         "Zhi-Wei Zhang",
         "Zihe Liu",
         "Xinyue Lou",
@@ -2489,7 +2489,7 @@
           "authorId": "33427918"
         },
         {
-          "name": "Yijin Liu",
+          "name": "Yi-Jin Liu",
           "hIndex": 9,
           "authorId": "2108060455"
         }
@@ -2751,7 +2751,7 @@
         "W. Aissa",
         "Valentin Scourneau",
         "F. Haouari",
-        "Venkata Gummadi",
+        "V. Gummadi",
         "Mehdi Jafarzadeh",
         "Manon Reusens",
         "Kaiser Sun",
@@ -3161,9 +3161,9 @@
       "doi": "10.18653/v1/P18-1143",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/P18-1143.pdf",
-      "citationCount": 181,
+      "citationCount": 182,
       "referenceCount": 42,
-      "influentialCitationCount": 19,
+      "influentialCitationCount": 20,
       "source": "https://doi.org/10.18653/v1/P18-1143",
       "addedAt": "2026-09-23",
       "score": 0
@@ -3201,7 +3201,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 100,
+      "citationCount": 101,
       "referenceCount": 52,
       "influentialCitationCount": 14,
       "source": "https://arxiv.org/abs/2406.20052",
