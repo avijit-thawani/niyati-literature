@@ -1,0 +1,21 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-10-10T10:40:06.880Z",
+  "papers": [
+    {
+      "id": "24005c82ef5b7300f052aedf096057a294518bf2",
+      "link": "https://arxiv.org/abs/2609.19291",
+      "title": "Why Pretraining Fails to Share Cross-Lingual Knowledge"
+    },
+    {
+      "id": "8820a2141c06ded9c2de85df323d4ad8679ccfb1",
+      "link": "https://arxiv.org/abs/2609.16967",
+      "title": "Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control"
+    },
+    {
+      "id": "ce8b29d556cbf752331f679bd48d4b9f2c9f127f",
+      "link": "https://arxiv.org/abs/2610.00606",
+      "title": "Where's Waldo? Query-language Preference under Cross-lingual Knowledge Disparities"
+    }
+  ]
+}
