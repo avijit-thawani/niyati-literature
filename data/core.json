@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T11:22:32.585Z",
+  "updatedAt": "2026-10-10T10:40:05.199Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1000,7 +1000,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.257",
       "arxivId": "2109.07306",
       "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
-      "citationCount": 32,
+      "citationCount": 33,
       "referenceCount": 43,
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
@@ -1119,7 +1119,7 @@
       "doi": "10.18653/v1/2021.findings-emnlp.410",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2021.findings-emnlp.410.pdf",
-      "citationCount": 101,
+      "citationCount": 103,
       "referenceCount": 46,
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
@@ -1234,7 +1234,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 34,
+      "citationCount": 35,
       "referenceCount": 98,
       "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1711,7 +1711,7 @@
       "doi": "10.18653/v1/2024.naacl-long.445",
       "arxivId": "2311.08089",
       "pdf": "https://aclanthology.org/2024.naacl-long.445.pdf",
-      "citationCount": 58,
+      "citationCount": 59,
       "referenceCount": 57,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2311.08089",
@@ -2555,7 +2555,7 @@
       "authors": [
         "Tianyi Tang",
         "Wenyang Luo",
-        "Haoyang Huang",
+        "Hao-Yang Huang",
         "Dong-Dong Zhang",
         "Xiaolei Wang",
         "Xin Zhao",
@@ -2569,7 +2569,7 @@
           "authorId": "1997234792"
         },
         {
-          "name": "Haoyang Huang",
+          "name": "Hao-Yang Huang",
           "hIndex": 17,
           "authorId": "15086992"
         }
