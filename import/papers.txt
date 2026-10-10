@@ -122,4 +122,51 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- most connected ---
+# Unsupervised Cross-lingual Representation Learning at Scale
+#   Luke Zettlemoyer (h=120) · University of Washington · 2019 · 9467 citations · cited by 27 in your list
+https://arxiv.org/abs/1911.02116
 
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=66) · Johns Hopkins University · 2022 · 2047 citations · cited by 15 in your list
+https://arxiv.org/abs/2207.04672
+
+# Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers
+#   Veniamin Veselovsky (h=12) · Cornell University · 2024 · 59 citations · cites 5 in your list
+https://arxiv.org/abs/2411.08745
+
+# How Multilingual is Multilingual BERT?
+#   Dan Garrette (h=23) · Google DeepMind · 2019 · 1806 citations · cited by 13 in your list
+https://arxiv.org/abs/1906.01502
+
+# XNLI: Evaluating Cross-lingual Sentence Representations
+#   Holger Schwenk (h=48) · New York University · 2018 · 1693 citations · cited by 13 in your list
+https://arxiv.org/abs/1809.05053
+
+# Language-Specific Latent Process Hinders Cross-Lingual Performance
+#   Alham Fikri Aji (h=38) · MBZUAI · 2025 · 21 citations · cites 4 in your list
+https://arxiv.org/abs/2505.13141
+
+# Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs
+#   Marine Carpuat (h=37) · University of Maryland · 2025 · 12 citations · cites 4 in your list
+https://arxiv.org/abs/2504.09378
+
+# A survey of multilingual large language models
+#   Qiguang Chen (h=23) · SCIR · 2025 · 148 citations · cites 5 in your list
+https://doi.org/10.1016/j.patter.2024.101118
+
+# CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs
+#   Morteza Dehghani (h=6) · University of Southern California · 2025 · 4 citations · cites 4 in your list
+https://arxiv.org/abs/2502.12476
+
+# XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization
+#   Graham Neubig (h=94) · Cohere · 2020 · 1216 citations · cited by 10 in your list
+https://arxiv.org/abs/2003.11080
+
+# On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning
+#   Lucie Flek (h=14) · TU Dortmund University · 2024 · 7 citations · cites 4 in your list
+https://arxiv.org/abs/2408.14398
+
+# Language Surgery in Multilingual Large Language Models
+#   Genta Indra Winata (h=45) · Capital One AI Foundations · 2025 · 5 citations · cites 4 in your list
+https://arxiv.org/abs/2506.12450
