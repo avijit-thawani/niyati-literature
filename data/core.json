@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T10:40:05.199Z",
+  "updatedAt": "2026-10-11T10:52:21.050Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1130,7 +1130,7 @@
       "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
       "title": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
       "authors": [
-        "Yuxin Chen",
+        "Yu-Xin Chen",
         "Zhengzhou Cai",
         "Xiangtian Ji",
         "Weixiang Zhao",
@@ -1751,7 +1751,7 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 263,
+      "citationCount": 264,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
