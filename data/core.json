@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T10:52:21.050Z",
+  "updatedAt": "2026-10-12T12:05:50.058Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -417,7 +417,7 @@
       "id": "c985adb25b3586182c21dc61e87211279ae969c6",
       "title": "How Important is 'Perfect' English for Machine Translation Prompts?",
       "authors": [
-        "Patr'icia Schmidtov'a",
+        "Patrícia Schmidtová",
         "Niyati Bafna",
         "Seth Aycock",
         "Gianluca Vico",
@@ -1159,7 +1159,7 @@
       "doi": "10.48550/arXiv.2601.14050",
       "arxivId": "2601.14050",
       "pdf": null,
-      "citationCount": 11,
+      "citationCount": 12,
       "referenceCount": 45,
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
@@ -1272,7 +1272,7 @@
       "doi": "10.48550/arXiv.2305.14263",
       "arxivId": "2305.14263",
       "pdf": "http://arxiv.org/pdf/2305.14263",
-      "citationCount": 13,
+      "citationCount": 14,
       "referenceCount": 96,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2305.14263",
@@ -2267,7 +2267,7 @@
       "doi": "10.18653/v1/2025.findings-acl.219",
       "arxivId": "2410.01171",
       "pdf": "https://aclanthology.org/2025.findings-acl.219.pdf",
-      "citationCount": 20,
+      "citationCount": 21,
       "referenceCount": 27,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2410.01171",
@@ -3356,7 +3356,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 256,
+      "citationCount": 257,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
