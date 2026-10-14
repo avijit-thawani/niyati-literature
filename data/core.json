@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T11:52:40.230Z",
+  "updatedAt": "2026-10-14T09:35:39.995Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -98,7 +98,7 @@
       "topAuthors": [
         {
           "name": "M. Costa-jussà",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "1398996347"
         },
         {
@@ -119,7 +119,7 @@
       "doi": "10.48550/arXiv.2603.16309",
       "arxivId": "2603.16309",
       "pdf": null,
-      "citationCount": 4,
+      "citationCount": 5,
       "referenceCount": 0,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0",
@@ -139,7 +139,7 @@
       "topAuthors": [
         {
           "name": "S. Li",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2295954288"
         },
         {
@@ -220,7 +220,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "1693517"
         },
         {
@@ -262,7 +262,7 @@
       "topAuthors": [
         {
           "name": "Daniel Khashabi",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2319593572"
         },
         {
@@ -304,7 +304,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "1693517"
         },
         {
@@ -504,7 +504,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "1693517"
         },
         {
@@ -588,7 +588,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "1693517"
         },
         {
@@ -628,7 +628,7 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "7519068"
         },
         {
@@ -668,7 +668,7 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "7519068"
         },
         {
@@ -744,7 +744,7 @@
       "topAuthors": [
         {
           "name": "Josef van Genabith",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "7519068"
         },
         {
@@ -1024,7 +1024,7 @@
         },
         {
           "name": "Eric Villemonte de la Clergerie",
-          "hIndex": 22,
+          "hIndex": 25,
           "authorId": "1400417301"
         }
       ],
@@ -1098,12 +1098,12 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2884561"
         },
         {
           "name": "Ivan Vulic",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "1747849"
         }
       ],
@@ -1214,7 +1214,7 @@
       "topAuthors": [
         {
           "name": "Martin Jaggi",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "2456863"
         },
         {
@@ -1234,9 +1234,9 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 36,
+      "citationCount": 37,
       "referenceCount": 98,
-      "influentialCitationCount": 5,
+      "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
       "addedAt": "2026-09-23",
       "score": 0
@@ -1575,7 +1575,7 @@
         },
         {
           "name": "Yihong Liu",
-          "hIndex": 11,
+          "hIndex": 12,
           "authorId": "2107995084"
         }
       ],
@@ -1609,7 +1609,7 @@
       "topAuthors": [
         {
           "name": "E. Ponti",
-          "hIndex": 35,
+          "hIndex": 37,
           "authorId": "3381663"
         },
         {
@@ -1671,7 +1671,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 21,
+      "citationCount": 22,
       "referenceCount": 65,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2510.22037",
@@ -1695,7 +1695,7 @@
         },
         {
           "name": "Shaonan Wang",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2761251"
         }
       ],
@@ -1815,7 +1815,7 @@
       "topAuthors": [
         {
           "name": "I. Szpektor",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "1711977"
         },
         {
@@ -1937,7 +1937,7 @@
         },
         {
           "name": "Kevin Duh",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "1800354"
         }
       ],
@@ -1973,12 +1973,12 @@
       "topAuthors": [
         {
           "name": "Nadir Durrani",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "145938140"
         },
         {
           "name": "Fahim Dalvi",
-          "hIndex": 29,
+          "hIndex": 30,
           "authorId": "6415321"
         }
       ],
@@ -2030,7 +2030,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 38,
+      "citationCount": 39,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2090,7 +2090,7 @@
       "topAuthors": [
         {
           "name": "I. Szpektor",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "1711977"
         },
         {
@@ -2444,12 +2444,12 @@
       "topAuthors": [
         {
           "name": "B. Haddow",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "2259100"
         },
         {
           "name": "A. Birch",
-          "hIndex": 9,
+          "hIndex": 11,
           "authorId": "2261083421"
         }
       ],
@@ -2526,7 +2526,7 @@
         },
         {
           "name": "Antoine Bosselut",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "2284866282"
         }
       ],
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 146,
+      "citationCount": 145,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2950,7 +2950,7 @@
         },
         {
           "name": "Alham Fikri Aji",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "8129718"
         }
       ],
@@ -3026,7 +3026,7 @@
         },
         {
           "name": "Dan Garrette",
-          "hIndex": 23,
+          "hIndex": 25,
           "authorId": "2758616"
         }
       ],
@@ -3062,12 +3062,12 @@
       "topAuthors": [
         {
           "name": "Ivan Vulic",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "1747849"
         },
         {
           "name": "A. Korhonen",
-          "hIndex": 56,
+          "hIndex": 57,
           "authorId": "145762466"
         }
       ],
@@ -3106,9 +3106,9 @@
           "authorId": "52165322"
         },
         {
-          "name": "Himanshu Gupta",
-          "hIndex": 1,
-          "authorId": "2380690445"
+          "name": "Chaitanya Dwivedi",
+          "hIndex": 2,
+          "authorId": "2380689449"
         }
       ],
       "affiliations": [],
@@ -3181,7 +3181,7 @@
       "topAuthors": [
         {
           "name": "Sebastian Ruder",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2884561"
         },
         {
@@ -3201,7 +3201,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 101,
+      "citationCount": 102,
       "referenceCount": 52,
       "influentialCitationCount": 14,
       "source": "https://arxiv.org/abs/2406.20052",
@@ -3327,7 +3327,7 @@
       "doi": null,
       "arxivId": "2410.14387",
       "pdf": null,
-      "citationCount": 25,
+      "citationCount": 26,
       "referenceCount": 0,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2410.14387",
