@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:18:45.525Z",
+  "updatedAt": "2026-10-16T09:05:12.623Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -131,7 +131,7 @@
       "title": "Multilingual Reasoning Cascades Need More Context",
       "authors": [
         "Arnav Mazumder",
-        "Dengjia Zhang",
+        "Deng-Jia Zhang",
         "S. Li",
         "Y. Tsvetkov",
         "Niyati Bafna"
@@ -252,7 +252,7 @@
       "title": "The Translation Barrier Hypothesis: Multilingual Generation with Large Language Models Suffers from Implicit Translation Failure",
       "authors": [
         "Niyati Bafna",
-        "Tianjian Li",
+        "Tian-Jian Li",
         "Kenton Murray",
         "David R. Mortensen",
         "David Yarowsky",
@@ -266,7 +266,7 @@
           "authorId": "2319593572"
         },
         {
-          "name": "Tianjian Li",
+          "name": "Tian-Jian Li",
           "hIndex": 7,
           "authorId": "2256304994"
         }
@@ -1310,7 +1310,7 @@
       "doi": "10.18653/v1/2020.acl-main.754",
       "arxivId": "2004.06748",
       "pdf": "https://www.aclweb.org/anthology/2020.acl-main.754.pdf",
-      "citationCount": 120,
+      "citationCount": 121,
       "referenceCount": 45,
       "influentialCitationCount": 20,
       "source": "https://arxiv.org/abs/2004.06748",
@@ -1671,9 +1671,9 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 22,
+      "citationCount": 23,
       "referenceCount": 65,
-      "influentialCitationCount": 1,
+      "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.22037",
       "addedAt": "2026-09-23",
       "score": 25
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 145,
+      "citationCount": 146,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -3242,7 +3242,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 20,
+      "citationCount": 21,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
