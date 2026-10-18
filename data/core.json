@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T08:38:01.367Z",
+  "updatedAt": "2026-10-18T09:05:02.215Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1835,7 +1835,7 @@
       "doi": "10.48550/arXiv.2401.01854",
       "arxivId": "2401.01854",
       "pdf": null,
-      "citationCount": 94,
+      "citationCount": 95,
       "referenceCount": 50,
       "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2401.01854",
@@ -3356,7 +3356,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 260,
+      "citationCount": 261,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
