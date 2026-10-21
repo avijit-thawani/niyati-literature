@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T09:29:15.792Z",
+  "updatedAt": "2026-10-21T09:26:32.143Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -36,9 +36,9 @@
           "authorId": "122367036"
         },
         {
-          "name": "Vilém Zouhar",
+          "name": "Nikolay Bogoychev",
           "hIndex": 18,
-          "authorId": "1429837660"
+          "authorId": "3444222"
         }
       ],
       "affiliations": [
@@ -390,9 +390,9 @@
           "authorId": "2090730520"
         },
         {
-          "name": "Ci-Han Xiao",
+          "name": "Xiluo He",
           "hIndex": 4,
-          "authorId": "2075320104"
+          "authorId": "2161615637"
         }
       ],
       "affiliations": [
@@ -428,7 +428,7 @@
       "topAuthors": [
         {
           "name": "Vilém Zouhar",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "2348542667"
         },
         {
@@ -555,7 +555,7 @@
         },
         {
           "name": "Kaiser Sun",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2087314342"
         }
       ],
@@ -938,7 +938,7 @@
       "topAuthors": [
         {
           "name": "C. Monz",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "2062908179"
         },
         {
@@ -1146,7 +1146,7 @@
         },
         {
           "name": "Xiang Wang",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "2257436645"
         }
       ],
@@ -1252,7 +1252,7 @@
       "topAuthors": [
         {
           "name": "Antonios Anastasopoulos",
-          "hIndex": 34,
+          "hIndex": 35,
           "authorId": "49513989"
         },
         {
@@ -1290,7 +1290,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 94,
+          "hIndex": 95,
           "authorId": "1700325"
         },
         {
@@ -1334,7 +1334,7 @@
         },
         {
           "name": "Ljiljana Dolamic",
-          "hIndex": 4,
+          "hIndex": 5,
           "authorId": "2502999306"
         }
       ],
@@ -1442,7 +1442,7 @@
       "topAuthors": [
         {
           "name": "Xiaobing Zhao",
-          "hIndex": 8,
+          "hIndex": 9,
           "authorId": "1991626"
         },
         {
@@ -1690,7 +1690,7 @@
       "topAuthors": [
         {
           "name": "Cheng-Qing Zong",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "2064100826"
         },
         {
@@ -1751,7 +1751,7 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 264,
+      "citationCount": 265,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1794,7 +1794,7 @@
       "doi": "10.48550/arXiv.2504.10160",
       "arxivId": "2504.10160",
       "pdf": null,
-      "citationCount": 67,
+      "citationCount": 68,
       "referenceCount": 64,
       "influentialCitationCount": 13,
       "source": "https://arxiv.org/abs/2504.10160",
@@ -1937,7 +1937,7 @@
         },
         {
           "name": "Kevin Duh",
-          "hIndex": 47,
+          "hIndex": 46,
           "authorId": "1800354"
         }
       ],
@@ -2012,7 +2012,7 @@
       "topAuthors": [
         {
           "name": "Andrew Lee",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2237957247"
         },
         {
@@ -2357,7 +2357,7 @@
       "authors": [
         "Jia-Qiao Zhang",
         "Zhou-Jun Li",
-        "Raoyuan Zhao",
+        "Rao-Yuan Zhao",
         "Jian Lan",
         "Thomas Seidl",
         "Michael A. Hedderich",
@@ -2490,7 +2490,7 @@
         },
         {
           "name": "Yi-Jin Liu",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "2108060455"
         }
       ],
@@ -2585,7 +2585,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 149,
+      "citationCount": 150,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2607,7 +2607,7 @@
       "topAuthors": [
         {
           "name": "Jannik Strötgen",
-          "hIndex": 26,
+          "hIndex": 27,
           "authorId": "2013656"
         },
         {
@@ -2882,7 +2882,7 @@
         "Anmol Goel",
         "Aishik Mandal",
         "Tosin P. Adewumi",
-        "Raoyuan Zhao",
+        "Rao-Yuan Zhao",
         "Mykola Haltiuk",
         "Antonia Karamolegkou",
         "Yu-Xing Lu",
@@ -3067,7 +3067,7 @@
         },
         {
           "name": "A. Korhonen",
-          "hIndex": 57,
+          "hIndex": 56,
           "authorId": "145762466"
         }
       ],
@@ -3120,7 +3120,7 @@
       "doi": "10.48550/arXiv.2602.11181",
       "arxivId": "2602.11181",
       "pdf": null,
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 57,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2602.11181",
@@ -3161,9 +3161,9 @@
       "doi": "10.18653/v1/P18-1143",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/P18-1143.pdf",
-      "citationCount": 183,
+      "citationCount": 184,
       "referenceCount": 42,
-      "influentialCitationCount": 20,
+      "influentialCitationCount": 21,
       "source": "https://doi.org/10.18653/v1/P18-1143",
       "addedAt": "2026-09-23",
       "score": 0
@@ -3229,7 +3229,7 @@
         },
         {
           "name": "Yu-Feng Chen",
-          "hIndex": 24,
+          "hIndex": 23,
           "authorId": "47559028"
         }
       ],
@@ -3242,7 +3242,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 21,
+      "citationCount": 22,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
@@ -3312,7 +3312,7 @@
         },
         {
           "name": "Constanza Fierro",
-          "hIndex": 9,
+          "hIndex": 10,
           "authorId": "50110151"
         }
       ],
@@ -3356,7 +3356,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 261,
+      "citationCount": 262,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
