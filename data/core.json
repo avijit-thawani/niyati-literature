@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:26:32.143Z",
+  "updatedAt": "2026-10-22T09:27:40.024Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1076,7 +1076,7 @@
       "doi": "10.18653/v1/2022.acl-long.367",
       "arxivId": "2203.08459",
       "pdf": "https://doi.org/10.18653/v1/2022.acl-long.367",
-      "citationCount": 51,
+      "citationCount": 52,
       "referenceCount": 71,
       "influentialCitationCount": 2,
       "source": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
@@ -2811,7 +2811,7 @@
         "D. Shah",
         "Abdulaziz Nura Kani",
         "Luis Frentzen Salim",
-        "Paul Gavrikov",
+        "P. Gavrikov",
         "Bello Bello",
         "A. Munot",
         "A. Garg",
@@ -2895,7 +2895,7 @@
         "Stéphane J. P. S. Thunus",
         "Rachel Bawden",
         "Lena Libon",
-        "Samridhya Biswas",
+        "S. Biswas",
         "Prakhar Gupta",
         "Nusrat Jahan Lia",
         "T. Nguyen",
