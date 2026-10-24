@@ -122,4 +122,59 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- most connected ---
+# Unsupervised Cross-lingual Representation Learning at Scale
+#   Luke Zettlemoyer (h=120) · University of Washington · 2019 · 9573 citations · cited by 24 in your list
+https://arxiv.org/abs/1911.02116
 
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=66) · Johns Hopkins University · 2022 · 2082 citations · cited by 14 in your list
+https://arxiv.org/abs/2207.04672
+
+# Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers
+#   Veniamin Veselovsky (h=12) · Cornell University · 2024 · 65 citations · cites 5 in your list
+https://arxiv.org/abs/2411.08745
+
+# Rethinking Cross-lingual Gaps from a Statistical Viewpoint
+#   Preethi Jyothi (h=22) · Google (United States) · 2025 · 4 citations · cites 4 in your list
+https://arxiv.org/abs/2510.15551
+
+# How Multilingual is Multilingual BERT?
+#   Dan Garrette (h=25) · Google DeepMind · 2019 · 1817 citations · cited by 12 in your list
+https://arxiv.org/abs/1906.01502
+
+# XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization
+#   Graham Neubig (h=95) · Cohere · 2020 · 1220 citations · cited by 10 in your list
+https://arxiv.org/abs/2003.11080
+
+# XNLI: Evaluating Cross-lingual Sentence Representations
+#   Holger Schwenk (h=49) · New York University · 2018 · 1700 citations · cited by 12 in your list
+https://arxiv.org/abs/1809.05053
+
+# A survey of multilingual large language models
+#   Qiguang Chen (h=23) · SCIR · 2025 · 152 citations · cites 5 in your list
+https://doi.org/10.1016/j.patter.2024.101118
+
+# Language-Specific Latent Process Hinders Cross-Lingual Performance
+#   Alham Fikri Aji (h=39) · MBZUAI · 2025 · 22 citations · cites 4 in your list
+https://arxiv.org/abs/2505.13141
+
+# Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs
+#   Marine Carpuat (h=37) · University of Maryland · 2025 · 13 citations · cites 4 in your list
+https://arxiv.org/abs/2504.09378
+
+# Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models
+#   Arianna Bisazza (h=23) · University of Groningen · 2023 · 153 citations · cited by 7 in your list
+https://arxiv.org/abs/2310.10378
+
+# CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs
+#   Morteza Dehghani (h=6) · University of Southern California · 2025 · 4 citations · cites 4 in your list
+https://arxiv.org/abs/2502.12476
+
+# First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT
+#   Yanai Elazar (h=30) · Bar-Ilan University · 2021 · 99 citations · cited by 6 in your list
+https://arxiv.org/abs/2101.11109
+
+# Emerging Cross-lingual Structure in Pretrained Language Models
+#   Luke Zettlemoyer (h=120) · University of Washington · 2019 · 352 citations · cited by 8 in your list
+https://arxiv.org/abs/1911.01464
