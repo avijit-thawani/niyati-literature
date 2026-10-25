@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T08:55:49.040Z",
+  "updatedAt": "2026-10-25T09:30:03.643Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -3362,6 +3362,215 @@
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
       "addedAt": "2026-09-23",
       "score": 50
+    },
+    {
+      "id": "openalex:W4399911656",
+      "title": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
+      "authors": [
+        "Rochelle Choenni",
+        "Sara Rajaee",
+        "Christof Monz",
+        "Ekaterina Shutova"
+      ],
+      "topAuthors": [],
+      "affiliations": [
+        "University of Amsterdam"
+      ],
+      "year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "publicationDate": "2024-06-20",
+      "summary": "",
+      "url": "https://doi.org/10.48550/arxiv.2406.14267",
+      "doi": "10.48550/arxiv.2406.14267",
+      "arxivId": null,
+      "pdf": "https://arxiv.org/pdf/2406.14267",
+      "citationCount": 0,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2406.14267",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W3199404008",
+      "title": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
+      "authors": [
+        "Bo Zheng",
+        "Li Dong",
+        "Shaohan Huang",
+        "Saksham Singhal",
+        "Wanxiang Che",
+        "Ting Liu",
+        "Xia Song",
+        "Furu Wei"
+      ],
+      "topAuthors": [],
+      "affiliations": [
+        "Microsoft (United States)",
+        "Harbin Institute of Technology"
+      ],
+      "year": 2021,
+      "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+      "publicationDate": "2021-01-01",
+      "summary": "",
+      "url": "https://doi.org/10.18653/v1/2021.emnlp-main.257",
+      "doi": "10.18653/v1/2021.emnlp-main.257",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
+      "citationCount": 14,
+      "referenceCount": 42,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2109.07306",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W4385573788",
+      "title": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
+      "authors": [
+        "Nathan Godey",
+        "Roman Castagné",
+        "Éric Villemonte de la Clergerie",
+        "Benoît Sagot"
+      ],
+      "topAuthors": [],
+      "affiliations": [
+        "Institut national de recherche en sciences et technologies du numérique",
+        "Sorbonne Université"
+      ],
+      "year": 2022,
+      "venue": null,
+      "publicationDate": "2022-01-01",
+      "summary": "",
+      "url": "https://doi.org/10.18653/v1/2022.findings-emnlp.207",
+      "doi": "10.18653/v1/2022.findings-emnlp.207",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2022.findings-emnlp.207.pdf",
+      "citationCount": 4,
+      "referenceCount": 28,
+      "influentialCitationCount": 0,
+      "source": "https://doi.org/10.18653/v1/2022.findings-emnlp.207",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W4221152625",
+      "title": "KinyaBERT: a Morphology-aware Kinyarwanda Language Model",
+      "authors": [
+        "Antoine Nzeyimana",
+        "Andre Niyongabo Rubungo"
+      ],
+      "topAuthors": [],
+      "affiliations": [],
+      "year": 2022,
+      "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+      "publicationDate": "2022-01-01",
+      "summary": "",
+      "url": "https://doi.org/10.18653/v1/2022.acl-long.367",
+      "doi": "10.18653/v1/2022.acl-long.367",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.18653/v1/2022.acl-long.367",
+      "citationCount": 37,
+      "referenceCount": 2,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2203.08459",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W3214578205",
+      "title": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
+      "authors": [
+        "Alan Ansell",
+        "Edoardo Maria Ponti",
+        "Jonas Pfeiffer",
+        "Sebastian Ruder",
+        "Goran Glavaš",
+        "Ivan Vulić",
+        "Anna Korhonen"
+      ],
+      "topAuthors": [],
+      "affiliations": [
+        "Charles University",
+        "University of Cambridge"
+      ],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": "2021-01-01",
+      "summary": "",
+      "url": "https://doi.org/10.18653/v1/2021.findings-emnlp.410",
+      "doi": "10.18653/v1/2021.findings-emnlp.410",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2021.findings-emnlp.410.pdf",
+      "citationCount": 57,
+      "referenceCount": 45,
+      "influentialCitationCount": 0,
+      "source": "https://doi.org/10.18653/v1/2021.findings-emnlp.410",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W7125229514",
+      "title": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
+      "authors": [
+        "Yuxin Chen",
+        "Zhengzhou Cai",
+        "Xiangtian Ji",
+        "Weixiang Zhao",
+        "An Zhang",
+        "Xiang Wang",
+        "Tat‐Seng Chua"
+      ],
+      "topAuthors": [],
+      "affiliations": [
+        "National University of Singapore",
+        "Beijing University of Posts and Telecommunications"
+      ],
+      "year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "publicationDate": "2026-01-20",
+      "summary": "",
+      "url": "https://doi.org/10.48550/arxiv.2601.14050",
+      "doi": "10.48550/arxiv.2601.14050",
+      "arxivId": null,
+      "pdf": "https://arxiv.org/pdf/2601.14050",
+      "citationCount": 0,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2601.14050",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
+    },
+    {
+      "id": "openalex:W6967202779",
+      "title": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
+      "authors": [
+        "Lucas Bandarkar",
+        "Peng, Nanyun"
+      ],
+      "topAuthors": [],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "publicationDate": "2025-05-23",
+      "summary": "",
+      "url": "https://doi.org/10.48550/arxiv.2505.18356",
+      "doi": "10.48550/arxiv.2505.18356",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.48550/arxiv.2505.18356",
+      "citationCount": 0,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "https://arxiv.org/abs/2505.18356",
+      "via": "openalex",
+      "addedAt": "2026-10-25",
+      "score": 0
     }
   ]
 }

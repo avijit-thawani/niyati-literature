@@ -1,757 +1,208 @@
 {
-  "updatedAt": "2026-10-24T08:55:49.040Z",
+  "updatedAt": "2026-10-25T09:30:03.643Z",
   "recs": [
     {
-      "id": "ce8b29d556cbf752331f679bd48d4b9f2c9f127f",
-      "title": "Where's Waldo? Query-language Preference under Cross-lingual Knowledge Disparities",
+      "id": "6ac793cfdc42a9cc73e2e537b882b49623ac0035",
+      "title": "Cross-lingual Transfer Dynamics in BLOOMZ: Insights into Multilingual Generalization",
       "authors": [
-        "Dayeon Ki",
-        "Ruochen Zhang",
-        "Silviu Cucerzan",
-        "Ryen W. White",
-        "Ning Gao"
-      ],
-      "topAuthors": [
-        {
-          "name": "Ruochen Zhang",
-          "hIndex": 13,
-          "authorId": "49775305"
-        },
-        {
-          "name": "Silviu Cucerzan",
-          "hIndex": 13,
-          "authorId": "73040249"
-        }
-      ],
-      "affiliations": [
-        "Brown University",
-        "Microsoft Research"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-30",
-      "summary": "Waldo, a multilingual Question-Answering (QA) benchmark constructed from Wikipedia, is introduced, finding that when one language edition merely lacks the relevant fact, models generally use evidence from the other language regardless of the query language, while under conflicting accounts, model responses strongly align with the document in the query language.",
-      "url": "https://www.semanticscholar.org/paper/ce8b29d556cbf752331f679bd48d4b9f2c9f127f",
-      "doi": null,
-      "arxivId": "2610.00606",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 83,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 56.359525843841304,
-      "why": "past month · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/28",
-      "batchPrNumber": 28,
-      "batchBranch": "recs/past-month"
-    },
-    {
-      "id": "3ca010aaf9526d1f30ed47234079549dd63ab3c0",
-      "title": "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining",
-      "authors": [
-        "Felicia Körner",
-        "M. Matveev",
-        "Florian Eichin",
-        "G. Kutyniok",
-        "Barbara Plank",
-        "Michael A. Hedderich"
-      ],
-      "topAuthors": [
-        {
-          "name": "Michael A. Hedderich",
-          "hIndex": 17,
-          "authorId": "51133383"
-        },
-        {
-          "name": "Florian Eichin",
-          "hIndex": 3,
-          "authorId": "2328011280"
-        }
-      ],
-      "affiliations": [
-        "LMU Munich",
-        "Munich Center for Machine Learning"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-04-19",
-      "summary": "A fine-grained view of how cross-lingual generalization develops during multilingual pretraining is provided, using word-level translation as a testbed and introducing a novel dataset to trace how translation develops over training through behavioral analyses, model-component analysis, and parameter-based ablations.",
-      "url": "https://www.semanticscholar.org/paper/3ca010aaf9526d1f30ed47234079549dd63ab3c0",
-      "doi": "10.48550/arXiv.2604.17633",
-      "arxivId": "2604.17633",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 61,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 93.79393754252754,
-      "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "24005c82ef5b7300f052aedf096057a294518bf2",
-      "title": "Why Pretraining Fails to Share Cross-Lingual Knowledge",
-      "authors": [
-        "Adam Gaber",
-        "Uriel Dolev",
-        "Elisabeth Fittschen",
-        "Bobby Cheng",
-        "Yuval Marton",
-        "Leshem Choshen"
-      ],
-      "topAuthors": [
-        {
-          "name": "Leshem Choshen",
-          "hIndex": 34,
-          "authorId": "41019330"
-        },
-        {
-          "name": "Yuval Marton",
-          "hIndex": 14,
-          "authorId": "3081370"
-        }
-      ],
-      "affiliations": [
-        "Weizmann Institute, EvalEval prev. MIT, IBM, Huji"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-16",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/24005c82ef5b7300f052aedf096057a294518bf2",
-      "doi": null,
-      "arxivId": "2609.19291",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 68,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 81.95125777360246,
-      "why": "past year · cites 5 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "7e86ecf3173c384388f2887a39d635daa68fb876",
-      "title": "Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops",
-      "authors": [
-        "Faeze Ghorbanpour",
-        "Constanza Fierro",
-        "Alexander Fraser",
-        "Anders Søgaard"
-      ],
-      "topAuthors": [
-        {
-          "name": "Constanza Fierro",
-          "hIndex": 10,
-          "authorId": "50110151"
-        },
-        {
-          "name": "Anders Søgaard",
-          "hIndex": 7,
-          "authorId": "2261279990"
-        }
-      ],
-      "affiliations": [
-        "Munich Center for Machine Learning",
-        "University of Copenhagen"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-08-28",
-      "summary": "It is found that latent intervention improves geometric alignment between languages, and that this improvement translates into consistent gains in cross-lingual consistency with English across both open-ended and multiple-choice QA formats, without degrading factual accuracy.",
-      "url": "https://www.semanticscholar.org/paper/7e86ecf3173c384388f2887a39d635daa68fb876",
-      "doi": null,
-      "arxivId": "2608.28860",
-      "pdf": null,
-      "citationCount": 2,
-      "referenceCount": 40,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 64.08907282951749,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
-      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties",
-      "authors": [
-        "Jinju Kim",
-        "Haeji Jung",
-        "Youjeong Roh",
-        "Jong Hwan Ko",
-        "David R. Mortensen"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jinju Kim",
-          "hIndex": 3,
-          "authorId": "2385407161"
-        },
-        {
-          "name": "Haeji Jung",
-          "hIndex": 3,
-          "authorId": "2271398435"
-        }
-      ],
-      "affiliations": [
-        "Carnegie Mellon University",
-        "University of British Columbia"
-      ],
-      "year": 2026,
-      "venue": "Conference on Computational Natural Language Learning",
-      "publicationDate": "2026-05-06",
-      "summary": "A two-stage Language Generalization framework that focuses on capturing variety-specific cues while also exploiting rich overlap offered by high-resource source variety and a lightweight VACAI-Bowl architecture that learns variety-specific attributes with one branch while a parallel branch captures variety-invariant attributes using adversarial training is proposed.",
-      "url": "https://www.semanticscholar.org/paper/f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
-      "doi": "10.18653/v1/2026.conll-main.17",
-      "arxivId": "2605.04500",
-      "pdf": "https://aclanthology.org/2026.conll-main.17.pdf",
-      "citationCount": 0,
-      "referenceCount": 54,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 63.19367134629541,
-      "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "4dff5c93a4cb73f619ec2472b42066ac29e28bff",
-      "title": "Cross-Lingual Representation Alignment by Token-Level Optimal Transport in a Language-Agnostic Space",
-      "authors": [
-        "Taisei Yamamoto",
-        "Ryoma Kumon",
-        "Danushka Bollegala",
-        "Hitomi Yanaka"
-      ],
-      "topAuthors": [
-        {
-          "name": "Danushka Bollegala",
-          "hIndex": 16,
-          "authorId": "2075356592"
-        },
-        {
-          "name": "Hitomi Yanaka",
-          "hIndex": 12,
-          "authorId": "3486313"
-        }
-      ],
-      "affiliations": [
-        "RIKEN",
-        "University of Liverpool"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-06",
-      "summary": "This work proposes CAROT (Cross-Lingual Alignment of Representations in a Language-Agnostic Space via Optimal Transport), which consists of identifying language-specific representations in LLMs'internal states and aligning language-agnostic representations across languages at the token level by optimal transport, while explicitly preserving language-specific representations.",
-      "url": "https://www.semanticscholar.org/paper/4dff5c93a4cb73f619ec2472b42066ac29e28bff",
-      "doi": null,
-      "arxivId": "2609.06381",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 40,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 60.13065911739477,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "54ddd515eba3e085025ec613027ab8b9444bd755",
-      "title": "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models",
-      "authors": [
-        "Hengyuan Zhang",
-        "Zhi-Hao Zhang",
-        "Ming-Yang Wang",
-        "Zun-Hai Su",
-        "Yiwei Wang",
-        "Qianli Wang",
-        "Shuzhou Yuan",
-        "Ercong Nie",
-        "Xufeng Duan",
-        "Fei-Jiang Han",
-        "Qi Xue",
-        "Zeping Yu",
-        "Chenming Shang",
-        "Xiao Liang",
-        "Jing-Fei Xiong",
-        "Hui Shen",
-        "Chao-Fan Tao",
-        "Zheng-Wu Liu",
-        "Sen-Jie Jin",
-        "Zhi-Heng Xi",
-        "Dongdong Zhang",
-        "Sophia Ananiadou",
-        "Tao Gui",
-        "Ruo-Bing Xie",
-        "Hayden Kwok-Hay So",
-        "Hinrich Schutze",
-        "Xuan-Jing Huang",
-        "Qi Zhang",
-        "Ngai Wong"
-      ],
-      "topAuthors": [
-        {
-          "name": "Tao Gui",
-          "hIndex": 48,
-          "authorId": "2067331064"
-        },
-        {
-          "name": "Xuan-Jing Huang",
-          "hIndex": 38,
-          "authorId": "2257129989"
-        }
-      ],
-      "affiliations": [
-        "University of Hong Kong",
-        "Centre for Information and Language Processing, LMU Munich"
-      ],
-      "year": 2026,
-      "venue": "Computer Science Review",
-      "publicationDate": "2026-01-20",
-      "summary": "This work formally categorize Localizing and Steering methods based on specific Interpretable Objects to establish a rigorous intervention protocol and demonstrates how this framework enables tangible improvements in Alignment, Capability, and Efficiency, effectively operationalizing MI as an actionable methodology for model optimization.",
-      "url": "https://www.semanticscholar.org/paper/54ddd515eba3e085025ec613027ab8b9444bd755",
-      "doi": "10.48550/arXiv.2601.14004",
-      "arxivId": "2601.14004",
-      "pdf": null,
-      "citationCount": 26,
-      "referenceCount": 394,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 59.89692762282568,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "8820a2141c06ded9c2de85df323d4ad8679ccfb1",
-      "title": "Target-Language Generation in Multilingual Models: Activation Steering and Optimal Control",
-      "authors": [
-        "James A. Michaelov",
-        "Carmen Amo Alonso",
-        "Tyler A. Chang",
-        "R. Levy"
-      ],
-      "topAuthors": [
-        {
-          "name": "James A. Michaelov",
-          "hIndex": 13,
-          "authorId": "118683123"
-        },
-        {
-          "name": "Tyler A. Chang",
-          "hIndex": 13,
-          "authorId": "2087001989"
-        }
-      ],
-      "affiliations": [
-        "MIT",
-        "UC San Diego"
-      ],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-15",
-      "summary": "An optimal control method for target-language text generation as well as a framework for evaluating the quality of generated text in terms of language adherence, linguistic coherence, and semantic coherence are developed.",
-      "url": "https://www.semanticscholar.org/paper/8820a2141c06ded9c2de85df323d4ad8679ccfb1",
-      "doi": null,
-      "arxivId": "2609.16967",
-      "pdf": null,
-      "citationCount": 1,
-      "referenceCount": 60,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 56.96927874862172,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "5b1980a27b400bdf74eb93c3cffbd9d29e739703",
-      "title": "Advancing Large Language Models for Low-Resource Languages: A Systematic Review of Pretraining, Adaptation, and Ethical Challenges",
-      "authors": [
-        "Ismail Hossain",
-        "Mridul Banik",
-        "Fahmid Al Farid",
-        "J. Uddin",
-        "Hezerul Bin Abdul Karim"
-      ],
-      "topAuthors": [
-        {
-          "name": "J. Uddin",
-          "hIndex": 27,
-          "authorId": "50550507"
-        },
-        {
-          "name": "Fahmid Al Farid",
-          "hIndex": 13,
-          "authorId": "2492883071"
-        }
-      ],
-      "affiliations": [
-        "George Mason University",
-        "Colorado State University"
-      ],
-      "year": 2026,
-      "venue": "Computer Modeling in Engineering &amp; Sciences",
-      "publicationDate": null,
-      "summary": "This systematic review examines recent progress in the pretraining and adaptation of LLMs for Low-Resource Languages (LRLs) and focuses on the ethics in AI practice, the development of corpora through communities, and interdisciplinary research collaboration among computational linguists, social scientists, and digital humanists.",
-      "url": "https://www.semanticscholar.org/paper/5b1980a27b400bdf74eb93c3cffbd9d29e739703",
-      "doi": "10.32604/cmes.2026.075507",
-      "arxivId": null,
-      "pdf": "https://www.techscience.com/CMES/online/detail/27532/pdf",
-      "citationCount": 4,
-      "referenceCount": 144,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 3,
-      "direction": "forward",
-      "score": 56.95417457791774,
-      "why": "past year · cites 3 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "522c17e210a7c74552306ed7db070003e6a29586",
-      "title": "Enhancing Multilingual Capabilities of Large Language Models With Bidirectional Cross-Lingual Consistency Regularization",
-      "authors": [
-        "Junpeng Liu",
-        "Jiuyi Li",
-        "Bo Jin",
-        "Degen Huang",
-        "Hui Xiong"
-      ],
-      "topAuthors": [
-        {
-          "name": "Hui Xiong",
-          "hIndex": 16,
-          "authorId": "2238311361"
-        },
-        {
-          "name": "Junpeng Liu",
-          "hIndex": 4,
-          "authorId": "2108326792"
-        }
-      ],
-      "affiliations": [
-        "Dalian University of Technology"
-      ],
-      "year": 2026,
-      "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
-      "publicationDate": null,
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/522c17e210a7c74552306ed7db070003e6a29586",
-      "doi": "10.1109/TASLPRO.2026.3687034",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 59,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 56.664624204210824,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "0936e9c8fd95cd382335148c4b69d809a2571db0",
-      "title": "Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment",
-      "authors": [
-        "Yuyan Bu",
-        "Xiao-Hao Liu",
-        "Z. Ren",
-        "Yao-Dong Yang",
-        "Juntao Dai"
-      ],
-      "topAuthors": [
-        {
-          "name": "Yao-Dong Yang",
-          "hIndex": 19,
-          "authorId": "2260432856"
-        },
-        {
-          "name": "Xiao-Hao Liu",
-          "hIndex": 11,
-          "authorId": "2174542939"
-        }
-      ],
-      "affiliations": [
-        "Beijing Academy of Artificial Intelligence",
-        "Peking University"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-02-18",
-      "summary": "A plug-and-play Multi-Lingual Consistency (MLC) loss that can be integrated into existing monolingual alignment pipelines is introduced that allows simultaneous alignment across multiple languages using only multilingual prompt variants without requiring additional response-level supervision in low-resource languages.",
-      "url": "https://www.semanticscholar.org/paper/0936e9c8fd95cd382335148c4b69d809a2571db0",
-      "doi": "10.48550/arXiv.2602.16660",
-      "arxivId": "2602.16660",
-      "pdf": null,
-      "citationCount": 10,
-      "referenceCount": 52,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 50.37067376936668,
-      "why": "past year · cites 4 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/26",
-      "batchPrNumber": 26,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
-      "title": "Unsupervised Cross-lingual Representation Learning at Scale",
-      "authors": [
-        "Alexis Conneau",
-        "Kartikay Khandelwal",
-        "Naman Goyal",
-        "Vishrav Chaudhary",
-        "Guillaume Wenzek",
-        "Francisco (Paco) Guzmán",
-        "E. Grave",
-        "Myle Ott",
-        "Luke Zettlemoyer",
-        "Veselin Stoyanov"
-      ],
-      "topAuthors": [
-        {
-          "name": "Luke Zettlemoyer",
-          "hIndex": 120,
-          "authorId": "1982950"
-        },
-        {
-          "name": "E. Grave",
-          "hIndex": 46,
-          "authorId": "3024698"
-        }
-      ],
-      "affiliations": [
-        "University of Washington",
-        "Facebook AI Research"
-      ],
-      "year": 2019,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2019-11-05",
-      "summary": "It is shown that pretraining multilingual language models at scale leads to significant performance gains for a wide range of cross-lingual transfer tasks, and the possibility of multilingual modeling without sacrificing per-language performance is shown for the first time.",
-      "url": "https://www.semanticscholar.org/paper/6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
-      "doi": "10.18653/v1/2020.acl-main.747",
-      "arxivId": "1911.02116",
-      "pdf": "https://www.aclweb.org/anthology/2020.acl-main.747.pdf",
-      "citationCount": 9573,
-      "referenceCount": 42,
-      "influentialCitationCount": 1893,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 24,
-      "direction": "backward",
-      "score": 100,
-      "why": "cited by 24 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
-      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation",
-      "authors": [
-        "M. Costa-jussà",
-        "James Cross",
-        "Onur Çelebi",
-        "Maha Elbayad",
-        "K. Heafield",
-        "Kevin Heffernan",
-        "Elahe Kalbassi",
-        "Janice Lam",
-        "Daniel Licht",
-        "Jean Maillard",
-        "Anna Sun",
-        "Skyler Wang",
-        "Guillaume Wenzek",
-        "Alison Youngblood",
-        "Bapi Akula",
-        "L. Barrault",
-        "G. Gonzalez",
-        "Prangthip Hansanti",
-        "John Hoffman",
-        "Semarley Jarrett",
-        "Kaushik Ram Sadagopan",
-        "Dirk Rowe",
-        "S. Spruit",
-        "C. Tran",
-        "Pierre Yves Andrews",
-        "N. F. Ayan",
-        "Shruti Bhosale",
-        "Sergey Edunov",
-        "Angela Fan",
-        "Cynthia Gao",
-        "Vedanuj Goswami",
-        "Francisco (Paco) Guzmán",
-        "Philipp Koehn",
-        "Alexandre Mourachko",
-        "C. Ropers",
-        "Safiyyah Saleem",
-        "Holger Schwenk",
-        "Jeff Wang"
-      ],
-      "topAuthors": [
-        {
-          "name": "Philipp Koehn",
-          "hIndex": 66,
-          "authorId": "1755162"
-        },
-        {
-          "name": "Holger Schwenk",
-          "hIndex": 49,
-          "authorId": "144518416"
-        }
-      ],
-      "affiliations": [
-        "Johns Hopkins University",
-        "Handshake AI"
-      ],
-      "year": 2022,
-      "venue": "arXiv.org",
-      "publicationDate": "2022-07-11",
-      "summary": "A conditional compute model based on Sparsely Gated Mixture of Experts that is trained on data obtained with novel and effective data mining techniques tailored for low-resource languages is developed, laying important groundwork towards realizing a universal translation system.",
-      "url": "https://www.semanticscholar.org/paper/e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
-      "doi": "10.48550/arXiv.2207.04672",
-      "arxivId": "2207.04672",
-      "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 2082,
-      "referenceCount": 0,
-      "influentialCitationCount": 184,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 14,
-      "direction": "backward",
-      "score": 73.5420161546197,
-      "why": "cited by 14 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "74b4ea9766928fcc4de6d624f55eac4a2535011d",
-      "title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers",
-      "authors": [
-        "Clément Dumas",
-        "C. Wendler",
-        "Veniamin Veselovsky",
-        "Giovanni Monea",
-        "Robert West"
-      ],
-      "topAuthors": [
-        {
-          "name": "Veniamin Veselovsky",
-          "hIndex": 12,
-          "authorId": "93258626"
-        },
-        {
-          "name": "C. Wendler",
-          "hIndex": 8,
-          "authorId": "2328311036"
-        }
-      ],
-      "affiliations": [
-        "Cornell University"
-      ],
-      "year": 2024,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2024-11-13",
-      "summary": "This paper analyzes latent representations during a word-translation task in transformer-based LLMs and shows that patching with the mean representation of a concept across different languages does not affect the models'ability to translate it, but instead improves it.",
-      "url": "https://www.semanticscholar.org/paper/74b4ea9766928fcc4de6d624f55eac4a2535011d",
-      "doi": "10.48550/arXiv.2411.08745",
-      "arxivId": "2411.08745",
-      "pdf": null,
-      "citationCount": 65,
-      "referenceCount": 46,
-      "influentialCitationCount": 5,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 66.14660113945735,
-      "why": "cites 5 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
-      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint",
-      "authors": [
-        "Vihari Piratla",
-        "Purvam Jain",
-        "Darshan Singh",
-        "Trevor Cohn",
+        "S. Samantaray",
         "Preethi Jyothi",
-        "Partha Talukdar"
+        "Gemma Team",
+        "Thomas Mesnard",
+        "Cassidy Hardin",
+        "Robert Dadashi",
+        "Surya Bhupatiraju",
+        "Shreya Pathak",
+        "L. Sifre",
+        "Mihir Morgane Rivière",
+        "Sanjay Kale",
+        "Juliette Love",
+        "P. Tafti",
+        "Léonard Hussenot",
+        "Jörg Tiedemann",
+        "Mikko Aulamo",
+        "Daria Bakshandaeva",
+        "M. Boggia",
+        "Stig-Arne Grönroos",
+        "Tommi Nieminen",
+        "Alessandro Raganato",
+        "Yves Scherrer",
+        "Raúl Vázquez",
+        "Virpioja. 2023. Democratizing",
+        "Hugo Touvron",
+        "Thibaut Lavril",
+        "Gautier Izacard",
+        "X. Martinet",
+        "M. Lachaux",
+        "Timothée Lacroix",
+        "Baptiste Rozière",
+        "Naman Goyal",
+        "Eric Hambro",
+        "Faisal",
+        "A. Ustun",
+        "Viraat Aryabumi",
+        "Yong-Qiang Zheng",
+        "Wei-Yin Ko",
+        "Daniel D'Souza",
+        "Gbemileke Onilude",
+        "Neel Bhandari",
+        "Shivalika Singh",
+        "Hui-Lee Ooi",
+        "Amr Kayid",
+        "Freddie Vargus",
+        "P. Blunsom",
+        "Shayne Longpre",
+        "Niklas Muennighoff",
+        "Marzieh Fadaee",
+        "Julia Kreutzer",
+        "Sara Hooker",
+        "Aya"
+      ],
+      "topAuthors": [
+        {
+          "name": "Niklas Muennighoff",
+          "hIndex": 52,
+          "authorId": "2037383772"
+        },
+        {
+          "name": "Marzieh Fadaee",
+          "hIndex": 24,
+          "authorId": "2818759"
+        }
+      ],
+      "affiliations": [
+        "Cohere Labs, University of Amsterdam, Zeta Alpha Vector",
+        "University of Helsinki"
+      ],
+      "year": null,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/6ac793cfdc42a9cc73e2e537b882b49623ac0035",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 30,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 100,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "9c2718387edbf9f12b07ad00aa3273a03b3f054f",
+      "title": "HBO: Hierarchical Balancing Optimization for Fine-Tuning Large Language Models",
+      "authors": [
+        "Wei-Xuan Wang",
+        "Ming-Hao Wu",
+        "B. Haddow",
+        "A. Birch"
+      ],
+      "topAuthors": [
+        {
+          "name": "B. Haddow",
+          "hIndex": 47,
+          "authorId": "2259100"
+        },
+        {
+          "name": "A. Birch",
+          "hIndex": 11,
+          "authorId": "2261083421"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-05-18",
+      "summary": "HBO provides a comprehensive solution to the challenges of data imbalance and heterogeneity in LLM fine-tuning, enabling more effective training across diverse datasets.",
+      "url": "https://www.semanticscholar.org/paper/9c2718387edbf9f12b07ad00aa3273a03b3f054f",
+      "doi": "10.48550/arXiv.2505.12300",
+      "arxivId": "2505.12300",
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 71,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 3,
+      "direction": "forward",
+      "score": 99.94883169015817,
+      "why": "cites 3 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "a872d76e30bdeb73bb04465edb50c4541c94c8b4",
+      "title": "Unveiling Language Routing Isolation in Multilingual MoE Models for Interpretable Subnetwork Adaptation",
+      "authors": [
+        "Ke-Ning Zheng",
+        "Wei-Chieh Huang",
+        "Jiahao Huo",
+        "Zhonghao Li",
+        "Henry Peng Zou",
+        "Yibo Yan",
+        "Xin Zou",
+        "Jun-Gang Li",
+        "Jun-Zhuo Li",
+        "Han-Rong Zhang",
+        "Xu-Ming Hu",
+        "Philip S. Yu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yibo Yan",
+          "hIndex": 23,
+          "authorId": "2262511952"
+        },
+        {
+          "name": "Henry Peng Zou",
+          "hIndex": 21,
+          "authorId": "2261285492"
+        }
+      ],
+      "affiliations": [
+        "University of Illinois Chicago"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-04",
+      "summary": "A systematic analysis of expert routing patterns in MoE models reveals Language Routing Isolation, in which high- and low-resource languages tend to activate largely disjoint expert sets, and proposes RISE, a framework that exploits routing isolation to identify and adapt language-specific expert subnetworks.",
+      "url": "https://www.semanticscholar.org/paper/a872d76e30bdeb73bb04465edb50c4541c94c8b4",
+      "doi": "10.48550/arXiv.2604.03592",
+      "arxivId": "2604.03592",
+      "pdf": null,
+      "citationCount": 6,
+      "referenceCount": 32,
+      "influentialCitationCount": 3,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 98.21092678255319,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "46dad280eb5c92029b6d7b57c9fe36fdef4b7156",
+      "title": "Are Multilingual Models Actually Improving? Isolating True Cross-Lingual Transfer",
+      "authors": [
+        "Prasoon Bajpai",
+        "Eleftheria Briakou",
+        "Colin Cherry",
+        "Preethi Jyothi",
+        "Vihari Piratla"
       ],
       "topAuthors": [
         {
@@ -760,283 +211,327 @@
           "authorId": "144859542"
         },
         {
-          "name": "Vihari Piratla",
+          "name": "Colin Cherry",
           "hIndex": 10,
-          "authorId": "2748067"
+          "authorId": "2257002653"
         }
       ],
-      "affiliations": [
-        "Google (United States)"
-      ],
-      "year": 2025,
-      "venue": null,
-      "publicationDate": "2025-10-17",
-      "summary": "This work formalizes the cross-lingual gap in terms of biased and unbiased errors, and empirically validate the hypothesis that the variance of responses in the target language is a key cause of this gap through multiple inference-time interventions that control variance and reduce the cross-lingual gap.",
-      "url": "https://www.semanticscholar.org/paper/b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
-      "doi": null,
-      "arxivId": "2510.15551",
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-20",
+      "summary": "This analysis across twenty diverse language models and three popular mainstream multilingual benchmarks argues that transfer in small models is not broken, the authors are making slower than expected progress in cross-lingual transfer with model size, and transfer over time has made clear progress over time.",
+      "url": "https://www.semanticscholar.org/paper/46dad280eb5c92029b6d7b57c9fe36fdef4b7156",
+      "doi": "10.48550/arXiv.2606.21954",
+      "arxivId": "2606.21954",
       "pdf": null,
-      "citationCount": 4,
+      "citationCount": 0,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 96.90771491889554,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "ca6d1f7e54bb99f1fcac7df355442e6f00b86211",
+      "title": "Learning to Route Languages for Multilingual Policy Optimization",
+      "authors": [
+        "Geyang Guo",
+        "Hiromi Wakaki",
+        "Yuki Mitsufuji",
+        "Alan Ritter",
+        "Wei Xu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yuki Mitsufuji",
+          "hIndex": 20,
+          "authorId": "2253398841"
+        },
+        {
+          "name": "Alan Ritter",
+          "hIndex": 11,
+          "authorId": "2253466149"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-25",
+      "summary": "This work proposes language-routed policy optimization (LRPO), an online policy optimization framework that treats language as a selectable variable and consistently improves multilingual performance, demonstrating that adaptive language routing enables effective cross-lingual knowledge exploitation for training.",
+      "url": "https://www.semanticscholar.org/paper/ca6d1f7e54bb99f1fcac7df355442e6f00b86211",
+      "doi": "10.48550/arXiv.2605.25360",
+      "arxivId": "2605.25360",
+      "pdf": null,
+      "citationCount": 1,
       "referenceCount": 43,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
       "direction": "forward",
-      "score": 66.04930482933867,
-      "why": "cites 4 in your list",
+      "score": 96.74687762382914,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "809cc93921e4698bde891475254ad6dfba33d03b",
-      "title": "How Multilingual is Multilingual BERT?",
+      "id": "0c98c94659a41c795981dce510edbca9c0350b74",
+      "title": "ShifCon: Enhancing Non-Dominant Language Capabilities with a Shift-based Contrastive Framework",
       "authors": [
-        "T. Pires",
-        "Eva Schlinger",
-        "Dan Garrette"
+        "Heng-Yuan Zhang",
+        "Chenming Shang",
+        "Sizhe Wang",
+        "Dong-Dong Zhang",
+        "Feng Yao",
+        "Renliang Sun",
+        "Yi-Yao Yu",
+        "Yu-Jiu Yang",
+        "F. Wei"
       ],
       "topAuthors": [
         {
-          "name": "Dan Garrette",
-          "hIndex": 25,
-          "authorId": "2758616"
+          "name": "Yu-Jiu Yang",
+          "hIndex": 33,
+          "authorId": "2283881403"
         },
         {
-          "name": "T. Pires",
+          "name": "F. Wei",
           "hIndex": 11,
-          "authorId": "13455512"
+          "authorId": "2270027811"
         }
       ],
       "affiliations": [
-        "Google DeepMind"
+        "Tsinghua University",
+        "Microsoft (United States)"
       ],
-      "year": 2019,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2019-06-04",
-      "summary": "It is concluded that M-BERT does create multilingual representations, but that these representations exhibit systematic deficiencies affecting certain language pairs, and that the model can find translation pairs.",
-      "url": "https://www.semanticscholar.org/paper/809cc93921e4698bde891475254ad6dfba33d03b",
-      "doi": "10.18653/v1/P19-1493",
-      "arxivId": "1906.01502",
-      "pdf": "https://www.aclweb.org/anthology/P19-1493.pdf",
-      "citationCount": 1817,
-      "referenceCount": 19,
-      "influentialCitationCount": 143,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 12,
-      "direction": "backward",
-      "score": 64.1101578567213,
-      "why": "cited by 12 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "ba4a34680e09e77984624c95f5245d91b54373f6",
-      "title": "XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization",
-      "authors": [
-        "Jun-Jie Hu",
-        "Sebastian Ruder",
-        "Aditya Siddhant",
-        "Graham Neubig",
-        "O. Firat",
-        "Melvin Johnson"
-      ],
-      "topAuthors": [
-        {
-          "name": "Graham Neubig",
-          "hIndex": 95,
-          "authorId": "1700325"
-        },
-        {
-          "name": "Sebastian Ruder",
-          "hIndex": 62,
-          "authorId": "2884561"
-        }
-      ],
-      "affiliations": [
-        "Cohere",
-        "Stanford University"
-      ],
-      "year": 2020,
-      "venue": "International Conference on Machine Learning",
-      "publicationDate": "2020-03-24",
-      "summary": "The Cross-lingual TRansfer Evaluation of Multilingual Encoders XTREME benchmark is introduced, a multi-task benchmark for evaluating the cross-lingually generalization capabilities of multilingual representations across 40 languages and 9 tasks.",
-      "url": "https://www.semanticscholar.org/paper/ba4a34680e09e77984624c95f5245d91b54373f6",
-      "doi": null,
-      "arxivId": "2003.11080",
-      "pdf": null,
-      "citationCount": 1220,
-      "referenceCount": 63,
-      "influentialCitationCount": 201,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 10,
-      "direction": "backward",
-      "score": 62.828331862915455,
-      "why": "cited by 10 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
-      "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
-      "authors": [
-        "Alexis Conneau",
-        "Ruty Rinott",
-        "Guillaume Lample",
-        "Adina Williams",
-        "Samuel R. Bowman",
-        "Holger Schwenk",
-        "Veselin Stoyanov"
-      ],
-      "topAuthors": [
-        {
-          "name": "Holger Schwenk",
-          "hIndex": 49,
-          "authorId": "144518416"
-        },
-        {
-          "name": "Samuel R. Bowman",
-          "hIndex": 46,
-          "authorId": "3644767"
-        }
-      ],
-      "affiliations": [
-        "New York University",
-        "Meta AI"
-      ],
-      "year": 2018,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2018-09-13",
-      "summary": "This work constructs an evaluation set for XLU by extending the development and test sets of the Multi-Genre Natural Language Inference Corpus to 14 languages, including low-resource languages such as Swahili and Urdu and finds that XNLI represents a practical and challenging evaluation suite and that directly translating the test data yields the best performance among available baselines.",
-      "url": "https://www.semanticscholar.org/paper/1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
-      "doi": "10.18653/v1/D18-1269",
-      "arxivId": "1809.05053",
-      "pdf": "https://www.aclweb.org/anthology/D18-1269.pdf",
-      "citationCount": 1700,
-      "referenceCount": 65,
-      "influentialCitationCount": 367,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 12,
-      "direction": "backward",
-      "score": 61.986729454203505,
-      "why": "cited by 12 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "3eadeada86853ee6b04847064318032f555e17c9",
-      "title": "A survey of multilingual large language models",
-      "authors": [
-        "Li-Bo Qin",
-        "Qiguang Chen",
-        "Yu-Hang Zhou",
-        "Zhi Chen",
-        "Ying-Hui Li",
-        "Lizi Liao",
-        "Min Li",
-        "Wan-Xiang Che",
-        "Philip S. Yu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Qiguang Chen",
-          "hIndex": 23,
-          "authorId": "2133447633"
-        },
-        {
-          "name": "Wan-Xiang Che",
-          "hIndex": 17,
-          "authorId": "2262459819"
-        }
-      ],
-      "affiliations": [
-        "SCIR"
-      ],
-      "year": 2025,
-      "venue": "Patterns",
-      "publicationDate": "2025-01-01",
-      "summary": "A unified and thorough review of the field, highlighting recent progress and emerging trends in MLLM research, and provides a unified framework to summarize the current progress in MLLMs.",
-      "url": "https://www.semanticscholar.org/paper/3eadeada86853ee6b04847064318032f555e17c9",
-      "doi": "10.1016/j.patter.2024.101118",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.1016/j.patter.2024.101118",
-      "citationCount": 152,
-      "referenceCount": 462,
-      "influentialCitationCount": 9,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 5,
-      "direction": "forward",
-      "score": 58.69109345643435,
-      "why": "cites 5 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "f1287b098ae99b57d86cccd2e3b9109d82256933",
-      "title": "Language-Specific Latent Process Hinders Cross-Lingual Performance",
-      "authors": [
-        "Zheng Lim",
-        "Alham Fikri Aji",
-        "Trevor Cohn"
-      ],
-      "topAuthors": [
-        {
-          "name": "Alham Fikri Aji",
-          "hIndex": 39,
-          "authorId": "8129718"
-        },
-        {
-          "name": "Zheng Lim",
-          "hIndex": 6,
-          "authorId": "2066416516"
-        }
-      ],
-      "affiliations": [
-        "MBZUAI"
-      ],
-      "year": 2025,
+      "year": 2024,
       "venue": "arXiv.org",
-      "publicationDate": "2025-05-19",
-      "summary": "It is demonstrated that knowledge sharing in small models can be facilitated by steering their latent processing towards the shared semantic space, which improves the models'multilingual reasoning performance, as a result of more knowledge transfer from, and better output consistency with English.",
-      "url": "https://www.semanticscholar.org/paper/f1287b098ae99b57d86cccd2e3b9109d82256933",
-      "doi": "10.48550/arXiv.2505.13141",
-      "arxivId": "2505.13141",
+      "publicationDate": null,
+      "summary": "The proposed ShifCon framework shifts the representations of non-dominant languages into the dominant language subspace, allowing them to access relatively rich information encoded in the model parameters, and employs multilingual contrastive learning to further enhance the alignment of representations within this area.",
+      "url": "https://www.semanticscholar.org/paper/0c98c94659a41c795981dce510edbca9c0350b74",
+      "doi": "10.48550/arXiv.2410.19453",
+      "arxivId": null,
       "pdf": null,
-      "citationCount": 22,
-      "referenceCount": 53,
+      "citationCount": 8,
+      "referenceCount": 51,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 96.49154735170309,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
+      "title": "Language Modelling with Pixels",
+      "authors": [
+        "Phillip Rust",
+        "Jonas F. Lotz",
+        "Emanuele Bugliarello",
+        "Elizabeth Salesky",
+        "Miryam de Lhoneux",
+        "Desmond Elliott"
+      ],
+      "topAuthors": [
+        {
+          "name": "Desmond Elliott",
+          "hIndex": 31,
+          "authorId": "50369944"
+        },
+        {
+          "name": "Elizabeth Salesky",
+          "hIndex": 26,
+          "authorId": "3448427"
+        }
+      ],
+      "affiliations": [
+        "University of Copenhagen",
+        "KU Leuven"
+      ],
+      "year": 2022,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2022-07-14",
+      "summary": "PIXEL is a pretrained language model that renders text as images, making it possible to transfer representations across languages based on orthographic similarity or the co-activation of pixels, and is more robust than BERT to orthographic attacks and linguistic code-switching, further confirming the benefits of modelling language with pixels.",
+      "url": "https://www.semanticscholar.org/paper/23f4b6432b74e5db05da04e354341807f5044f7e",
+      "doi": null,
+      "arxivId": "2207.06991",
+      "pdf": null,
+      "citationCount": 76,
+      "referenceCount": 145,
+      "influentialCitationCount": 8,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 94.9834392453136,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "c71c13a04ec266e3e5125bdb0719a607e6d7683e",
+      "title": "From Unverifiable Domain Text to Cross-Lingual RLVR via Code-Switched Task Synthesis",
+      "authors": [
+        "Cheonbok Park",
+        "Jihwan Kim",
+        "Shinyoung Joo",
+        "Joosung Lee",
+        "Hwiyeol Jo",
+        "Jeonghoon Kim",
+        "Jaegul Choo"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jaegul Choo",
+          "hIndex": 15,
+          "authorId": "2260653165"
+        },
+        {
+          "name": "Cheonbok Park",
+          "hIndex": 7,
+          "authorId": "2284731913"
+        }
+      ],
+      "affiliations": [
+        "NAVER Search"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-18",
+      "summary": "This work introduces code-switched task synthesis for cross-lingual RLVR, a data-centric approach that derives target-language and code-switched RLVR task variants from otherwise unverifiable English domain text.",
+      "url": "https://www.semanticscholar.org/paper/c71c13a04ec266e3e5125bdb0719a607e6d7683e",
+      "doi": null,
+      "arxivId": "2610.25399",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 74,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 94.81608777059198,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "ae176cac16f67cfb133828c545460c652b71d3a3",
+      "title": "Cross-lingual Transfer of Reward Models in Multilingual Alignment",
+      "authors": [
+        "Jiwoo Hong",
+        "Noah Lee",
+        "Rodrigo Mart'inez-Castano",
+        "C. Rodr'iguez",
+        "James Thorne"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jiwoo Hong",
+          "hIndex": 11,
+          "authorId": "2290955335"
+        },
+        {
+          "name": "Noah Lee",
+          "hIndex": 7,
+          "authorId": "2291076200"
+        }
+      ],
+      "affiliations": [
+        "Korea Advanced Institute of Science and Technology"
+      ],
+      "year": 2024,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2024-10-23",
+      "summary": "This work investigates the cross-lingual transfer of RMs trained in diverse languages, primarily from English, and demonstrates the strong cross-lingual transfer of English RMs, exceeding target language RMs by 3~4% average increase in Multilingual RewardBench.",
+      "url": "https://www.semanticscholar.org/paper/ae176cac16f67cfb133828c545460c652b71d3a3",
+      "doi": "10.48550/arXiv.2410.18027",
+      "arxivId": "2410.18027",
+      "pdf": null,
+      "citationCount": 21,
+      "referenceCount": 62,
       "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
       "direction": "forward",
-      "score": 58.651508460160784,
-      "why": "cites 4 in your list",
+      "score": 94.49778706396876,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "2a210427db10cef16217510f26c1e4e2d5c7f098",
-      "title": "Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs",
+      "id": "c6ed03574029bd81fc4ce82da380cfdfbc95aa4f",
+      "title": "Explainability and Interpretability of Multilingual Large Language Models: A Survey",
       "authors": [
-        "Kartik Ravisankar",
-        "HyoJung Han",
-        "Sarah Wiegreffe",
+        "Lucas Resck",
+        "Isabelle Augenstein",
+        "Anna Korhonen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Isabelle Augenstein",
+          "hIndex": 8,
+          "authorId": "2386591303"
+        },
+        {
+          "name": "Anna Korhonen",
+          "hIndex": 6,
+          "authorId": "2308101643"
+        }
+      ],
+      "affiliations": [
+        "University of Cambridge"
+      ],
+      "year": 2025,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/c6ed03574029bd81fc4ce82da380cfdfbc95aa4f",
+      "doi": "10.18653/v1/2025.emnlp-main.1033",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2025.emnlp-main.1033.pdf",
+      "citationCount": 17,
+      "referenceCount": 239,
+      "influentialCitationCount": 2,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 93.43214567171658,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "7b44791127a65ec438048e81295fd34f6f681c1e",
+      "title": "AdaMame: A Training Recipe for Adaptive Multilingual Reasoning",
+      "authors": [
+        "Dayeon Ki",
+        "Kevin Duh",
         "Marine Carpuat"
       ],
       "topAuthors": [
@@ -1046,216 +541,685 @@
           "authorId": "2954727"
         },
         {
-          "name": "HyoJung Han",
-          "hIndex": 3,
-          "authorId": "2392814904"
+          "name": "Dayeon Ki",
+          "hIndex": 7,
+          "authorId": "2218391299"
         }
       ],
       "affiliations": [
         "University of Maryland"
       ],
-      "year": 2025,
-      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2025-04-13",
-      "summary": "It is shown that incorrect predictions in languages other than English can be fixed by patching their parallel English activations in the middle layers, thereby demonstrating the causal role of representation (mis)alignment in cross-lingual correctness.",
-      "url": "https://www.semanticscholar.org/paper/2a210427db10cef16217510f26c1e4e2d5c7f098",
-      "doi": "10.18653/v1/2026.eacl-long.225",
-      "arxivId": "2504.09378",
-      "pdf": "https://aclanthology.org/2026.eacl-long.225.pdf",
-      "citationCount": 13,
-      "referenceCount": 38,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
-      "direction": "forward",
-      "score": 58.51281422150625,
-      "why": "cites 4 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "468d1e2d75a23fecaf96fe65d8b01ff35ea5d0bd",
-      "title": "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models",
-      "authors": [
-        "Jirui Qi",
-        "Raquel Fernández",
-        "Arianna Bisazza"
-      ],
-      "topAuthors": [
-        {
-          "name": "Arianna Bisazza",
-          "hIndex": 23,
-          "authorId": "3242253"
-        },
-        {
-          "name": "Raquel Fernández",
-          "hIndex": 14,
-          "authorId": "2147411696"
-        }
-      ],
-      "affiliations": [
-        "University of Groningen"
-      ],
-      "year": 2023,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2023-10-16",
-      "summary": "This work proposes a Ranking-based Consistency (RankC) metric to evaluate knowledge consistency across languages independently from accuracy, and conducts an in-depth analysis of the determining factors for CLC, both at model level and at language-pair level.",
-      "url": "https://www.semanticscholar.org/paper/468d1e2d75a23fecaf96fe65d8b01ff35ea5d0bd",
-      "doi": "10.48550/arXiv.2310.10378",
-      "arxivId": "2310.10378",
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-06-13",
+      "summary": "Evaluated across two benchmarks, two LRMs, and 12 languages, AdaMame-GRPO achieves Pareto-optimal performance across reasoning accuracy, language fidelity, and token efficiency over all baselines, with the strongest gains on out-of-domain, lower-resource languages.",
+      "url": "https://www.semanticscholar.org/paper/7b44791127a65ec438048e81295fd34f6f681c1e",
+      "doi": "10.48550/arXiv.2606.15080",
+      "arxivId": "2606.15080",
       "pdf": null,
-      "citationCount": 153,
-      "referenceCount": 39,
-      "influentialCitationCount": 13,
-      "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 7,
-      "direction": "backward",
-      "score": 57.91335220964233,
-      "why": "cited by 7 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
-      "batchPrNumber": 27,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "8bc5c14d7943d547fd102386fa5822552a1cbe39",
-      "title": "CoCo-CoLa: Evaluating and Improving Language Adherence in Multilingual LLMs",
-      "authors": [
-        "Elnaz Rahmati",
-        "Alireza S. Ziabari",
-        "Morteza Dehghani"
-      ],
-      "topAuthors": [
-        {
-          "name": "Morteza Dehghani",
-          "hIndex": 6,
-          "authorId": "2294359048"
-        },
-        {
-          "name": "Alireza S. Ziabari",
-          "hIndex": 5,
-          "authorId": "2181122081"
-        }
-      ],
-      "affiliations": [
-        "University of Southern California"
-      ],
-      "year": 2025,
-      "venue": "Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025)",
-      "publicationDate": "2025-02-18",
-      "summary": "This work proposes a partial training strategy that selectively fine-tunes key layers, improving language adherence while significantly reducing computational cost, and introduces CoCo-CoLa (Correct Concept - Correct Language), a novel metric to evaluate language adherence in multilingual LLMs.",
-      "url": "https://www.semanticscholar.org/paper/8bc5c14d7943d547fd102386fa5822552a1cbe39",
-      "doi": "10.18653/v1/2025.mrl-main.5",
-      "arxivId": "2502.12476",
-      "pdf": "https://aclanthology.org/2025.mrl-main.5.pdf",
-      "citationCount": 4,
-      "referenceCount": 50,
+      "citationCount": 0,
+      "referenceCount": 63,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 4,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
       "direction": "forward",
-      "score": 56.467702995346336,
-      "why": "cites 4 in your list",
+      "score": 93.18153988925856,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "1cfd0f08bb7ab449bbccc3d69a62ffbf43a7eb7f",
-      "title": "First Align, then Predict: Understanding the Cross-Lingual Ability of Multilingual BERT",
+      "id": "956a2e5ac94852bba87382425c3b30849539e9e9",
+      "title": "Crosslingual On-Policy Self-Distillation for Multilingual Reasoning",
       "authors": [
-        "Benjamin Muller",
-        "Yanai Elazar",
-        "B. Sagot",
-        "Djamé Seddah"
+        "Yihong Liu",
+        "Rao-Yuan Zhao",
+        "Michael A. Hedderich",
+        "Hinrich Schutze"
       ],
       "topAuthors": [
         {
-          "name": "Yanai Elazar",
-          "hIndex": 30,
-          "authorId": "51131518"
+          "name": "Hinrich Schutze",
+          "hIndex": 21,
+          "authorId": "2130001188"
         },
         {
-          "name": "Djamé Seddah",
-          "hIndex": 27,
-          "authorId": "1679170"
+          "name": "Yihong Liu",
+          "hIndex": 12,
+          "authorId": "2107995084"
         }
       ],
       "affiliations": [
-        "Bar-Ilan University",
-        "Inria"
+        "CIS, LMU Munich"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-05-10",
+      "summary": "Experiments on 17 low-resource African languages show that COPSD consistently improves low-resource mathematical reasoning across model sizes and substantially outperforms Group Relative Policy Optimization (GRPO).",
+      "url": "https://www.semanticscholar.org/paper/956a2e5ac94852bba87382425c3b30849539e9e9",
+      "doi": "10.48550/arXiv.2605.09548",
+      "arxivId": "2605.09548",
+      "pdf": null,
+      "citationCount": 11,
+      "referenceCount": 50,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 92.1441635877681,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "2fd9794c8844efc2396eafa5495fb180bc4864f1",
+      "title": "The Same But Different: Structural Similarities and Differences in Multilingual Language Modeling",
+      "authors": [
+        "Ruochen Zhang",
+        "Qinan Yu",
+        "Matianyu Zang",
+        "Carsten Eickhoff",
+        "Ellie Pavlick"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ellie Pavlick",
+          "hIndex": 40,
+          "authorId": "2949185"
+        },
+        {
+          "name": "Ruochen Zhang",
+          "hIndex": 13,
+          "authorId": "49775305"
+        }
+      ],
+      "affiliations": [
+        "Brown University"
+      ],
+      "year": 2024,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2024-10-11",
+      "summary": "Evidence is found that models employ the same circuit to handle the same syntactic process independently of the language in which it occurs, and that this is the case even for monolingual models trained completely independently.",
+      "url": "https://www.semanticscholar.org/paper/2fd9794c8844efc2396eafa5495fb180bc4864f1",
+      "doi": "10.48550/arXiv.2410.09223",
+      "arxivId": "2410.09223",
+      "pdf": null,
+      "citationCount": 36,
+      "referenceCount": 64,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 92.00948228615002,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "a297b5fe3b1235251ddf4d7aa681cee49f19f6b9",
+      "title": "Demystify Optimization Challenges in Multilingual Transformers",
+      "authors": [
+        "Xian Li",
+        "Hongyu Gong"
+      ],
+      "topAuthors": [
+        {
+          "name": "Xian Li",
+          "hIndex": 28,
+          "authorId": "2116235416"
+        },
+        {
+          "name": "Hongyu Gong",
+          "hIndex": 18,
+          "authorId": "2008458"
+        }
+      ],
+      "affiliations": [
+        "University of Illinois at Urbana-Champaign"
       ],
       "year": 2021,
-      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2021-01-26",
-      "summary": "It is shown that multilingual BERT, a popular multilingual language model, can be viewed as the stacking of two sub-networks: a multilingual encoder followed by a task-specific language-agnostic predictor.",
-      "url": "https://www.semanticscholar.org/paper/1cfd0f08bb7ab449bbccc3d69a62ffbf43a7eb7f",
-      "doi": "10.18653/v1/2021.eacl-main.189",
-      "arxivId": "2101.11109",
-      "pdf": "https://aclanthology.org/2021.eacl-main.189.pdf",
-      "citationCount": 99,
-      "referenceCount": 40,
-      "influentialCitationCount": 9,
+      "venue": "arXiv.org",
+      "publicationDate": null,
+      "summary": "A principled multi-objective optimization algorithm, CATS, is proposed, which improves both optimization and generalization especially for low resource, and advances the Pareto front of accuracy while being able to apply to massive multilingual settings at the scale of 100 languages.",
+      "url": "https://www.semanticscholar.org/paper/a297b5fe3b1235251ddf4d7aa681cee49f19f6b9",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 60,
+      "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 6,
-      "direction": "backward",
-      "score": 55.75060780469118,
-      "why": "cited by 6 in your list",
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 91.91395623718779,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
       "batchBranch": "recs/most-connected"
     },
     {
-      "id": "cfe8ec7a183ed548db1a862e38908343cefb94c7",
-      "title": "Emerging Cross-lingual Structure in Pretrained Language Models",
+      "id": "ff6cee9ee319579546fadd890e69974c8ec4672a",
+      "title": "Middle-Layer Representation Alignment for Cross-Lingual Transfer in Fine-Tuned LLMs",
       "authors": [
-        "Shijie Wu",
-        "Alexis Conneau",
-        "Haoran Li",
-        "Luke Zettlemoyer",
-        "Veselin Stoyanov"
+        "Danni Liu",
+        "Jan Niehues"
       ],
       "topAuthors": [
         {
-          "name": "Luke Zettlemoyer",
-          "hIndex": 120,
-          "authorId": "1982950"
+          "name": "Danni Liu",
+          "hIndex": 12,
+          "authorId": "1609468282"
         },
         {
-          "name": "Veselin Stoyanov",
-          "hIndex": 34,
-          "authorId": "1759422"
+          "name": "Jan Niehues",
+          "hIndex": 9,
+          "authorId": "2244618418"
         }
       ],
       "affiliations": [
-        "University of Washington",
-        "Meta AI"
+        "Karlsruhe Institute of Technology"
       ],
-      "year": 2019,
+      "year": 2025,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2019-11-04",
-      "summary": "It is shown that transfer is possible even when there is no shared vocabulary across the monolingual corpora and also when the text comes from very different domains, and it is strongly suggested that, much like for non-contextual word embeddings, there are universal latent symmetries in the learned embedding spaces.",
-      "url": "https://www.semanticscholar.org/paper/cfe8ec7a183ed548db1a862e38908343cefb94c7",
-      "doi": "10.18653/v1/2020.acl-main.536",
-      "arxivId": "1911.01464",
-      "pdf": "https://www.aclweb.org/anthology/2020.acl-main.536.pdf",
-      "citationCount": 352,
-      "referenceCount": 51,
-      "influentialCitationCount": 88,
+      "publicationDate": "2025-02-20",
+      "summary": "This work discovers that middle layers exhibit the strongest potential for cross-lingual alignment, and proposes a middle-layer alignment objective integrated into task-specific training, which is robust to the choice of alignment languages and generalizes to languages unseen during alignment.",
+      "url": "https://www.semanticscholar.org/paper/ff6cee9ee319579546fadd890e69974c8ec4672a",
+      "doi": "10.48550/arXiv.2502.14830",
+      "arxivId": "2502.14830",
+      "pdf": null,
+      "citationCount": 50,
+      "referenceCount": 91,
+      "influentialCitationCount": 1,
       "source": null,
-      "addedAt": "2026-10-24",
-      "overlap": 8,
-      "direction": "backward",
-      "score": 54.852793525173524,
-      "why": "cited by 8 in your list",
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 91.75374203456046,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "5e5f04a5ab1d22ffad0e96585469e269369ec676",
+      "title": "Enhancing Multilingual Capabilities of Large Language Models through Self-Distillation from Resource-Rich Languages",
+      "authors": [
+        "Yuanchi Zhang",
+        "Yile Wang",
+        "Zijun Liu",
+        "Shuo Wang",
+        "Xiao-Long Wang",
+        "Peng Li",
+        "Mao-Song Sun",
+        "Yang Liu"
+      ],
+      "topAuthors": [
+        {
+          "name": "Peng Li",
+          "hIndex": 38,
+          "authorId": "144326610"
+        },
+        {
+          "name": "Zijun Liu",
+          "hIndex": 11,
+          "authorId": "2117942065"
+        }
+      ],
+      "affiliations": [
+        "Tsinghua University",
+        "Institute for AI Industry Research (AIR), Tsinghua University, China"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-02-19",
+      "summary": "Experimental results demonstrate that SDRRL can significantly enhance multilingual capabilities while minimizing the impact on original performance in resource-rich languages.",
+      "url": "https://www.semanticscholar.org/paper/5e5f04a5ab1d22ffad0e96585469e269369ec676",
+      "doi": "10.48550/arXiv.2402.12204",
+      "arxivId": "2402.12204",
+      "pdf": null,
+      "citationCount": 58,
+      "referenceCount": 71,
+      "influentialCitationCount": 5,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 91.48945315095062,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "4d55c24977e115e68a1fdf9898591ada2acb9222",
+      "title": "Large Reasoning Models Struggle to Transfer Parametric Knowledge Across Scripts",
+      "authors": [
+        "Lucas Bandarkar",
+        "Alan Ansell",
+        "Trevor Cohn"
+      ],
+      "topAuthors": [
+        {
+          "name": "Alan Ansell",
+          "hIndex": 9,
+          "authorId": "107745709"
+        },
+        {
+          "name": "Lucas Bandarkar",
+          "hIndex": 7,
+          "authorId": "2091417351"
+        }
+      ],
+      "affiliations": [
+        "UCLA"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-03-17",
+      "summary": "There is potential to improve cross-lingual parametric knowledge transfer during post-training by providing the LLMs with the key entities of the questions in their source language and finding that this disproportionately improves cross-script questions.",
+      "url": "https://www.semanticscholar.org/paper/4d55c24977e115e68a1fdf9898591ada2acb9222",
+      "doi": "10.48550/arXiv.2603.17070",
+      "arxivId": "2603.17070",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 91.45530367772463,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "6516522f67d9701463b19c2356dc15bc91ac6d3e",
+      "title": "CCL-XCoT: An Eﬀicient Cross-Lingual Knowledge Transfer Method for Mitigating Hallucination Generation",
+      "authors": [
+        "Wei-Hua Zheng",
+        "Ka-Wei Lee",
+        "Zheng-Yuan Liu",
+        "Kui Wu",
+        "AiTi Aw",
+        "Bowei Zou"
+      ],
+      "topAuthors": [
+        {
+          "name": "AiTi Aw",
+          "hIndex": 7,
+          "authorId": "2273536153"
+        },
+        {
+          "name": "Zheng-Yuan Liu",
+          "hIndex": 6,
+          "authorId": "2342762127"
+        }
+      ],
+      "affiliations": [],
+      "year": null,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/6516522f67d9701463b19c2356dc15bc91ac6d3e",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 43,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 91.23091128884052,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "c84fd9a445f0c9cbab900ec3638ad832fa4fde32",
+      "title": "Understanding Cross-Lingual Alignment - A Survey",
+      "authors": [
+        "Katharina Hämmerl",
+        "Jindrich Libovický",
+        "Alexander Fraser"
+      ],
+      "topAuthors": [
+        {
+          "name": "Jindrich Libovický",
+          "hIndex": 6,
+          "authorId": "2423036298"
+        },
+        {
+          "name": "Alexander Fraser",
+          "hIndex": 5,
+          "authorId": "2273379018"
+        }
+      ],
+      "affiliations": [
+        "Munich Center for Machine Learning",
+        "Charles University"
+      ],
+      "year": 2024,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2024-04-09",
+      "summary": "The literature of techniques to improve cross-lingual alignment is surveyed, providing a taxonomy of methods and summarising insights from throughout the field, and it is argued that an effective trade-off between language-neutral and language-specific information is key.",
+      "url": "https://www.semanticscholar.org/paper/c84fd9a445f0c9cbab900ec3638ad832fa4fde32",
+      "doi": "10.48550/arXiv.2404.06228",
+      "arxivId": "2404.06228",
+      "pdf": null,
+      "citationCount": 53,
+      "referenceCount": 116,
+      "influentialCitationCount": 4,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 89.67105940301947,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "c5b4f910cd28d38cb8327a291f1a1d2dc12eeb84",
+      "title": "Mitigating Cross-Lingual Cultural Inconsistencies in LLMs via Consensus-Driven Preference Optimisation",
+      "authors": [
+        "Lucas Resck",
+        "Isabelle Augenstein",
+        "Anna Korhonen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lucas Resck",
+          "hIndex": 5,
+          "authorId": "2164014168"
+        },
+        {
+          "name": "Isabelle Augenstein",
+          "hIndex": 2,
+          "authorId": "2386591314"
+        }
+      ],
+      "affiliations": [
+        "University of Cambridge"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-02",
+      "summary": "Early decoding of intermediate layers reveals that MLLMs implicitly personalise outputs towards the prompt language's stereotypical culture as forward-pass representations stabilise, and introduces Singleton Fleiss's $\\kappa_S$, a metric mathematically resilient to hallucinations.",
+      "url": "https://www.semanticscholar.org/paper/c5b4f910cd28d38cb8327a291f1a1d2dc12eeb84",
+      "doi": "10.48550/arXiv.2605.12515",
+      "arxivId": "2605.12515",
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 89.61082688075304,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "ddd9fb4516561a36b46860b5dc102981dca34134",
+      "title": "Modular and Parameter-Efficient Fine-Tuning for NLP Models",
+      "authors": [
+        "Sebastian Ruder",
+        "Jonas Pfeiffer",
+        "Ivan Vulic"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sebastian Ruder",
+          "hIndex": 62,
+          "authorId": "2884561"
+        },
+        {
+          "name": "Ivan Vulic",
+          "hIndex": 58,
+          "authorId": "1747849"
+        }
+      ],
+      "affiliations": [
+        "Cohere",
+        "Technical University Darmstadt"
+      ],
+      "year": 2022,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": null,
+      "summary": "This tutorial provides a comprehensive overview of parameter-efficient fine-tuning methods, and highlights how both properties——parameter efficiency and modularity——can be useful in the real-world setting of adapting pre-trained models to under-represented languages and domains with scarce annotated data for several downstream applications.",
+      "url": "https://www.semanticscholar.org/paper/ddd9fb4516561a36b46860b5dc102981dca34134",
+      "doi": "10.18653/v1/2022.emnlp-tutorials.5",
+      "arxivId": null,
+      "pdf": "https://aclanthology.org/2022.emnlp-tutorials.5.pdf",
+      "citationCount": 15,
+      "referenceCount": 54,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 89.48001938597137,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "83b6164e38fcb91ded1297073a59a8b0c9b192ca",
+      "title": "Multilingual LLMs Struggle to Link Orthography and Semantics in Bilingual Word Processing",
+      "authors": [
+        "Eshaan Tanwar",
+        "G. Oke",
+        "Tanmoy Chakraborty"
+      ],
+      "topAuthors": [
+        {
+          "name": "Eshaan Tanwar",
+          "hIndex": 5,
+          "authorId": "2210797473"
+        },
+        {
+          "name": "Tanmoy Chakraborty",
+          "hIndex": 5,
+          "authorId": "2301210292"
+        }
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Delhi"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-01-15",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/83b6164e38fcb91ded1297073a59a8b0c9b192ca",
+      "doi": "10.48550/arXiv.2501.09127",
+      "arxivId": "2501.09127",
+      "pdf": null,
+      "citationCount": 4,
+      "referenceCount": 78,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 88.98153230481512,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "07988c2b51d7291b0a7c2db6efa3259da5a00b99",
+      "title": "English is Not All You Need: Systematically Exploring the Role of Multilinguality in LLM Post-Training",
+      "authors": [
+        "Mehak Preet Dhaliwal",
+        "S. Chaurasia",
+        "Yao Qin",
+        "De-Zhi Hong",
+        "Thomas Butler"
+      ],
+      "topAuthors": [
+        {
+          "name": "Mehak Preet Dhaliwal",
+          "hIndex": 6,
+          "authorId": "151110494"
+        },
+        {
+          "name": "Yao Qin",
+          "hIndex": 4,
+          "authorId": "2311872879"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-04-14",
+      "summary": "A systematic, controlled study of the interplay between training language coverage, model scale, and task domain, based on 220 supervised fine-tuning runs on parallel translated multilingual data mixtures spanning mathematical reasoning and API calling tasks, finds that English-only post-training is typically suboptimal.",
+      "url": "https://www.semanticscholar.org/paper/07988c2b51d7291b0a7c2db6efa3259da5a00b99",
+      "doi": "10.48550/arXiv.2604.13286",
+      "arxivId": "2604.13286",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 24,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 88.1039717920314,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "e3dc41257df5eeecf3550b1a21faff4543569ef4",
+      "title": "Linear Script Representations in Speech Foundation Models Enable Zero-Shot Transliteration",
+      "authors": [
+        "Ryan Soh-Eun Shim",
+        "Kwanghee Choi",
+        "Kalvin Chang",
+        "Ming-Hao Hsu",
+        "Florian Eichin",
+        "Zhi-Zheng Wu",
+        "Alane Suhr",
+        "Michael A. Hedderich",
+        "David Harwath",
+        "David R. Mortensen",
+        "Barbara Plank"
+      ],
+      "topAuthors": [
+        {
+          "name": "Zhi-Zheng Wu",
+          "hIndex": 45,
+          "authorId": "2758425"
+        },
+        {
+          "name": "David R. Mortensen",
+          "hIndex": 20,
+          "authorId": "3407646"
+        }
+      ],
+      "affiliations": [
+        "Carnegie Mellon University",
+        "University of Texas at Austin"
+      ],
+      "year": 2026,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2026-01-06",
+      "summary": "It is shown that script is linearly encoded in the activation space of multilingual speech models, and that modifying activations at inference time enables direct control over output script and induces post-hoc control over script change even in unconventional language-script pairings.",
+      "url": "https://www.semanticscholar.org/paper/e3dc41257df5eeecf3550b1a21faff4543569ef4",
+      "doi": "10.48550/arXiv.2601.02906",
+      "arxivId": "2601.02906",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 43,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 87.96735667077306,
+      "why": "cites 2 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
+      "batchPrNumber": 27,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "11f3586b396c0887a5801e968c73f2dd3079b43d",
+      "title": "Skill Issue: Are Skills Language-Invariant in LLMs?",
+      "authors": [
+        "Bobby Cheng",
+        "Adam Gaber",
+        "Zhengzhe Liu",
+        "Catherine Arnett",
+        "Omer Goldman",
+        "Cheston Tan",
+        "Leshem Choshen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Omer Goldman",
+          "hIndex": 12,
+          "authorId": "40060272"
+        },
+        {
+          "name": "Leshem Choshen",
+          "hIndex": 12,
+          "authorId": "2283849613"
+        }
+      ],
+      "affiliations": [
+        "Bar Ilan University",
+        "EleutherAI"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-08-26",
+      "summary": "This work quantifies cross-lingual skill inconsistency orthogonally from knowledge and general benchmark performance via multilingual self-play, and shows that skill discrepancies are a measurable major roadblock in the development of truly multilingual models.",
+      "url": "https://www.semanticscholar.org/paper/11f3586b396c0887a5801e968c73f2dd3079b43d",
+      "doi": null,
+      "arxivId": "2608.25832",
+      "pdf": null,
+      "citationCount": 1,
+      "referenceCount": 55,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-25",
+      "overlap": 2,
+      "direction": "forward",
+      "score": 87.72348650673608,
+      "why": "cites 2 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/niyati-literature/pull/27",
       "batchPrNumber": 27,
