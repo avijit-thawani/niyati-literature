@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T10:23:03.734Z",
+  "updatedAt": "2026-10-27T09:54:13.267Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1234,7 +1234,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 37,
+      "citationCount": 38,
       "referenceCount": 98,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1580,8 +1580,8 @@
         }
       ],
       "affiliations": [
-        "CIS, LMU Munich",
-        "Centre for Information and Language Processing, LMU Munich"
+        "LMU Munich",
+        "CIS, LMU Munich"
       ],
       "year": 2025,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -2564,14 +2564,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Ji-Rong Wen",
+          "hIndex": 61,
+          "authorId": "153693432"
+        },
+        {
           "name": "Tianyi Tang",
           "hIndex": 17,
           "authorId": "1997234792"
-        },
-        {
-          "name": "Hao-Yang Huang",
-          "hIndex": 17,
-          "authorId": "15086992"
         }
       ],
       "affiliations": [
