@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T09:54:13.267Z",
+  "updatedAt": "2026-10-28T10:42:36.336Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -89,7 +89,7 @@
         "Albert Ventayol-boada",
         "Rashel Moritz",
         "Alexandre Mourachko",
-        "S. Parimi",
+        "Surya Parimi",
         "Mary Williamson",
         "Shireen Yates",
         "David Dale",
@@ -120,7 +120,7 @@
       "arxivId": "2603.16309",
       "pdf": null,
       "citationCount": 5,
-      "referenceCount": 0,
+      "referenceCount": 36,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0",
       "addedAt": "2026-09-12",
@@ -220,7 +220,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 54,
+          "hIndex": 55,
           "authorId": "1693517"
         },
         {
@@ -304,7 +304,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 54,
+          "hIndex": 55,
           "authorId": "1693517"
         },
         {
@@ -362,7 +362,7 @@
       "doi": "10.48550/arXiv.2510.16928",
       "arxivId": "2510.16928",
       "pdf": null,
-      "citationCount": 1,
+      "citationCount": 2,
       "referenceCount": 57,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/591332975662dea00ecf8e0fb6820bb0974164e8",
@@ -504,7 +504,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 54,
+          "hIndex": 55,
           "authorId": "1693517"
         },
         {
@@ -588,7 +588,7 @@
       "topAuthors": [
         {
           "name": "D. Yarowsky",
-          "hIndex": 54,
+          "hIndex": 55,
           "authorId": "1693517"
         },
         {
@@ -938,7 +938,7 @@
       "topAuthors": [
         {
           "name": "C. Monz",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "2062908179"
         },
         {
@@ -979,7 +979,7 @@
       "topAuthors": [
         {
           "name": "Furu Wei",
-          "hIndex": 108,
+          "hIndex": 109,
           "authorId": "49807919"
         },
         {
@@ -1234,7 +1234,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 38,
+      "citationCount": 39,
       "referenceCount": 98,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1283,7 +1283,7 @@
       "id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
       "title": "Balancing Training for Multilingual Neural Machine Translation",
       "authors": [
-        "Xin-Yi Wang",
+        "Xinyi Wang",
         "Yulia Tsvetkov",
         "Graham Neubig"
       ],
@@ -1294,9 +1294,9 @@
           "authorId": "1700325"
         },
         {
-          "name": "Yulia Tsvetkov",
-          "hIndex": 38,
-          "authorId": "145317727"
+          "name": "Xinyi Wang",
+          "hIndex": 39,
+          "authorId": "3277494"
         }
       ],
       "affiliations": [
@@ -1614,7 +1614,7 @@
         },
         {
           "name": "Pasquale Minervini",
-          "hIndex": 13,
+          "hIndex": 15,
           "authorId": "2294362638"
         }
       ],
@@ -1671,7 +1671,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 23,
+      "citationCount": 24,
       "referenceCount": 65,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.22037",
@@ -1751,7 +1751,7 @@
       "doi": null,
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 265,
+      "citationCount": 266,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1794,12 +1794,12 @@
       "doi": "10.48550/arXiv.2504.10160",
       "arxivId": "2504.10160",
       "pdf": null,
-      "citationCount": 68,
+      "citationCount": 69,
       "referenceCount": 64,
       "influentialCitationCount": 13,
       "source": "https://arxiv.org/abs/2504.10160",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "23c6706bc8ec8eae162ed8565e5b9ebd57ae00f0",
@@ -2183,7 +2183,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 9,
+      "citationCount": 10,
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
@@ -2565,7 +2565,7 @@
       "topAuthors": [
         {
           "name": "Ji-Rong Wen",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "153693432"
         },
         {
@@ -2909,7 +2909,7 @@
         "Rushikesh Zawar",
         "Roland C. Aydin",
         "Pavel Stepachev",
-        "Ilai Yaron Levy",
+        "I. Levy",
         "Andreas Simons",
         "Rayyan Merchant",
         "Zi-Yi Yang",
@@ -3356,7 +3356,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 262,
+      "citationCount": 263,
       "referenceCount": 127,
       "influentialCitationCount": 29,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
