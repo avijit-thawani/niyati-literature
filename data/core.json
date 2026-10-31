@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T10:56:24.736Z",
+  "updatedAt": "2026-10-31T10:27:36.234Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -124,7 +124,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0",
       "addedAt": "2026-09-12",
-      "score": 12.5
+      "score": 37.5
     },
     {
       "id": "90773e1251c7f1841320f4e6ebf2bf3df8dedc71",
@@ -367,7 +367,7 @@
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/591332975662dea00ecf8e0fb6820bb0974164e8",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "93d922de12f6bf786420281e359a190fbcbf0784",
@@ -1796,7 +1796,7 @@
       "doi": "10.48550/arXiv.2504.10160",
       "arxivId": "2504.10160",
       "pdf": null,
-      "citationCount": 69,
+      "citationCount": 70,
       "referenceCount": 64,
       "influentialCitationCount": 12,
       "source": "https://arxiv.org/abs/2504.10160",
@@ -2224,7 +2224,7 @@
       "doi": "10.18653/v1/2022.naacl-main.329",
       "arxivId": "2112.08185",
       "pdf": "https://aclanthology.org/2022.naacl-main.329.pdf",
-      "citationCount": 36,
+      "citationCount": 37,
       "referenceCount": 18,
       "influentialCitationCount": 3,
       "source": "https://arxiv.org/abs/2112.08185",
@@ -2743,7 +2743,7 @@
         "Silvia Casola",
         "Fabian Retkowski",
         "Andrés Jerez",
-        "Hanna Yukhymenko",
+        "H. Yukhymenko",
         "Sangwon Ryu",
         "Avantica Vempati",
         "Sukannya Purkayastha",
@@ -2811,7 +2811,7 @@
         "Vladislav Poritski",
         "Mike Zhang",
         "D. Shah",
-        "Abdulaziz Nura Kani",
+        "A. Kani",
         "Luis Frentzen Salim",
         "P. Gavrikov",
         "Bello Bello",
@@ -3361,7 +3361,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 265,
+      "citationCount": 267,
       "referenceCount": 127,
       "influentialCitationCount": 30,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
