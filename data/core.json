@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T11:22:48.720Z",
+  "updatedAt": "2026-11-02T12:34:18.943Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -2113,7 +2113,7 @@
       "doi": "10.48550/arXiv.2408.10646",
       "arxivId": "2408.10646",
       "pdf": null,
-      "citationCount": 28,
+      "citationCount": 29,
       "referenceCount": 28,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2408.10646",
@@ -2859,7 +2859,7 @@
         "Samuel Simko",
         "R. Tiwari",
         "Rishit Dagli",
-        "Isaac Caswell",
+        "I. Caswell",
         "Bo-Wen Yi",
         "Aicha Chorana",
         "Selja Keränen",
