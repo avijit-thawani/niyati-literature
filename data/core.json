@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:12:59.901Z",
+  "updatedAt": "2026-11-04T12:58:11.935Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1598,7 +1598,7 @@
       "influentialCitationCount": 3,
       "source": "https://arxiv.org/abs/2505.14824",
       "addedAt": "2026-09-23",
-      "score": 50
+      "score": 37.5
     },
     {
       "id": "3b869bd70517c9b3b74bed854c30ae42060c2b20",
@@ -1634,7 +1634,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
       "addedAt": "2026-09-23",
-      "score": 25
+      "score": 0
     },
     {
       "id": "95d04c501e1f71f8be3430a861e91789d474cbfd",
@@ -1678,7 +1678,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.22037",
       "addedAt": "2026-09-23",
-      "score": 25
+      "score": 12.5
     },
     {
       "id": "710763f2a9fddbbb2cf47adc542ea7b7ef161eac",
@@ -1801,7 +1801,7 @@
       "influentialCitationCount": 12,
       "source": "https://arxiv.org/abs/2504.10160",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 0
     },
     {
       "id": "23c6706bc8ec8eae162ed8565e5b9ebd57ae00f0",
@@ -2190,7 +2190,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 0
     },
     {
       "id": "c9db485a3f293db6518ce82eac840bed4cebfb8b",
@@ -2316,7 +2316,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2402.18025",
       "addedAt": "2026-09-23",
-      "score": 25
+      "score": 0
     },
     {
       "id": "02a85c3c1fa5115b7f9638128c2866e7a0653fa2",
@@ -2432,7 +2432,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2510.26024",
       "addedAt": "2026-09-23",
-      "score": 25
+      "score": 0
     },
     {
       "id": "f1d195191e280980734e221bce83dae508fbf319",
@@ -3211,7 +3211,7 @@
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 0
     },
     {
       "id": "b6b53ec2c85efd02e76bb2be0fff37b190c245f7",
@@ -3298,7 +3298,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2508.11017",
       "addedAt": "2026-09-23",
-      "score": 62.5
+      "score": 50
     },
     {
       "id": "bc875adfaecae20b112b1e12beceaf297371ba7d",
