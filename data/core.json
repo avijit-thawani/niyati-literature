@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T12:58:11.935Z",
+  "updatedAt": "2026-11-05T12:27:23.624Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -31,14 +31,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Nikolay Bogoychev",
+          "hIndex": 20,
+          "authorId": "3444222"
+        },
+        {
           "name": "Jesujoba Oluwadara Alabi",
           "hIndex": 19,
           "authorId": "122367036"
-        },
-        {
-          "name": "Nikolay Bogoychev",
-          "hIndex": 18,
-          "authorId": "3444222"
         }
       ],
       "affiliations": [
@@ -71,7 +71,7 @@
         "Artyom Kozhevnikov",
         "C. Ropers",
         "Eduardo Sánchez",
-        "Charles-'Eric Saint-James",
+        "Charles-Éric Saint-James",
         "Yiannis (Ioannis) Tsiamas",
         "Chi-Erh Cheng",
         "Joe Chuang",
@@ -98,21 +98,21 @@
       "topAuthors": [
         {
           "name": "M. Costa-jussà",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "1398996347"
         },
         {
           "name": "Cynthia Gao",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "2294721061"
         }
       ],
       "affiliations": [
-        "UPC Barcelona",
-        "Meta"
+        "Meta AI",
+        "UPC Barcelona"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-03-17",
       "summary": "This work presents Omnilingual Machine Translation (OMT), the first MT system supporting more than 1,600 languages, and explores two ways of specializing a Large Language model for machine translation: as a decoder-only model (OMT-LLaMA) or as a module in an encoder-decoder architecture (OMT-NLLB).",
       "url": "https://www.semanticscholar.org/paper/7d73071007bc7a36f80f0a6949b39ac7d14778c0",
@@ -139,7 +139,7 @@
       "topAuthors": [
         {
           "name": "S. Li",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2295954288"
         },
         {
@@ -152,7 +152,7 @@
         "Johns Hopkins University"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "Proceedings of the Eleventh Conference on Machine Translation",
       "publicationDate": "2026-06-25",
       "summary": "The need to better design information flow in machine translation cascades for mitigating error propagation is emphasized, and a simple and actionable default strategy is provided: preserve the original user question until the end of the pipeline.",
       "url": "https://www.semanticscholar.org/paper/90773e1251c7f1841320f4e6ebf2bf3df8dedc71",
@@ -233,14 +233,14 @@
         "Johns Hopkins University"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-03-23",
       "summary": "A framework for studying ICLL is introduced wherein it reversibly cipher high-resource languages (HRLs) to construct truly unseen languages with access to a wide range of resources available for HRLs, unlocking previously impossible exploration of ICLL phenomena.",
       "url": "https://www.semanticscholar.org/paper/e8016f43554d8dd4a72e2e494f608dc97eed48cb",
       "doi": "10.48550/arXiv.2603.22497",
       "arxivId": "2603.22497",
       "pdf": null,
-      "citationCount": 1,
+      "citationCount": 2,
       "referenceCount": 44,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e8016f43554d8dd4a72e2e494f608dc97eed48cb",
@@ -262,7 +262,7 @@
       "topAuthors": [
         {
           "name": "Daniel Khashabi",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "2319593572"
         },
         {
@@ -390,9 +390,9 @@
           "authorId": "2090730520"
         },
         {
-          "name": "Xi-Luo He",
-          "hIndex": 4,
-          "authorId": "2161615637"
+          "name": "Ci-Han Xiao",
+          "hIndex": 5,
+          "authorId": "2075320104"
         }
       ],
       "affiliations": [
@@ -432,9 +432,9 @@
           "authorId": "2348542667"
         },
         {
-          "name": "Seth Aycock",
-          "hIndex": 6,
-          "authorId": "2291365225"
+          "name": "Patrícia Schmidtová",
+          "hIndex": 7,
+          "authorId": "2065780715"
         }
       ],
       "affiliations": [
@@ -466,7 +466,7 @@
       "topAuthors": [
         {
           "name": "Matthew Wiesner",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "1500652334"
         },
         {
@@ -632,9 +632,9 @@
           "authorId": "7519068"
         },
         {
-          "name": "C. España-Bonet",
-          "hIndex": 18,
-          "authorId": "1402921001"
+          "name": "Rachel Bawden",
+          "hIndex": 19,
+          "authorId": "48983885"
         }
       ],
       "affiliations": [
@@ -648,7 +648,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 3,
+      "citationCount": 4,
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/e0a4053a8ba5883d6a3f06dae43e32bfde610c61",
@@ -705,7 +705,7 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 30,
+          "hIndex": 31,
           "authorId": "2468732"
         },
         {
@@ -749,7 +749,7 @@
         },
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 30,
+          "hIndex": 31,
           "authorId": "2468732"
         }
       ],
@@ -786,7 +786,7 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 30,
+          "hIndex": 31,
           "authorId": "2468732"
         },
         {
@@ -938,7 +938,7 @@
       "topAuthors": [
         {
           "name": "Christof Monz",
-          "hIndex": 40,
+          "hIndex": 52,
           "authorId": "1696402"
         },
         {
@@ -986,7 +986,7 @@
         },
         {
           "name": "Ting Liu",
-          "hIndex": 76,
+          "hIndex": 77,
           "authorId": "40282288"
         }
       ],
@@ -1178,7 +1178,7 @@
       "topAuthors": [
         {
           "name": "Lucas Bandarkar",
-          "hIndex": 7,
+          "hIndex": 4,
           "authorId": "2091417351"
         },
         {
@@ -1259,7 +1259,7 @@
         },
         {
           "name": "Md Mahfuz Ibn Alam",
-          "hIndex": 7,
+          "hIndex": 9,
           "authorId": "2007788331"
         }
       ],
@@ -1297,7 +1297,7 @@
         },
         {
           "name": "Xinyi Wang",
-          "hIndex": 39,
+          "hIndex": 42,
           "authorId": "3277494"
         }
       ],
@@ -1331,7 +1331,7 @@
       "topAuthors": [
         {
           "name": "Vani Kanjirangat",
-          "hIndex": 7,
+          "hIndex": 9,
           "authorId": "2125681709"
         },
         {
@@ -1410,7 +1410,7 @@
         },
         {
           "name": "Matt Post",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "38842528"
         }
       ],
@@ -1489,7 +1489,7 @@
         },
         {
           "name": "Benjamin Van Durme",
-          "hIndex": 59,
+          "hIndex": 61,
           "authorId": "7536576"
         }
       ],
@@ -1572,7 +1572,7 @@
       "topAuthors": [
         {
           "name": "Hinrich Schutze",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "2130001188"
         },
         {
@@ -1616,7 +1616,7 @@
         },
         {
           "name": "Pasquale Minervini",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2294362638"
         }
       ],
@@ -1653,7 +1653,7 @@
       "topAuthors": [
         {
           "name": "Niklas Muennighoff",
-          "hIndex": 52,
+          "hIndex": 53,
           "authorId": "2037383772"
         },
         {
@@ -1822,7 +1822,7 @@
         },
         {
           "name": "Reut Tsarfaty",
-          "hIndex": 32,
+          "hIndex": 33,
           "authorId": "2799181"
         }
       ],
@@ -1908,7 +1908,7 @@
         "University of Cape Town"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-08-24",
       "summary": "It is established that the representational geometry of low- and high-resource languages in LLMs is measurably distinct, and that targeted geometric intervention is a viable strategy for improving CPT for low-resource languages.",
       "url": "https://www.semanticscholar.org/paper/0c0e6803c47a948b63429fe7321cdc55380f0b91",
@@ -2032,7 +2032,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 44,
+      "citationCount": 43,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2072,7 +2072,7 @@
       "doi": "10.18653/v1/2022.emnlp-main.379",
       "arxivId": "2401.05792",
       "pdf": "https://aclanthology.org/2022.emnlp-main.379.pdf",
-      "citationCount": 29,
+      "citationCount": 30,
       "referenceCount": 47,
       "influentialCitationCount": 4,
       "source": "https://arxiv.org/abs/2401.05792",
@@ -2097,7 +2097,7 @@
         },
         {
           "name": "Leshem Choshen",
-          "hIndex": 34,
+          "hIndex": 35,
           "authorId": "41019330"
         }
       ],
@@ -2156,7 +2156,7 @@
       "doi": "10.48550/arXiv.2509.13930",
       "arxivId": "2509.13930",
       "pdf": null,
-      "citationCount": 11,
+      "citationCount": 12,
       "referenceCount": 78,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2509.13930",
@@ -2269,7 +2269,7 @@
       "doi": "10.18653/v1/2025.findings-acl.219",
       "arxivId": "2410.01171",
       "pdf": "https://aclanthology.org/2025.findings-acl.219.pdf",
-      "citationCount": 21,
+      "citationCount": 22,
       "referenceCount": 27,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2410.01171",
@@ -2295,7 +2295,7 @@
         },
         {
           "name": "Kexun Zhang",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "2119058805"
         }
       ],
@@ -2368,21 +2368,21 @@
       ],
       "topAuthors": [
         {
+          "name": "Hinrich Schutze",
+          "hIndex": 22,
+          "authorId": "2130001188"
+        },
+        {
           "name": "Zhou-Jun Li",
           "hIndex": 21,
           "authorId": "2258837278"
-        },
-        {
-          "name": "Hinrich Schutze",
-          "hIndex": 21,
-          "authorId": "2130001188"
         }
       ],
       "affiliations": [
         "CIS, LMU Munich"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
+      "venue": "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-05-26",
       "summary": "DATG, a Directed Acyclic Trace Graph framework that maps reasoning traces to language-independent mathematical anchors and dependencies, is introduced and Loop-Retry and Formula-Retry are proposed, two simple test-time controls targeting DATG-exposed failure modes that consistently improve target-language reasoning performance in low-resource languages.",
       "url": "https://www.semanticscholar.org/paper/7acbbdd68e7bd35b6073eb5a16b14fb60907f686",
@@ -2522,14 +2522,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Antoine Bosselut",
+          "hIndex": 38,
+          "authorId": "2284866282"
+        },
+        {
           "name": "Badr AlKhamissi",
           "hIndex": 16,
           "authorId": "2006905770"
-        },
-        {
-          "name": "Antoine Bosselut",
-          "hIndex": 15,
-          "authorId": "2284866282"
         }
       ],
       "affiliations": [
@@ -2537,13 +2537,13 @@
         "EPFL NLP"
       ],
       "year": 2026,
-      "venue": null,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-08-31",
       "summary": "This work finds that identification probes systematically disagree: the GMM-based representation probe, which draws evidence from hidden state geometry, shows earlier cross-lingual mixing, whereas decoding-based probes, which rely on output-space decodability, retain sharper language-specific and more English-biased signals.",
       "url": "https://www.semanticscholar.org/paper/c69e105a3ad44f434184207b93f5c53b1a7eaaa1",
-      "doi": null,
+      "doi": "10.18653/2026.findings-emnlp.504",
       "arxivId": "2609.00155",
-      "pdf": null,
+      "pdf": "https://aclanthology.org/2026.findings-emnlp.504.pdf",
       "citationCount": 0,
       "referenceCount": 26,
       "influentialCitationCount": 0,
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 152,
+      "citationCount": 153,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2614,7 +2614,7 @@
         },
         {
           "name": "Hinrich Schutze",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "2130001188"
         }
       ],
@@ -2651,7 +2651,7 @@
       "topAuthors": [
         {
           "name": "David Ifeoluwa Adelani",
-          "hIndex": 36,
+          "hIndex": 37,
           "authorId": "2518906"
         },
         {
@@ -2665,13 +2665,13 @@
         "Ghent University https://lt3.ugent.be"
       ],
       "year": 2026,
-      "venue": null,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2026-07-02",
       "summary": "A checklist of recommendations about how to use LLM-as-a-Judge in multilingual and low-resource settings is concluded with a checklist of recommendations about how to use LLM-as-a-Judge in multilingual and low-resource settings.",
       "url": "https://www.semanticscholar.org/paper/503131e020696ab54bf0ff6652f1c150592b83b0",
-      "doi": null,
+      "doi": "10.18653/2026.findings-emnlp.2021",
       "arxivId": "2607.02235",
-      "pdf": null,
+      "pdf": "https://aclanthology.org/2026.findings-emnlp.2021.pdf",
       "citationCount": 1,
       "referenceCount": 90,
       "influentialCitationCount": 0,
@@ -2946,14 +2946,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Mrinmaya Sachan",
-          "hIndex": 47,
-          "authorId": "2790926"
+          "name": "Christof Monz",
+          "hIndex": 52,
+          "authorId": "1696402"
         },
         {
-          "name": "Christof Monz",
-          "hIndex": 40,
-          "authorId": "1696402"
+          "name": "R. Sennrich",
+          "hIndex": 50,
+          "authorId": "2066518243"
         }
       ],
       "affiliations": [
@@ -2987,12 +2987,12 @@
       "topAuthors": [
         {
           "name": "Gabriel Stanovsky",
-          "hIndex": 26,
+          "hIndex": 32,
           "authorId": "2157025"
         },
         {
           "name": "Matan Eyal",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "35298844"
         }
       ],
@@ -3026,7 +3026,7 @@
       "topAuthors": [
         {
           "name": "Ekaterina Shutova",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "2362276"
         },
         {
@@ -3146,7 +3146,7 @@
       "topAuthors": [
         {
           "name": "Monojit Choudhury",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "143990839"
         },
         {
@@ -3234,7 +3234,7 @@
         },
         {
           "name": "Yu-Feng Chen",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "47559028"
         }
       ],
@@ -3273,7 +3273,7 @@
       "topAuthors": [
         {
           "name": "Mor Geva",
-          "hIndex": 35,
+          "hIndex": 36,
           "authorId": "22245981"
         },
         {
@@ -3361,9 +3361,9 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 267,
+      "citationCount": 272,
       "referenceCount": 127,
-      "influentialCitationCount": 30,
+      "influentialCitationCount": 31,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
       "addedAt": "2026-09-23",
       "score": 50
