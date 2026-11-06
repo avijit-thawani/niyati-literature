@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T12:27:23.624Z",
+  "updatedAt": "2026-11-06T12:11:17.144Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1426,7 +1426,7 @@
       "doi": "10.18653/v1/2023.emnlp-main.854",
       "arxivId": "2305.14280",
       "pdf": "https://aclanthology.org/2023.emnlp-main.854.pdf",
-      "citationCount": 26,
+      "citationCount": 27,
       "referenceCount": 45,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2305.14280",
@@ -2032,7 +2032,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 43,
+      "citationCount": 44,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 153,
+      "citationCount": 154,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
