@@ -1,0 +1,131 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-11-07T11:33:34.151Z",
+  "papers": [
+    {
+      "id": "9b3a071734cfecb2880105d84bde6791b48bf4a3",
+      "link": "https://arxiv.org/abs/2109.04020",
+      "title": "Distributionally Robust Multilingual Machine Translation"
+    },
+    {
+      "id": "ba184d335a9a08c52c5d25eabd7f4a8ea987918b",
+      "link": "https://arxiv.org/abs/2304.09151",
+      "title": "UniMax: Fairer and more Effective Language Sampling for Large-Scale Multilingual Pretraining"
+    },
+    {
+      "id": "1827fccc93995d54b74be678d919218394430c90",
+      "link": "https://arxiv.org/abs/2109.02284",
+      "title": "Uncertainty-Aware Balancing for Multilingual and Multi-Domain Neural Machine Translation Training"
+    },
+    {
+      "id": "e4e0674c580db2cd2c0f5d3dca65d9a98ce0ed02",
+      "link": "https://arxiv.org/abs/2104.07639",
+      "title": "Robust Optimization for Multilingual Translation with Imbalanced Data"
+    },
+    {
+      "id": "1009f33b2b528ce6ee695c5a9e4e2c3113f6f63a",
+      "link": "https://arxiv.org/abs/2104.07358",
+      "title": "Adaptive Sparse Transformer for Multilingual Translation"
+    },
+    {
+      "id": "f5ff48062127ef0c7f9e3c1f5e85ed796386b8a0",
+      "link": "https://arxiv.org/abs/2408.14677",
+      "title": "Can Optimization Trajectories Explain Multi-Task Transfer?"
+    },
+    {
+      "id": "48d59272ba59a15e5e849948478bd2d84f30e877",
+      "link": "https://arxiv.org/abs/2410.16006",
+      "title": "Exploring Continual Fine-Tuning for Enhancing Language Ability in Large Language Model"
+    },
+    {
+      "id": "440943947033c691484b32a9e27cdb3f3315ea51",
+      "link": "https://doi.org/10.18653/v1/2026.findings-acl.1595",
+      "title": "Exploring Two-Phase Continual Instruction Fine-tuning for Multilingual Adaptation in Large Language Models"
+    },
+    {
+      "id": "17f27b34371bd49c45db17415a9354e15dbd26b5",
+      "link": "https://arxiv.org/abs/2507.18940",
+      "title": "LLaVA-NeuMT: Selective Layer-Neuron Modulation for Efficient Multilingual Multimodal Translation"
+    },
+    {
+      "id": "c3a92c8a9ebf656d76ca1cb7de2a821eaffde6b3",
+      "link": "https://arxiv.org/abs/2507.01645",
+      "title": "Adapting Language Models to Indonesian Local Languages: An Empirical Study of Language Transferability on Zero-Shot Settings"
+    },
+    {
+      "id": "7b158dad9f1c992b9500eae5c1f06b894ec4cf00",
+      "link": "https://arxiv.org/abs/2406.08811",
+      "title": "Mixture-of-Skills: Learning to Optimize Data Usage for Fine-Tuning Large Language Models"
+    },
+    {
+      "id": "e355f9d6009aa9cb066f8191910fa2a293195746",
+      "link": "https://doi.org/10.18653/v1/2024.eacl-long.100",
+      "title": "Kardeş-NLU: Transfer to Low-Resource Languages with the Help of a High-Resource Cousin – A Benchmark and Evaluation for Turkic Languages"
+    },
+    {
+      "id": "9d6e3bede351f0beee528179da84a4c05e80ba1a",
+      "link": "https://www.semanticscholar.org/paper/9d6e3bede351f0beee528179da84a4c05e80ba1a",
+      "title": "Kardeş-NLU: Transfer to Low-Resource Languages with Big Brother’s Help – A Benchmark and Evaluation for Turkic Languages"
+    },
+    {
+      "id": "ce40dde9c42b782995c7070bc280c2a2ec308a4b",
+      "link": "https://arxiv.org/abs/2110.02600",
+      "title": "Sequential Reptile: Inter-Task Gradient Alignment for Multilingual Learning"
+    },
+    {
+      "id": "fb39afe374b72ff86a6a00940cca707166af447b",
+      "link": "https://www.semanticscholar.org/paper/fb39afe374b72ff86a6a00940cca707166af447b",
+      "title": "UvA-DARE (Digital Academic"
+    },
+    {
+      "id": "ac1fe4bc568a3603671b1658942130725a9dc4d3",
+      "link": "https://www.semanticscholar.org/paper/ac1fe4bc568a3603671b1658942130725a9dc4d3",
+      "title": "UvA-DARE (Digital"
+    },
+    {
+      "id": "a05a03089e1f8b7aa7dd0e2d140ca03dd04dcc56",
+      "link": "https://arxiv.org/abs/2411.11188",
+      "title": "AMAGO-2: Breaking the Multi-Task Barrier in Meta-Reinforcement Learning with Transformers"
+    },
+    {
+      "id": "ee7822650d83f3ef8cb0613d54fcf1aa126eb678",
+      "link": "https://arxiv.org/abs/2602.02326",
+      "title": "Language Steering for Multilingual In-Context Learning"
+    },
+    {
+      "id": "8a14eb12768cca2bfaeff283d34a2ad61945b457",
+      "link": "https://arxiv.org/abs/2510.08284",
+      "title": "Neuron-Level Analysis of Cultural Understanding in Large Language Models"
+    },
+    {
+      "id": "1c67971b4cff9072ab3e20ef7df1987b7dddd8ee",
+      "link": "https://doi.org/10.18653/2026.findings-emnlp.464",
+      "title": "Mechanistic Interpretability for Understanding Language Abilities in Large Language Models: A Survey"
+    },
+    {
+      "id": "55267f48ac64c383af9905eadc9a8bd65131dc29",
+      "link": "https://arxiv.org/abs/2403.01929",
+      "title": "Analyzing and Adapting Large Language Models for Few-Shot Multilingual NLU: Are We There Yet?"
+    },
+    {
+      "id": "13b1c6df671525f0135976b5a8bc04046aa41ebb",
+      "link": "https://arxiv.org/abs/2501.19400",
+      "title": "Vintix: Action Model via In-Context Reinforcement Learning"
+    },
+    {
+      "id": "c8bfdfc5eb7b69c8857888468d76a3162c5fa388",
+      "link": "https://doi.org/10.18653/v1/2025.acl-long.1229",
+      "title": "Language Constrained Multimodal Hyper Adapter For Many-to-Many Multimodal Summarization"
+    },
+    {
+      "id": "405f1a5602867c66e015491c26d2be5504eed458",
+      "link": "https://arxiv.org/abs/2306.06804",
+      "title": "Neural Machine Translation for the Indigenous Languages of the Americas: An Introduction"
+    },
+    {
+      "id": "a65b7ff72deb358bef29900a53c814771275c37c",
+      "link": "https://arxiv.org/abs/2104.14830",
+      "title": "Scaling End-to-End Models for Large-Scale Multilingual ASR"
+    }
+  ]
+}
