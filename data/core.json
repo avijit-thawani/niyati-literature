@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T12:11:17.144Z",
+  "updatedAt": "2026-11-07T11:33:32.572Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -613,7 +613,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9",
       "addedAt": "2026-09-12",
-      "score": 50
+      "score": 25
     },
     {
       "id": "e0a4053a8ba5883d6a3f06dae43e32bfde610c61",
@@ -1126,7 +1126,7 @@
       "influentialCitationCount": 4,
       "source": "MAD-G: Multilingual Adapter Generation for Efficient Cross-Lingual Transfer",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 0
     },
     {
       "id": "e8d436c8d9eb45462c3d14270c76eecde5e21cec",
@@ -1161,7 +1161,7 @@
       "doi": "10.48550/arXiv.2601.14050",
       "arxivId": "2601.14050",
       "pdf": null,
-      "citationCount": 13,
+      "citationCount": 14,
       "referenceCount": 45,
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
@@ -1279,7 +1279,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2305.14263",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 0
     },
     {
       "id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
@@ -1349,9 +1349,9 @@
       "doi": "10.48550/arXiv.2509.20045",
       "arxivId": "2509.20045",
       "pdf": null,
-      "citationCount": 18,
+      "citationCount": 19,
       "referenceCount": 41,
-      "influentialCitationCount": 0,
+      "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2509.20045",
       "addedAt": "2026-09-23",
       "score": 0
@@ -1391,7 +1391,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2311.18034",
       "addedAt": "2026-09-23",
-      "score": 50
+      "score": 0
     },
     {
       "id": "c60736e61f8961ec535ecfdc6f0398925d34d0b8",
@@ -1510,7 +1510,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2305.13993",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "d5c6946dbbaeebc5b45e7ecf0b117f2e02e1af4f",
@@ -1753,7 +1753,7 @@
       "doi": "10.48550/arXiv.2010.05874",
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 277,
+      "citationCount": 278,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 154,
+      "citationCount": 155,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -3247,7 +3247,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 23,
+      "citationCount": 24,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
