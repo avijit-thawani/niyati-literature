@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:33:32.572Z",
+  "updatedAt": "2026-11-08T11:20:27.274Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -2754,7 +2754,7 @@
         "Valentin Scourneau",
         "F. Haouari",
         "V. Gummadi",
-        "Mehdi Jafarzadeh",
+        "M. Jafarzadeh",
         "Manon Reusens",
         "Kaiser Sun",
         "Lukas Edman",
@@ -3247,7 +3247,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 24,
+      "citationCount": 25,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
