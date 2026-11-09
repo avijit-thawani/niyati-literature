@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T11:20:27.274Z",
+  "updatedAt": "2026-11-09T12:57:50.642Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -82,7 +82,7 @@
         "P. L. Cabot",
         "J. Janeiro",
         "Jean Maillard",
-        "G. Gonzalez",
+        "Gabriel Mejia Gonzalez",
         "H. Schwenk",
         "Edan Toledo",
         "Arina Turkatenko",
@@ -282,7 +282,7 @@
       "doi": "10.48550/arXiv.2506.22724",
       "arxivId": "2506.22724",
       "pdf": null,
-      "citationCount": 13,
+      "citationCount": 14,
       "referenceCount": 50,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/17602dceab79d04840b39c32f6f9ab77a3ae6228",
@@ -449,7 +449,7 @@
       "doi": "10.48550/arXiv.2507.09509",
       "arxivId": "2507.09509",
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/c985adb25b3586182c21dc61e87211279ae969c6",
@@ -1753,7 +1753,7 @@
       "doi": "10.48550/arXiv.2010.05874",
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 278,
+      "citationCount": 279,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1878,7 +1878,7 @@
       "doi": "10.48550/arXiv.2212.07530",
       "arxivId": "2212.07530",
       "pdf": "http://arxiv.org/pdf/2212.07530",
-      "citationCount": 49,
+      "citationCount": 50,
       "referenceCount": 37,
       "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2212.07530",
@@ -2008,19 +2008,19 @@
       "authors": [
         "Andrew Lee",
         "M. Weber",
-        "Fernanda Viégas",
+        "Fernanda B. Viégas",
         "M. Wattenberg"
       ],
       "topAuthors": [
         {
+          "name": "Fernanda B. Viégas",
+          "hIndex": 39,
+          "authorId": "1765169"
+        },
+        {
           "name": "Andrew Lee",
           "hIndex": 13,
           "authorId": "2237957247"
-        },
-        {
-          "name": "Fernanda Viégas",
-          "hIndex": 12,
-          "authorId": "2203369547"
         }
       ],
       "affiliations": [],
@@ -2032,7 +2032,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 44,
+      "citationCount": 45,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 155,
+      "citationCount": 156,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2786,7 +2786,7 @@
         "Amir Hossein Yari",
         "Shen-Bin Qian",
         "Manuel Tuor",
-        "F. M. Thoker",
+        "Fida Mohammad Thoker",
         "S. Troshin",
         "Lance Calvin Lim Gamboa",
         "Amir Arsalan Rezapour",
@@ -2961,15 +2961,15 @@
         "Fondazione Bruno Kessler"
       ],
       "year": 2026,
-      "venue": null,
+      "venue": "arXiv.org",
       "publicationDate": "2026-09-03",
       "summary": "The Last Translation Benchmark is introduced, a collection of human-authored and peer-reviewed examples that break leading machine translation models and a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation.",
       "url": "https://www.semanticscholar.org/paper/0815de60c8f83d16b9cdf0a3b0d912b17895f183",
-      "doi": null,
+      "doi": "10.48550/arXiv.2609.04173",
       "arxivId": "2609.04173",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 87,
+      "referenceCount": 88,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.04173",
       "addedAt": "2026-09-23",
@@ -3206,7 +3206,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 108,
+      "citationCount": 109,
       "referenceCount": 52,
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
