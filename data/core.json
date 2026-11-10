@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T12:57:50.642Z",
+  "updatedAt": "2026-11-10T12:43:43.332Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1200,7 +1200,7 @@
       "pdf": null,
       "citationCount": 10,
       "referenceCount": 79,
-      "influentialCitationCount": 1,
+      "influentialCitationCount": 2,
       "source": "The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs",
       "addedAt": "2026-09-23",
       "score": 12.5
@@ -1349,7 +1349,7 @@
       "doi": "10.48550/arXiv.2509.20045",
       "arxivId": "2509.20045",
       "pdf": null,
-      "citationCount": 19,
+      "citationCount": 20,
       "referenceCount": 41,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2509.20045",
@@ -1595,7 +1595,7 @@
       "pdf": null,
       "citationCount": 12,
       "referenceCount": 38,
-      "influentialCitationCount": 3,
+      "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2505.14824",
       "addedAt": "2026-09-23",
       "score": 37.5
@@ -1753,7 +1753,7 @@
       "doi": "10.48550/arXiv.2010.05874",
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 279,
+      "citationCount": 280,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1837,7 +1837,7 @@
       "doi": "10.48550/arXiv.2401.01854",
       "arxivId": "2401.01854",
       "pdf": null,
-      "citationCount": 97,
+      "citationCount": 98,
       "referenceCount": 50,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2401.01854",
@@ -2008,12 +2008,12 @@
       "authors": [
         "Andrew Lee",
         "M. Weber",
-        "Fernanda B. Viégas",
+        "F. Viégas",
         "M. Wattenberg"
       ],
       "topAuthors": [
         {
-          "name": "Fernanda B. Viégas",
+          "name": "F. Viégas",
           "hIndex": 39,
           "authorId": "1765169"
         },
@@ -2185,7 +2185,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 10,
+      "citationCount": 11,
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 156,
+      "citationCount": 158,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2630,7 +2630,7 @@
       "doi": "10.48550/arXiv.2504.04264",
       "arxivId": "2504.04264",
       "pdf": null,
-      "citationCount": 65,
+      "citationCount": 66,
       "referenceCount": 32,
       "influentialCitationCount": 7,
       "source": "https://arxiv.org/abs/2504.04264",
@@ -2704,7 +2704,7 @@
         "Jan Niehues",
         "R. Sennrich",
         "Mrinmaya Sachan",
-        "Ondrej Bojar",
+        "Ondřej Bojar",
         "Kenton Murray",
         "Jörg Tiedemann",
         "Alham Fikri Aji",
@@ -3206,7 +3206,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 109,
+      "citationCount": 110,
       "referenceCount": 52,
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
