@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T12:43:43.332Z",
+  "updatedAt": "2026-11-11T11:59:01.828Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -32,7 +32,7 @@
       "topAuthors": [
         {
           "name": "Nikolay Bogoychev",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "3444222"
         },
         {
@@ -139,7 +139,7 @@
       "topAuthors": [
         {
           "name": "S. Li",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "2295954288"
         },
         {
@@ -362,7 +362,7 @@
       "doi": "10.48550/arXiv.2510.16928",
       "arxivId": "2510.16928",
       "pdf": null,
-      "citationCount": 2,
+      "citationCount": 3,
       "referenceCount": 57,
       "influentialCitationCount": 1,
       "source": "https://www.semanticscholar.org/paper/591332975662dea00ecf8e0fb6820bb0974164e8",
@@ -673,7 +673,7 @@
         },
         {
           "name": "Benoît Sagot",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "68990982"
         }
       ],
@@ -705,7 +705,7 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 31,
+          "hIndex": 30,
           "authorId": "2468732"
         },
         {
@@ -749,7 +749,7 @@
         },
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 31,
+          "hIndex": 30,
           "authorId": "2468732"
         }
       ],
@@ -786,7 +786,7 @@
       "topAuthors": [
         {
           "name": "Z. Žabokrtský",
-          "hIndex": 31,
+          "hIndex": 30,
           "authorId": "2468732"
         },
         {
@@ -938,7 +938,7 @@
       "topAuthors": [
         {
           "name": "Christof Monz",
-          "hIndex": 52,
+          "hIndex": 51,
           "authorId": "1696402"
         },
         {
@@ -981,7 +981,7 @@
       "topAuthors": [
         {
           "name": "Furu Wei",
-          "hIndex": 109,
+          "hIndex": 110,
           "authorId": "49807919"
         },
         {
@@ -1021,7 +1021,7 @@
       "topAuthors": [
         {
           "name": "Benoît Sagot",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "68990982"
         },
         {
@@ -1105,7 +1105,7 @@
         },
         {
           "name": "Ivan Vulic",
-          "hIndex": 58,
+          "hIndex": 57,
           "authorId": "1747849"
         }
       ],
@@ -1161,7 +1161,7 @@
       "doi": "10.48550/arXiv.2601.14050",
       "arxivId": "2601.14050",
       "pdf": null,
-      "citationCount": 14,
+      "citationCount": 15,
       "referenceCount": 45,
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
@@ -1216,7 +1216,7 @@
       "topAuthors": [
         {
           "name": "Martin Jaggi",
-          "hIndex": 61,
+          "hIndex": 80,
           "authorId": "2456863"
         },
         {
@@ -1236,7 +1236,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 39,
+      "citationCount": 40,
       "referenceCount": 98,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1410,7 +1410,7 @@
         },
         {
           "name": "Matt Post",
-          "hIndex": 41,
+          "hIndex": 40,
           "authorId": "38842528"
         }
       ],
@@ -1598,7 +1598,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2505.14824",
       "addedAt": "2026-09-23",
-      "score": 37.5
+      "score": 50
     },
     {
       "id": "3b869bd70517c9b3b74bed854c30ae42060c2b20",
@@ -1629,7 +1629,7 @@
       "doi": "10.48550/arXiv.2406.13229",
       "arxivId": "2406.13229",
       "pdf": null,
-      "citationCount": 55,
+      "citationCount": 56,
       "referenceCount": 40,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
@@ -1678,7 +1678,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.22037",
       "addedAt": "2026-09-23",
-      "score": 12.5
+      "score": 25
     },
     {
       "id": "710763f2a9fddbbb2cf47adc542ea7b7ef161eac",
@@ -1801,7 +1801,7 @@
       "influentialCitationCount": 12,
       "source": "https://arxiv.org/abs/2504.10160",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "23c6706bc8ec8eae162ed8565e5b9ebd57ae00f0",
@@ -1939,7 +1939,7 @@
         },
         {
           "name": "Kevin Duh",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "1800354"
         }
       ],
@@ -1995,7 +1995,7 @@
       "doi": "10.48550/arXiv.2405.14535",
       "arxivId": "2405.14535",
       "pdf": null,
-      "citationCount": 14,
+      "citationCount": 15,
       "referenceCount": 29,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2405.14535",
@@ -2014,7 +2014,7 @@
       "topAuthors": [
         {
           "name": "F. Viégas",
-          "hIndex": 39,
+          "hIndex": 46,
           "authorId": "1765169"
         },
         {
@@ -2113,7 +2113,7 @@
       "doi": "10.48550/arXiv.2408.10646",
       "arxivId": "2408.10646",
       "pdf": null,
-      "citationCount": 29,
+      "citationCount": 31,
       "referenceCount": 28,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2408.10646",
@@ -2156,7 +2156,7 @@
       "doi": "10.48550/arXiv.2509.13930",
       "arxivId": "2509.13930",
       "pdf": null,
-      "citationCount": 12,
+      "citationCount": 13,
       "referenceCount": 78,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2509.13930",
@@ -2190,7 +2190,7 @@
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/37acde6b15451a15e818baed703d49a1aaf6bf59",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "c9db485a3f293db6518ce82eac840bed4cebfb8b",
@@ -2432,7 +2432,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2510.26024",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 25
     },
     {
       "id": "f1d195191e280980734e221bce83dae508fbf319",
@@ -2441,17 +2441,17 @@
         "Weixuan Wang",
         "Ming-Hao Wu",
         "B. Haddow",
-        "A. Birch"
+        "Alexandra Birch"
       ],
       "topAuthors": [
         {
           "name": "B. Haddow",
-          "hIndex": 47,
+          "hIndex": 46,
           "authorId": "2259100"
         },
         {
-          "name": "A. Birch",
-          "hIndex": 11,
+          "name": "Alexandra Birch",
+          "hIndex": 10,
           "authorId": "2261083421"
         }
       ],
@@ -2464,7 +2464,7 @@
       "doi": "10.48550/arXiv.2410.12462",
       "arxivId": "2410.12462",
       "pdf": null,
-      "citationCount": 34,
+      "citationCount": 35,
       "referenceCount": 57,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2410.12462",
@@ -2492,7 +2492,7 @@
         },
         {
           "name": "Yi-Jin Liu",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2108060455"
         }
       ],
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 158,
+      "citationCount": 159,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -2630,7 +2630,7 @@
       "doi": "10.48550/arXiv.2504.04264",
       "arxivId": "2504.04264",
       "pdf": null,
-      "citationCount": 66,
+      "citationCount": 67,
       "referenceCount": 32,
       "influentialCitationCount": 7,
       "source": "https://arxiv.org/abs/2504.04264",
@@ -2787,7 +2787,7 @@
         "Shen-Bin Qian",
         "Manuel Tuor",
         "Fida Mohammad Thoker",
-        "S. Troshin",
+        "Sergey Troshin",
         "Lance Calvin Lim Gamboa",
         "Amir Arsalan Rezapour",
         "Kätriin Kukk",
@@ -2832,7 +2832,7 @@
         "M. Gaido",
         "Elias Herranen",
         "Sankalan Pal Chowdhury",
-        "Karen Sanchez",
+        "Karen Sánchez",
         "Guy Kaplan",
         "Farzad Shami",
         "Ashok Urlana",
@@ -2947,12 +2947,12 @@
       "topAuthors": [
         {
           "name": "Christof Monz",
-          "hIndex": 52,
+          "hIndex": 51,
           "authorId": "1696402"
         },
         {
           "name": "R. Sennrich",
-          "hIndex": 50,
+          "hIndex": 48,
           "authorId": "2066518243"
         }
       ],
@@ -3031,7 +3031,7 @@
         },
         {
           "name": "Dan Garrette",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "2758616"
         }
       ],
@@ -3206,7 +3206,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 110,
+      "citationCount": 112,
       "referenceCount": 52,
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
@@ -3298,7 +3298,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2508.11017",
       "addedAt": "2026-09-23",
-      "score": 50
+      "score": 62.5
     },
     {
       "id": "bc875adfaecae20b112b1e12beceaf297371ba7d",
@@ -3332,7 +3332,7 @@
       "doi": null,
       "arxivId": "2410.14387",
       "pdf": null,
-      "citationCount": 26,
+      "citationCount": 27,
       "referenceCount": 0,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2410.14387",
