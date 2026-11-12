@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T11:59:01.828Z",
+  "updatedAt": "2026-11-12T12:50:21.648Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -422,7 +422,7 @@
         "Seth Aycock",
         "Gianluca Vico",
         "Wiktor Kamzela",
-        "Katharina Hämmerl",
+        "Kathy Hämmerl",
         "Vilém Zouhar"
       ],
       "topAuthors": [
@@ -438,7 +438,7 @@
         }
       ],
       "affiliations": [
-        "University of Amsterdam p=3,1",
+        "University of Amsterdam",
         "Johns Hopkins University"
       ],
       "year": 2025,
@@ -1002,7 +1002,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.257",
       "arxivId": "2109.07306",
       "pdf": "https://aclanthology.org/2021.emnlp-main.257.pdf",
-      "citationCount": 34,
+      "citationCount": 35,
       "referenceCount": 43,
       "influentialCitationCount": 2,
       "source": "Allocating Large Vocabulary Capacity for Cross-Lingual Language Model Pre-Training",
@@ -1041,7 +1041,7 @@
       "doi": "10.18653/v1/2022.findings-emnlp.207",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2022.findings-emnlp.207.pdf",
-      "citationCount": 16,
+      "citationCount": 17,
       "referenceCount": 0,
       "influentialCitationCount": 0,
       "source": "MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
@@ -1673,9 +1673,9 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 24,
+      "citationCount": 25,
       "referenceCount": 65,
-      "influentialCitationCount": 2,
+      "influentialCitationCount": 3,
       "source": "https://arxiv.org/abs/2510.22037",
       "addedAt": "2026-09-23",
       "score": 25
@@ -3206,7 +3206,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 112,
+      "citationCount": 113,
       "referenceCount": 52,
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
@@ -3311,14 +3311,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Anders Søgaard",
+          "hIndex": 49,
+          "authorId": "1700187"
+        },
+        {
           "name": "Negar Foroutan",
           "hIndex": 13,
           "authorId": "9737058"
-        },
-        {
-          "name": "Constanza Fierro",
-          "hIndex": 10,
-          "authorId": "50110151"
         }
       ],
       "affiliations": [
@@ -3361,7 +3361,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 272,
+      "citationCount": 273,
       "referenceCount": 127,
       "influentialCitationCount": 31,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
