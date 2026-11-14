@@ -1,0 +1,81 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-11-14T11:34:56.596Z",
+  "papers": [
+    {
+      "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+      "link": "https://arxiv.org/abs/1911.02116",
+      "title": "Unsupervised Cross-lingual Representation Learning at Scale"
+    },
+    {
+      "id": "74b4ea9766928fcc4de6d624f55eac4a2535011d",
+      "link": "https://arxiv.org/abs/2411.08745",
+      "title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers"
+    },
+    {
+      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
+      "link": "https://arxiv.org/abs/2510.15551",
+      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint"
+    },
+    {
+      "id": "bebeae13e2dd965fc381ea2bc2d4633bc1b0da20",
+      "link": "https://arxiv.org/abs/2510.10280",
+      "title": "On the Entity-Level Alignment in Crosslingual Consistency"
+    },
+    {
+      "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "link": "https://arxiv.org/abs/2207.04672",
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation"
+    },
+    {
+      "id": "f544d4974a7b129ab89ef7f61152cbe157471c73",
+      "link": "https://arxiv.org/abs/2610.27631",
+      "title": "A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech"
+    },
+    {
+      "id": "5760218e4635cc2841dc7fba1752427a023c2193",
+      "link": "https://arxiv.org/abs/2404.00929",
+      "title": "A survey on multilingual large language models: corpora, alignment, and bias"
+    },
+    {
+      "id": "097eadf1183078fc657a5edb0f90ae66bd8f0581",
+      "link": "https://arxiv.org/abs/2505.20546",
+      "title": "Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline"
+    },
+    {
+      "id": "f127bf83450e3b79da21be01bc49618a45e22d26",
+      "link": "https://arxiv.org/abs/2611.12750",
+      "title": "The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?"
+    },
+    {
+      "id": "468d1e2d75a23fecaf96fe65d8b01ff35ea5d0bd",
+      "link": "https://arxiv.org/abs/2310.10378",
+      "title": "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models"
+    },
+    {
+      "id": "809cc93921e4698bde891475254ad6dfba33d03b",
+      "link": "https://arxiv.org/abs/1906.01502",
+      "title": "How Multilingual is Multilingual BERT?"
+    },
+    {
+      "id": "1f346f74e8eabececa4896d734ab9b261f30830d",
+      "link": "https://arxiv.org/abs/2302.11529",
+      "title": "Modular Deep Learning"
+    },
+    {
+      "id": "789b8487da7188442085983caba3ffaae05531e9",
+      "link": "https://arxiv.org/abs/2106.03193",
+      "title": "The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation"
+    },
+    {
+      "id": "2fa3f7ce620a1c7155daef6620dd6bb0e01934f3",
+      "link": "https://arxiv.org/abs/1904.09077",
+      "title": "Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT"
+    },
+    {
+      "id": "66a1af56a47425ace218f9f56adf16f372416e71",
+      "link": "https://arxiv.org/abs/2410.04407",
+      "title": "Lens: Rethinking Multilingual Enhancement for Large Language Models"
+    }
+  ]
+}

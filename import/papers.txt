@@ -122,4 +122,63 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- most connected ---
+# Unsupervised Cross-lingual Representation Learning at Scale
+#   Luke Zettlemoyer (h=122) · University of Washington · 2019 · 9885 citations · cited by 24 in your list
+https://arxiv.org/abs/1911.02116
 
+# Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers
+#   Veniamin Veselovsky (h=12) · Cornell University · 2024 · 74 citations · cites 5 in your list
+https://arxiv.org/abs/2411.08745
+
+# Rethinking Cross-lingual Gaps from a Statistical Viewpoint
+#   Preethi Jyothi (h=22) · Google (United States) · 2025 · 6 citations · cites 3 in your list
+https://arxiv.org/abs/2510.15551
+
+# On the Entity-Level Alignment in Crosslingual Consistency
+#   Hinrich Schutze (h=22) · CIS, LMU Munich · 2025 · 4 citations · cites 3 in your list
+https://arxiv.org/abs/2510.10280
+
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=66) · Johns Hopkins University · 2022 · 2203 citations · cited by 12 in your list
+https://arxiv.org/abs/2207.04672
+
+# A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech
+#   Debajyoti Mazumder (h=3) · Indian Institute of Science Education and Research, Bhopal · 2026 · 0 citations · cites 2 in your list
+https://arxiv.org/abs/2610.27631
+
+# A survey on multilingual large language models: corpora, alignment, and bias
+#   Jiayi Zhao (h=5) · Beijing Foreign Studies University · 2024 · 177 citations · cites 3 in your list
+https://arxiv.org/abs/2404.00929
+
+# Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline
+#   Ruochen Zhang (h=13) · Brown University · 2025 · 28 citations · cites 3 in your list
+https://arxiv.org/abs/2505.20546
+
+# The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?
+#   Kelly Marchisio (h=14) · Cohere · 2026 · 0 citations · cites 2 in your list
+https://arxiv.org/abs/2611.12750
+
+# Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models
+#   Arianna Bisazza (h=25) · University of Groningen · 2023 · 162 citations · cited by 7 in your list
+https://arxiv.org/abs/2310.10378
+
+# How Multilingual is Multilingual BERT?
+#   Dan Garrette (h=26) · Google DeepMind · 2019 · 1903 citations · cited by 10 in your list
+https://arxiv.org/abs/1906.01502
+
+# Modular Deep Learning
+#   Sebastian Ruder (h=62) · Cohere · 2023 · 128 citations · cites 3 in your list
+https://arxiv.org/abs/2302.11529
+
+# The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation
+#   M. Ranzato (h=65) · Handshake AI · 2021 · 959 citations · cited by 9 in your list
+https://arxiv.org/abs/2106.03193
+
+# Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT
+#   Mark Dredze (h=71) · Johns Hopkins University · 2019 · 809 citations · cited by 9 in your list
+https://arxiv.org/abs/1904.09077
+
+# Lens: Rethinking Multilingual Enhancement for Large Language Models
+#   Yan-Yan Zhao (h=26) · Harbin Institute of Technology · 2024 · 7 citations · cites 4 in your list
+https://arxiv.org/abs/2410.04407
