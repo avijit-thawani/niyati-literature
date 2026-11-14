@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T12:18:25.489Z",
+  "updatedAt": "2026-11-14T11:34:49.972Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1236,7 +1236,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 40,
+      "citationCount": 41,
       "referenceCount": 98,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1629,7 +1629,7 @@
       "doi": "10.48550/arXiv.2406.13229",
       "arxivId": "2406.13229",
       "pdf": null,
-      "citationCount": 56,
+      "citationCount": 57,
       "referenceCount": 40,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
@@ -1673,7 +1673,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 25,
+      "citationCount": 26,
       "referenceCount": 65,
       "influentialCitationCount": 3,
       "source": "https://arxiv.org/abs/2510.22037",
@@ -1839,7 +1839,7 @@
       "pdf": null,
       "citationCount": 98,
       "referenceCount": 50,
-      "influentialCitationCount": 6,
+      "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2401.01854",
       "addedAt": "2026-09-23",
       "score": 25
@@ -2113,7 +2113,7 @@
       "doi": "10.48550/arXiv.2408.10646",
       "arxivId": "2408.10646",
       "pdf": null,
-      "citationCount": 31,
+      "citationCount": 32,
       "referenceCount": 28,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2408.10646",
@@ -2522,14 +2522,14 @@
       ],
       "topAuthors": [
         {
-          "name": "Antoine Bosselut",
-          "hIndex": 38,
-          "authorId": "2284866282"
-        },
-        {
           "name": "Badr AlKhamissi",
           "hIndex": 16,
           "authorId": "2006905770"
+        },
+        {
+          "name": "Antoine Bosselut",
+          "hIndex": 15,
+          "authorId": "2691021"
         }
       ],
       "affiliations": [
@@ -2587,7 +2587,7 @@
       "doi": "10.48550/arXiv.2402.16438",
       "arxivId": "2402.16438",
       "pdf": null,
-      "citationCount": 159,
+      "citationCount": 160,
       "referenceCount": 49,
       "influentialCitationCount": 18,
       "source": "https://arxiv.org/abs/2402.16438",
@@ -3247,7 +3247,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 25,
+      "citationCount": 26,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
@@ -3361,7 +3361,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 273,
+      "citationCount": 275,
       "referenceCount": 127,
       "influentialCitationCount": 31,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
