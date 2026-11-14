@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-11-14T11:34:53.748Z",
+  "papers": [
+    {
+      "id": "3ca010aaf9526d1f30ed47234079549dd63ab3c0",
+      "link": "https://arxiv.org/abs/2604.17633",
+      "title": "Copy First, Translate Later: Interpreting Translation Dynamics in Multilingual Pretraining"
+    },
+    {
+      "id": "24005c82ef5b7300f052aedf096057a294518bf2",
+      "link": "https://arxiv.org/abs/2609.19291",
+      "title": "Why Pretraining Fails to Share Cross-Lingual Knowledge"
+    },
+    {
+      "id": "f7ea15b117e6ff090b09d528d891b4e1e1535d0f",
+      "link": "https://arxiv.org/abs/2605.04500",
+      "title": "Harnessing Linguistic Dissimilarity for Language Generalization on Unseen Low-Resource Varieties"
+    },
+    {
+      "id": "4dff5c93a4cb73f619ec2472b42066ac29e28bff",
+      "link": "https://arxiv.org/abs/2609.06381",
+      "title": "Cross-Lingual Representation Alignment by Token-Level Optimal Transport in a Language-Agnostic Space"
+    },
+    {
+      "id": "54ddd515eba3e085025ec613027ab8b9444bd755",
+      "link": "https://arxiv.org/abs/2601.14004",
+      "title": "Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models"
+    },
+    {
+      "id": "ce8b29d556cbf752331f679bd48d4b9f2c9f127f",
+      "link": "https://arxiv.org/abs/2610.00606",
+      "title": "Where's Waldo? Query-language Preference under Cross-lingual Knowledge Disparities"
+    },
+    {
+      "id": "7e86ecf3173c384388f2887a39d635daa68fb876",
+      "link": "https://arxiv.org/abs/2608.28860",
+      "title": "Latent-Space Intervention for Cross-Lingual Factual Consistency: Consistency Improvements without Accuracy Drops"
+    },
+    {
+      "id": "6526ad2734dc69c6f6ed2294d58635aa4bbaecd1",
+      "link": "https://arxiv.org/abs/2603.17102",
+      "title": "Knowledge Localization in Mixture-of-Experts LLMs Using Cross-Lingual Inconsistency"
+    },
+    {
+      "id": "0936e9c8fd95cd382335148c4b69d809a2571db0",
+      "link": "https://arxiv.org/abs/2602.16660",
+      "title": "Align Once, Benefit Multilingually: Enforcing Multilingual Consistency for LLM Safety Alignment"
+    },
+    {
+      "id": "c8c6ef02561a03d563becc66dfc3cfebfe7c72f5",
+      "link": "https://arxiv.org/abs/2603.25419",
+      "title": "TAPO: Translation Augmented Policy Optimization for Multilingual Mathematical Reasoning"
+    }
+  ]
+}
