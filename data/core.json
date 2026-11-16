@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T11:59:47.914Z",
+  "updatedAt": "2026-11-16T12:51:50.128Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -3247,7 +3247,7 @@
       "doi": "10.48550/arXiv.2510.07300",
       "arxivId": "2510.07300",
       "pdf": null,
-      "citationCount": 26,
+      "citationCount": 27,
       "referenceCount": 33,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2510.07300",
