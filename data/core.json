@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T12:51:50.128Z",
+  "updatedAt": "2026-11-17T13:32:58.336Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -68,7 +68,7 @@
         "Niyati Bafna",
         "Andrea Caciolai",
         "Kevin Heffernan",
-        "Artyom Kozhevnikov",
+        "A. Kozhevnikov",
         "C. Ropers",
         "Eduardo Sánchez",
         "Charles-Éric Saint-James",
@@ -89,7 +89,6 @@
         "Albert Ventayol-Boada",
         "Rashel Moritz",
         "Alexandre Mourachko",
-        "Surya Parimi",
         "Mary Williamson",
         "Shireen Yates",
         "David Dale",
@@ -295,7 +294,7 @@
       "authors": [
         "Niyati Bafna",
         "Emily Chang",
-        "N. R. Robinson",
+        "N. Robinson",
         "David R. Mortensen",
         "Kenton Murray",
         "D. Yarowsky",
@@ -373,7 +372,7 @@
       "id": "93d922de12f6bf786420281e359a190fbcbf0784",
       "title": "JHU IWSLT 2025 Low-resource System Description",
       "authors": [
-        "N. R. Robinson",
+        "N. Robinson",
         "Niyati Bafna",
         "Xi-Luo He",
         "Tom Lupicki",
@@ -381,18 +380,18 @@
         "Ci-Han Xiao",
         "Qi Sun",
         "Kenton Murray",
-        "David Yarowsky"
+        "D. Yarowsky"
       ],
       "topAuthors": [
         {
-          "name": "Niyati Bafna",
-          "hIndex": 5,
-          "authorId": "2090730520"
+          "name": "D. Yarowsky",
+          "hIndex": 55,
+          "authorId": "1693517"
         },
         {
-          "name": "Ci-Han Xiao",
-          "hIndex": 5,
-          "authorId": "2075320104"
+          "name": "N. Robinson",
+          "hIndex": 6,
+          "authorId": "2067645226"
         }
       ],
       "affiliations": [
@@ -930,7 +929,7 @@
       "id": "8d7e9dcc7c962e5ef6ec77911f1bf916dbe0e6b4",
       "title": "On the Evaluation Practices in Multilingual NLP: Can Machine Translation Offer an Alternative to Human Translations?",
       "authors": [
-        "Rochelle Choenni",
+        "R. Choenni",
         "Sara Rajaee",
         "Christof Monz",
         "Ekaterina Shutova"
@@ -942,7 +941,7 @@
           "authorId": "1696402"
         },
         {
-          "name": "Rochelle Choenni",
+          "name": "R. Choenni",
           "hIndex": 14,
           "authorId": "2067163164"
         }
@@ -973,7 +972,7 @@
         "Li Dong",
         "Shao-Han Huang",
         "Saksham Singhal",
-        "Wanxiang Che",
+        "W. Che",
         "Ting Liu",
         "Xia Song",
         "Furu Wei"
@@ -1330,14 +1329,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Tanja Samardžić",
+          "hIndex": 20,
+          "authorId": "2044631"
+        },
+        {
           "name": "Vani Kanjirangat",
           "hIndex": 9,
           "authorId": "2125681709"
-        },
-        {
-          "name": "Ljiljana Dolamic",
-          "hIndex": 5,
-          "authorId": "2502999306"
         }
       ],
       "affiliations": [],
@@ -1437,7 +1436,7 @@
       "id": "5c667b8297631551de12e1b888bb57251f427716",
       "title": "Enhancing Cross-Lingual Transfer through Reversible Transliteration: A Huffman-Based Approach for Low-Resource Languages",
       "authors": [
-        "Wenhao Zhuang",
+        "Wen-Hao Zhuang",
         "Yuan Sun",
         "Xiao-Bing Zhao"
       ],
@@ -1448,9 +1447,9 @@
           "authorId": "1991626"
         },
         {
-          "name": "Yuan Sun",
-          "hIndex": 5,
-          "authorId": "2336529909"
+          "name": "Wen-Hao Zhuang",
+          "hIndex": 6,
+          "authorId": "2356547624"
         }
       ],
       "affiliations": [],
@@ -1517,7 +1516,6 @@
       "title": "Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning",
       "authors": [
         "Pratik Jayarao",
-        "Chaitanya Dwivedi",
         "Himanshu Gupta",
         "Neeraj Varshney",
         "Adithya M. Devraj",
@@ -1645,21 +1643,21 @@
         "Niklas Muennighoff",
         "I-Hung Hsu",
         "Isaac Caswell",
-        "Alex Pentland",
+        "A. Pentland",
         "Sercan Ö. Arik",
         "Chen-Yu Lee",
         "Sayna Ebrahimi"
       ],
       "topAuthors": [
         {
+          "name": "A. Pentland",
+          "hIndex": 78,
+          "authorId": "1682773"
+        },
+        {
           "name": "Niklas Muennighoff",
           "hIndex": 53,
           "authorId": "2037383772"
-        },
-        {
-          "name": "Sercan Ö. Arik",
-          "hIndex": 50,
-          "authorId": "2676352"
         }
       ],
       "affiliations": [
@@ -1713,7 +1711,7 @@
       "doi": "10.18653/v1/2024.naacl-long.445",
       "arxivId": "2311.08089",
       "pdf": "https://aclanthology.org/2024.naacl-long.445.pdf",
-      "citationCount": 61,
+      "citationCount": 62,
       "referenceCount": 57,
       "influentialCitationCount": 5,
       "source": "https://arxiv.org/abs/2311.08089",
@@ -2013,14 +2011,14 @@
       ],
       "topAuthors": [
         {
+          "name": "M. Wattenberg",
+          "hIndex": 67,
+          "authorId": "145233583"
+        },
+        {
           "name": "F. Viégas",
           "hIndex": 46,
           "authorId": "1765169"
-        },
-        {
-          "name": "Andrew Lee",
-          "hIndex": 13,
-          "authorId": "2237957247"
         }
       ],
       "affiliations": [],
@@ -2032,7 +2030,7 @@
       "doi": "10.48550/arXiv.2503.21073",
       "arxivId": "2503.21073",
       "pdf": null,
-      "citationCount": 45,
+      "citationCount": 46,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2503.21073",
@@ -2533,8 +2531,7 @@
         }
       ],
       "affiliations": [
-        "EPFL",
-        "EPFL NLP"
+        "EPFL"
       ],
       "year": 2026,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
@@ -2673,7 +2670,7 @@
       "arxivId": "2607.02235",
       "pdf": "https://aclanthology.org/2026.findings-emnlp.2021.pdf",
       "citationCount": 1,
-      "referenceCount": 90,
+      "referenceCount": 70,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.02235",
       "addedAt": "2026-09-23",
@@ -2697,23 +2694,22 @@
         "Orfeas Menis-Mastromichalakis",
         "Patrícia Schmidtová",
         "Michelle Wastl",
-        "Sheriff Issaka",
         "Leshem Choshen",
         "Stella Biderman",
         "Antonis Anastasopoulos",
-        "Jan Niehues",
+        "J. Niehues",
         "R. Sennrich",
         "Mrinmaya Sachan",
         "Ondřej Bojar",
         "Kenton Murray",
-        "Jörg Tiedemann",
+        "J. Tiedemann",
         "Alham Fikri Aji",
         "Philipp Koehn",
         "Christof Monz",
         "Alexandra Birch",
         "Sowmya Vajjala",
         "C. Kranti",
-        "Cristina España-Bonet",
+        "C. España-Bonet",
         "Nobin Sarwar",
         "David Kaczér",
         "Sourajit Saha",
@@ -2725,17 +2721,17 @@
         "H. Al-Khalifa",
         "Gabriele Sarti",
         "N. Rehlinger",
-        "J. C. Villa",
+        "Juan Daniel Cuervo Villa",
         "Dominik Machácek",
         "Saugata Purkayastha",
-        "Jagannathan Ramanujam",
+        "J. Ramanujam",
         "Shubhashis Roy Dipta",
         "A. Nigam",
         "S. S. Yusuf",
         "Heejin Do",
         "J. Yahav",
         "Johannes-Rudolf David",
-        "M. Staiano",
+        "Maria Carmen Staiano",
         "Zuzana Nadova",
         "Fred Philippy",
         "Ron Keinan",
@@ -2748,7 +2744,7 @@
         "Avantica Vempati",
         "Sukannya Purkayastha",
         "Adrian Cosma",
-        "E. İnan",
+        "E. Inan",
         "V. Babenko",
         "W. Aissa",
         "Valentin Scourneau",
@@ -2764,7 +2760,7 @@
         "Manar Ali",
         "Mohammad Sadegh Gholizadeh",
         "Dipankar Srirag",
-        "Marek Suppa",
+        "Marek Šuppa",
         "Javier García Gilabert",
         "R. Binkytė",
         "Ana-Maria Bucur",
@@ -2801,7 +2797,7 @@
         "Arafat Ahsan",
         "L. Nguyen",
         "Hassan Soliman",
-        "Ngoc Quynh Tram Do",
+        "Ngoc Do",
         "Azmine Toushik Wasi",
         "R. Damanhuri",
         "M. Huber",
@@ -2889,7 +2885,7 @@
         "Antonia Karamolegkou",
         "Yu-Xing Lu",
         "Thura Aung",
-        "N. Al Mousa",
+        "Nasser Almousa",
         "Tommaso Cerruti",
         "Raia Abu Ahmad",
         "Béni Egressy",
@@ -2903,7 +2899,7 @@
         "T. Nguyen",
         "Natchapon Jongwiriyanurak",
         "Minh N. Do",
-        "I. Barač",
+        "I. Barać",
         "D. Kuzmin",
         "Badal Nyalang",
         "Antoine Taroni",
@@ -2912,13 +2908,13 @@
         "Roland C. Aydin",
         "Pavel Stepachev",
         "I. Levy",
-        "Andreas Simons",
+        "André B. Simons",
         "Rayyan Merchant",
         "Zi-Yi Yang",
         "Samuel Frontull",
         "Kenneth C. Enevoldsen",
         "Harris Abdul Majid",
-        "T. Graf",
+        "Tim Graf",
         "Tatiana Bielakova",
         "Sharifa Djurabaeva",
         "Shao Ji",
@@ -2927,7 +2923,7 @@
         "Yurii Paniv",
         "Xi-Yang Fu",
         "Sunisth Kumar",
-        "S. Satish",
+        "Shree Harsha Bokkahalli Satish",
         "Papa Abdou Karim Karou Diallo",
         "Mengyu Ye",
         "Maximilian Vieweg",
@@ -2946,14 +2942,14 @@
       ],
       "topAuthors": [
         {
+          "name": "J. Tiedemann",
+          "hIndex": 52,
+          "authorId": "143675545"
+        },
+        {
           "name": "Christof Monz",
           "hIndex": 51,
           "authorId": "1696402"
-        },
-        {
-          "name": "R. Sennrich",
-          "hIndex": 48,
-          "authorId": "2066518243"
         }
       ],
       "affiliations": [
@@ -3019,7 +3015,7 @@
       "id": "e6d1139f185acf6a08260190d4dba138f918e1df",
       "title": "How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning",
       "authors": [
-        "Rochelle Choenni",
+        "R. Choenni",
         "Dan Garrette",
         "Ekaterina Shutova"
       ],
@@ -3101,7 +3097,6 @@
       "authors": [
         "Himanshu Gupta",
         "Pratik Jayarao",
-        "Chaitanya Dwivedi",
         "Neeraj Varshney"
       ],
       "topAuthors": [
@@ -3111,9 +3106,9 @@
           "authorId": "52165322"
         },
         {
-          "name": "Chaitanya Dwivedi",
-          "hIndex": 2,
-          "authorId": "2380689449"
+          "name": "Himanshu Gupta",
+          "hIndex": 1,
+          "authorId": "2380690445"
         }
       ],
       "affiliations": [],
@@ -3266,20 +3261,20 @@
         "Fred Zhang",
         "Jessica Hoffmann",
         "Tal Linzen",
-        "Martin Wattenberg",
+        "M. Wattenberg",
         "Lucas Dixon",
         "Mor Geva"
       ],
       "topAuthors": [
         {
+          "name": "M. Wattenberg",
+          "hIndex": 67,
+          "authorId": "145233583"
+        },
+        {
           "name": "Mor Geva",
           "hIndex": 36,
           "authorId": "22245981"
-        },
-        {
-          "name": "Tal Linzen",
-          "hIndex": 21,
-          "authorId": "51223875"
         }
       ],
       "affiliations": [
