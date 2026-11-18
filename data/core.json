@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T13:32:58.336Z",
+  "updatedAt": "2026-11-18T13:12:52.403Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -76,11 +76,11 @@
         "Chi-Erh Cheng",
         "Joe Chuang",
         "Paul-Ambroise Duquenne",
-        "M. Duppenthaler",
+        "Mark Duppenthaler",
         "Nate Ekberg",
         "Cynthia Gao",
         "Pere-Lluís Huguet Cabot",
-        "J. Janeiro",
+        "João Maria Janeiro",
         "Jean Maillard",
         "Gabriel Mejia Gonzalez",
         "H. Schwenk",
@@ -89,6 +89,7 @@
         "Albert Ventayol-Boada",
         "Rashel Moritz",
         "Alexandre Mourachko",
+        "Surya Parimi",
         "Mary Williamson",
         "Shireen Yates",
         "David Dale",
@@ -173,18 +174,18 @@
         "Neha Verma",
         "Vilém Zouhar",
         "Philipp Koehn",
-        "David Yarowsky"
+        "D. Yarowsky"
       ],
       "topAuthors": [
+        {
+          "name": "D. Yarowsky",
+          "hIndex": 55,
+          "authorId": "1693517"
+        },
         {
           "name": "Vilém Zouhar",
           "hIndex": 18,
           "authorId": "1429837660"
-        },
-        {
-          "name": "Neha Verma",
-          "hIndex": 8,
-          "authorId": "2066061874"
         }
       ],
       "affiliations": [
@@ -254,20 +255,20 @@
         "Tian-Jian Li",
         "Kenton Murray",
         "David R. Mortensen",
-        "David Yarowsky",
+        "D. Yarowsky",
         "Hale Sirin",
         "Daniel Khashabi"
       ],
       "topAuthors": [
         {
+          "name": "D. Yarowsky",
+          "hIndex": 55,
+          "authorId": "1693517"
+        },
+        {
           "name": "Daniel Khashabi",
           "hIndex": 13,
           "authorId": "2319593572"
-        },
-        {
-          "name": "Tian-Jian Li",
-          "hIndex": 7,
-          "authorId": "2256304994"
         }
       ],
       "affiliations": [
@@ -390,7 +391,7 @@
         },
         {
           "name": "N. Robinson",
-          "hIndex": 6,
+          "hIndex": 9,
           "authorId": "2067645226"
         }
       ],
@@ -465,7 +466,7 @@
       "topAuthors": [
         {
           "name": "Matthew Wiesner",
-          "hIndex": 18,
+          "hIndex": 19,
           "authorId": "1500652334"
         },
         {
@@ -607,7 +608,7 @@
       "doi": "10.48550/arXiv.2406.13718",
       "arxivId": "2406.13718",
       "pdf": null,
-      "citationCount": 10,
+      "citationCount": 11,
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": "https://www.semanticscholar.org/paper/cf2f09a0b81f7b2b1b92c5bddeaa6544617d53a9",
@@ -631,9 +632,9 @@
           "authorId": "7519068"
         },
         {
-          "name": "Rachel Bawden",
+          "name": "C. España-Bonet",
           "hIndex": 19,
-          "authorId": "48983885"
+          "authorId": "1402921001"
         }
       ],
       "affiliations": [
@@ -779,8 +780,8 @@
         "Jan Bodnár",
         "Lukáš Kyjánek",
         "Emil Svoboda",
-        "M. Sevcíková",
-        "J. Vidra"
+        "Magda Ševčíková",
+        "Jonáš Vidra"
       ],
       "topAuthors": [
         {
@@ -789,8 +790,8 @@
           "authorId": "2468732"
         },
         {
-          "name": "M. Sevcíková",
-          "hIndex": 12,
+          "name": "Magda Ševčíková",
+          "hIndex": 11,
           "authorId": "3259983"
         }
       ],
@@ -942,7 +943,7 @@
         },
         {
           "name": "R. Choenni",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "2067163164"
         }
       ],
@@ -1104,7 +1105,7 @@
         },
         {
           "name": "Ivan Vulic",
-          "hIndex": 57,
+          "hIndex": 58,
           "authorId": "1747849"
         }
       ],
@@ -1160,7 +1161,7 @@
       "doi": "10.48550/arXiv.2601.14050",
       "arxivId": "2601.14050",
       "pdf": null,
-      "citationCount": 15,
+      "citationCount": 16,
       "referenceCount": 45,
       "influentialCitationCount": 0,
       "source": "Understanding Multilingualism in Mixture-of-Experts LLMs: Routing Mechanism, Expert Specialization, and Layerwise Steering",
@@ -1177,7 +1178,7 @@
       "topAuthors": [
         {
           "name": "Lucas Bandarkar",
-          "hIndex": 4,
+          "hIndex": 7,
           "authorId": "2091417351"
         },
         {
@@ -1215,7 +1216,7 @@
       "topAuthors": [
         {
           "name": "Martin Jaggi",
-          "hIndex": 80,
+          "hIndex": 81,
           "authorId": "2456863"
         },
         {
@@ -1235,7 +1236,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 42,
+      "citationCount": 43,
       "referenceCount": 99,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1291,7 +1292,7 @@
       "topAuthors": [
         {
           "name": "Graham Neubig",
-          "hIndex": 95,
+          "hIndex": 96,
           "authorId": "1700325"
         },
         {
@@ -1448,7 +1449,7 @@
         },
         {
           "name": "Wen-Hao Zhuang",
-          "hIndex": 6,
+          "hIndex": 8,
           "authorId": "2356547624"
         }
       ],
@@ -1516,6 +1517,7 @@
       "title": "Translate-R1: Cost-Aware Translation Tool Use via Reinforcement Learning",
       "authors": [
         "Pratik Jayarao",
+        "Chaitanya Dwivedi",
         "Himanshu Gupta",
         "Neeraj Varshney",
         "Adithya M. Devraj",
@@ -1632,7 +1634,7 @@
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2406.13229",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 25
     },
     {
       "id": "95d04c501e1f71f8be3430a861e91789d474cbfd",
@@ -1642,7 +1644,7 @@
         "Sneha Kudugunta",
         "Niklas Muennighoff",
         "I-Hung Hsu",
-        "Isaac Caswell",
+        "I. Caswell",
         "A. Pentland",
         "Sercan Ö. Arik",
         "Chen-Yu Lee",
@@ -1651,7 +1653,7 @@
       "topAuthors": [
         {
           "name": "A. Pentland",
-          "hIndex": 78,
+          "hIndex": 90,
           "authorId": "1682773"
         },
         {
@@ -1671,7 +1673,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 26,
+      "citationCount": 27,
       "referenceCount": 65,
       "influentialCitationCount": 3,
       "source": "https://arxiv.org/abs/2510.22037",
@@ -1730,7 +1732,7 @@
       "topAuthors": [
         {
           "name": "O. Firat",
-          "hIndex": 50,
+          "hIndex": 51,
           "authorId": "2345617"
         },
         {
@@ -1751,7 +1753,7 @@
       "doi": "10.48550/arXiv.2010.05874",
       "arxivId": "2010.05874",
       "pdf": null,
-      "citationCount": 280,
+      "citationCount": 281,
       "referenceCount": 55,
       "influentialCitationCount": 35,
       "source": "https://arxiv.org/abs/2010.05874",
@@ -1794,7 +1796,7 @@
       "doi": "10.48550/arXiv.2504.10160",
       "arxivId": "2504.10160",
       "pdf": null,
-      "citationCount": 70,
+      "citationCount": 71,
       "referenceCount": 64,
       "influentialCitationCount": 12,
       "source": "https://arxiv.org/abs/2504.10160",
@@ -2012,7 +2014,7 @@
       "topAuthors": [
         {
           "name": "M. Wattenberg",
-          "hIndex": 67,
+          "hIndex": 61,
           "authorId": "145233583"
         },
         {
@@ -2095,7 +2097,7 @@
         },
         {
           "name": "Leshem Choshen",
-          "hIndex": 35,
+          "hIndex": 36,
           "authorId": "41019330"
         }
       ],
@@ -2155,7 +2157,7 @@
       "arxivId": "2509.13930",
       "pdf": null,
       "citationCount": 13,
-      "referenceCount": 78,
+      "referenceCount": 77,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2509.13930",
       "addedAt": "2026-09-23",
@@ -2314,7 +2316,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2402.18025",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 25
     },
     {
       "id": "02a85c3c1fa5115b7f9638128c2866e7a0653fa2",
@@ -2410,7 +2412,7 @@
         },
         {
           "name": "Eleftheria Briakou",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2343507548"
         }
       ],
@@ -2444,12 +2446,12 @@
       "topAuthors": [
         {
           "name": "B. Haddow",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "2259100"
         },
         {
           "name": "Alexandra Birch",
-          "hIndex": 10,
+          "hIndex": 11,
           "authorId": "2261083421"
         }
       ],
@@ -2520,14 +2522,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Antoine Bosselut",
+          "hIndex": 45,
+          "authorId": "2691021"
+        },
+        {
           "name": "Badr AlKhamissi",
           "hIndex": 16,
           "authorId": "2006905770"
-        },
-        {
-          "name": "Antoine Bosselut",
-          "hIndex": 15,
-          "authorId": "2691021"
         }
       ],
       "affiliations": [
@@ -2541,7 +2543,7 @@
       "doi": "10.18653/2026.findings-emnlp.504",
       "arxivId": "2609.00155",
       "pdf": "https://aclanthology.org/2026.findings-emnlp.504.pdf",
-      "citationCount": 0,
+      "citationCount": 1,
       "referenceCount": 26,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2609.00155",
@@ -2694,6 +2696,7 @@
         "Orfeas Menis-Mastromichalakis",
         "Patrícia Schmidtová",
         "Michelle Wastl",
+        "Sheriff Issaka",
         "Leshem Choshen",
         "Stella Biderman",
         "Antonis Anastasopoulos",
@@ -2720,7 +2723,7 @@
         "Vaisakhi Mishra",
         "H. Al-Khalifa",
         "Gabriele Sarti",
-        "N. Rehlinger",
+        "Nils Rehlinger",
         "Juan Daniel Cuervo Villa",
         "Dominik Machácek",
         "Saugata Purkayastha",
@@ -2729,7 +2732,7 @@
         "A. Nigam",
         "S. S. Yusuf",
         "Heejin Do",
-        "J. Yahav",
+        "Jonathan Yahav",
         "Johannes-Rudolf David",
         "Maria Carmen Staiano",
         "Zuzana Nadova",
@@ -2739,7 +2742,7 @@
         "Silvia Casola",
         "Fabian Retkowski",
         "Andrés Jerez",
-        "H. Yukhymenko",
+        "Hanna Yukhymenko",
         "Sangwon Ryu",
         "Avantica Vempati",
         "Sukannya Purkayastha",
@@ -2748,7 +2751,7 @@
         "V. Babenko",
         "W. Aissa",
         "Valentin Scourneau",
-        "F. Haouari",
+        "Fatima Haouari",
         "V. Gummadi",
         "M. Jafarzadeh",
         "Manon Reusens",
@@ -2769,7 +2772,7 @@
         "Yihong Liu",
         "Theresia Veronika Rampisela",
         "Christian Hoang",
-        "N. Cojocaru",
+        "Nicoleta Cojocaru",
         "Jan Koco'n",
         "Jean Maillard",
         "Xiao-Chuang Yuan",
@@ -2784,7 +2787,7 @@
         "Manuel Tuor",
         "Fida Mohammad Thoker",
         "Sergey Troshin",
-        "Lance Calvin Lim Gamboa",
+        "L. C. Gamboa",
         "Amir Arsalan Rezapour",
         "Kätriin Kukk",
         "Koel Dutta Chowdhury",
@@ -2797,7 +2800,7 @@
         "Arafat Ahsan",
         "L. Nguyen",
         "Hassan Soliman",
-        "Ngoc Do",
+        "N. Do",
         "Azmine Toushik Wasi",
         "R. Damanhuri",
         "M. Huber",
@@ -2813,7 +2816,7 @@
         "Bello Bello",
         "Ayush Munot",
         "A. Garg",
-        "Y. Xavier",
+        "Yolanda Xavier",
         "Qiao-Yuan Zheng",
         "Kawsar Ahmed",
         "Debanshu Das",
@@ -2842,7 +2845,7 @@
         "Chen-Yi Zhao",
         "Carlos Hinojosa",
         "Andrei Niculae",
-        "Andrea Gregor de Varda",
+        "A. de Varda",
         "Zaid Alyafeai",
         "Tomasz Limisiewicz",
         "Reem Alzahrani",
@@ -2866,7 +2869,7 @@
         "Zhengxiang Wang",
         "Vivek Harsha Lakkamaneni",
         "Sophia Conrad",
-        "Panayiotis N. Panayiotou",
+        "P. Panayiotou",
         "Nazia Tasnim",
         "Marta Punsola Munárriz",
         "Marko Čuljak",
@@ -2908,11 +2911,11 @@
         "Roland C. Aydin",
         "Pavel Stepachev",
         "I. Levy",
-        "André B. Simons",
+        "A. Simons",
         "Rayyan Merchant",
         "Zi-Yi Yang",
         "Samuel Frontull",
-        "Kenneth C. Enevoldsen",
+        "K. Enevoldsen",
         "Harris Abdul Majid",
         "Tim Graf",
         "Tatiana Bielakova",
@@ -2927,8 +2930,8 @@
         "Papa Abdou Karim Karou Diallo",
         "Mengyu Ye",
         "Maximilian Vieweg",
-        "Matej Akrap",
-        "Kristýna Onderková",
+        "Matija Akrap",
+        "K. Onderková",
         "Joseph Attieh",
         "Ivan Yuri De Leon",
         "Ibrahim Baroud",
@@ -2943,7 +2946,7 @@
       "topAuthors": [
         {
           "name": "J. Tiedemann",
-          "hIndex": 52,
+          "hIndex": 55,
           "authorId": "143675545"
         },
         {
@@ -2975,7 +2978,7 @@
       "id": "508fc087c131c59d4903fd1e7404b72e8302ed5d",
       "title": "Extending Item Response Theory for Efficient and Meaningful Multilingual Evaluation",
       "authors": [
-        "G. Lior",
+        "Gili Lior",
         "Tzviel Frostig",
         "Gabriel Stanovsky",
         "Matan Eyal"
@@ -3042,7 +3045,7 @@
       "doi": "10.48550/arXiv.2305.13286",
       "arxivId": "2305.13286",
       "pdf": "http://arxiv.org/pdf/2305.13286",
-      "citationCount": 21,
+      "citationCount": 22,
       "referenceCount": 50,
       "influentialCitationCount": 2,
       "source": "https://arxiv.org/abs/2305.13286",
@@ -3097,6 +3100,7 @@
       "authors": [
         "Himanshu Gupta",
         "Pratik Jayarao",
+        "Chaitanya Dwivedi",
         "Neeraj Varshney"
       ],
       "topAuthors": [
@@ -3106,9 +3110,9 @@
           "authorId": "52165322"
         },
         {
-          "name": "Himanshu Gupta",
-          "hIndex": 1,
-          "authorId": "2380690445"
+          "name": "Chaitanya Dwivedi",
+          "hIndex": 4,
+          "authorId": "66887842"
         }
       ],
       "affiliations": [],
@@ -3206,7 +3210,7 @@
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "b6b53ec2c85efd02e76bb2be0fff37b190c245f7",
@@ -3229,7 +3233,7 @@
         },
         {
           "name": "Yu-Feng Chen",
-          "hIndex": 25,
+          "hIndex": 26,
           "authorId": "47559028"
         }
       ],
@@ -3268,7 +3272,7 @@
       "topAuthors": [
         {
           "name": "M. Wattenberg",
-          "hIndex": 67,
+          "hIndex": 61,
           "authorId": "145233583"
         },
         {
@@ -3307,7 +3311,7 @@
       "topAuthors": [
         {
           "name": "Anders Søgaard",
-          "hIndex": 49,
+          "hIndex": 50,
           "authorId": "1700187"
         },
         {
