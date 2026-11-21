@@ -1,0 +1,76 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-11-21T12:48:21.775Z",
+  "papers": [
+    {
+      "id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+      "link": "https://arxiv.org/abs/1911.02116",
+      "title": "Unsupervised Cross-lingual Representation Learning at Scale"
+    },
+    {
+      "id": "b38f097a671a498cdf5ced20e2ae7dfbcf584a09",
+      "link": "https://arxiv.org/abs/2510.15551",
+      "title": "Rethinking Cross-lingual Gaps from a Statistical Viewpoint"
+    },
+    {
+      "id": "74b4ea9766928fcc4de6d624f55eac4a2535011d",
+      "link": "https://arxiv.org/abs/2411.08745",
+      "title": "Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers"
+    },
+    {
+      "id": "f1287b098ae99b57d86cccd2e3b9109d82256933",
+      "link": "https://arxiv.org/abs/2505.13141",
+      "title": "Language-Specific Latent Process Hinders Cross-Lingual Performance"
+    },
+    {
+      "id": "2a210427db10cef16217510f26c1e4e2d5c7f098",
+      "link": "https://arxiv.org/abs/2504.09378",
+      "title": "Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs"
+    },
+    {
+      "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
+      "link": "https://arxiv.org/abs/2207.04672",
+      "title": "No Language Left Behind: Scaling Human-Centered Machine Translation"
+    },
+    {
+      "id": "cf992ff835eac58ce542e4400ca3498e8bad876a",
+      "link": "https://arxiv.org/abs/2408.14398",
+      "title": "On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning"
+    },
+    {
+      "id": "d6811623ec8a359768359c6cefd6b33cd8c1841b",
+      "link": "https://arxiv.org/abs/2506.12450",
+      "title": "Language Surgery in Multilingual Large Language Models"
+    },
+    {
+      "id": "809cc93921e4698bde891475254ad6dfba33d03b",
+      "link": "https://arxiv.org/abs/1906.01502",
+      "title": "How Multilingual is Multilingual BERT?"
+    },
+    {
+      "id": "bebeae13e2dd965fc381ea2bc2d4633bc1b0da20",
+      "link": "https://arxiv.org/abs/2510.10280",
+      "title": "On the Entity-Level Alignment in Crosslingual Consistency"
+    },
+    {
+      "id": "1206c43bd328ab392a278161851a92c5b6fc88b3",
+      "link": "https://arxiv.org/abs/2505.16538",
+      "title": "Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models"
+    },
+    {
+      "id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+      "link": "https://arxiv.org/abs/1809.05053",
+      "title": "XNLI: Evaluating Cross-lingual Sentence Representations"
+    },
+    {
+      "id": "f544d4974a7b129ab89ef7f61152cbe157471c73",
+      "link": "https://arxiv.org/abs/2610.27631",
+      "title": "A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech"
+    },
+    {
+      "id": "097eadf1183078fc657a5edb0f90ae66bd8f0581",
+      "link": "https://arxiv.org/abs/2505.20546",
+      "title": "Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline"
+    }
+  ]
+}

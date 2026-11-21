@@ -122,4 +122,59 @@ https://arxiv.org/abs/2410.14387
 # Decolonising Speech and Language Technology
 https://doi.org/10.18653/V1/2020.COLING-MAIN.313
 
+# --- most connected ---
+# Unsupervised Cross-lingual Representation Learning at Scale
+#   Luke Zettlemoyer (h=122) · University of Washington · 2019 · 9944 citations · cited by 27 in your list
+https://arxiv.org/abs/1911.02116
 
+# Rethinking Cross-lingual Gaps from a Statistical Viewpoint
+#   P. Jyothi (h=22) · 2025 · 6 citations · cites 4 in your list
+https://arxiv.org/abs/2510.15551
+
+# Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers
+#   Veniamin Veselovsky (h=12) · Cornell University · 2024 · 76 citations · cites 5 in your list
+https://arxiv.org/abs/2411.08745
+
+# Language-Specific Latent Process Hinders Cross-Lingual Performance
+#   Alham Fikri Aji (h=39) · MBZUAI · 2025 · 23 citations · cites 4 in your list
+https://arxiv.org/abs/2505.13141
+
+# Can you map it to English? The Role of Cross-Lingual Alignment in the Multilingual Performance of LLMs
+#   Marine Carpuat (h=37) · University of Maryland · 2025 · 15 citations · cites 4 in your list
+https://arxiv.org/abs/2504.09378
+
+# No Language Left Behind: Scaling Human-Centered Machine Translation
+#   Philipp Koehn (h=66) · Johns Hopkins University · 2022 · 2217 citations · cited by 14 in your list
+https://arxiv.org/abs/2207.04672
+
+# On the Limitations of Language-targeted Pruning: Investigating the Calibration Language Impact in Multilingual LLM Pruning
+#   Lucie Flek (h=15) · TU Dortmund University · 2024 · 11 citations · cites 4 in your list
+https://arxiv.org/abs/2408.14398
+
+# Language Surgery in Multilingual Large Language Models
+#   Genta Indra Winata (h=46) · Capital One AI Foundations · 2025 · 5 citations · cites 4 in your list
+https://arxiv.org/abs/2506.12450
+
+# How Multilingual is Multilingual BERT?
+#   Dan Garrette (h=26) · Google DeepMind · 2019 · 1911 citations · cited by 13 in your list
+https://arxiv.org/abs/1906.01502
+
+# On the Entity-Level Alignment in Crosslingual Consistency
+#   Hinrich Schutze (h=22) · CIS, LMU Munich · 2025 · 4 citations · cites 3 in your list
+https://arxiv.org/abs/2510.10280
+
+# Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models
+#   Hinrich Schutze (h=22) · Centre for Information and Language Processing, LMU Munich · 2025 · 14 citations · cites 4 in your list
+https://arxiv.org/abs/2505.16538
+
+# XNLI: Evaluating Cross-lingual Sentence Representations
+#   Holger Schwenk (h=49) · New York University · 2018 · 1737 citations · cited by 13 in your list
+https://arxiv.org/abs/1809.05053
+
+# A Two-Way Street: Surveying the Interplay between Code-Mixing and Native Languages in Text and Speech
+#   Akash Anil (h=6) · 2026 · 0 citations · cites 2 in your list
+https://arxiv.org/abs/2610.27631
+
+# Paths Not Taken: Understanding and Mending the Multilingual Factual Recall Pipeline
+#   Ruochen Zhang (h=13) · Brown University · 2025 · 28 citations · cites 3 in your list
+https://arxiv.org/abs/2505.20546
