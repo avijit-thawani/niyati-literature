@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T12:48:13.719Z",
+  "updatedAt": "2026-11-22T12:44:05.756Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -1279,7 +1279,7 @@
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2305.14263",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 12.5
     },
     {
       "id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
@@ -1391,7 +1391,7 @@
       "influentialCitationCount": 1,
       "source": "https://arxiv.org/abs/2311.18034",
       "addedAt": "2026-09-23",
-      "score": 0
+      "score": 50
     },
     {
       "id": "c60736e61f8961ec535ecfdc6f0398925d34d0b8",
@@ -2671,8 +2671,8 @@
       "doi": "10.18653/2026.findings-emnlp.2021",
       "arxivId": "2607.02235",
       "pdf": "https://aclanthology.org/2026.findings-emnlp.2021.pdf",
-      "citationCount": 1,
-      "referenceCount": 70,
+      "citationCount": 2,
+      "referenceCount": 90,
       "influentialCitationCount": 0,
       "source": "https://arxiv.org/abs/2607.02235",
       "addedAt": "2026-09-23",
@@ -3360,7 +3360,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 278,
+      "citationCount": 280,
       "referenceCount": 127,
       "influentialCitationCount": 31,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
