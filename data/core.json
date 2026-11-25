@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T14:56:44.027Z",
+  "updatedAt": "2026-11-25T14:32:26.134Z",
   "core": [
     {
       "id": "41c3acd6b81b746279f0dbb0f4052d8bef9f1c95",
@@ -309,7 +309,7 @@
         },
         {
           "name": "David R. Mortensen",
-          "hIndex": 20,
+          "hIndex": 21,
           "authorId": "3407646"
         }
       ],
@@ -862,7 +862,7 @@
       "topAuthors": [
         {
           "name": "Ondrej Bojar",
-          "hIndex": 49,
+          "hIndex": 48,
           "authorId": "143832874"
         },
         {
@@ -938,12 +938,12 @@
       "topAuthors": [
         {
           "name": "Christof Monz",
-          "hIndex": 51,
+          "hIndex": 50,
           "authorId": "1696402"
         },
         {
           "name": "R. Choenni",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "2067163164"
         }
       ],
@@ -1104,9 +1104,9 @@
           "authorId": "2884561"
         },
         {
-          "name": "Ivan Vulic",
-          "hIndex": 58,
-          "authorId": "1747849"
+          "name": "A. Korhonen",
+          "hIndex": 60,
+          "authorId": "145762466"
         }
       ],
       "affiliations": [
@@ -1236,7 +1236,7 @@
       "doi": "10.48550/arXiv.2502.10361",
       "arxivId": "2502.10361",
       "pdf": null,
-      "citationCount": 44,
+      "citationCount": 45,
       "referenceCount": 99,
       "influentialCitationCount": 6,
       "source": "https://arxiv.org/abs/2502.10361",
@@ -1366,7 +1366,7 @@
       "topAuthors": [
         {
           "name": "D. Mimno",
-          "hIndex": 6,
+          "hIndex": 7,
           "authorId": "2268205803"
         },
         {
@@ -1653,7 +1653,7 @@
       "topAuthors": [
         {
           "name": "A. Pentland",
-          "hIndex": 90,
+          "hIndex": 91,
           "authorId": "1682773"
         },
         {
@@ -1673,7 +1673,7 @@
       "doi": "10.48550/arXiv.2510.22037",
       "arxivId": "2510.22037",
       "pdf": null,
-      "citationCount": 28,
+      "citationCount": 29,
       "referenceCount": 65,
       "influentialCitationCount": 4,
       "source": "https://arxiv.org/abs/2510.22037",
@@ -1817,12 +1817,12 @@
       "topAuthors": [
         {
           "name": "I. Szpektor",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "1711977"
         },
         {
           "name": "Reut Tsarfaty",
-          "hIndex": 33,
+          "hIndex": 34,
           "authorId": "2799181"
         }
       ],
@@ -2092,7 +2092,7 @@
       "topAuthors": [
         {
           "name": "I. Szpektor",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "1711977"
         },
         {
@@ -2172,7 +2172,7 @@
       "topAuthors": [
         {
           "name": "Leonardo Ranaldi",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "2008183566"
         }
       ],
@@ -2249,7 +2249,7 @@
       "topAuthors": [
         {
           "name": "Christopher Callison-Burch",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2266396865"
         },
         {
@@ -2487,7 +2487,7 @@
       "topAuthors": [
         {
           "name": "Fan-Dong Meng",
-          "hIndex": 43,
+          "hIndex": 44,
           "authorId": "33427918"
         },
         {
@@ -2951,7 +2951,7 @@
         },
         {
           "name": "Christof Monz",
-          "hIndex": 51,
+          "hIndex": 50,
           "authorId": "1696402"
         }
       ],
@@ -3025,7 +3025,7 @@
       "topAuthors": [
         {
           "name": "Ekaterina Shutova",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "2362276"
         },
         {
@@ -3105,14 +3105,14 @@
       ],
       "topAuthors": [
         {
+          "name": "Chaitanya Dwivedi",
+          "hIndex": 5,
+          "authorId": "66887842"
+        },
+        {
           "name": "Pratik Jayarao",
           "hIndex": 4,
           "authorId": "52165322"
-        },
-        {
-          "name": "Chaitanya Dwivedi",
-          "hIndex": 4,
-          "authorId": "66887842"
         }
       ],
       "affiliations": [],
@@ -3205,7 +3205,7 @@
       "doi": "10.48550/arXiv.2406.20052",
       "arxivId": "2406.20052",
       "pdf": null,
-      "citationCount": 113,
+      "citationCount": 114,
       "referenceCount": 52,
       "influentialCitationCount": 15,
       "source": "https://arxiv.org/abs/2406.20052",
@@ -3228,7 +3228,7 @@
       "topAuthors": [
         {
           "name": "Fan-Dong Meng",
-          "hIndex": 43,
+          "hIndex": 44,
           "authorId": "33427918"
         },
         {
@@ -3316,7 +3316,7 @@
         },
         {
           "name": "Negar Foroutan",
-          "hIndex": 13,
+          "hIndex": 14,
           "authorId": "9737058"
         }
       ],
@@ -3360,7 +3360,7 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.313",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.313.pdf",
-      "citationCount": 282,
+      "citationCount": 283,
       "referenceCount": 127,
       "influentialCitationCount": 31,
       "source": "https://doi.org/10.18653/V1/2020.COLING-MAIN.313",
