@@ -1,0 +1,16 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-11-28T13:09:56.797Z",
+  "papers": [
+    {
+      "id": "d7685846631edcb72555e7687ad35a963155a146",
+      "link": "https://arxiv.org/abs/2611.27491",
+      "title": "Alignment without Transfer: Tokenization Impacts Cross-lingual Representations during Multilingual Language Model Pretraining"
+    },
+    {
+      "id": "ad54e051cae43347cde81d89fcbe4472b02d12bf",
+      "link": "https://arxiv.org/abs/2611.10646",
+      "title": "On the Geometric Bottlenecks of Cross-Lingual Knowledge Editing"
+    }
+  ]
+}
